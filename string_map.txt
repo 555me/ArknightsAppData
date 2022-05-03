@@ -1292,3 +1292,8 @@
 [DEEP_SEA_RP_TECH_UNLOCK]“小帮手”已解锁！
 [DEEP_SEA_RP_TECH_NODE_NEW_GET]已有新的可装配组件！
 [DEEP_SEA_RP_TECH_SQUAD_CANT_EDIT]当前无法装配组件
+[FAST_CAMP_CONFIRM_DESC]确认使用1张<color=#3399cc>{0}</color>\n执行一次<color=#3399cc>全权委托代理指挥</color>？
+[FAST_CAMP_LOCK_NOTKT]未持有{0}
+[FAST_CAMP_LOCK_TRAIN]剿灭战模拟无法使用该功能
+[FAST_CAMP_LOCK_NORCD]不使用好友助战进行一次剿灭作战解锁(包括代理指挥)
+[FAST_CAMP_LOCK_NOREWARD]预计可获得合成玉报酬为0，无法使用
