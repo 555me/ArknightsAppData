@@ -81,6 +81,8 @@
 [ERROR_FAILED_CALC_UPDATE_RES_LIST]计算资源差量时发生异常，请确认重试
 [ERROR_FOUND_HOTUPDATE_INCONSISTENCY]检查资源完整性时发生异常，请确认重新下载缺失文件
 [ERROR_START_BATTLE_INVALID_SIGN]数据异常，开始行动失败\n请重新登录并重试
+[ERROR_HAS_INVALID_DB]游戏数据异常，请确认重试
+[ERROR_WEB_WINDOW_FAILED]页面打开失败
 [JUDGE_HOTUPDATE_NETCHECK]您即将进行一次网络拨测，该操作将采集您的网络状态并上报\n点击确认继续
 [DESC_HOTUPDATE_NETCHECK]若多次重试失败，可联系客服并尝试
 [TOAST_NETCHECK_UID_COPY]字符串复制成功
@@ -212,6 +214,8 @@
 [POTENTIAL_SUCC]<color=#0075a9FF>{0}</color> 潜能提升成功！
 [FULL_POTENTIAL_TIPS]是否启封<color=#0075a9FF>{0}</color>，将潜能提升至满级？\n<color=#ffb400FF>*同时也将消耗全部已有的{1}</color>
 [POTENTIAL_ITEM_NOT_ENOUGH_TIPS]{0}不足
+[POTENTIAL_ITEM_DESC_FORMAT]确认使用 <color=#22BBFF>{0}</color>\n提升潜能？
+[FULL_POTENTIAL_CHARACTER_FORMAT]干员 {0} 潜能已达到最高等级
 [TOAST_FULL_POTENTIAL_VOUCHER_DESTORYED]该干员潜能已提升至最高，信件被启封
 [TOAST_SPECIALIZED_START_CONFIRMED]技能专精开始
 [TOAST_SPECIALIZED_OTHER_UPGRADING]同时只能升级专精一个技能
@@ -404,6 +408,8 @@
 [AP_LIMIT_OUT_NOTIFACTY]兑换次数耗尽
 [ITEM_VOUCHER_USE_ENSURE]确认开启<color=#22bbff> {0} </color>个{1}？
 [ITEM_VOUCHER_CURRENT_COUNT]（当前持有<color=#FFFFFF> {0} </color>个）
+[ITEM_VOUCHER_PICK_TITLE]请在以下列表中点击选择聘用一名干员:
+[ITEM_VOUCHER_EVOLVE_TITLE]请在以下列表中点击选择一名5★干员晋升至 精英阶段2，等级1
 [ALERT_AP_BUY_SUCCESS]理智已经成功恢复
 [DESC_HOME_ALL_STAGE_COMPELTE]全部完成
 [DESC_CUR_CHAPTER_COMPLETE]本章完成
@@ -898,6 +904,8 @@
 [DIALOG_JUDGE_EXIT_GAME]是否确认退出游戏？
 [TEMPLATE_SHOP_CLOSE]关闭时间 ：{0}
 [TEMPLATE_SHOP_REPLICATE]购买的<color=#e1360a>{0}</color>个商品会转变为<color=#e1360a>{1}</color>{2}
+[SHOP_VOUCHER_PICK_TITLE]可以在以下列表中选择聘用一名干员:
+[SHOP_VOUCHER_EVOLVE_TITLE]可以选择一位已聘用的5★干员直接晋升至精英阶段2，等级1
 [CRISIS_CONTRACT_NO_SEASON_NAME]危机合约
 [CRISIS_DATA_NEED_RESYNC_ALERT]数据已更新，即将进行同步
 [CRISIS_DATA_RESYNC_SUC]数据同步完成
@@ -1230,22 +1238,19 @@
 [ROGUE_ARCHIVE_RELIC_ATTAINED_NUM]总计持有{0}个收藏品
 [ACTLOGIN_END_TIME_TITLE]活动截止日期
 [DIALOG_JUDGE_NO_MORE_CHECK]之后不再提示
-[DIALOG_VOICE_LANG_BATCH_CN]批量设置<color=#AE3737>中文-普通话</color>配音将覆盖部分角色当前的语音选择\n是否确认？
-[DIALOG_VOICE_LANG_BATCH_JP]批量设置<color=#AE3737>日文</color>配音将覆盖部分角色当前的语音选择\n是否确认？
-[DIALOG_VOICE_LANG_BATCH_EN]-
-[DIALOG_VOICE_LANG_BATCH_KR]-
 [TOAST_COMMON_SET_SUC]设置成功
 [TOAST_VOICE_LANG_SET_CHAR_LANG_SUC]保存成功
 [TOAST_VOICE_LANG_NO_RES]请先前往<color=#00B0FF>设置-游戏-追加资源</color>下载<color=#00B0FF>语音资源</color>
+[DIALOG_VOICE_LANG_BATCH]批量设置<color=#AE3737>{0}</color>配音将覆盖部分角色当前的语音选择\n是否确认？
 [ERROR_VOICE_LANG_INIT_FAIL]保存语音设置失败\n错误号{0}
 [VOICE_CHOICE_CN_TITLE]使用中文配音
 [VOICE_CHOICE_CN_DESC]支持中文配音的干员将使用中文配音，会覆盖已保存的语音设置
 [VOICE_CHOICE_JP_TITLE]使用日文配音
 [VOICE_CHOICE_JP_DESC]支持日文配音的干员将使用日文配音，会覆盖已保存的语音设置
-[VOICE_CHOICE_KR_TITLE]-
-[VOICE_CHOICE_KR_DESC]-
-[VOICE_CHOICE_EN_TITLE]-
-[VOICE_CHOICE_EN_DESC]-
+[VOICE_CHOICE_KR_TITLE]使用韩文配音
+[VOICE_CHOICE_KR_DESC]支持韩文配音的干员将使用韩文配音，会覆盖已保存的语音设置
+[VOICE_CHOICE_EN_TITLE]使用英文配音
+[VOICE_CHOICE_EN_DESC]支持英文配音的干员将使用英文配音，会覆盖已保存的语音设置
 [VOICE_CHOICE_NOOP_TITLE]维持原有配置
 [VOICE_CHOICE_NOOP_DESC]如果之前保存过语音设置，则使用已保存的语音设置
 [HOME_BACKGROUND_UNLOCK_CONDITION_PRE]解锁条件
