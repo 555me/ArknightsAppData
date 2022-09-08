@@ -962,7 +962,7 @@
 [ROGUELIKE_TOPIC_MONTH_TASK_PROGRESS]<color=#{0}>{1}</color>/{2}
 [ROGUELIKE_TOPIC_MONSH_TASK_REFRESH]{0}次
 [ROGUELIKE_TOPIC_MONTH_TASK_RULE]主题持续更新期间，游玩常规行动完成每月限时委托可获得<color=#{0}>{1}</color>！每月初会更新委托，上月进度不继承
-[ROGUELIKE_TOPIC_MONTH_TASK_REFRESH_ALERT]确认刷新该委托？\n当前委托进度将会清空，并会从与其同类的<color=#FF5000>{0}类委托</color>中进行重新随机\n本月剩余刷新次数：{1}
+[ROGUELIKE_TOPIC_MONTH_TASK_REFRESH_ALERT]确认刷新该委托？\n当前委托进度将会清空，并会从与其同类的<color=#{0}>{1}类委托</color>中进行重新随机\n本月剩余刷新次数：{2}
 [ROGUELIKE_TOPIC_CHALLENGE_MODE_CHALLENGE_COMPLETED]调查报酬已领取
 [ROGUELIKE_TOPIC_CHALLENGE_MODE_CHALLENGE_INCOMPLETED]调查报酬
 [ROGUELIKE_TOPIC_BP_GRAND_PRIZE_CAN_RECEIVE]可领取
@@ -1006,9 +1006,12 @@
 [ROGUELIKE_NEXT_LEVEL_MAX]已升级至最大等级
 [ROGUELIKE_POP_ADD_TEXT]希望上限+{0}
 [ROGUELIKE_SQUAD_ADD_TEXT]可携带干员数+{0}
+[ROGUELIKE_MAX_HP_ADD_TEXT]最大目标生命值+{0}
 [ROGUELIKE_UPGARDE]进阶
 [ROGUELIKE_RECRUIT]招募
 [ROGUELIKE_GET]获得
+[ROGUELIKE_EXCHANGE]替换
+[ROGUELIKE_TAKE]收下
 [ROGUELIKE_DISABLE_SKILL_EVOLVE]提升精英等级后解锁
 [ROGUELIKE_DISABLE_SKILL_UPGRADE]进阶后解锁
 [ROGUELIKE_LEVEL_LIMITED]进阶前上限
@@ -1019,6 +1022,7 @@
 [ROGUELIKE_START_BATTLE_WITH_NO_CHARACTER]确认要在不编入干员的情况下开始行动吗？
 [ROGUELIKE_GIVE_UP_BATTLE]<color=#FF6101>放弃将直接结束本次探索</color>\n确认放弃这场战斗吗？
 [ROGUELIKE_ACTIVE_TOOL_DESC]{0}（{1}）
+[ROGUELIKE_AVAIL_ITEM_COUNT]（剩余{0}）
 [JUDGE_HOME_ILLUST_EDIT_EXIT]确认退出调整吗？\n将会丢失所有未保存的修改
 [NO_VIDEO_MESSAGE]检测到剧情资源缺失
 [TOAST_CHAR_TMPL_UNLOCK_AMIYA]<color=#4abdff>升变系统</color>已开启，请前往阿米娅干员详情界面查看
@@ -1244,6 +1248,7 @@
 [ROGUE_ARCHIVE_CAPSULE_UNATTAINED_USAGE]继续探索以获得此剧目
 [ROGUE_ARCHIVE_TRAP_UNATTAINED]尚未获得该道具
 [ROGUE_ARCHIVE_TRAP_UNATTAINED_DESC]//No Info
+[ROGUE_ARCHIVE_RELIC_ALL_NUM]总计{0}个收藏品
 [ROGUE_ARCHIVE_RELIC_ATTAINED_NUM]总计持有{0}个收藏品
 [ACTLOGIN_END_TIME_TITLE]活动截止日期
 [DIALOG_JUDGE_NO_MORE_CHECK]之后不再提示
@@ -1287,9 +1292,9 @@
 [CHARACTER_PROFESSION_SUPPORT]辅助
 [CHARACTER_PROFESSION_SPECIAL]特种
 [CHOOSE_SECRETARY_SKIN_ENSURE]是否选择该装扮作为 <color=#22bbff>{0}</color> 助理装扮?
-[ROGUE_ENDING_BASIC_INFO]您 <color=#ffb525>Dr.{0}</color> 使用 <color=#ffb525>{1}</color> 历时 <color=#ffb525>{2}</color> 于 <color=#ffb525>{3}</color>
-[ROGUE_ENDING_FAIL_ENDING_INFO]驻足在 <color=#ffb525>{0}</color>
-[ROGUE_ENDING_SUC_ENDING_INFO]见证了 <color=#ffb525>{0}</color>
+[ROGUE_ENDING_BASIC_INFO]您 <color=#{4}>Dr.{0}</color> 使用 <color=#{4}>{1}</color> 历时 <color=#{4}>{2}</color> 于 <color=#{4}>{3}</color>
+[ROGUE_ENDING_FAIL_ENDING_INFO]驻足在 <color=#{1}>{0}</color>
+[ROGUE_ENDING_SUC_ENDING_INFO]见证了 <color=#{1}>{0}</color>
 [ROGUE_ENDING_UNLOCK_RELIC_COUNT]本次探索新解锁{0}个收藏品
 [ROGUE_BP_UPDATE_NOTICE]本月笔记增页
 [ROGUE_BP_COUNTDOWN_NOTICE]{0}后笔记增页
@@ -1308,15 +1313,15 @@
 [VOICELANG_SETTING_ALREADY_SELECT]当前干员{0}语音为\n<color=#0098DC>{1}</color>配音
 [VOICELANG_SETTING_BATCH_SWITCH]是否将该页面干员语音全部设置为\n<color=#0098DC>{0}</color>配音?
 [VOICE_PACK_CN_TITLE]下载中文-普通话配音包
-[VOICE_PACK_CN_DESC]仅包含中文-普通话配音，尚未支持的则没有配音（联动干员除外）
+[VOICE_PACK_CN_DESC]仅包含中文-普通话配音，尚未支持的则没有配音（单语种联动干员除外）
 [VOICE_PACK_JP_TITLE]下载日文配音包
-[VOICE_PACK_JP_DESC]仅包含日文配音，尚未支持的则没有配音（联动干员除外）
+[VOICE_PACK_JP_DESC]仅包含日文配音，尚未支持的则没有配音（单语种联动干员除外）
 [VOICE_PACK_EN_TITLE]下载英文配音包
-[VOICE_PACK_EN_DESC]仅包含英文配音，尚未支持的则没有配音（联动干员除外）
+[VOICE_PACK_EN_DESC]仅包含英文配音，尚未支持的则没有配音（单语种联动干员除外）
 [VOICE_PACK_KR_TITLE]下载韩文配音包
-[VOICE_PACK_KR_DESC]仅包含韩文配音，尚未支持的则没有配音（联动干员除外）
+[VOICE_PACK_KR_DESC]仅包含韩文配音，尚未支持的则没有配音（单语种联动干员除外）
 [VOICE_PACK_CUSTOM_TITLE]下载个性化配音包
-[VOICE_PACK_CUSTOM_DESC]仅包含特殊配音，如方言。尚未支持的则没有配音（联动干员除外）
+[VOICE_PACK_CUSTOM_DESC]仅包含特殊配音，如方言。尚未支持的则没有配音（单语种联动干员除外）
 [VOICE_PACK_DEPENDENT_PACK_NOTICE]<color=#FFD800>无法单独下载,至少勾选以上任意一种常规配音包时才可下载</color>
 [VOICE_PACK_NORMAL_CONFIRM]确认
 [VOICE_PACK_NOTICE_CONFIRM]不下载语音进行游戏
