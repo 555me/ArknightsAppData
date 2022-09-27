@@ -9,7 +9,7 @@ MonoBehaviour Base
 	string m_Name = "buff_template_holder"
 	BuffTemplate _templates
 		Array Array
-		int size = 1367
+		int size = 1578
 			[0]
 			BuffTemplate data
 				string templateKey = "damage_block[all]"
@@ -57,7 +57,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"BUFF","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									string SerializedState = "[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"BUFF","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -386,7 +386,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_damageType":"MAGICAL","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NONE","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									string SerializedState = "[{"_damageType":"MAGICAL","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NONE","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -5023,7 +5023,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NONE","_isEnvDamage":true,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									string SerializedState = "[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NONE","_isEnvDamage":true,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -5057,7 +5057,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":true,"_attackType":"NONE","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									string SerializedState = "[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":true,"_attackType":"NONE","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -5074,7 +5074,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":true,"_attackType":"NONE","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									string SerializedState = "[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":true,"_attackType":"NONE","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -5091,7 +5091,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_damageType":"MAGICAL","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"BUFF","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									string SerializedState = "[{"_damageType":"MAGICAL","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"BUFF","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -5192,7 +5192,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_damageType":"MAGICAL","_damageKey":"poison_damage","_ignoreForSp":false,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									string SerializedState = "[{"_damageType":"MAGICAL","_damageKey":"poison_damage","_ignoreForSp":false,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -6884,7 +6884,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NONE","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									string SerializedState = "[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NONE","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -8062,7 +8062,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_charFrom":"BUFF_OWNER","_resetCD":true,"$type":"Torappu.Battle.Action.Nodes+InterruptCharacterAttack"}]"
+									string SerializedState = "[{"_charFrom":"BUFF_OWNER","_resetCD":true,"_resetAndClearCD":false,"$type":"Torappu.Battle.Action.Nodes+InterruptCharacterAttack"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -8281,7 +8281,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 3
 								ActionArray value
-									string SerializedState = "[{"_abnormalFlag":"SILENCED","_targetType":"BUFF_OWNER","_isUnset":true,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},{"_source":"BUFF_OWNER","_finishReason":"FALLDOWN","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"TARGET","_enemyKey":null,"_summonCount":0,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":true,"_randomOffsetBound":0.1,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.5,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_mountPoint":"GROUND","_ev":"ON_REACHED_TARGET","_actions":[],"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"}]"
+									string SerializedState = "[{"_abnormalFlag":"SILENCED","_targetType":"BUFF_OWNER","_isUnset":true,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},{"_source":"BUFF_OWNER","_finishReason":"FALLDOWN","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"TARGET","_enemyKey":null,"_summonCount":0,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":true,"_randomOffsetBound":0.1,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.5,"_stopSummonIfHostDead":false,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_mountPoint":"GROUND","_ev":"ON_REACHED_TARGET","_actions":[],"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -8298,7 +8298,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_source":"TARGET","_enemyKey":null,"_summonCount":1,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":false,"_randomOffsetBound":0.0,"_passableMask":"NONE","_onlySummonOneInTheSamePlace":true,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.5,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
+									string SerializedState = "[{"_source":"TARGET","_enemyKey":null,"_summonCount":1,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":false,"_randomOffsetBound":0.0,"_passableMask":"NONE","_onlySummonOneInTheSamePlace":true,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.5,"_stopSummonIfHostDead":false,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -8416,7 +8416,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_source":"TARGET","_enemyKey":null,"_summonCount":1,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":true,"_randomOffsetBound":0.0,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.5,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
+									string SerializedState = "[{"_source":"TARGET","_enemyKey":null,"_summonCount":1,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":true,"_randomOffsetBound":0.0,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.5,"_stopSummonIfHostDead":false,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -8475,7 +8475,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_characterKey":"trap_032_mound","_source":"SOURCE","_target":"TARGET","$type":"Torappu.Battle.Action.Nodes+HasCertainCharacterInFrontOfMe"},"_succeedNodes":[{"_buffKey":"storm[attr_to_ally]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_buffKey":"storm_ally_mark","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_buffKey":"storm[attr_to_ally_mark]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["storm_ally_mark"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"storm_ally_mark","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_buffKeys":["ignore_sandstorm_effect"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":true,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_buffKeys":["storm[attr_to_ally]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"BUFF_SOURCE","_direction":"UP","_useCustomDirection":false,"_rightNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"FINAL_SCALER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"storm[attr_to_ally]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_03_left","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_leftNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"FINAL_SCALER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"storm[attr_to_ally]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_03_right","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_upNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"FINAL_SCALER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"storm[attr_to_ally]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_03_down","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_downNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"FINAL_SCALER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"storm[attr_to_ally]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_03_up","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+SwitchDirection"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"storm[attr_to_ally_mark]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"buff_desert_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_characterKey":"trap_032_mound","_source":"SOURCE","_target":"TARGET","$type":"Torappu.Battle.Action.Nodes+HasCertainCharacterInFrontOfMe"},"_succeedNodes":[{"_buffKey":"storm[attr_to_ally]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_buffKey":"storm_ally_mark","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_buffKey":"storm[attr_to_ally_mark]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["storm_ally_mark"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"storm_ally_mark","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_buffKeys":["ignore_sandstorm_effect"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":true,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_buffKeys":["storm[attr_to_ally]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"BUFF_SOURCE","_direction":"UP","_useCustomDirection":false,"_rightNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"FINAL_SCALER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"storm[attr_to_ally]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_03_left","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_leftNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"FINAL_SCALER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"storm[attr_to_ally]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_03_right","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_upNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"FINAL_SCALER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"storm[attr_to_ally]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_03_down","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_downNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"FINAL_SCALER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"storm[attr_to_ally]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_03_up","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+SwitchDirection"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"storm[attr_to_ally_mark]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"buff_desert_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -8508,7 +8508,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_characterKey":"trap_032_mound","_source":"SOURCE","_target":"TARGET","$type":"Torappu.Battle.Action.Nodes+HasCertainCharacterInFrontOfMe"},"_succeedNodes":[{"_buffKey":"storm_ally_mark","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["mound_s_1[strengthened]","ignore_sandstorm_effect"],"isAND":false,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[],"_failNodes":[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":true,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_buffKeys":["storm_ally_mark"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"BUFF_SOURCE","_direction":"UP","_useCustomDirection":false,"_rightNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"storm_ally_mark","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_02_right","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_leftNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"storm_ally_mark","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_02_left","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_upNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"storm_ally_mark","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_02_up","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_downNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"storm_ally_mark","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_02_down","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+SwitchDirection"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_characterKey":"trap_032_mound","_source":"SOURCE","_target":"TARGET","$type":"Torappu.Battle.Action.Nodes+HasCertainCharacterInFrontOfMe"},"_succeedNodes":[{"_buffKey":"storm_ally_mark","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["mound_s_1[strengthened]","ignore_sandstorm_effect"],"isAND":false,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[],"_failNodes":[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":true,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_buffKeys":["storm_ally_mark"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"BUFF_SOURCE","_direction":"UP","_useCustomDirection":false,"_rightNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"storm_ally_mark","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_02_right","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_leftNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"storm_ally_mark","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_02_left","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_upNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"storm_ally_mark","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_02_up","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_downNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"storm_ally_mark","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_desert_02_down","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+SwitchDirection"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -8905,7 +8905,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"stun","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":["ELEMENT_FREE_ALL"],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"ep_break_sanity[epfree]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"common_nerve_injury_01_hit","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"ep_break_sanity_audio","lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"ep_break_duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_damageType":"PURE","_damageKey":"ep_sanity_damage","_ignoreForSp":false,"_damageWithoutModify":false,"_attackType":"NONE","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"stun","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":["ELEMENT_FREE_ALL"],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"ep_break_sanity[epfree]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"common_nerve_injury_01_hit","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"ep_break_sanity_audio","lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"ep_break_duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_damageType":"PURE","_damageKey":"ep_sanity_damage","_ignoreForSp":false,"_damageWithoutModify":false,"_attackType":"NONE","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -9971,7 +9971,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_buffKey":"pasngr_t_2[atk_up]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["pasngr_t_2[atk_up]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"pasngr_t_2[atk_up]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"pasngr_beidong_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"_excludeSource":false,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_buffKey":"pasngr_t_2[atk_up]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["pasngr_t_2[atk_up]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"pasngr_t_2[atk_up]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"pasngr_beidong_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -10511,7 +10511,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"SOURCE","_effectKey":"common_waterElementExplosion","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"DEF","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"ep_water_def_down","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"buff_defdown","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"ep_break_water_audio","lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_damageType":"PHYSICAL","_damageKey":"ep_water_damage","_ignoreForSp":false,"_damageWithoutModify":false,"_attackType":"BUFF","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"SOURCE","_effectKey":"common_waterElementExplosion","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"DEF","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"ep_water_def_down","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"buff_defdown","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"ep_break_water_audio","lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_damageType":"PHYSICAL","_damageKey":"ep_water_damage","_ignoreForSp":false,"_damageWithoutModify":false,"_attackType":"BUFF","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -10595,7 +10595,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKeys":["buff_sea"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":true,"_attackType":"NONE","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKeys":["buff_sea"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":true,"_attackType":"NONE","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -10612,7 +10612,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 3
 								ActionArray value
-									string SerializedState = "[{"_source":"TARGET","_finishReason":"FALLDOWN","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"TARGET","_enemyKey":null,"_summonCount":0,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":true,"_randomOffsetBound":0.1,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":true,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.5,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
+									string SerializedState = "[{"_source":"TARGET","_finishReason":"FALLDOWN","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"TARGET","_enemyKey":null,"_summonCount":0,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":true,"_randomOffsetBound":0.1,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":true,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.5,"_stopSummonIfHostDead":false,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -11584,7 +11584,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_targetType":"SOURCE","_blackboardKey":"mark_cnt","_buffKey":"dsdevr_swallow_counter","_addition":1,"$type":"Torappu.Battle.Action.Nodes+AddBuffBlackboard"}]"
+									string SerializedState = "[{"_targetType":"SOURCE","_blackboardKey":"mark_cnt","_buffKey":"dsdevr_swallow_counter","_addition":1.0,"_additionKey":null,"_maxValueKey":null,"$type":"Torappu.Battle.Action.Nodes+AddBuffBlackboard"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -11863,7 +11863,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_buffKey":"pasngr_e_t_10[recover_sp]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["pasngr_e_t_10[recover_sp]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"pasngr_e_t_10[recover_sp]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"_excludeSource":false,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_buffKey":"pasngr_e_t_10[recover_sp]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["pasngr_e_t_10[recover_sp]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"pasngr_e_t_10[recover_sp]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -12055,564 +12055,6 @@ MonoBehaviour Base
 										int size = 0
 			[659]
 			BuffTemplate data
-				string templateKey = "character_reborn_in_dying"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 32
-								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["character_dying"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"character_dying","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[660]
-			BuffTemplate data
-				string templateKey = "character_dying"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 2
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCharacterOnDying"},{"_targetType":"BUFF_OWNER","_spShowBuffKey":null,"_isSelf":true,"$type":"Torappu.Battle.Action.Nodes+SpShowBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-							[1]
-							EventToAction data
-								int key = 1
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_spShowBuffKey":null,"_isSelf":true,"$type":"Torappu.Battle.Action.Nodes+SpShowBuff"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["character_reborn_in_dying"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_sourceType":"BUFF_OWNER","_inheritProfessionBuff":true,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCharacterOnRebornlike"},{"_buffKey":"character_reborn_in_dying","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_withdrawSource":false,"_switchToDeadState":true,"_force":true,"_needLog":false,"$type":"Torappu.Battle.Action.Nodes+Withdraw"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[661]
-			BuffTemplate data
-				string templateKey = "legion_trap_paras_summon"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_source":"BUFF_OWNER","_enemyKey":null,"_summonCount":0,"_motionMode":"WALK","_unharmful":false,"_alwaysCountAsKilled":false,"_waitTime":0.0,"_spawnOffset":0.0,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesWithRuntimeNearestEndPointRoute"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[662]
-			BuffTemplate data
-				string templateKey = "legion_mode_enemy_die_money"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 3
-								ActionArray value
-									string SerializedState = "[{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyEnemyDeathDrop"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"map_028_chouka_die_money","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[663]
-			BuffTemplate data
-				string templateKey = "legion_character_status"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 3
-							[0]
-							EventToAction data
-								int key = 50
-								ActionArray value
-									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"character_dying","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"character_dying","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_028_chouka_calling_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"character_dying_sos","lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"dying_duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-							[1]
-							EventToAction data
-								int key = 13
-								ActionArray value
-									string SerializedState = "[{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyShowStatusMessage"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-							[2]
-							EventToAction data
-								int key = 2
-								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkIsMaxLevel":false,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyHasProfessionBuff"},"_succeedNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkIsMaxLevel":true,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyHasProfessionBuff"},"_succeedNodes":[{"_derviedBuffKey":"character_in_legionmode[buff_effect][max]","$type":"Torappu.Battle.Action.Nodes+CheckContainsDerviedBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"character_in_legionmode[buff_effect][max]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_028_chouka_zhuangbei_level5","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_derviedBuffKey":"character_in_legionmode[buff_effect][notmax]","$type":"Torappu.Battle.Action.Nodes+CheckContainsDerviedBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"character_in_legionmode[buff_effect][notmax]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_028_chouka_zhuangbei_level1","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":[{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[664]
-			BuffTemplate data
-				string templateKey = "legion_btauntcard_killed"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 3
-								ActionArray value
-									string SerializedState = "[{"_cardType":"NULL","_rangeNumKey":"range_num","_canSelectNumKey":"can_select_num","_goldNumWhenSellCard":"sell_card_gold","_discardUnselected":false,"_sellSelected":true,"_putInPendingIfHandFull":false,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlySelectCard"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[665]
-			BuffTemplate data
-				string templateKey = "legion_btauntcard_remove_passive"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_buffKey":"legion_btauntcard_passive","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[666]
-			BuffTemplate data
-				string templateKey = "legion_btauntcard_life_durantion"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 2
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_spShowBuffKey":null,"_isSelf":true,"$type":"Torappu.Battle.Action.Nodes+SpShowBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-							[1]
-							EventToAction data
-								int key = 1
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_spShowBuffKey":null,"_isSelf":true,"$type":"Torappu.Battle.Action.Nodes+SpShowBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[667]
-			BuffTemplate data
-				string templateKey = "legion_btauntcard_trigger_reset"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_skillName":null,"_ownerType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+ReInitEnemySkillCoolDown"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[668]
-			BuffTemplate data
-				string templateKey = "legion_trap_bomb"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCheckCardInHand"},{"_damageType":"PURE","_damageKey":"damage","_targetOptions":{"targetSide":"ENEMY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_attackType":"NORMAL","_buffs":[{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"stun","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]}],"_effectKey":"enemy_pleslm_skill_02_hit","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyGlobalDamageFromCard"},{"_effectKey":"enemy_pleslm_skill_02_range","_screenWidthRatio":0.5,"_screenheightRatio":0.5,"$type":"Torappu.Battle.Action.Nodes+CreateEffectAtScreenPos"},{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyForceRecycleUsingCard"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[669]
-			BuffTemplate data
-				string templateKey = "legion_trap_undeployable"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCheckCardInHand"},{"_deckBuff":{"cardEffectType":"UNDEPLOYABLE","lifeType":"ALL_THE_TIME","affectInHand":false,"showToastWhenAffect":false,"buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"btauntcard_undeployable","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]}},"_randomOneDeckCard":false,"_filterIsInHand":false,"_exceptTokenAndTrap":false,"_excludeTarget":true,"_onlyToTarget":false,"_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CreateDeckBuff"},{"_deckBuff":{"cardEffectType":"TAUNT","lifeType":"ALL_THE_TIME","affectInHand":false,"showToastWhenAffect":false,"buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"btauntcard_taunt","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]}},"_randomOneDeckCard":false,"_filterIsInHand":false,"_exceptTokenAndTrap":false,"_excludeTarget":false,"_onlyToTarget":true,"_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CreateDeckBuff"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[670]
-			BuffTemplate data
-				string templateKey = "legion_trap_remove_deckbuff"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 13
-								ActionArray value
-									string SerializedState = "[{"_target":"TARGET","_deckBuffKey":"btauntcard_undeployable","_removeFromAllCard":true,"$type":"Torappu.Battle.Action.Nodes+FinishDeckBuffByKey"},{"_target":"BUFF_OWNER","_deckBuffKey":"btauntcard_taunt","_removeFromAllCard":false,"$type":"Torappu.Battle.Action.Nodes+FinishDeckBuffByKey"},{"_sideMask":"ENEMY","_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"btauntcard_trigger_ability","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_btauntcard_trigger_reset","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"skill_name","value":0.0,"valueStr":"TauntCard"}]},"_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffToCertainSideUnits"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[671]
-			BuffTemplate data
-				string templateKey = "legion_trap_recycle_dying_buff"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_sourceType":"BUFF_OWNER","_targetOptions":{"targetSide":"ALLY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":true,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"WARRIOR,SNIPER,TANK,MEDIC,SUPPORT,CASTER,SPECIAL,PIONEER","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_maxNum":1,"_buffData":{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"recyclecard_buff_dying","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_trap_recycle_card_buff","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"trap_recyclecard_end","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"LIMITED","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"interval","value":1.5,"valueStr":""},{"key":"trig_cnt","value":1.0,"valueStr":""}]},"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCreateBuffToDyingInRange"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[672]
-			BuffTemplate data
-				string templateKey = "legion_trap_recycle_card_buff"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 2
-								ActionArray value
-									string SerializedState = "[{"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCheckHandCardNotFull"},{"_target":"BUFF_OWNER","_lifeType":"UNTIL_NEXT_SPAWN","_isRatio":true,"_enableMaxStackCount":false,"_filterIsInHand":false,"$type":"Torappu.Battle.Action.Nodes+CreateCardBuff"},{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyTakeCardBackToHand"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[673]
-			BuffTemplate data
-				string templateKey = "legion_trap_mark_use_once"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyMarkCardUseOnce"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[674]
-			BuffTemplate data
-				string templateKey = "legion_select_card"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_cardType":"NULL","_rangeNumKey":"range_num","_canSelectNumKey":"can_select_num","_goldNumWhenSellCard":"sell_card_gold","_discardUnselected":false,"_sellSelected":false,"_putInPendingIfHandFull":false,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlySelectCard"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[675]
-			BuffTemplate data
-				string templateKey = "legion_select_card_sell"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_cardType":"NULL","_rangeNumKey":"range_num","_canSelectNumKey":"can_select_num","_goldNumWhenSellCard":"sell_card_gold","_discardUnselected":false,"_sellSelected":true,"_putInPendingIfHandFull":false,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlySelectCard"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[676]
-			BuffTemplate data
-				string templateKey = "legion_buffcard_gain_buff"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_levelCnt":0,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyAddProfessionLevel"},{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyShowStatusMessage"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[677]
-			BuffTemplate data
-				string templateKey = "legion_llstone_dead_remove"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 4
-								ActionArray value
-									string SerializedState = "[{"_target":"TARGET","_deckBuffKey":"llstone_card_durance","_removeFromAllCard":true,"$type":"Torappu.Battle.Action.Nodes+FinishDeckBuffByKey"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[678]
-			BuffTemplate data
-				string templateKey = "legion_llstone_trigger_durance"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 2
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_ownerType":"BUFF_SOURCE","_targetType":"BUFF_OWNER","_abilityName":"PassiveDurance","_checkCanUseAblityFlag":false,"_castDirectly":false,"$type":"Torappu.Battle.Action.Nodes+TriggerAbility"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-							[1]
-							EventToAction data
-								int key = 1
-								ActionArray value
-									string SerializedState = "[{"_buffKey":"llstone_card_durance","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"_target":"BUFF_OWNER","_deckBuffKey":"llstone_card_durance","_removeFromAllCard":false,"$type":"Torappu.Battle.Action.Nodes+FinishDeckBuffByKey"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[679]
-			BuffTemplate data
-				string templateKey = "legion_fystone_pericdic_damage"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 2
-							[0]
-							EventToAction data
-								int key = 2
-								ActionArray value
-									string SerializedState = "[{"_targetType":"TARGET","_getMaxHpFromTarget":false,"_damageType":"PURE","_applyWay":"NONE","_ignoreForSp":true,"_isUndeadable":false,"_attackType":"NONE","_skipModifierEvent":true,"$type":"Torappu.Battle.Action.Nodes+DamageViaMaxHpRatio"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-							[1]
-							EventToAction data
-								int key = 10
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"enemy_fystone_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[680]
-			BuffTemplate data
-				string templateKey = "legion_fystone_t_kill_source"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 1
-								ActionArray value
-									string SerializedState = "[{"_killSource":true,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[681]
-			BuffTemplate data
-				string templateKey = "legion_reward_death_emit_projectile"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 3
-								ActionArray value
-									string SerializedState = "[{"_mountPoint":"MUZZLE","_ev":"ON_HIT_OBJECT","_actions":null,"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[682]
-			BuffTemplate data
-				string templateKey = "legion_trswlf_passive"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 10
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKey":"trswlf_damage_resistance","_stackCount":5,"_stackCountKey":"passive_stack_cnt","_stackCountPeeling":0,"_condType":"LT","_checkFromUnoverridableBuffCount":true,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"trswlf_damage_resistance","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"damage_resistance","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"resist_duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[683]
-			BuffTemplate data
-				string templateKey = "legion_select_card[onlcate]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 35
-								ActionArray value
-									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"legion_select_card[onlcate][real]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_select_card[onlcate][real]","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"none","lifeTime":0.1,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[684]
-			BuffTemplate data
-				string templateKey = "legion_select_card[onlcate][real]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 1
-								ActionArray value
-									string SerializedState = "[{"_cardType":"NULL","_rangeNumKey":"range_num","_canSelectNumKey":"can_select_num","_goldNumWhenSellCard":"sell_card_gold","_discardUnselected":false,"_sellSelected":false,"_putInPendingIfHandFull":false,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlySelectCard"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[685]
-			BuffTemplate data
-				string templateKey = "legion_drawcard_getgold[onlcate]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 35
-								ActionArray value
-									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"legion_drawcard_getgold[onlcate][real]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_drawcard_getgold[onlcate][real]","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"none","lifeTime":0.1,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[686]
-			BuffTemplate data
-				string templateKey = "legion_drawcard_getgold[onlcate][real]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 1
-								ActionArray value
-									string SerializedState = "[{"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyDrawNextCard"},{"_goldNum":10,"_loadFromBlackboard":true,"_goldNumKey":"get_gold","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyGainGold"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[687]
-			BuffTemplate data
-				string templateKey = "legion_getgold_via_buff[onlcate]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 13
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_goldPerBuff":10,"_loadFromBlackboard":true,"_goldPerBuffKey":"gold_per_buff","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyGetGoldViaProfessionBuffCount"},{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyClearProfessionLevel"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[688]
-			BuffTemplate data
-				string templateKey = "legion_reborn_in_range[onlcate]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 13
-								ActionArray value
-									string SerializedState = "[{"_sourceType":"BUFF_OWNER","_targetOptions":{"targetSide":"ALLY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":false,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_maxNum":1,"_buffData":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"character_reborn_in_dying","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"character_reborn_in_dying","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_028_chouka_fuhuo","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":"none","lifeTime":0.01,"triggerLifeType":"IMMEDIATELY","triggerCnt":1,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCreateBuffToDyingInRange"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[689]
-			BuffTemplate data
 				string templateKey = "tomb_buff[medic]"
 				string effectKey = ""
 				int onEventPriority = 0
@@ -12628,7 +12070,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[690]
+			[660]
 			BuffTemplate data
 				string templateKey = "windft_wrench_atk_up_t"
 				string effectKey = ""
@@ -12645,7 +12087,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[691]
+			[661]
 			BuffTemplate data
 				string templateKey = "windft_wrench_t"
 				string effectKey = ""
@@ -12670,7 +12112,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[692]
+			[662]
 			BuffTemplate data
 				string templateKey = "enemy_mstrfd_crash_bleed"
 				string effectKey = ""
@@ -12687,7 +12129,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[693]
+			[663]
 			BuffTemplate data
 				string templateKey = "heidi_t_1"
 				string effectKey = ""
@@ -12704,7 +12146,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[694]
+			[664]
 			BuffTemplate data
 				string templateKey = "hp_to_hp[final_addition]"
 				string effectKey = ""
@@ -12721,7 +12163,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[695]
+			[665]
 			BuffTemplate data
 				string templateKey = "chnut_s_2[switch_mode]"
 				string effectKey = ""
@@ -12746,7 +12188,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[696]
+			[666]
 			BuffTemplate data
 				string templateKey = "chnut_s_1"
 				string effectKey = ""
@@ -12763,7 +12205,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[697]
+			[667]
 			BuffTemplate data
 				string templateKey = "chnut_t_1"
 				string effectKey = ""
@@ -12780,7 +12222,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[698]
+			[668]
 			BuffTemplate data
 				string templateKey = "podego_e_trait"
 				string effectKey = ""
@@ -12793,11 +12235,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["podego_e_trait[sp_recover]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"podego_e_trait[sp_recover]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buffKey":"podego_e_trait[sp_recover]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"_excludeSource":false,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["podego_e_trait[sp_recover]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"podego_e_trait[sp_recover]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buffKey":"podego_e_trait[sp_recover]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[699]
+			[669]
 			BuffTemplate data
 				string templateKey = "glacus_e_trait"
 				string effectKey = ""
@@ -12810,11 +12252,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["glacus_e_trait[sp_recover]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"glacus_e_trait[sp_recover]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buffKey":"glacus_e_trait[sp_recover]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"_excludeSource":false,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["glacus_e_trait[sp_recover]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"glacus_e_trait[sp_recover]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buffKey":"glacus_e_trait[sp_recover]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[700]
+			[670]
 			BuffTemplate data
 				string templateKey = "lisa_e_trait"
 				string effectKey = ""
@@ -12827,11 +12269,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["lisa_e_trait[sp_recover]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"lisa_e_trait[sp_recover]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buffKey":"lisa_e_trait[sp_recover]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"_excludeSource":false,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["lisa_e_trait[sp_recover]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"lisa_e_trait[sp_recover]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buffKey":"lisa_e_trait[sp_recover]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[701]
+			[671]
 			BuffTemplate data
 				string templateKey = "horn_t_1[reborn_effect]"
 				string effectKey = ""
@@ -12848,7 +12290,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[702]
+			[672]
 			BuffTemplate data
 				string templateKey = "horn_t_1[muso]"
 				string effectKey = ""
@@ -12873,7 +12315,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[703]
+			[673]
 			BuffTemplate data
 				string templateKey = "horn_s_2[create_start_buff_to_owner]"
 				string effectKey = ""
@@ -12890,7 +12332,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[704]
+			[674]
 			BuffTemplate data
 				string templateKey = "horn_s_3[switch_mode]"
 				string effectKey = ""
@@ -12915,7 +12357,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[705]
+			[675]
 			BuffTemplate data
 				string templateKey = "horn_s_3[overload_start]"
 				string effectKey = ""
@@ -12948,7 +12390,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[706]
+			[676]
 			BuffTemplate data
 				string templateKey = "horn_s_2[overload_magic_damage]"
 				string effectKey = ""
@@ -12965,7 +12407,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[707]
+			[677]
 			BuffTemplate data
 				string templateKey = "horn_s_2[overload_self_instant]"
 				string effectKey = ""
@@ -12982,7 +12424,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[708]
+			[678]
 			BuffTemplate data
 				string templateKey = "enemy_lancfd_act3fun_win[on_finish]"
 				string effectKey = ""
@@ -12999,7 +12441,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[709]
+			[679]
 			BuffTemplate data
 				string templateKey = "enemy_cansld_log"
 				string effectKey = ""
@@ -13016,7 +12458,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[710]
+			[680]
 			BuffTemplate data
 				string templateKey = "enemy_lancfd_crash"
 				string effectKey = ""
@@ -13033,7 +12475,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[711]
+			[681]
 			BuffTemplate data
 				string templateKey = "enemy_shtrwd_trigger_jet"
 				string effectKey = ""
@@ -13050,7 +12492,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[712]
+			[682]
 			BuffTemplate data
 				string templateKey = "enemy_lazdfd_crash_bleed"
 				string effectKey = ""
@@ -13067,7 +12509,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[713]
+			[683]
 			BuffTemplate data
 				string templateKey = "enemy_catrdg_crash"
 				string effectKey = ""
@@ -13084,7 +12526,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[714]
+			[684]
 			BuffTemplate data
 				string templateKey = "enemy_mstrfd_crash"
 				string effectKey = ""
@@ -13101,7 +12543,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[715]
+			[685]
 			BuffTemplate data
 				string templateKey = "trap_peacokfool_lose_game[on_finish]"
 				string effectKey = ""
@@ -13118,7 +12560,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[716]
+			[686]
 			BuffTemplate data
 				string templateKey = "enemy_cstrwd_cost_charge[on_finish]"
 				string effectKey = ""
@@ -13135,7 +12577,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[717]
+			[687]
 			BuffTemplate data
 				string templateKey = "phenxi_t_2"
 				string effectKey = ""
@@ -13168,7 +12610,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[718]
+			[688]
 			BuffTemplate data
 				string templateKey = "phenxi_t_1"
 				string effectKey = ""
@@ -13193,7 +12635,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[719]
+			[689]
 			BuffTemplate data
 				string templateKey = "phenxi_t_1[peak]"
 				string effectKey = ""
@@ -13218,7 +12660,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[720]
+			[690]
 			BuffTemplate data
 				string templateKey = "phenxi_t_1[bleeding]"
 				string effectKey = ""
@@ -13235,7 +12677,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[721]
+			[691]
 			BuffTemplate data
 				string templateKey = "kill_enemy_to_add_cost"
 				string effectKey = ""
@@ -13252,7 +12694,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[722]
+			[692]
 			BuffTemplate data
 				string templateKey = "ling_soul3_face_checker"
 				string effectKey = ""
@@ -13269,7 +12711,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[723]
+			[693]
 			BuffTemplate data
 				string templateKey = "ling_soul3_evolution[self]"
 				string effectKey = ""
@@ -13286,7 +12728,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[724]
+			[694]
 			BuffTemplate data
 				string templateKey = "ling_soul3_evolution_die"
 				string effectKey = ""
@@ -13303,7 +12745,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[725]
+			[695]
 			BuffTemplate data
 				string templateKey = "enemy_bomscr_boom_and_killself"
 				string effectKey = ""
@@ -13320,7 +12762,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[726]
+			[696]
 			BuffTemplate data
 				string templateKey = "enemy_martyr_skill_remove_mark"
 				string effectKey = ""
@@ -13337,7 +12779,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[727]
+			[697]
 			BuffTemplate data
 				string templateKey = "enemy_martyr_bounce_to_wpnsts"
 				string effectKey = ""
@@ -13354,7 +12796,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[728]
+			[698]
 			BuffTemplate data
 				string templateKey = "enemy_martyr_smokebomb"
 				string effectKey = ""
@@ -13371,7 +12813,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[729]
+			[699]
 			BuffTemplate data
 				string templateKey = "enemy_martyr_smokebomb_trigger"
 				string effectKey = ""
@@ -13388,7 +12830,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[730]
+			[700]
 			BuffTemplate data
 				string templateKey = "switch_side_when_start"
 				string effectKey = ""
@@ -13405,7 +12847,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[731]
+			[701]
 			BuffTemplate data
 				string templateKey = "wpnsts_change_side"
 				string effectKey = ""
@@ -13422,7 +12864,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[732]
+			[702]
 			BuffTemplate data
 				string templateKey = "yy_start"
 				string effectKey = ""
@@ -13431,7 +12873,7 @@ MonoBehaviour Base
 					EventToAction _items
 						Array Array
 						int size = 0
-			[733]
+			[703]
 			BuffTemplate data
 				string templateKey = "greey2_t_1"
 				string effectKey = ""
@@ -13448,7 +12890,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[734]
+			[704]
 			BuffTemplate data
 				string templateKey = "enemy_bbrain[finish_reborn]"
 				string effectKey = ""
@@ -13465,7 +12907,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[735]
+			[705]
 			BuffTemplate data
 				string templateKey = "enemy_bbrain_reborn"
 				string effectKey = ""
@@ -13490,7 +12932,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[736]
+			[706]
 			BuffTemplate data
 				string templateKey = "enemy_bbrain[blink_eff]"
 				string effectKey = ""
@@ -13515,7 +12957,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[737]
+			[707]
 			BuffTemplate data
 				string templateKey = "enemy_bbrain[buff_mark]"
 				string effectKey = ""
@@ -13540,7 +12982,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[738]
+			[708]
 			BuffTemplate data
 				string templateKey = "enemy_bbrain[damage_split]"
 				string effectKey = ""
@@ -13557,7 +12999,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[739]
+			[709]
 			BuffTemplate data
 				string templateKey = "enemy_bbrain[aoe_when_finish]"
 				string effectKey = ""
@@ -13574,7 +13016,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[740]
+			[710]
 			BuffTemplate data
 				string templateKey = "enemy_lysdb[damage_block_once]"
 				string effectKey = ""
@@ -13591,7 +13033,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[741]
+			[711]
 			BuffTemplate data
 				string templateKey = "enemy_lyengs[interrupt_if_hp_full]"
 				string effectKey = ""
@@ -13608,7 +13050,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[742]
+			[712]
 			BuffTemplate data
 				string templateKey = "enemy_lysyta[sp_to_car]"
 				string effectKey = ""
@@ -13625,7 +13067,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[743]
+			[713]
 			BuffTemplate data
 				string templateKey = "enemy_lysytb[sp_to_car]"
 				string effectKey = ""
@@ -13642,7 +13084,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[744]
+			[714]
 			BuffTemplate data
 				string templateKey = "enemy_lysytc[sp_to_car]"
 				string effectKey = ""
@@ -13659,7 +13101,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[745]
+			[715]
 			BuffTemplate data
 				string templateKey = "enemy_lysytc[toggle_damage_resistance]"
 				string effectKey = ""
@@ -13684,7 +13126,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[746]
+			[716]
 			BuffTemplate data
 				string templateKey = "trap_bgarmn[instant_kill_driver]"
 				string effectKey = ""
@@ -13701,7 +13143,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[747]
+			[717]
 			BuffTemplate data
 				string templateKey = "trap_bgarmn[sync_hp_from_trap]"
 				string effectKey = ""
@@ -13718,7 +13160,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[748]
+			[718]
 			BuffTemplate data
 				string templateKey = "trap_bgarmn[summon_enemy]"
 				string effectKey = ""
@@ -13743,7 +13185,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[749]
+			[719]
 			BuffTemplate data
 				string templateKey = "enemy_lydrty[buff_to_source]"
 				string effectKey = ""
@@ -13760,7 +13202,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[750]
+			[720]
 			BuffTemplate data
 				string templateKey = "enemy_lybgpa[release_from_blocker]"
 				string effectKey = ""
@@ -13777,7 +13219,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[751]
+			[721]
 			BuffTemplate data
 				string templateKey = "enemy_lybgpa[keep_punch_if_target_valid]"
 				string effectKey = ""
@@ -13794,7 +13236,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[752]
+			[722]
 			BuffTemplate data
 				string templateKey = "enemy_lybgpa[slowdown]"
 				string effectKey = ""
@@ -13811,7 +13253,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[753]
+			[723]
 			BuffTemplate data
 				string templateKey = "immune_common"
 				string effectKey = ""
@@ -13836,7 +13278,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[754]
+			[724]
 			BuffTemplate data
 				string templateKey = "trap_bgarmn[finish_find_driver]"
 				string effectKey = ""
@@ -13853,7 +13295,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[755]
+			[725]
 			BuffTemplate data
 				string templateKey = "wpnsts_log_born"
 				string effectKey = ""
@@ -13870,7 +13312,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[756]
+			[726]
 			BuffTemplate data
 				string templateKey = "enemy_bomscr_boom_damage"
 				string effectKey = ""
@@ -13887,7 +13329,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[757]
+			[727]
 			BuffTemplate data
 				string templateKey = "enemy_bomscr_boom_switch_mode"
 				string effectKey = ""
@@ -13904,7 +13346,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[758]
+			[728]
 			BuffTemplate data
 				string templateKey = "enemy_melee_and_ranged_spmode_check"
 				string effectKey = ""
@@ -13921,7 +13363,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[759]
+			[729]
 			BuffTemplate data
 				string templateKey = "enemy_fixed_value_damage_to_trap"
 				string effectKey = ""
@@ -13938,7 +13380,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[760]
+			[730]
 			BuffTemplate data
 				string templateKey = "enemy_rescar_skill[summon]"
 				string effectKey = ""
@@ -13951,11 +13393,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_source":"TARGET","_enemyKey":"enemy_1218_bomscr","_summonCount":1,"_delayTime":0.1,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":true,"_randomOffsetBound":0.0,"_passableMask":"NONE","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.0,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
+									string SerializedState = "[{"_source":"TARGET","_enemyKey":"enemy_1218_bomscr","_summonCount":1,"_delayTime":0.1,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":true,"_randomOffsetBound":0.0,"_passableMask":"NONE","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.0,"_stopSummonIfHostDead":false,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[761]
+			[731]
 			BuffTemplate data
 				string templateKey = "enemy_spmode_sp_reduce"
 				string effectKey = ""
@@ -13972,7 +13414,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[762]
+			[732]
 			BuffTemplate data
 				string templateKey = "enemy_spmode_check"
 				string effectKey = ""
@@ -13989,7 +13431,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[763]
+			[733]
 			BuffTemplate data
 				string templateKey = "cqbw_e_dmg"
 				string effectKey = ""
@@ -14014,7 +13456,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[764]
+			[734]
 			BuffTemplate data
 				string templateKey = "sesa_e_dmg"
 				string effectKey = ""
@@ -14031,7 +13473,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[765]
+			[735]
 			BuffTemplate data
 				string templateKey = "stun_on_reach_exit"
 				string effectKey = ""
@@ -14048,7 +13490,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[766]
+			[736]
 			BuffTemplate data
 				string templateKey = "damage_on_reach_exit"
 				string effectKey = ""
@@ -14065,7 +13507,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[767]
+			[737]
 			BuffTemplate data
 				string templateKey = "override_effect"
 				string effectKey = ""
@@ -14090,7 +13532,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[768]
+			[738]
 			BuffTemplate data
 				string templateKey = "filtertag_silence"
 				string effectKey = ""
@@ -14107,7 +13549,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[769]
+			[739]
 			BuffTemplate data
 				string templateKey = "csdoll_shield_end"
 				string effectKey = ""
@@ -14124,7 +13566,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[770]
+			[740]
 			BuffTemplate data
 				string templateKey = "csdoll_shield[mode]"
 				string effectKey = ""
@@ -14157,7 +13599,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[771]
+			[741]
 			BuffTemplate data
 				string templateKey = "max_hp_up_by_build_cnt"
 				string effectKey = ""
@@ -14174,7 +13616,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[772]
+			[742]
 			BuffTemplate data
 				string templateKey = "atk_up_on_skill_start"
 				string effectKey = ""
@@ -14191,7 +13633,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[773]
+			[743]
 			BuffTemplate data
 				string templateKey = "dancdol_aura[damage]"
 				string effectKey = ""
@@ -14208,7 +13650,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[774]
+			[744]
 			BuffTemplate data
 				string templateKey = "csdoll_doom_shake[3]"
 				string effectKey = ""
@@ -14225,7 +13667,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[775]
+			[745]
 			BuffTemplate data
 				string templateKey = "csdoll_doom_shake[2]"
 				string effectKey = ""
@@ -14242,7 +13684,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[776]
+			[746]
 			BuffTemplate data
 				string templateKey = "csdoll_doom_shake[1]"
 				string effectKey = ""
@@ -14259,7 +13701,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[777]
+			[747]
 			BuffTemplate data
 				string templateKey = "csdoll_doom_modify_lifepoint"
 				string effectKey = ""
@@ -14276,7 +13718,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[778]
+			[748]
 			BuffTemplate data
 				string templateKey = "ling_s3_token[mode]"
 				string effectKey = ""
@@ -14293,7 +13735,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[779]
+			[749]
 			BuffTemplate data
 				string templateKey = "gyuki_e_muso"
 				string effectKey = ""
@@ -14318,7 +13760,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[780]
+			[750]
 			BuffTemplate data
 				string templateKey = "gyuki_e_muso[heal]"
 				string effectKey = ""
@@ -14335,7 +13777,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[781]
+			[751]
 			BuffTemplate data
 				string templateKey = "peacok_e_dmg"
 				string effectKey = ""
@@ -14352,7 +13794,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[782]
+			[752]
 			BuffTemplate data
 				string templateKey = "franka_e_dmg"
 				string effectKey = ""
@@ -14369,7 +13811,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[783]
+			[753]
 			BuffTemplate data
 				string templateKey = "skadi_e_muso"
 				string effectKey = ""
@@ -14394,7 +13836,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[784]
+			[754]
 			BuffTemplate data
 				string templateKey = "skadi_e_muso[heal]"
 				string effectKey = ""
@@ -14411,7 +13853,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[785]
+			[755]
 			BuffTemplate data
 				string templateKey = "nearl2_e_dmg"
 				string effectKey = ""
@@ -14428,7 +13870,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[786]
+			[756]
 			BuffTemplate data
 				string templateKey = "flameb_e_muso"
 				string effectKey = ""
@@ -14453,7 +13895,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[787]
+			[757]
 			BuffTemplate data
 				string templateKey = "flameb_e_muso[heal]"
 				string effectKey = ""
@@ -14470,7 +13912,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[788]
+			[758]
 			BuffTemplate data
 				string templateKey = "kroos2_s_2[warmed_finish]"
 				string effectKey = ""
@@ -14487,7 +13929,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[789]
+			[759]
 			BuffTemplate data
 				string templateKey = "damage_resistance_GE[aura]"
 				string effectKey = ""
@@ -14504,7 +13946,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[790]
+			[760]
 			BuffTemplate data
 				string templateKey = "kroos2_s_2[warming]"
 				string effectKey = ""
@@ -14529,7 +13971,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[791]
+			[761]
 			BuffTemplate data
 				string templateKey = "kroos2_t_1[critical]"
 				string effectKey = ""
@@ -14546,7 +13988,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[792]
+			[762]
 			BuffTemplate data
 				string templateKey = "kroos2_s_2[warming_counter]"
 				string effectKey = ""
@@ -14563,7 +14005,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[793]
+			[763]
 			BuffTemplate data
 				string templateKey = "irene_s_2[levitate]"
 				string effectKey = ""
@@ -14580,7 +14022,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[794]
+			[764]
 			BuffTemplate data
 				string templateKey = "irene_t_2"
 				string effectKey = ""
@@ -14597,7 +14039,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[795]
+			[765]
 			BuffTemplate data
 				string templateKey = "irene_t_1"
 				string effectKey = ""
@@ -14630,7 +14072,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[796]
+			[766]
 			BuffTemplate data
 				string templateKey = "lmlee_s_2[end]"
 				string effectKey = ""
@@ -14647,7 +14089,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[797]
+			[767]
 			BuffTemplate data
 				string templateKey = "lmlee_s_2[remove]"
 				string effectKey = ""
@@ -14664,7 +14106,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[798]
+			[768]
 			BuffTemplate data
 				string templateKey = "lmlee_s_3[atk]"
 				string effectKey = ""
@@ -14681,7 +14123,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[799]
+			[769]
 			BuffTemplate data
 				string templateKey = "lmlee_t_1"
 				string effectKey = ""
@@ -14694,11 +14136,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"x-4","_needCheckCount":true,"_condType":"EQUALS","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["lmlee_t_1[mark]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":null,"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"lmlee_t_1[mark]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"lmlee_t_1[self]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"lmlee_buff_01_start","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"lmlee_t_1[enemy]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"lmlee_debuff_01_start","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffToBlockee"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["lmlee_t_1[mark]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"lmlee_t_1[mark]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"_buffKey":"lmlee_t_1[self]","_loadFromBlackboard":false,"_decCntIfStack":true,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"_buffKey":"lmlee_t_1[enemy]","_loadFromBlackboard":false,"_decCntIfStack":true,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsByIdFromBlockee"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"x-4","_needCheckCount":true,"_condType":"EQUALS","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"_excludeSource":false,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["lmlee_t_1[mark]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":null,"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"lmlee_t_1[mark]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"lmlee_t_1[self]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"lmlee_buff_01_start","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"lmlee_t_1[enemy]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"lmlee_debuff_01_start","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffToBlockee"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["lmlee_t_1[mark]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"lmlee_t_1[mark]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"_buffKey":"lmlee_t_1[self]","_loadFromBlackboard":false,"_decCntIfStack":true,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"_buffKey":"lmlee_t_1[enemy]","_loadFromBlackboard":false,"_decCntIfStack":true,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsByIdFromBlockee"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[800]
+			[770]
 			BuffTemplate data
 				string templateKey = "lmlee_s_2"
 				string effectKey = ""
@@ -14715,7 +14157,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[801]
+			[771]
 			BuffTemplate data
 				string templateKey = "lmlee_s_2[paper]"
 				string effectKey = ""
@@ -14748,7 +14190,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[802]
+			[772]
 			BuffTemplate data
 				string templateKey = "lmlee_s_3[knockback]"
 				string effectKey = ""
@@ -14765,7 +14207,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[803]
+			[773]
 			BuffTemplate data
 				string templateKey = "lmlee_s_3[evade]"
 				string effectKey = ""
@@ -14782,7 +14224,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[804]
+			[774]
 			BuffTemplate data
 				string templateKey = "lmlee_t_2[bounce]"
 				string effectKey = ""
@@ -14799,7 +14241,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[805]
+			[775]
 			BuffTemplate data
 				string templateKey = "lmlee_tr"
 				string effectKey = ""
@@ -14816,7 +14258,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[806]
+			[776]
 			BuffTemplate data
 				string templateKey = "bpipe_e_trait[gaincost]"
 				string effectKey = ""
@@ -14833,7 +14275,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[807]
+			[777]
 			BuffTemplate data
 				string templateKey = "wildmn_e_trait[gaincost]"
 				string effectKey = ""
@@ -14850,7 +14292,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[808]
+			[778]
 			BuffTemplate data
 				string templateKey = "grani_e_trait[gaincost]"
 				string effectKey = ""
@@ -14867,7 +14309,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[809]
+			[779]
 			BuffTemplate data
 				string templateKey = "sddrag_e_trait[gaincost]"
 				string effectKey = ""
@@ -14884,7 +14326,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[810]
+			[780]
 			BuffTemplate data
 				string templateKey = "vigna_e_trait[gaincost]"
 				string effectKey = ""
@@ -14901,7 +14343,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[811]
+			[781]
 			BuffTemplate data
 				string templateKey = "token_suicide_without_summoner"
 				string effectKey = ""
@@ -14918,7 +14360,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[812]
+			[782]
 			BuffTemplate data
 				string templateKey = "bibeak_e_trait[dmgup]"
 				string effectKey = ""
@@ -14935,7 +14377,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[813]
+			[783]
 			BuffTemplate data
 				string templateKey = "bibeak_e_trait[dmpup_holder]"
 				string effectKey = ""
@@ -14968,7 +14410,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[814]
+			[784]
 			BuffTemplate data
 				string templateKey = "chen_e_trait[dmgup]"
 				string effectKey = ""
@@ -14985,7 +14427,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[815]
+			[785]
 			BuffTemplate data
 				string templateKey = "chen_e_trait[dmgup_holder]"
 				string effectKey = ""
@@ -15018,7 +14460,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[816]
+			[786]
 			BuffTemplate data
 				string templateKey = "tachak_e_trait[dmgup]"
 				string effectKey = ""
@@ -15035,7 +14477,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[817]
+			[787]
 			BuffTemplate data
 				string templateKey = "tachak_e_trait[dmgup_holder]"
 				string effectKey = ""
@@ -15068,7 +14510,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[818]
+			[788]
 			BuffTemplate data
 				string templateKey = "sddrag_e_atkscaleup"
 				string effectKey = ""
@@ -15085,7 +14527,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[819]
+			[789]
 			BuffTemplate data
 				string templateKey = "vigna_e_atkscaleup"
 				string effectKey = ""
@@ -15102,7 +14544,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[820]
+			[790]
 			BuffTemplate data
 				string templateKey = "ncdeer_s_2_resistance"
 				string effectKey = ""
@@ -15119,7 +14561,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[821]
+			[791]
 			BuffTemplate data
 				string templateKey = "aurora_s_2[freezeattack2]"
 				string effectKey = ""
@@ -15136,7 +14578,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[822]
+			[792]
 			BuffTemplate data
 				string templateKey = "aurora_s_2[freezeattack]"
 				string effectKey = ""
@@ -15153,7 +14595,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[823]
+			[793]
 			BuffTemplate data
 				string templateKey = "switch_mode_restart_fsm_if_alive"
 				string effectKey = ""
@@ -15178,7 +14620,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[824]
+			[794]
 			BuffTemplate data
 				string templateKey = "zyq_start"
 				string effectKey = ""
@@ -15187,7 +14629,7 @@ MonoBehaviour Base
 					EventToAction _items
 						Array Array
 						int size = 0
-			[825]
+			[795]
 			BuffTemplate data
 				string templateKey = "ghost2_s_1[trigger_ability]"
 				string effectKey = ""
@@ -15212,7 +14654,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[826]
+			[796]
 			BuffTemplate data
 				string templateKey = "sddrag_e_2[attacked]"
 				string effectKey = ""
@@ -15229,7 +14671,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[827]
+			[797]
 			BuffTemplate data
 				string templateKey = "ghost2_s_3[attack]"
 				string effectKey = ""
@@ -15246,7 +14688,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[828]
+			[798]
 			BuffTemplate data
 				string templateKey = "ghost2_s_2"
 				string effectKey = ""
@@ -15271,7 +14713,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[829]
+			[799]
 			BuffTemplate data
 				string templateKey = "apply_damage[magic][on_trigger]"
 				string effectKey = ""
@@ -15288,7 +14730,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[830]
+			[800]
 			BuffTemplate data
 				string templateKey = "ghost2_standin[switch]"
 				string effectKey = ""
@@ -15321,7 +14763,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[831]
+			[801]
 			BuffTemplate data
 				string templateKey = "ghost2_switchend"
 				string effectKey = ""
@@ -15338,7 +14780,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[832]
+			[802]
 			BuffTemplate data
 				string templateKey = "ghost2_switchbegin"
 				string effectKey = ""
@@ -15355,7 +14797,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[833]
+			[803]
 			BuffTemplate data
 				string templateKey = "ghost2_tr"
 				string effectKey = ""
@@ -15372,7 +14814,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[834]
+			[804]
 			BuffTemplate data
 				string templateKey = "log_killed_by_main_target"
 				string effectKey = ""
@@ -15389,7 +14831,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[835]
+			[805]
 			BuffTemplate data
 				string templateKey = "reset_ability_cd"
 				string effectKey = ""
@@ -15406,7 +14848,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[836]
+			[806]
 			BuffTemplate data
 				string templateKey = "damage_via_hp_ratio[pure][undead]"
 				string effectKey = ""
@@ -15423,7 +14865,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[837]
+			[807]
 			BuffTemplate data
 				string templateKey = "fixed_value_damage_ontrigger[pure]"
 				string effectKey = ""
@@ -15440,7 +14882,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[838]
+			[808]
 			BuffTemplate data
 				string templateKey = "enemy_white_in_crazy_for_character[log]"
 				string effectKey = ""
@@ -15457,7 +14899,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[839]
+			[809]
 			BuffTemplate data
 				string templateKey = "enemy_white_reborn_end[invincible]"
 				string effectKey = ""
@@ -15474,7 +14916,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[840]
+			[810]
 			BuffTemplate data
 				string templateKey = "enemy_white_reborn_attack"
 				string effectKey = ""
@@ -15499,7 +14941,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[841]
+			[811]
 			BuffTemplate data
 				string templateKey = "enemy_white_in_crazy"
 				string effectKey = ""
@@ -15540,7 +14982,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[842]
+			[812]
 			BuffTemplate data
 				string templateKey = "enemy_white_s[resonance]"
 				string effectKey = ""
@@ -15573,7 +15015,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[843]
+			[813]
 			BuffTemplate data
 				string templateKey = "enemy_ltholo_t"
 				string effectKey = ""
@@ -15606,7 +15048,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[844]
+			[814]
 			BuffTemplate data
 				string templateKey = "enemy_ltseal_t[damage]"
 				string effectKey = ""
@@ -15623,7 +15065,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[845]
+			[815]
 			BuffTemplate data
 				string templateKey = "enemy_ltseal_t[has_character]"
 				string effectKey = ""
@@ -15640,7 +15082,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[846]
+			[816]
 			BuffTemplate data
 				string templateKey = "enemy_ltseal_t[attack_effect]"
 				string effectKey = ""
@@ -15657,7 +15099,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[847]
+			[817]
 			BuffTemplate data
 				string templateKey = "enemy_ltseal_t"
 				string effectKey = ""
@@ -15698,7 +15140,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[848]
+			[818]
 			BuffTemplate data
 				string templateKey = "enemy_ltmage_t"
 				string effectKey = ""
@@ -15715,7 +15157,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[849]
+			[819]
 			BuffTemplate data
 				string templateKey = "enemy_ltgint_t"
 				string effectKey = ""
@@ -15740,7 +15182,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[850]
+			[820]
 			BuffTemplate data
 				string templateKey = "apply_damage[magic][ignore_sp]"
 				string effectKey = ""
@@ -15757,7 +15199,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[851]
+			[821]
 			BuffTemplate data
 				string templateKey = "apply_damage[physical][ignore_sp]"
 				string effectKey = ""
@@ -15774,7 +15216,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[852]
+			[822]
 			BuffTemplate data
 				string templateKey = "enemy_ltbow_t"
 				string effectKey = ""
@@ -15791,7 +15233,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[853]
+			[823]
 			BuffTemplate data
 				string templateKey = "enemy_ltmob_t"
 				string effectKey = ""
@@ -15808,7 +15250,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[854]
+			[824]
 			BuffTemplate data
 				string templateKey = "trap_magicturn_t"
 				string effectKey = ""
@@ -15849,7 +15291,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[855]
+			[825]
 			BuffTemplate data
 				string templateKey = "trap_magic_circuit_source"
 				string effectKey = ""
@@ -15874,7 +15316,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[856]
+			[826]
 			BuffTemplate data
 				string templateKey = "trap_magiccircle_skill"
 				string effectKey = ""
@@ -15891,7 +15333,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[857]
+			[827]
 			BuffTemplate data
 				string templateKey = "trap_magiccircle_t"
 				string effectKey = ""
@@ -15932,7 +15374,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[858]
+			[828]
 			BuffTemplate data
 				string templateKey = "character_in_magiccircuit_env"
 				string effectKey = ""
@@ -15981,7 +15423,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[859]
+			[829]
 			BuffTemplate data
 				string templateKey = "trigger_ability[onstart]"
 				string effectKey = ""
@@ -15998,7 +15440,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[860]
+			[830]
 			BuffTemplate data
 				string templateKey = "kazema_s_2"
 				string effectKey = ""
@@ -16023,7 +15465,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[861]
+			[831]
 			BuffTemplate data
 				string templateKey = "kazema_standin[damage]"
 				string effectKey = ""
@@ -16040,7 +15482,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[862]
+			[832]
 			BuffTemplate data
 				string templateKey = "kazema_s_1"
 				string effectKey = ""
@@ -16057,7 +15499,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[863]
+			[833]
 			BuffTemplate data
 				string templateKey = "kazema_standin[switch]"
 				string effectKey = ""
@@ -16082,7 +15524,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[864]
+			[834]
 			BuffTemplate data
 				string templateKey = "kazema_switchend"
 				string effectKey = ""
@@ -16099,7 +15541,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[865]
+			[835]
 			BuffTemplate data
 				string templateKey = "kazema_switchbegin"
 				string effectKey = ""
@@ -16116,7 +15558,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[866]
+			[836]
 			BuffTemplate data
 				string templateKey = "kazema_tr"
 				string effectKey = ""
@@ -16133,7 +15575,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[867]
+			[837]
 			BuffTemplate data
 				string templateKey = "enemy_dead_spawn"
 				string effectKey = ""
@@ -16146,11 +15588,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 3
 								ActionArray value
-									string SerializedState = "[{"_source":"BUFF_OWNER","_finishReason":"FALLDOWN","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"TARGET","_enemyKey":null,"_summonCount":0,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":false,"_randomOffsetBound":0.5,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":true,"_useRandomDelay":true,"_randomDelayRange":0.7,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
+									string SerializedState = "[{"_source":"BUFF_OWNER","_finishReason":"FALLDOWN","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"TARGET","_enemyKey":null,"_summonCount":0,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":false,"_randomOffsetBound":0.5,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":true,"_useRandomDelay":true,"_randomDelayRange":0.7,"_stopSummonIfHostDead":false,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[868]
+			[838]
 			BuffTemplate data
 				string templateKey = "enemy_dead_spawn[sfji]"
 				string effectKey = ""
@@ -16163,7 +15605,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 3
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_blackboardKey":"cnt","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"LE","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},"_succeedNodes":[{"_blackboardKeys":"cnt","_fromBlackboardKeys":"","_value":1.0,"_addBasedOriginValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"},{"_source":"BUFF_OWNER","_finishReason":"FALLDOWN","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"TARGET","_enemyKey":null,"_summonCount":0,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":false,"_randomOffsetBound":0.5,"_passableMask":"NONE","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":true,"_useRandomDelay":true,"_randomDelayRange":0.7,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_blackboardKey":"cnt","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"LE","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},"_succeedNodes":[{"_blackboardKeys":"cnt","_fromBlackboardKeys":"","_value":1.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"},{"_source":"BUFF_OWNER","_finishReason":"FALLDOWN","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"TARGET","_enemyKey":null,"_summonCount":0,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":false,"_randomOffsetBound":0.5,"_passableMask":"NONE","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":true,"_useRandomDelay":true,"_randomDelayRange":0.7,"_stopSummonIfHostDead":false,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -16171,7 +15613,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 22
 								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_blackboardKey":"cnt","_valueToCompare":1,"_anotherKeyToCompare":null,"_condType":"GE","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_blackboardKeys":"cnt","_fromBlackboardKeys":"cnt_add","_value":0.0,"_addBasedOriginValue":true,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_sfji_atkup[effect1]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"enemy_sfji_atkup[effect1]","_loadFromBlackboard":false,"_decCntIfStack":true,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_sfji_atkup[effect2]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"enemy_sfji_atkup[effect2]","_loadFromBlackboard":false,"_decCntIfStack":true,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_sfji_atkup[effect3]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"enemy_sfji_atkup[effect3]","_loadFromBlackboard":false,"_decCntIfStack":true,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_sfji_atkup[effect4]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"enemy_sfji_atkup[effect4]","_loadFromBlackboard":false,"_decCntIfStack":true,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_blackboardKey":"cnt","_valueToCompare":1,"_anotherKeyToCompare":null,"_condType":"GE","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_blackboardKeys":"cnt","_fromBlackboardKeys":"cnt_add","_value":0.0,"_addBasedOriginValue":true,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_sfji_atkup[effect1]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"enemy_sfji_atkup[effect1]","_loadFromBlackboard":false,"_decCntIfStack":true,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_sfji_atkup[effect2]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"enemy_sfji_atkup[effect2]","_loadFromBlackboard":false,"_decCntIfStack":true,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_sfji_atkup[effect3]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"enemy_sfji_atkup[effect3]","_loadFromBlackboard":false,"_decCntIfStack":true,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_sfji_atkup[effect4]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"enemy_sfji_atkup[effect4]","_loadFromBlackboard":false,"_decCntIfStack":true,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -16183,7 +15625,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[869]
+			[839]
 			BuffTemplate data
 				string templateKey = "enemy_sfhu_atkspeed_dec[resist]"
 				string effectKey = ""
@@ -16200,7 +15642,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[870]
+			[840]
 			BuffTemplate data
 				string templateKey = "enemy_sfhu_atkspeed_dec[trig]"
 				string effectKey = ""
@@ -16213,11 +15655,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"sfhu_atkspeed_dec[real]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_blackboardKeys":"attack_speed","_fromBlackboardKeys":"attack_speed_add","_value":0.0,"_addBasedOriginValue":true,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"}]"
+									string SerializedState = "[{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"sfhu_atkspeed_dec[real]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_blackboardKeys":"attack_speed","_fromBlackboardKeys":"attack_speed_add","_value":0.0,"_addBasedOriginValue":true,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[871]
+			[841]
 			BuffTemplate data
 				string templateKey = "enemy_sfpin_power_attack[resist]"
 				string effectKey = ""
@@ -16234,7 +15676,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[872]
+			[842]
 			BuffTemplate data
 				string templateKey = "enemy_sfpin_power_attack[real]"
 				string effectKey = ""
@@ -16247,7 +15689,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_damageScaleKey":"atk_scale_init","_damageType":"MAGICAL","_applyWay":"NONE","_attackType":"BUFF","_useDynamicAttackType":false,"$type":"Torappu.Battle.Action.Nodes+ApplyCacheAtkDamageFromBuff"},{"_blackboardKeys":"triggered_cnt","_fromBlackboardKeys":"triggered_cnt_add","_value":0.0,"_addBasedOriginValue":true,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_targetType":"BUFF_OWNER","_blackboardKey":"triggered_cnt","_valueToCompare":0,"_anotherKeyToCompare":"times","_condType":"GE","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_blackboardKeys":"triggered_cnt","_fromBlackboardKeys":"","_value":0.0,"_addBasedOriginValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_blackboardKeys":"atk_scale_init","_fromBlackboardKeys":"atk_scale_add","_value":0.0,"_addBasedOriginValue":true,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"}]"
+									string SerializedState = "[{"_damageScaleKey":"atk_scale_init","_damageType":"MAGICAL","_applyWay":"NONE","_attackType":"BUFF","_useDynamicAttackType":false,"$type":"Torappu.Battle.Action.Nodes+ApplyCacheAtkDamageFromBuff"},{"_blackboardKeys":"triggered_cnt","_fromBlackboardKeys":"triggered_cnt_add","_value":0.0,"_addBasedOriginValue":true,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_targetType":"BUFF_OWNER","_blackboardKey":"triggered_cnt","_valueToCompare":0,"_anotherKeyToCompare":"times","_condType":"GE","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_blackboardKeys":"triggered_cnt","_fromBlackboardKeys":"","_value":0.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_blackboardKeys":"atk_scale_init","_fromBlackboardKeys":"atk_scale_add","_value":0.0,"_addBasedOriginValue":true,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -16255,11 +15697,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_blackboardKeys":"triggered_cnt_add","_fromBlackboardKeys":"","_value":1.0,"_addBasedOriginValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"}]"
+									string SerializedState = "[{"_blackboardKeys":"triggered_cnt_add","_fromBlackboardKeys":"","_value":1.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[873]
+			[843]
 			BuffTemplate data
 				string templateKey = "enemy_sfden_invisible"
 				string effectKey = ""
@@ -16284,7 +15726,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[874]
+			[844]
 			BuffTemplate data
 				string templateKey = "trap_sfsuiball_devour"
 				string effectKey = ""
@@ -16301,7 +15743,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[875]
+			[845]
 			BuffTemplate data
 				string templateKey = "enemy_sfsui_t[appear]"
 				string effectKey = ""
@@ -16318,7 +15760,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[876]
+			[846]
 			BuffTemplate data
 				string templateKey = "enemy_sfsui_bristleback"
 				string effectKey = ""
@@ -16335,7 +15777,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[877]
+			[847]
 			BuffTemplate data
 				string templateKey = "enemy_sfsui_power_slash[resist]"
 				string effectKey = ""
@@ -16352,7 +15794,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[878]
+			[848]
 			BuffTemplate data
 				string templateKey = "enemy_sfsui_power_slash[real]"
 				string effectKey = ""
@@ -16365,7 +15807,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_damageType":"MAGICAL","_atkScaleVar":"atk_scale_init","_applyWay":"NONE","_baseOnHostAtk":false,"_emitSourceOnCalculateDamage":false,"_attackType":"BUFF","_forceUseProjectileCachedAtk":false,"_ignoreForSp":false,"_ignoreMissFlag":"NONE","$type":"Torappu.Battle.Action.Nodes+AdvancedApplyDamage"},{"_blackboardKeys":"triggered_cnt","_fromBlackboardKeys":"triggered_cnt_add","_value":0.0,"_addBasedOriginValue":true,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_targetType":"BUFF_OWNER","_blackboardKey":"triggered_cnt","_valueToCompare":0,"_anotherKeyToCompare":"times","_condType":"GE","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_blackboardKeys":"triggered_cnt","_fromBlackboardKeys":"","_value":0.0,"_addBasedOriginValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_blackboardKeys":"atk_scale_init","_fromBlackboardKeys":"atk_scale_add","_value":0.0,"_addBasedOriginValue":true,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"}]"
+									string SerializedState = "[{"_damageType":"MAGICAL","_atkScaleVar":"atk_scale_init","_applyWay":"NONE","_baseOnHostAtk":false,"_emitSourceOnCalculateDamage":false,"_attackType":"BUFF","_forceUseProjectileCachedAtk":false,"_ignoreForSp":false,"_ignoreMissFlag":"NONE","$type":"Torappu.Battle.Action.Nodes+AdvancedApplyDamage"},{"_blackboardKeys":"triggered_cnt","_fromBlackboardKeys":"triggered_cnt_add","_value":0.0,"_addBasedOriginValue":true,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_targetType":"BUFF_OWNER","_blackboardKey":"triggered_cnt","_valueToCompare":0,"_anotherKeyToCompare":"times","_condType":"GE","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_blackboardKeys":"triggered_cnt","_fromBlackboardKeys":"","_value":0.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_blackboardKeys":"atk_scale_init","_fromBlackboardKeys":"atk_scale_add","_value":0.0,"_addBasedOriginValue":true,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -16373,11 +15815,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_blackboardKeys":"triggered_cnt_add","_fromBlackboardKeys":"","_value":1.0,"_addBasedOriginValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"}]"
+									string SerializedState = "[{"_blackboardKeys":"triggered_cnt_add","_fromBlackboardKeys":"","_value":1.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[879]
+			[849]
 			BuffTemplate data
 				string templateKey = "enemy_sfsui_normal_effect"
 				string effectKey = ""
@@ -16402,7 +15844,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[880]
+			[850]
 			BuffTemplate data
 				string templateKey = "enemy_sfsui_time_check"
 				string effectKey = ""
@@ -16419,7 +15861,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[881]
+			[851]
 			BuffTemplate data
 				string templateKey = "enemy_sfsui_timeup_doom"
 				string effectKey = ""
@@ -16444,7 +15886,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[882]
+			[852]
 			BuffTemplate data
 				string templateKey = "enemy_sfsui_skill3_start"
 				string effectKey = ""
@@ -16461,7 +15903,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[883]
+			[853]
 			BuffTemplate data
 				string templateKey = "enemy_sfsui_skill3_inattack"
 				string effectKey = ""
@@ -16486,7 +15928,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[884]
+			[854]
 			BuffTemplate data
 				string templateKey = "enemy_sfsui_devour_msfsui_s3"
 				string effectKey = ""
@@ -16503,7 +15945,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[885]
+			[855]
 			BuffTemplate data
 				string templateKey = "cadkgt_signal_buff"
 				string effectKey = ""
@@ -16528,7 +15970,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[886]
+			[856]
 			BuffTemplate data
 				string templateKey = "switch_mode_no_restore_no_restart_fsm"
 				string effectKey = ""
@@ -16545,7 +15987,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[887]
+			[857]
 			BuffTemplate data
 				string templateKey = "aruarw_night_buff_effect_holder"
 				string effectKey = ""
@@ -16586,7 +16028,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[888]
+			[858]
 			BuffTemplate data
 				string templateKey = "enemy_nmekgt_skill_log"
 				string effectKey = ""
@@ -16603,7 +16045,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[889]
+			[859]
 			BuffTemplate data
 				string templateKey = "trap_neonlamp_log"
 				string effectKey = ""
@@ -16620,7 +16062,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[890]
+			[860]
 			BuffTemplate data
 				string templateKey = "flamtl_t_1+[attack]"
 				string effectKey = ""
@@ -16645,7 +16087,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[891]
+			[861]
 			BuffTemplate data
 				string templateKey = "flamtl_t_1+"
 				string effectKey = ""
@@ -16662,7 +16104,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[892]
+			[862]
 			BuffTemplate data
 				string templateKey = "flamtl_s_2"
 				string effectKey = ""
@@ -16679,7 +16121,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[893]
+			[863]
 			BuffTemplate data
 				string templateKey = "flamtl_t_1[attack]"
 				string effectKey = ""
@@ -16704,7 +16146,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[894]
+			[864]
 			BuffTemplate data
 				string templateKey = "flamtl_t_1"
 				string effectKey = ""
@@ -16721,7 +16163,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[895]
+			[865]
 			BuffTemplate data
 				string templateKey = "flamtl_s_1"
 				string effectKey = ""
@@ -16746,7 +16188,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[896]
+			[866]
 			BuffTemplate data
 				string templateKey = "phatom_e_trait"
 				string effectKey = ""
@@ -16763,7 +16205,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[897]
+			[867]
 			BuffTemplate data
 				string templateKey = "gravel_e_trait"
 				string effectKey = ""
@@ -16780,7 +16222,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[898]
+			[868]
 			BuffTemplate data
 				string templateKey = "waaifu_e_trait"
 				string effectKey = ""
@@ -16797,7 +16239,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[899]
+			[869]
 			BuffTemplate data
 				string templateKey = "ep_heal_when_trigger"
 				string effectKey = ""
@@ -16814,7 +16256,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[900]
+			[870]
 			BuffTemplate data
 				string templateKey = "ep_heal_when_heal"
 				string effectKey = ""
@@ -16831,7 +16273,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[901]
+			[871]
 			BuffTemplate data
 				string templateKey = "bldkgt_switch_mode"
 				string effectKey = ""
@@ -16848,7 +16290,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[902]
+			[872]
 			BuffTemplate data
 				string templateKey = "bldkgt_t_devour"
 				string effectKey = ""
@@ -16865,7 +16307,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[903]
+			[873]
 			BuffTemplate data
 				string templateKey = "bldkgt_trigger_check"
 				string effectKey = ""
@@ -16890,7 +16332,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[904]
+			[874]
 			BuffTemplate data
 				string templateKey = "bldkgt_t_reduce_damage"
 				string effectKey = ""
@@ -16907,7 +16349,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[905]
+			[875]
 			BuffTemplate data
 				string templateKey = "bldkgt_s_bleed"
 				string effectKey = ""
@@ -16924,7 +16366,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[906]
+			[876]
 			BuffTemplate data
 				string templateKey = "enemy_aruarw_check"
 				string effectKey = ""
@@ -16949,7 +16391,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[907]
+			[877]
 			BuffTemplate data
 				string templateKey = "trap_neonlamp_passive"
 				string effectKey = ""
@@ -16974,7 +16416,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[908]
+			[878]
 			BuffTemplate data
 				string templateKey = "trap_candle_s"
 				string effectKey = ""
@@ -16991,7 +16433,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[909]
+			[879]
 			BuffTemplate data
 				string templateKey = "enemy_aruass_default"
 				string effectKey = ""
@@ -17008,7 +16450,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[910]
+			[880]
 			BuffTemplate data
 				string templateKey = "enemy_aruass_t"
 				string effectKey = ""
@@ -17025,7 +16467,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[911]
+			[881]
 			BuffTemplate data
 				string templateKey = "night_map_trap_token"
 				string effectKey = ""
@@ -17050,7 +16492,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[912]
+			[882]
 			BuffTemplate data
 				string templateKey = "night_map_enemy"
 				string effectKey = ""
@@ -17075,7 +16517,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[913]
+			[883]
 			BuffTemplate data
 				string templateKey = "night_map_character_plus"
 				string effectKey = ""
@@ -17100,7 +16542,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[914]
+			[884]
 			BuffTemplate data
 				string templateKey = "night_map_character"
 				string effectKey = ""
@@ -17133,7 +16575,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[915]
+			[885]
 			BuffTemplate data
 				string templateKey = "night_map_default_buff"
 				string effectKey = ""
@@ -17150,7 +16592,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[916]
+			[886]
 			BuffTemplate data
 				string templateKey = "disable_trait"
 				string effectKey = ""
@@ -17175,7 +16617,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[917]
+			[887]
 			BuffTemplate data
 				string templateKey = "milu_e_trait"
 				string effectKey = ""
@@ -17192,7 +16634,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[918]
+			[888]
 			BuffTemplate data
 				string templateKey = "glaze_e_trait"
 				string effectKey = ""
@@ -17209,7 +16651,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[919]
+			[889]
 			BuffTemplate data
 				string templateKey = "cuttle_e_trait"
 				string effectKey = ""
@@ -17226,7 +16668,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[920]
+			[890]
 			BuffTemplate data
 				string templateKey = "robrta_mach_t[mode]"
 				string effectKey = ""
@@ -17251,7 +16693,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[921]
+			[891]
 			BuffTemplate data
 				string templateKey = "sleach_s_3"
 				string effectKey = ""
@@ -17268,7 +16710,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[922]
+			[892]
 			BuffTemplate data
 				string templateKey = "sleach_s_2"
 				string effectKey = ""
@@ -17285,7 +16727,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[923]
+			[893]
 			BuffTemplate data
 				string templateKey = "sleach_t_2[cancel]"
 				string effectKey = ""
@@ -17302,7 +16744,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[924]
+			[894]
 			BuffTemplate data
 				string templateKey = "sleach_t_2"
 				string effectKey = ""
@@ -17327,7 +16769,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[925]
+			[895]
 			BuffTemplate data
 				string templateKey = "robrta_mach_t"
 				string effectKey = ""
@@ -17352,7 +16794,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[926]
+			[896]
 			BuffTemplate data
 				string templateKey = "chen2_s_debuff"
 				string effectKey = ""
@@ -17369,7 +16811,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[927]
+			[897]
 			BuffTemplate data
 				string templateKey = "mberry_s_2"
 				string effectKey = ""
@@ -17386,7 +16828,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[928]
+			[898]
 			BuffTemplate data
 				string templateKey = "ep_heal_all"
 				string effectKey = ""
@@ -17403,7 +16845,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[929]
+			[899]
 			BuffTemplate data
 				string templateKey = "fartth_s_3[damagescale]"
 				string effectKey = ""
@@ -17420,7 +16862,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[930]
+			[900]
 			BuffTemplate data
 				string templateKey = "fartth_t_2"
 				string effectKey = ""
@@ -17437,7 +16879,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[931]
+			[901]
 			BuffTemplate data
 				string templateKey = "fartth_t_1"
 				string effectKey = ""
@@ -17462,7 +16904,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[932]
+			[902]
 			BuffTemplate data
 				string templateKey = "ashlok_s_2"
 				string effectKey = ""
@@ -17487,7 +16929,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[933]
+			[903]
 			BuffTemplate data
 				string templateKey = "takila_s_2"
 				string effectKey = ""
@@ -17512,7 +16954,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[934]
+			[904]
 			BuffTemplate data
 				string templateKey = "takila_t_1"
 				string effectKey = ""
@@ -17529,7 +16971,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[935]
+			[905]
 			BuffTemplate data
 				string templateKey = "takila_s_cast"
 				string effectKey = ""
@@ -17554,7 +16996,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[936]
+			[906]
 			BuffTemplate data
 				string templateKey = "takila_s_2_enhance_judge"
 				string effectKey = ""
@@ -17571,7 +17013,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[937]
+			[907]
 			BuffTemplate data
 				string templateKey = "takila_tr"
 				string effectKey = ""
@@ -17588,7 +17030,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[938]
+			[908]
 			BuffTemplate data
 				string templateKey = "mizuki_s_3[damage]"
 				string effectKey = ""
@@ -17605,7 +17047,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[939]
+			[909]
 			BuffTemplate data
 				string templateKey = "mizuki_t_1"
 				string effectKey = ""
@@ -17622,7 +17064,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[940]
+			[910]
 			BuffTemplate data
 				string templateKey = "mizuki_t_2"
 				string effectKey = ""
@@ -17639,7 +17081,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[941]
+			[911]
 			BuffTemplate data
 				string templateKey = "mizuki_t_2[atk]"
 				string effectKey = ""
@@ -17656,7 +17098,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[942]
+			[912]
 			BuffTemplate data
 				string templateKey = "chen2_s_2[eff_cond]"
 				string effectKey = ""
@@ -17673,7 +17115,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[943]
+			[913]
 			BuffTemplate data
 				string templateKey = "chen2_s_2_enhance_judge"
 				string effectKey = ""
@@ -17690,7 +17132,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[944]
+			[914]
 			BuffTemplate data
 				string templateKey = "chen2_s_2"
 				string effectKey = ""
@@ -17715,7 +17157,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[945]
+			[915]
 			BuffTemplate data
 				string templateKey = "chen2_tr"
 				string effectKey = ""
@@ -17732,7 +17174,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[946]
+			[916]
 			BuffTemplate data
 				string templateKey = "spareShot"
 				string effectKey = ""
@@ -17749,7 +17191,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[947]
+			[917]
 			BuffTemplate data
 				string templateKey = "chen2_t_1"
 				string effectKey = ""
@@ -17766,7 +17208,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[948]
+			[918]
 			BuffTemplate data
 				string templateKey = "enemy_hymwr_t[poison_start]"
 				string effectKey = ""
@@ -17783,7 +17225,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[949]
+			[919]
 			BuffTemplate data
 				string templateKey = "log_hidden_wave[start_end]"
 				string effectKey = ""
@@ -17808,7 +17250,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[950]
+			[920]
 			BuffTemplate data
 				string templateKey = "support_warrior_trait"
 				string effectKey = ""
@@ -17825,7 +17267,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[951]
+			[921]
 			BuffTemplate data
 				string templateKey = "pallas_s_3[peak]"
 				string effectKey = ""
@@ -17858,7 +17300,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[952]
+			[922]
 			BuffTemplate data
 				string templateKey = "peak_performance"
 				string effectKey = ""
@@ -17875,7 +17317,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[953]
+			[923]
 			BuffTemplate data
 				string templateKey = "pallas_t_2[heal]"
 				string effectKey = ""
@@ -17892,7 +17334,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[954]
+			[924]
 			BuffTemplate data
 				string templateKey = "pallas_t_2"
 				string effectKey = ""
@@ -17909,7 +17351,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[955]
+			[925]
 			BuffTemplate data
 				string templateKey = "indigo_s_2[aura]"
 				string effectKey = ""
@@ -17926,7 +17368,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[956]
+			[926]
 			BuffTemplate data
 				string templateKey = "indigo_s_2[damage]"
 				string effectKey = "indigo_skill_02_buff_03"
@@ -17943,7 +17385,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[957]
+			[927]
 			BuffTemplate data
 				string templateKey = "indigo_s_2[mode]"
 				string effectKey = ""
@@ -17968,7 +17410,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[958]
+			[928]
 			BuffTemplate data
 				string templateKey = "indigo_s_1[mode]"
 				string effectKey = ""
@@ -17993,7 +17435,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[959]
+			[929]
 			BuffTemplate data
 				string templateKey = "enemy_spslme_t[to_boom]"
 				string effectKey = ""
@@ -18010,7 +17452,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[960]
+			[930]
 			BuffTemplate data
 				string templateKey = "enemy_spslme_t[detect]"
 				string effectKey = ""
@@ -18027,7 +17469,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[961]
+			[931]
 			BuffTemplate data
 				string templateKey = "trap_duplir_s[DeadLike]"
 				string effectKey = ""
@@ -18052,7 +17494,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[962]
+			[932]
 			BuffTemplate data
 				string templateKey = "trap_dupilr_trait[ondead]"
 				string effectKey = ""
@@ -18069,7 +17511,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[963]
+			[933]
 			BuffTemplate data
 				string templateKey = "instant_kill"
 				string effectKey = ""
@@ -18086,7 +17528,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[964]
+			[934]
 			BuffTemplate data
 				string templateKey = "trap_dupilr_trait[startdead]"
 				string effectKey = ""
@@ -18103,7 +17545,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[965]
+			[935]
 			BuffTemplate data
 				string templateKey = "trap_dupilr_trait"
 				string effectKey = ""
@@ -18136,7 +17578,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[966]
+			[936]
 			BuffTemplate data
 				string templateKey = "enemy_dufrbl_t"
 				string effectKey = ""
@@ -18177,7 +17619,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[967]
+			[937]
 			BuffTemplate data
 				string templateKey = "enemy_dushdo_duholy_trigger"
 				string effectKey = ""
@@ -18202,7 +17644,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[968]
+			[938]
 			BuffTemplate data
 				string templateKey = "enemy_duspfr_t[deadboom]"
 				string effectKey = ""
@@ -18219,7 +17661,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[969]
+			[939]
 			BuffTemplate data
 				string templateKey = "ep_break_fire"
 				string effectKey = ""
@@ -18232,11 +17674,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"MAGIC_RESISTANCE","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"ep_fire_magic_res_down","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"buff_burn","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"ep_break_fire_audio","lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_damageType":"MAGICAL","_damageKey":"ep_fire_damage","_ignoreForSp":false,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"MAGIC_RESISTANCE","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"ep_fire_magic_res_down","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"buff_burn","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"ep_break_fire_audio","lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_damageType":"MAGICAL","_damageKey":"ep_fire_damage","_ignoreForSp":false,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[970]
+			[940]
 			BuffTemplate data
 				string templateKey = "enemy_duspfr_flame[cd]"
 				string effectKey = ""
@@ -18277,7 +17719,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[971]
+			[941]
 			BuffTemplate data
 				string templateKey = "enemy_dugago_t[fly]"
 				string effectKey = ""
@@ -18294,7 +17736,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[972]
+			[942]
 			BuffTemplate data
 				string templateKey = "enemy_dugago_t[stone]"
 				string effectKey = ""
@@ -18311,7 +17753,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[973]
+			[943]
 			BuffTemplate data
 				string templateKey = "enemy_dugago_t[attack_by_dupilr]"
 				string effectKey = ""
@@ -18352,7 +17794,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[974]
+			[944]
 			BuffTemplate data
 				string templateKey = "enemy_durokt[fly]"
 				string effectKey = ""
@@ -18385,7 +17827,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[975]
+			[945]
 			BuffTemplate data
 				string templateKey = "trap_dupilr_t[auto_collapse]"
 				string effectKey = ""
@@ -18418,7 +17860,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[976]
+			[946]
 			BuffTemplate data
 				string templateKey = "enemy_mandra_switch_mode"
 				string effectKey = ""
@@ -18435,7 +17877,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[977]
+			[947]
 			BuffTemplate data
 				string templateKey = "enemy_mandra_stone_skin[damage]"
 				string effectKey = ""
@@ -18452,7 +17894,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[978]
+			[948]
 			BuffTemplate data
 				string templateKey = "enemy_mandra_stone_skin[effect]"
 				string effectKey = ""
@@ -18485,7 +17927,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[979]
+			[949]
 			BuffTemplate data
 				string templateKey = "enemy_mandra_stone_skin_fly"
 				string effectKey = ""
@@ -18510,7 +17952,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[980]
+			[950]
 			BuffTemplate data
 				string templateKey = "enemy_mandra_reborn"
 				string effectKey = ""
@@ -18527,7 +17969,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[981]
+			[951]
 			BuffTemplate data
 				string templateKey = "enemy_mandra_restore_cd"
 				string effectKey = ""
@@ -18552,7 +17994,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[982]
+			[952]
 			BuffTemplate data
 				string templateKey = "enemy_mandra_resummon_stone_skin"
 				string effectKey = ""
@@ -18585,7 +18027,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[983]
+			[953]
 			BuffTemplate data
 				string templateKey = "enemy_mandra_in_stone_skin"
 				string effectKey = ""
@@ -18610,7 +18052,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[984]
+			[954]
 			BuffTemplate data
 				string templateKey = "enemy_mandra_ray[during_attack]"
 				string effectKey = ""
@@ -18635,7 +18077,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[985]
+			[955]
 			BuffTemplate data
 				string templateKey = "enemy_mandra_ray[cd]"
 				string effectKey = ""
@@ -18676,7 +18118,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[986]
+			[956]
 			BuffTemplate data
 				string templateKey = "enemy_duruin[spawned]"
 				string effectKey = ""
@@ -18701,7 +18143,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[987]
+			[957]
 			BuffTemplate data
 				string templateKey = "fartth_e_trait"
 				string effectKey = ""
@@ -18718,7 +18160,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[988]
+			[958]
 			BuffTemplate data
 				string templateKey = "wildmn_t_1"
 				string effectKey = ""
@@ -18735,7 +18177,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[989]
+			[959]
 			BuffTemplate data
 				string templateKey = "character_occupy_zero"
 				string effectKey = ""
@@ -18752,7 +18194,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[990]
+			[960]
 			BuffTemplate data
 				string templateKey = "nearl2_t_1[mark]"
 				string effectKey = ""
@@ -18769,7 +18211,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[991]
+			[961]
 			BuffTemplate data
 				string templateKey = "nearl2_t_1[combo]"
 				string effectKey = ""
@@ -18786,7 +18228,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[992]
+			[962]
 			BuffTemplate data
 				string templateKey = "nearl2_s_2"
 				string effectKey = ""
@@ -18811,7 +18253,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[993]
+			[963]
 			BuffTemplate data
 				string templateKey = "nearl2_s_2[shield]"
 				string effectKey = ""
@@ -18828,7 +18270,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[994]
+			[964]
 			BuffTemplate data
 				string templateKey = "nearl2_s_2[withdraw]"
 				string effectKey = ""
@@ -18845,7 +18287,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[995]
+			[965]
 			BuffTemplate data
 				string templateKey = "nearl2_s_2[end]"
 				string effectKey = ""
@@ -18862,7 +18304,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[996]
+			[966]
 			BuffTemplate data
 				string templateKey = "nearl2_s_3"
 				string effectKey = ""
@@ -18887,7 +18329,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[997]
+			[967]
 			BuffTemplate data
 				string templateKey = "nearl2_s_3[damage]"
 				string effectKey = ""
@@ -18904,7 +18346,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[998]
+			[968]
 			BuffTemplate data
 				string templateKey = "nearl2_s_3[effect]"
 				string effectKey = ""
@@ -18921,7 +18363,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[999]
+			[969]
 			BuffTemplate data
 				string templateKey = "nearl2_sword_t_1[combo]"
 				string effectKey = ""
@@ -18938,7 +18380,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1000]
+			[970]
 			BuffTemplate data
 				string templateKey = "e2c_cold"
 				string effectKey = ""
@@ -18955,7 +18397,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1001]
+			[971]
 			BuffTemplate data
 				string templateKey = "c2e_cold"
 				string effectKey = ""
@@ -18996,7 +18438,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1002]
+			[972]
 			BuffTemplate data
 				string templateKey = "c2e_freeze[holder]"
 				string effectKey = ""
@@ -19021,7 +18463,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1003]
+			[973]
 			BuffTemplate data
 				string templateKey = "c2e_freeze[double_cold]"
 				string effectKey = ""
@@ -19046,7 +18488,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1004]
+			[974]
 			BuffTemplate data
 				string templateKey = "tile_icestr[cold]"
 				string effectKey = ""
@@ -19063,7 +18505,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1005]
+			[975]
 			BuffTemplate data
 				string templateKey = "blizzard_s[knockback_right]"
 				string effectKey = ""
@@ -19080,7 +18522,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1006]
+			[976]
 			BuffTemplate data
 				string templateKey = "blizzard_s[knockback_left]"
 				string effectKey = ""
@@ -19097,7 +18539,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1007]
+			[977]
 			BuffTemplate data
 				string templateKey = "blizzard_s[knockback_up]"
 				string effectKey = ""
@@ -19114,7 +18556,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1008]
+			[978]
 			BuffTemplate data
 				string templateKey = "blizzard_s[knockback_down]"
 				string effectKey = ""
@@ -19131,7 +18573,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1009]
+			[979]
 			BuffTemplate data
 				string templateKey = "blizzard_s[log]"
 				string effectKey = ""
@@ -19148,7 +18590,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1010]
+			[980]
 			BuffTemplate data
 				string templateKey = "blizzard_s[enemy]"
 				string effectKey = ""
@@ -19165,7 +18607,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1011]
+			[981]
 			BuffTemplate data
 				string templateKey = "blizzard_s[ally]"
 				string effectKey = ""
@@ -19182,7 +18624,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1012]
+			[982]
 			BuffTemplate data
 				string templateKey = "blizzard_s"
 				string effectKey = ""
@@ -19199,7 +18641,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1013]
+			[983]
 			BuffTemplate data
 				string templateKey = "enemy_blkswb_t_2"
 				string effectKey = ""
@@ -19224,7 +18666,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1014]
+			[984]
 			BuffTemplate data
 				string templateKey = "enemy_blkswb_s[cold_damage]"
 				string effectKey = ""
@@ -19241,7 +18683,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1015]
+			[985]
 			BuffTemplate data
 				string templateKey = "enemy_blkswb_s[circle_attack]"
 				string effectKey = ""
@@ -19258,7 +18700,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1016]
+			[986]
 			BuffTemplate data
 				string templateKey = "enemy_blkswb_s[hp_trigger]"
 				string effectKey = ""
@@ -19283,7 +18725,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1017]
+			[987]
 			BuffTemplate data
 				string templateKey = "enemy_blkswb_s[blink_damage]"
 				string effectKey = ""
@@ -19300,7 +18742,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1018]
+			[988]
 			BuffTemplate data
 				string templateKey = "atk_up_during_blizzard"
 				string effectKey = ""
@@ -19317,7 +18759,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1019]
+			[989]
 			BuffTemplate data
 				string templateKey = "enemy_krgbsk_t[cold]"
 				string effectKey = ""
@@ -19334,7 +18776,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1020]
+			[990]
 			BuffTemplate data
 				string templateKey = "enemy_krgrg_boom"
 				string effectKey = ""
@@ -19351,7 +18793,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1021]
+			[991]
 			BuffTemplate data
 				string templateKey = "enemy_krgrg_bleed"
 				string effectKey = ""
@@ -19368,7 +18810,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1022]
+			[992]
 			BuffTemplate data
 				string templateKey = "gnosis_t_1[weak]"
 				string effectKey = ""
@@ -19381,7 +18823,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_abnormalFlag":"FROZEN","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_blackboardKeys":"damage_scale","_fromBlackboardKeys":"damage_scale_freeze","_value":0.0,"_addBasedOriginValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_buffKey":"weak[inf]","_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}],"_failNodes":[{"_conditionNode":{"_abnormalFlag":"COLD","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_blackboardKeys":"damage_scale","_fromBlackboardKeys":"damage_scale_cold","_value":0.0,"_addBasedOriginValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_buffKey":"weak[inf]","_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_abnormalFlag":"FROZEN","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_blackboardKeys":"damage_scale","_fromBlackboardKeys":"damage_scale_freeze","_value":0.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_buffKey":"weak[inf]","_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}],"_failNodes":[{"_conditionNode":{"_abnormalFlag":"COLD","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_blackboardKeys":"damage_scale","_fromBlackboardKeys":"damage_scale_cold","_value":0.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_buffKey":"weak[inf]","_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -19389,11 +18831,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 30
 								ActionArray value
-									string SerializedState = "[{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"},{"_conditionNode":{"_abnormalFlag":"FROZEN","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_blackboardKeys":"damage_scale","_fromBlackboardKeys":"damage_scale_freeze","_value":0.0,"_addBasedOriginValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_buffKey":"weak[inf]","_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}],"_failNodes":[{"_conditionNode":{"_abnormalFlag":"COLD","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_blackboardKeys":"damage_scale","_fromBlackboardKeys":"damage_scale_cold","_value":0.0,"_addBasedOriginValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_buffKey":"weak[inf]","_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"},{"_conditionNode":{"_abnormalFlag":"FROZEN","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_blackboardKeys":"damage_scale","_fromBlackboardKeys":"damage_scale_freeze","_value":0.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_buffKey":"weak[inf]","_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}],"_failNodes":[{"_conditionNode":{"_abnormalFlag":"COLD","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_blackboardKeys":"damage_scale","_fromBlackboardKeys":"damage_scale_cold","_value":0.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_buffKey":"weak[inf]","_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1023]
+			[993]
 			BuffTemplate data
 				string templateKey = "gnosis_s_3[clear_freeze]"
 				string effectKey = ""
@@ -19410,7 +18852,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1024]
+			[994]
 			BuffTemplate data
 				string templateKey = "gnosis_s_3"
 				string effectKey = ""
@@ -19439,11 +18881,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 20
 								ActionArray value
-									string SerializedState = "[{"_charFrom":"BUFF_OWNER","_resetCD":true,"$type":"Torappu.Battle.Action.Nodes+InterruptCharacterAttack"},{"_ownerType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"FinalAttack","_checkCanUseAblityFlag":false,"_castDirectly":false,"$type":"Torappu.Battle.Action.Nodes+TriggerAbility"}]"
+									string SerializedState = "[{"_charFrom":"BUFF_OWNER","_resetCD":true,"_resetAndClearCD":false,"$type":"Torappu.Battle.Action.Nodes+InterruptCharacterAttack"},{"_ownerType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"FinalAttack","_checkCanUseAblityFlag":false,"_castDirectly":false,"$type":"Torappu.Battle.Action.Nodes+TriggerAbility"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1025]
+			[995]
 			BuffTemplate data
 				string templateKey = "gnosis_s_3[check_freeze]"
 				string effectKey = ""
@@ -19468,7 +18910,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1026]
+			[996]
 			BuffTemplate data
 				string templateKey = "gnosis_s_2"
 				string effectKey = ""
@@ -19485,7 +18927,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1027]
+			[997]
 			BuffTemplate data
 				string templateKey = "gnosis_s_2[eff_cond]"
 				string effectKey = ""
@@ -19502,7 +18944,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1028]
+			[998]
 			BuffTemplate data
 				string templateKey = "gnosis_s_2_enhance_judge"
 				string effectKey = ""
@@ -19527,7 +18969,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1029]
+			[999]
 			BuffTemplate data
 				string templateKey = "kjera_tr"
 				string effectKey = ""
@@ -19544,7 +18986,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1030]
+			[1000]
 			BuffTemplate data
 				string templateKey = "kjera_t_1"
 				string effectKey = ""
@@ -19561,7 +19003,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1031]
+			[1001]
 			BuffTemplate data
 				string templateKey = "kjera_s_2"
 				string effectKey = ""
@@ -19578,7 +19020,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1032]
+			[1002]
 			BuffTemplate data
 				string templateKey = "csdcr_t"
 				string effectKey = ""
@@ -19595,7 +19037,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1033]
+			[1003]
 			BuffTemplate data
 				string templateKey = "vultres_t"
 				string effectKey = ""
@@ -19612,7 +19054,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1034]
+			[1004]
 			BuffTemplate data
 				string templateKey = "atk_scale[frozen]"
 				string effectKey = ""
@@ -19629,7 +19071,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1035]
+			[1005]
 			BuffTemplate data
 				string templateKey = "enemy_csicem[trigger_rage]"
 				string effectKey = ""
@@ -19646,7 +19088,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1036]
+			[1006]
 			BuffTemplate data
 				string templateKey = "enemy_csicer[trigger_rage]"
 				string effectKey = ""
@@ -19663,7 +19105,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1037]
+			[1007]
 			BuffTemplate data
 				string templateKey = "e2c_cold_on_finish"
 				string effectKey = ""
@@ -19680,7 +19122,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1038]
+			[1008]
 			BuffTemplate data
 				string templateKey = "csdoll_prob_stun"
 				string effectKey = ""
@@ -19697,7 +19139,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1039]
+			[1009]
 			BuffTemplate data
 				string templateKey = "csdoll_shield"
 				string effectKey = ""
@@ -19714,7 +19156,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1040]
+			[1010]
 			BuffTemplate data
 				string templateKey = "csdoll_summon"
 				string effectKey = ""
@@ -19731,7 +19173,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1041]
+			[1011]
 			BuffTemplate data
 				string templateKey = "csdoll_t"
 				string effectKey = ""
@@ -19748,7 +19190,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1042]
+			[1012]
 			BuffTemplate data
 				string templateKey = "cshost_token"
 				string effectKey = ""
@@ -19765,7 +19207,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1043]
+			[1013]
 			BuffTemplate data
 				string templateKey = "cshost_reborn"
 				string effectKey = ""
@@ -19782,7 +19224,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1044]
+			[1014]
 			BuffTemplate data
 				string templateKey = "cshost_token_damage"
 				string effectKey = ""
@@ -19799,7 +19241,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1045]
+			[1015]
 			BuffTemplate data
 				string templateKey = "periodic_damage[stun&frozen&unmovable]"
 				string effectKey = ""
@@ -19812,11 +19254,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_abnormalFlag":"STUNNED","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_damageType":"MAGICAL","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NONE","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"relic_1_q20_attack_01_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":[{"_conditionNode":{"_abnormalFlag":"FROZEN","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_damageType":"MAGICAL","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NONE","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"relic_1_q20_attack_01_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":[{"_abnormalFlag":"UNMOVABLE","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},{"_damageType":"MAGICAL","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"relic_1_q20_attack_01_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_abnormalFlag":"STUNNED","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_damageType":"MAGICAL","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NONE","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"relic_1_q20_attack_01_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":[{"_conditionNode":{"_abnormalFlag":"FROZEN","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_damageType":"MAGICAL","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NONE","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"relic_1_q20_attack_01_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":[{"_abnormalFlag":"UNMOVABLE","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},{"_damageType":"MAGICAL","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"relic_1_q20_attack_01_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1046]
+			[1016]
 			BuffTemplate data
 				string templateKey = "element_resistance"
 				string effectKey = ""
@@ -19833,7 +19275,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1047]
+			[1017]
 			BuffTemplate data
 				string templateKey = "attr_up_on_trigger[def&mag_resist]"
 				string effectKey = ""
@@ -19850,7 +19292,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1048]
+			[1018]
 			BuffTemplate data
 				string templateKey = "filtertag_resistance"
 				string effectKey = ""
@@ -19867,7 +19309,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1049]
+			[1019]
 			BuffTemplate data
 				string templateKey = "damage_resistance[stun&cold&frozen]"
 				string effectKey = ""
@@ -19884,7 +19326,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1050]
+			[1020]
 			BuffTemplate data
 				string templateKey = "periodic_damage_via_source_def[magic]"
 				string effectKey = ""
@@ -19901,7 +19343,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1051]
+			[1021]
 			BuffTemplate data
 				string templateKey = "extra_damage_to_low_hp[pure]"
 				string effectKey = ""
@@ -19918,7 +19360,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1052]
+			[1022]
 			BuffTemplate data
 				string templateKey = "damage_via_cur_hp_ratio[magic]"
 				string effectKey = ""
@@ -19935,7 +19377,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1053]
+			[1023]
 			BuffTemplate data
 				string templateKey = "hit_to_add_sp"
 				string effectKey = ""
@@ -19952,7 +19394,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1054]
+			[1024]
 			BuffTemplate data
 				string templateKey = "modify_sp[take_ep_damage]"
 				string effectKey = ""
@@ -19969,7 +19411,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1055]
+			[1025]
 			BuffTemplate data
 				string templateKey = "filter_tag[damage_resistance]"
 				string effectKey = ""
@@ -19986,7 +19428,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1056]
+			[1026]
 			BuffTemplate data
 				string templateKey = "blkngt_tr"
 				string effectKey = ""
@@ -20003,7 +19445,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1057]
+			[1027]
 			BuffTemplate data
 				string templateKey = "blkngt_s_1"
 				string effectKey = ""
@@ -20020,7 +19462,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1058]
+			[1028]
 			BuffTemplate data
 				string templateKey = "blkngt_s_2"
 				string effectKey = ""
@@ -20037,7 +19479,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1059]
+			[1029]
 			BuffTemplate data
 				string templateKey = "blkngt_hypnos_t_1[listener]"
 				string effectKey = ""
@@ -20054,7 +19496,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1060]
+			[1030]
 			BuffTemplate data
 				string templateKey = "blkngt_hypnos_t_1[trigger][imme]"
 				string effectKey = ""
@@ -20071,7 +19513,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1061]
+			[1031]
 			BuffTemplate data
 				string templateKey = "blkngt_hypnos_t_1[trigger]"
 				string effectKey = ""
@@ -20088,7 +19530,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1062]
+			[1032]
 			BuffTemplate data
 				string templateKey = "blkngt_hypnos_t_1[reborn]"
 				string effectKey = ""
@@ -20105,7 +19547,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1063]
+			[1033]
 			BuffTemplate data
 				string templateKey = "blkngt_hypnos_t_2"
 				string effectKey = ""
@@ -20122,7 +19564,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1064]
+			[1034]
 			BuffTemplate data
 				string templateKey = "blkngt_hypnos_s_1[heal]"
 				string effectKey = ""
@@ -20139,7 +19581,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1065]
+			[1035]
 			BuffTemplate data
 				string templateKey = "blkngt_hypnos_s_1[rage][trigger]"
 				string effectKey = ""
@@ -20156,7 +19598,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1066]
+			[1036]
 			BuffTemplate data
 				string templateKey = "blkngt_hypnos_s_1[sleep]"
 				string effectKey = ""
@@ -20189,7 +19631,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1067]
+			[1037]
 			BuffTemplate data
 				string templateKey = "blkngt_hypnos_s_2[sleep][trigger]"
 				string effectKey = ""
@@ -20206,7 +19648,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1068]
+			[1038]
 			BuffTemplate data
 				string templateKey = "blkngt_hypnos_s_2[atk_scale]"
 				string effectKey = ""
@@ -20231,7 +19673,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1069]
+			[1039]
 			BuffTemplate data
 				string templateKey = "gdglow_tr"
 				string effectKey = ""
@@ -20248,7 +19690,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1070]
+			[1040]
 			BuffTemplate data
 				string templateKey = "ling_soul3_evolution[mode]"
 				string effectKey = ""
@@ -20265,7 +19707,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1071]
+			[1041]
 			BuffTemplate data
 				string templateKey = "ling_soul3_evolution[another]"
 				string effectKey = ""
@@ -20282,7 +19724,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1072]
+			[1042]
 			BuffTemplate data
 				string templateKey = "ling_s3_aoe[token]"
 				string effectKey = ""
@@ -20299,7 +19741,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1073]
+			[1043]
 			BuffTemplate data
 				string templateKey = "ling_t"
 				string effectKey = ""
@@ -20316,7 +19758,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1074]
+			[1044]
 			BuffTemplate data
 				string templateKey = "forcer_t_1"
 				string effectKey = ""
@@ -20341,7 +19783,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1075]
+			[1045]
 			BuffTemplate data
 				string templateKey = "forcer_s_1[against_wall]"
 				string effectKey = ""
@@ -20374,7 +19816,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1076]
+			[1046]
 			BuffTemplate data
 				string templateKey = "forcer_s_2[brush]"
 				string effectKey = ""
@@ -20391,7 +19833,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1077]
+			[1047]
 			BuffTemplate data
 				string templateKey = "forcer_s_2[hit_directly]"
 				string effectKey = ""
@@ -20416,7 +19858,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1078]
+			[1048]
 			BuffTemplate data
 				string templateKey = "knockback[char_dir]"
 				string effectKey = ""
@@ -20433,7 +19875,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1079]
+			[1049]
 			BuffTemplate data
 				string templateKey = "ling_s3_token[mode_holder]"
 				string effectKey = ""
@@ -20458,7 +19900,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1080]
+			[1050]
 			BuffTemplate data
 				string templateKey = "ling_s3_token[finish_mode]"
 				string effectKey = ""
@@ -20475,7 +19917,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1081]
+			[1051]
 			BuffTemplate data
 				string templateKey = "enemy_bloodsucker_block_cnt[control]"
 				string effectKey = ""
@@ -20500,7 +19942,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1082]
+			[1052]
 			BuffTemplate data
 				string templateKey = "enemy_vampires[bloodsucker_summon]"
 				string effectKey = ""
@@ -20513,11 +19955,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 3
 								ActionArray value
-									string SerializedState = "[{"_source":"TARGET","_finishReason":"FALLDOWN","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"bloodsucker_summon[audio]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"bloodsucker_summon[audio]","lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_source":"TARGET","_enemyKey":null,"_summonCount":1,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":false,"_randomOffsetBound":0.1,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.5,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
+									string SerializedState = "[{"_source":"TARGET","_finishReason":"FALLDOWN","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"bloodsucker_summon[audio]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"bloodsucker_summon[audio]","lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_source":"TARGET","_enemyKey":null,"_summonCount":1,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":false,"_randomOffsetBound":0.1,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.5,"_stopSummonIfHostDead":false,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1083]
+			[1053]
 			BuffTemplate data
 				string templateKey = "enemy_dsuply_t[aura]"
 				string effectKey = ""
@@ -20550,7 +19992,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1084]
+			[1054]
 			BuffTemplate data
 				string templateKey = "enemy_dsuply_2_t[aura]"
 				string effectKey = ""
@@ -20583,7 +20025,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1085]
+			[1055]
 			BuffTemplate data
 				string templateKey = "enemy_dklord_aura"
 				string effectKey = ""
@@ -20616,7 +20058,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1086]
+			[1056]
 			BuffTemplate data
 				string templateKey = "enemy_dair_charge[trigger]"
 				string effectKey = ""
@@ -20633,7 +20075,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1087]
+			[1057]
 			BuffTemplate data
 				string templateKey = "enemy_dmech_charge[interrupt]"
 				string effectKey = ""
@@ -20658,7 +20100,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1088]
+			[1058]
 			BuffTemplate data
 				string templateKey = "enemy_dslime_vampire"
 				string effectKey = ""
@@ -20675,7 +20117,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1089]
+			[1059]
 			BuffTemplate data
 				string templateKey = "gunctrl_alert"
 				string effectKey = ""
@@ -20700,7 +20142,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1090]
+			[1060]
 			BuffTemplate data
 				string templateKey = "ep_break_dark"
 				string effectKey = ""
@@ -20717,7 +20159,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1091]
+			[1061]
 			BuffTemplate data
 				string templateKey = "sp_loss"
 				string effectKey = ""
@@ -20734,7 +20176,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1092]
+			[1062]
 			BuffTemplate data
 				string templateKey = "enemy_manfri_evade[trigger]"
 				string effectKey = ""
@@ -20751,7 +20193,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1093]
+			[1063]
 			BuffTemplate data
 				string templateKey = "enemy_manfri_effect[hide_idle]"
 				string effectKey = ""
@@ -20768,7 +20210,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1094]
+			[1064]
 			BuffTemplate data
 				string templateKey = "enemy_manfri_funnel_s2_effect[hit]"
 				string effectKey = ""
@@ -20785,7 +20227,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1095]
+			[1065]
 			BuffTemplate data
 				string templateKey = "enemy_manfri_effect[trigger_idle]"
 				string effectKey = ""
@@ -20802,7 +20244,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1096]
+			[1066]
 			BuffTemplate data
 				string templateKey = "enemy_manfri_aura[damage]"
 				string effectKey = ""
@@ -20819,7 +20261,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1097]
+			[1067]
 			BuffTemplate data
 				string templateKey = "enemy_manfri_aura"
 				string effectKey = ""
@@ -20852,7 +20294,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1098]
+			[1068]
 			BuffTemplate data
 				string templateKey = "enemy_manfri_evade[disable]"
 				string effectKey = ""
@@ -20869,7 +20311,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1099]
+			[1069]
 			BuffTemplate data
 				string templateKey = "enemy_manfri_mark"
 				string effectKey = ""
@@ -20886,7 +20328,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1100]
+			[1070]
 			BuffTemplate data
 				string templateKey = "enemy_manfri_funnel[trigger]"
 				string effectKey = ""
@@ -20903,7 +20345,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1101]
+			[1071]
 			BuffTemplate data
 				string templateKey = "enemy_manfri_atk[imme]"
 				string effectKey = ""
@@ -20920,7 +20362,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1102]
+			[1072]
 			BuffTemplate data
 				string templateKey = "enemy_manfri_atk[holder]"
 				string effectKey = ""
@@ -20937,7 +20379,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1103]
+			[1073]
 			BuffTemplate data
 				string templateKey = "enemy_manfri_evade[disable_effect]"
 				string effectKey = ""
@@ -20954,7 +20396,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1104]
+			[1074]
 			BuffTemplate data
 				string templateKey = "enemy_manfri_evade[disable_timer]"
 				string effectKey = ""
@@ -20971,7 +20413,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1105]
+			[1075]
 			BuffTemplate data
 				string templateKey = "rockr_s_2[switch_mode]"
 				string effectKey = ""
@@ -20996,7 +20438,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1106]
+			[1076]
 			BuffTemplate data
 				string templateKey = "rockr_s_2[overload]"
 				string effectKey = ""
@@ -21021,7 +20463,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1107]
+			[1077]
 			BuffTemplate data
 				string templateKey = "rockr_s_2[attack_start_audio]"
 				string effectKey = ""
@@ -21038,7 +20480,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1108]
+			[1078]
 			BuffTemplate data
 				string templateKey = "rockr_s_2[attack_hit_audio]"
 				string effectKey = ""
@@ -21055,7 +20497,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1109]
+			[1079]
 			BuffTemplate data
 				string templateKey = "rockr_s_2[funnel_hit_audio]"
 				string effectKey = ""
@@ -21072,7 +20514,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1110]
+			[1080]
 			BuffTemplate data
 				string templateKey = "rockr_t_1"
 				string effectKey = ""
@@ -21089,7 +20531,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1111]
+			[1081]
 			BuffTemplate data
 				string templateKey = "rockr_s_effect"
 				string effectKey = ""
@@ -21106,7 +20548,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1112]
+			[1082]
 			BuffTemplate data
 				string templateKey = "enemy_dsdevr_swallow_counter"
 				string effectKey = ""
@@ -21123,7 +20565,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1113]
+			[1083]
 			BuffTemplate data
 				string templateKey = "enemy_dsdevr_finish_wave"
 				string effectKey = ""
@@ -21140,7 +20582,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1114]
+			[1084]
 			BuffTemplate data
 				string templateKey = "trap_creep_ep_damage_scale"
 				string effectKey = ""
@@ -21157,7 +20599,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1115]
+			[1085]
 			BuffTemplate data
 				string templateKey = "enemy_dsdevr_activate_remains"
 				string effectKey = ""
@@ -21174,7 +20616,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1116]
+			[1086]
 			BuffTemplate data
 				string templateKey = "enemy_dsdevr_remains_t"
 				string effectKey = ""
@@ -21187,11 +20629,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 3
 								ActionArray value
-									string SerializedState = "[{"_source":"BUFF_OWNER","_enemyKey":null,"_summonCount":1,"_delayTime":0.5,"_managedByScheduler":true,"_dontBlockWave":true,"_trySummonOutsideWhenInObstacle":false,"_randomOffsetBound":0.0,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":true,"_useLocalUnharmfulFlag":false,"_unharmful":true,"_useMapPosition":true,"_useRandomDelay":false,"_randomDelayRange":0.5,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
+									string SerializedState = "[{"_source":"BUFF_OWNER","_enemyKey":null,"_summonCount":1,"_delayTime":0.5,"_managedByScheduler":true,"_dontBlockWave":true,"_trySummonOutsideWhenInObstacle":false,"_randomOffsetBound":0.0,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":true,"_useLocalUnharmfulFlag":false,"_unharmful":true,"_useMapPosition":true,"_useRandomDelay":false,"_randomDelayRange":0.5,"_stopSummonIfHostDead":false,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1117]
+			[1087]
 			BuffTemplate data
 				string templateKey = "enemy_dsdevr_dsshtr_t"
 				string effectKey = ""
@@ -21208,7 +20650,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1118]
+			[1088]
 			BuffTemplate data
 				string templateKey = "enemy_bouncy_suicide[collision]"
 				string effectKey = ""
@@ -21233,7 +20675,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1119]
+			[1089]
 			BuffTemplate data
 				string templateKey = "enemy_dsdevr_lifesteal"
 				string effectKey = ""
@@ -21250,7 +20692,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1120]
+			[1090]
 			BuffTemplate data
 				string templateKey = "enemy_dsbskr_mode"
 				string effectKey = ""
@@ -21267,7 +20709,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1121]
+			[1091]
 			BuffTemplate data
 				string templateKey = "enemy_dsbskr_atk_up[effect]"
 				string effectKey = ""
@@ -21284,7 +20726,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1122]
+			[1092]
 			BuffTemplate data
 				string templateKey = "enemy_bouncy_hit_effect"
 				string effectKey = ""
@@ -21301,7 +20743,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1123]
+			[1093]
 			BuffTemplate data
 				string templateKey = "enemy_bouncy_clean"
 				string effectKey = ""
@@ -21326,7 +20768,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1124]
+			[1094]
 			BuffTemplate data
 				string templateKey = "enemy_dsbskr_atk_reduce"
 				string effectKey = ""
@@ -21343,7 +20785,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1125]
+			[1095]
 			BuffTemplate data
 				string templateKey = "enemy_dsbskr_atk_up"
 				string effectKey = ""
@@ -21360,7 +20802,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1126]
+			[1096]
 			BuffTemplate data
 				string templateKey = "trap_creep_apply_ep_damage"
 				string effectKey = ""
@@ -21377,7 +20819,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1127]
+			[1097]
 			BuffTemplate data
 				string templateKey = "trap_creep_ep_damage"
 				string effectKey = ""
@@ -21394,7 +20836,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1128]
+			[1098]
 			BuffTemplate data
 				string templateKey = "enemy_dssalr_blockvolume"
 				string effectKey = ""
@@ -21419,7 +20861,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1129]
+			[1099]
 			BuffTemplate data
 				string templateKey = "enemy_dsbskr_invisible"
 				string effectKey = ""
@@ -21436,7 +20878,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1130]
+			[1100]
 			BuffTemplate data
 				string templateKey = "enemy_dsubrl_aoe[aura]"
 				string effectKey = ""
@@ -21453,7 +20895,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1131]
+			[1101]
 			BuffTemplate data
 				string templateKey = "enemy_dssalr_creep"
 				string effectKey = ""
@@ -21478,7 +20920,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1132]
+			[1102]
 			BuffTemplate data
 				string templateKey = "enemy_dsrunr_blockfree"
 				string effectKey = ""
@@ -21495,7 +20937,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1133]
+			[1103]
 			BuffTemplate data
 				string templateKey = "enemy_dsbudr_deathrattle"
 				string effectKey = ""
@@ -21512,7 +20954,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1134]
+			[1104]
 			BuffTemplate data
 				string templateKey = "enemy_bouncy_suicide"
 				string effectKey = ""
@@ -21537,7 +20979,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1135]
+			[1105]
 			BuffTemplate data
 				string templateKey = "trap_creep_t_1"
 				string effectKey = ""
@@ -21550,11 +20992,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_damageType":"MAGICAL","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_elementDamageType":"SANITY","_sourceType":"BUFF_OWNER","_isFixedEpDamage":true,"_fixedEpDamageKey":"element_damage","_fixedEpDamage":0.0,"_noSource":true,"_forceUseProjectileCachedAtk":false,"_multiplyWithBuffValidStackCnt":false,"_buffKey":null,"_buffSourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+ApplyElementDamage"},{"_logType":"SIMPLE","_key":"creep_damage","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									string SerializedState = "[{"_damageType":"MAGICAL","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":false,"_isUndeadable":false,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_elementDamageType":"SANITY","_sourceType":"BUFF_OWNER","_isFixedEpDamage":true,"_fixedEpDamageKey":"element_damage","_fixedEpDamage":0.0,"_noSource":true,"_forceUseProjectileCachedAtk":false,"_multiplyWithBuffValidStackCnt":false,"_buffKey":null,"_buffSourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+ApplyElementDamage"},{"_logType":"SIMPLE","_key":"creep_damage","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1136]
+			[1106]
 			BuffTemplate data
 				string templateKey = "enemy_bouncy_friction"
 				string effectKey = ""
@@ -21579,7 +21021,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1137]
+			[1107]
 			BuffTemplate data
 				string templateKey = "enemy_dsdevr_disable_respawn[holder]"
 				string effectKey = ""
@@ -21596,7 +21038,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1138]
+			[1108]
 			BuffTemplate data
 				string templateKey = "enemy_dsdevr_disable_respawn"
 				string effectKey = ""
@@ -21621,7 +21063,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1139]
+			[1109]
 			BuffTemplate data
 				string templateKey = "attr_up_after_first_deploy"
 				string effectKey = ""
@@ -21638,7 +21080,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1140]
+			[1110]
 			BuffTemplate data
 				string templateKey = "purify"
 				string effectKey = ""
@@ -21655,7 +21097,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1141]
+			[1111]
 			BuffTemplate data
 				string templateKey = "lumen_trait"
 				string effectKey = ""
@@ -21672,7 +21114,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1142]
+			[1112]
 			BuffTemplate data
 				string templateKey = "lumen_t_1"
 				string effectKey = ""
@@ -21689,7 +21131,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1143]
+			[1113]
 			BuffTemplate data
 				string templateKey = "lumen_t_1[special]"
 				string effectKey = ""
@@ -21706,7 +21148,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1144]
+			[1114]
 			BuffTemplate data
 				string templateKey = "lumen_t_2[listener]"
 				string effectKey = ""
@@ -21723,7 +21165,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1145]
+			[1115]
 			BuffTemplate data
 				string templateKey = "lumen_t_2[enable]"
 				string effectKey = ""
@@ -21740,7 +21182,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1146]
+			[1116]
 			BuffTemplate data
 				string templateKey = "lumen_t_2[cooldown]"
 				string effectKey = ""
@@ -21757,7 +21199,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1147]
+			[1117]
 			BuffTemplate data
 				string templateKey = "lumen_s_1"
 				string effectKey = ""
@@ -21774,7 +21216,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1148]
+			[1118]
 			BuffTemplate data
 				string templateKey = "lumen_s_1[heal]"
 				string effectKey = ""
@@ -21791,7 +21233,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1149]
+			[1119]
 			BuffTemplate data
 				string templateKey = "lumen_s_2"
 				string effectKey = ""
@@ -21808,7 +21250,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1150]
+			[1120]
 			BuffTemplate data
 				string templateKey = "lumen_s_2[eff_cond]"
 				string effectKey = ""
@@ -21825,7 +21267,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1151]
+			[1121]
 			BuffTemplate data
 				string templateKey = "lumen_s_2_enhance_judge"
 				string effectKey = ""
@@ -21842,7 +21284,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1152]
+			[1122]
 			BuffTemplate data
 				string templateKey = "lumen_s_3[ammo]"
 				string effectKey = ""
@@ -21859,7 +21301,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1153]
+			[1123]
 			BuffTemplate data
 				string templateKey = "enemy_dsdevr_log"
 				string effectKey = ""
@@ -21876,7 +21318,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1154]
+			[1124]
 			BuffTemplate data
 				string templateKey = "trap_bouncy_stun[log]"
 				string effectKey = ""
@@ -21893,7 +21335,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1155]
+			[1125]
 			BuffTemplate data
 				string templateKey = "hbisc2_tr"
 				string effectKey = ""
@@ -21910,7 +21352,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1156]
+			[1126]
 			BuffTemplate data
 				string templateKey = "instant_heal[with_effect]"
 				string effectKey = ""
@@ -21927,7 +21369,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1157]
+			[1127]
 			BuffTemplate data
 				string templateKey = "milu_e_t_1"
 				string effectKey = ""
@@ -21944,7 +21386,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1158]
+			[1128]
 			BuffTemplate data
 				string templateKey = "gravel_e_t_10"
 				string effectKey = ""
@@ -21961,7 +21403,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1159]
+			[1129]
 			BuffTemplate data
 				string templateKey = "cgbird_e_healup"
 				string effectKey = ""
@@ -21978,7 +21420,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1160]
+			[1130]
 			BuffTemplate data
 				string templateKey = "damage_block_once[phy]"
 				string effectKey = ""
@@ -21995,7 +21437,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1161]
+			[1131]
 			BuffTemplate data
 				string templateKey = "sophia_e_t"
 				string effectKey = ""
@@ -22012,7 +21454,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1162]
+			[1132]
 			BuffTemplate data
 				string templateKey = "sophia_e_t_shield"
 				string effectKey = ""
@@ -22029,7 +21471,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1163]
+			[1133]
 			BuffTemplate data
 				string templateKey = "skadi_e_tr"
 				string effectKey = ""
@@ -22046,7 +21488,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1164]
+			[1134]
 			BuffTemplate data
 				string templateKey = "finlpp_e_t_10[holder]"
 				string effectKey = ""
@@ -22079,7 +21521,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1165]
+			[1135]
 			BuffTemplate data
 				string templateKey = "finlpp_e_t_10"
 				string effectKey = ""
@@ -22096,7 +21538,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1166]
+			[1136]
 			BuffTemplate data
 				string templateKey = "enemy_dsdevr_effect_controller"
 				string effectKey = ""
@@ -22121,7 +21563,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1167]
+			[1137]
 			BuffTemplate data
 				string templateKey = "enemy_dsdevr_interrupt_ability"
 				string effectKey = ""
@@ -22138,7 +21580,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1168]
+			[1138]
 			BuffTemplate data
 				string templateKey = "enemy_dsbskr_atk_up[dsdevr]"
 				string effectKey = ""
@@ -22155,7 +21597,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1169]
+			[1139]
 			BuffTemplate data
 				string templateKey = "enemy_dsbskr_atk_up[dsdevr_effect]"
 				string effectKey = ""
@@ -22172,7 +21614,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1170]
+			[1140]
 			BuffTemplate data
 				string templateKey = "rogue_1_random_attack"
 				string effectKey = ""
@@ -22189,7 +21631,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1171]
+			[1141]
 			BuffTemplate data
 				string templateKey = "rogue_1_attack_up_after_skill"
 				string effectKey = ""
@@ -22222,7 +21664,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1172]
+			[1142]
 			BuffTemplate data
 				string templateKey = "rogue_1_damage_scale_by_distance"
 				string effectKey = ""
@@ -22239,7 +21681,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1173]
+			[1143]
 			BuffTemplate data
 				string templateKey = "rogue_1_damage_via_es[self]"
 				string effectKey = ""
@@ -22256,7 +21698,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1174]
+			[1144]
 			BuffTemplate data
 				string templateKey = "rogue_1_damage_via_es[magic]"
 				string effectKey = ""
@@ -22273,7 +21715,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1175]
+			[1145]
 			BuffTemplate data
 				string templateKey = "rogue_1_damage_via_es"
 				string effectKey = ""
@@ -22290,7 +21732,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1176]
+			[1146]
 			BuffTemplate data
 				string templateKey = "rogue_1_enable_es_modifier_flag"
 				string effectKey = ""
@@ -22315,7 +21757,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1177]
+			[1147]
 			BuffTemplate data
 				string templateKey = "cswrtr_s2"
 				string effectKey = ""
@@ -22340,7 +21782,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1178]
+			[1148]
 			BuffTemplate data
 				string templateKey = "ebnhlz_t_2"
 				string effectKey = ""
@@ -22353,11 +21795,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":true,"_condType":"LE","_countKey":"cnt","_checkRadius":true,"_rangeRadius":0.0,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},{"_damageType":"MAGICAL","_atkScaleVar":"atk_scale","_applyWay":"NONE","_baseOnHostAtk":false,"_emitSourceOnCalculateDamage":false,"_attackType":"NORMAL","_forceUseProjectileCachedAtk":false,"_ignoreForSp":false,"_ignoreMissFlag":"NONE","$type":"Torappu.Battle.Action.Nodes+AdvancedApplyDamage"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"ebnhlz_beidong_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
+									string SerializedState = "[{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":true,"_condType":"LE","_countKey":"cnt","_checkRadius":true,"_rangeRadius":0.0,"_excludeSource":true,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},{"_damageType":"MAGICAL","_atkScaleVar":"atk_scale","_applyWay":"NONE","_baseOnHostAtk":false,"_emitSourceOnCalculateDamage":false,"_attackType":"NORMAL","_forceUseProjectileCachedAtk":false,"_ignoreForSp":false,"_ignoreMissFlag":"NONE","$type":"Torappu.Battle.Action.Nodes+AdvancedApplyDamage"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"ebnhlz_beidong_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1179]
+			[1149]
 			BuffTemplate data
 				string templateKey = "ebnhlz_s_2[kill_token]"
 				string effectKey = ""
@@ -22374,7 +21816,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1180]
+			[1150]
 			BuffTemplate data
 				string templateKey = "enemy_lyengs[modify_hp]"
 				string effectKey = ""
@@ -22391,7 +21833,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1181]
+			[1151]
 			BuffTemplate data
 				string templateKey = "char_bgsnow_s1[token_eff]"
 				string effectKey = ""
@@ -22408,7 +21850,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1182]
+			[1152]
 			BuffTemplate data
 				string templateKey = "char_bgsnow_s3[token_eff]"
 				string effectKey = ""
@@ -22425,7 +21867,24 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1183]
+			[1153]
+			BuffTemplate data
+				string templateKey = "damage_resistance[phy]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_filterDamageType":true,"_damageMask":"PHYSICAL","_filterApplyWay":false,"_applyWayFilter":"NONE","_isOneMinus":true,"_isStackable":false,"_cachedDeltaValueToBBKey":"","$type":"Torappu.Battle.Action.Nodes+DamageScale"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1154]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_hit_turngear"
 				string effectKey = ""
@@ -22439,528 +21898,528 @@ MonoBehaviour Base
 								int key = 0
 								ActionArray value
 									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"MOVE_SPEED","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"enemy_durcar_speed_up","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1155]
+			BuffTemplate data
+				string templateKey = "garage_s[log]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_key":"last_cast","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfoForCurrentPlayTime"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1156]
+			BuffTemplate data
+				string templateKey = "enemy_minima_dot"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKeys":["enemy_minima_drone_1","enemy_minima_drone_2","enemy_minima_drone_3","enemy_minima_drone_4"],"_useSourceFaceVector":false,"$type":"Torappu.Battle.Action.Nodes+CreateRandomEffect"},{"_damageType":"MAGICAL","_atkScaleVar":"atk_scale","_applyWay":"NONE","_baseOnHostAtk":false,"_emitSourceOnCalculateDamage":false,"_attackType":"BUFF","_forceUseProjectileCachedAtk":false,"_ignoreForSp":false,"_ignoreMissFlag":"NONE","$type":"Torappu.Battle.Action.Nodes+AdvancedApplyDamage"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1157]
+			BuffTemplate data
+				string templateKey = "enemy_minima_reborn"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_modeIndex":2,"_loadModeFromBlackboard":false,"_restoreDefault":false,"_restartFSM":true,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1158]
+			BuffTemplate data
+				string templateKey = "enemy_minima_shield[aura]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_ownerType":"BUFF_OWNER","_abilityName":"InvisibleAura","_loadFromBlackboard":false,"_stopAffect":true,"$type":"Torappu.Battle.Action.Nodes+InterruptAbility"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_ownerType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"InvisibleAura","_checkCanUseAblityFlag":false,"_castDirectly":true,"$type":"Torappu.Battle.Action.Nodes+TriggerAbility"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1159]
+			BuffTemplate data
+				string templateKey = "enemy_minima_shield_last"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_filterDamageType":true,"_damageMask":"ANY_ATTACK_EXCEPT_PURE","_useDynamicVar":true,"_showDamageNumber":false,"_specifyBlockEffect":"enemy_minima_shield_absorb","_useSource":false,"_sourceType":"SOURCE","_filterApplyWay":false,"_applyWayFilter":"NONE","$type":"Torappu.Battle.Action.Nodes+BlockDamage"},{"_var":"dynamic","$type":"Torappu.Battle.Action.Nodes+IsBlackboardZero"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"},{"_buffKey":"enemy_minima_shield[aura]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1160]
+			BuffTemplate data
+				string templateKey = "enemy_minima_shield"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_filterDamageType":true,"_damageMask":"ANY_ATTACK_EXCEPT_PURE","_useDynamicVar":true,"_showDamageNumber":false,"_specifyBlockEffect":"enemy_minima_shield_absorb","_useSource":false,"_sourceType":"SOURCE","_filterApplyWay":false,"_applyWayFilter":"NONE","$type":"Torappu.Battle.Action.Nodes+BlockDamage"},{"_var":"dynamic","$type":"Torappu.Battle.Action.Nodes+IsBlackboardZero"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1161]
+			BuffTemplate data
+				string templateKey = "enemy_minima_shield[refresh]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_minima_shield[a]","enemy_minima_shield[b]","enemy_minima_shield[c]"],"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishSeveralBuffsById"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_minima_shield[a]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_minima_shield","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_minima_shield_1","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_minima_shield[b]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_minima_shield","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_minima_shield_2","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_minima_shield[c]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_minima_shield_last","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_minima_shield_3","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_minima_shield[aura]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_minima_shield[aura]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_minima_shield[aura]","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1162]
+			BuffTemplate data
+				string templateKey = "enemy_dursho_t"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 26
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"enemy_dursho_t[atk]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":"","overrideType":"STACK","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_targetType":"BUFF_OWNER","_buffKey":"enemy_dursho_t[atk]","_stackCount":3,"_stackCountKey":"","_stackCountPeeling":0,"_condType":"GE","_checkFromUnoverridableBuffCount":false,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKey":"enemy_dursho_t[atk]","_stackCount":7,"_stackCountKey":null,"_stackCountPeeling":0,"_condType":"GE","_checkFromUnoverridableBuffCount":false,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},"_succeedNodes":[{"_derviedBuffKey":"enemy_dursho_t[effect_2]","$type":"Torappu.Battle.Action.Nodes+CheckContainsDerviedBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_dursho_t[effect_2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_dursho_attack_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_derviedBuffKey":"enemy_dursho_t[effect]","$type":"Torappu.Battle.Action.Nodes+CheckContainsDerviedBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_dursho_t[effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_dursho_attack_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1163]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_silence"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_blackboardKey":"enable_silence","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByExecuteBlackboardValue"},{"_buffKey":"silence","_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1164]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_damage"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_damageType":"PHYSICAL","_atkScaleVar":"atk_scale","_applyWay":"MELEE","_baseOnHostAtk":false,"_emitSourceOnCalculateDamage":false,"_attackType":"NORMAL","_forceUseProjectileCachedAtk":false,"_ignoreForSp":false,"_ignoreMissFlag":"NONE","$type":"Torappu.Battle.Action.Nodes+AdvancedApplyDamage"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"enemy_durcar_hit_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_audio","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"enemy_durcar_audio","lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_value":1,"$type":"Torappu.Battle.Action.Nodes+Act20SideModeOnlyIncreaseScore"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_audio_2","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"enemy_durcar_audio_2","lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1165]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_stun"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buffKey":"stun","_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1166]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_hit_blocker"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},"_succeedNodes":[{"_logType":"SIMPLE","_key":"blocked","_attributeType":"NONE","_target":"BUFF_SOURCE","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_hit_blocker[suicide]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_durcar_hit_blocker[suicide]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.01,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_logType":"SIMPLE","_key":"hit","_attributeType":"NONE","_target":"BUFF_SOURCE","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1167]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_hit_blocker[suicide]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_killSource":false,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1168]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_boom"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_abnormalFlag":"SILENCED","_targetType":"SOURCE","_isUnset":true,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},{"_mountPoint":"GROUND","_ev":"ON_HIT_OBJECT","_actions":null,"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_blackboardKey":"enable_damage","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"enemy_durcar_boom_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_blackboardKey":"enable_silence","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"enemy_durcar_silent_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1169]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_gain_sp"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_targetType":"BUFF_OWNER","_modifyByRatio":false,"_spMask":"ALL","_forceFlag":false,"_dontShowSpUI":false,"$type":"Torappu.Battle.Action.Nodes+ModifySp"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"enemy_durcar_buff_recovery_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1170]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_buff[heal]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_SOURCE","_useDynamicVar":false,"_targetType":"BUFF_OWNER","_scaleUpIfUnderHpRatio":false,"$type":"Torappu.Battle.Action.Nodes+AdvancedApplyHeal"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1171]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_heal"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_sourceType":"BUFF_SOURCE","_targetType":"BUFF_OWNER","_targetOptions":{"targetSide":"ALLY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":true,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"HEAL","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_excludeTarget":false,"_excludeCurAtkTarget":false,"_alwaysIncudeCurAtkTarget":false,"_useAttackRange":false,"_rangeId":"x-4","_buffs":[{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_buff[heal]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_durcar_buff[heal]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_durcar_buff_treat_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"INFINITY","triggerCnt":0,"triggerInterval":1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]}],"_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffInRange"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"enemy_durcar_buff_treat_range_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1172]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_atk_speed_up"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_sourceType":"BUFF_SOURCE","_targetType":"BUFF_OWNER","_targetOptions":{"targetSide":"ALLY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":true,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_excludeTarget":false,"_excludeCurAtkTarget":false,"_alwaysIncudeCurAtkTarget":false,"_useAttackRange":false,"_rangeId":"x-4","_buffs":[{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"enemy_durcar_buff[atk_speed]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_durcar_buff_speedup_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]}],"_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffInRange"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"enemy_durcar_buff_speedup_range_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1173]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_cold"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buffKey":"c2e_cold","_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1174]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_mag_resist_down"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"MAGIC_RESISTANCE","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"enemy_durcar_debuff[mag_resist_down]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"buff_magic_resistance_down","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1175]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_def_down"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"DEF","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"enemy_durcar_debuff[def_down]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"buff_defdown","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1176]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_knockback"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_conditionNode":{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[right]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_direction":"RIGHT","$type":"Torappu.Battle.Action.Nodes+KnockBackWithDirection"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[left]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_direction":"LEFT","$type":"Torappu.Battle.Action.Nodes+KnockBackWithDirection"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[up]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_direction":"UP","$type":"Torappu.Battle.Action.Nodes+KnockBackWithDirection"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[down]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_direction":"DOWN","$type":"Torappu.Battle.Action.Nodes+KnockBackWithDirection"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1177]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_change_direction"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_source":"BUFF_OWNER","_direction":"UP","_useCustomDirection":false,"_rightNodes":[{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[right]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_character":"BUFF_OWNER","_enemy":"BUFF_SOURCE","_endPosOffsetAlongDirection":0.5,"$type":"Torappu.Battle.Action.Nodes+EnemyDurcarChangeDirection"},{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[right]","enemy_durcar_mark[left]","enemy_durcar_mark[up]","enemy_durcar_mark[down]"],"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishSeveralBuffsById"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_mark[right]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_leftNodes":[{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[left]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_character":"BUFF_OWNER","_enemy":"BUFF_SOURCE","_endPosOffsetAlongDirection":0.5,"$type":"Torappu.Battle.Action.Nodes+EnemyDurcarChangeDirection"},{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[right]","enemy_durcar_mark[left]","enemy_durcar_mark[up]","enemy_durcar_mark[down]"],"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishSeveralBuffsById"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_mark[left]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_upNodes":[{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[up]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_character":"BUFF_OWNER","_enemy":"BUFF_SOURCE","_endPosOffsetAlongDirection":0.5,"$type":"Torappu.Battle.Action.Nodes+EnemyDurcarChangeDirection"},{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[right]","enemy_durcar_mark[left]","enemy_durcar_mark[up]","enemy_durcar_mark[down]"],"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishSeveralBuffsById"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_mark[up]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_downNodes":[{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[down]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_character":"BUFF_OWNER","_enemy":"BUFF_SOURCE","_endPosOffsetAlongDirection":0.5,"$type":"Torappu.Battle.Action.Nodes+EnemyDurcarChangeDirection"},{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[right]","enemy_durcar_mark[left]","enemy_durcar_mark[up]","enemy_durcar_mark[down]"],"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishSeveralBuffsById"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_mark[down]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+SwitchDirection"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1178]
+			BuffTemplate data
+				string templateKey = "enemy_durcar_suicide"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 3
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_killSource":true,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"$type":"Torappu.Battle.Action.Nodes+EnemyDurcarCheckOverlapWithHighland"},{"_killSource":true,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[2]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_infoType":"EXISTING_TIME","_key":"enemy_1265_durcar","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfoForBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1179]
+			BuffTemplate data
+				string templateKey = "garage_mark_direction"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_durcar_mark[right]","enemy_durcar_mark[left]","enemy_durcar_mark[up]","enemy_durcar_mark[down]"],"isAND":false,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"BUFF_SOURCE","_direction":"UP","_useCustomDirection":false,"_rightNodes":[{"_buff":{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"enemy_durcar_mark[right]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_leftNodes":[{"_buff":{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"enemy_durcar_mark[left]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_upNodes":[{"_buff":{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"enemy_durcar_mark[up]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_downNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_mark[down]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+SwitchDirection"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1180]
+			BuffTemplate data
+				string templateKey = "bossrush_init_grid"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_SpecifyByGridColumn":true,"_useAnotherColEnd":true,"_advancedBuildableMask":"BOSS_RUSH_DISABLE","_isExcludeMode":true,"$type":"Torappu.Battle.Action.Nodes+RewriteTileOptionsInSpecifiedArea"},{"_SpecifyByGridColumn":true,"_useAnotherColEnd":true,"_advancedBuildableMask":"DEFAULT","_isExcludeMode":false,"$type":"Torappu.Battle.Action.Nodes+RewriteTileOptionsInSpecifiedArea"},{"$type":"Torappu.Battle.Action.Nodes+ModifyBossRushBattleAreaData"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1181]
+			BuffTemplate data
+				string templateKey = "bossrush_edge_effect_right[trigger]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_isFirstOnTheLeft":false,"_isFirstOnTheRight":true,"$type":"Torappu.Battle.Action.Nodes+IfBossRushBattleArea"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_effectKey":"map_bossrush_cordon_buff_03","_buff":{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"bossrush_effect_right","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_bossrush_cordon_buff_03","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffWithOverrideEffect"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1182]
+			BuffTemplate data
+				string templateKey = "bossrush_edge_effect_left[trigger]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_isFirstOnTheLeft":true,"_isFirstOnTheRight":false,"$type":"Torappu.Battle.Action.Nodes+IfBossRushBattleArea"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_effectKey":"map_bossrush_cordon_buff_02","_buff":{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"bossrush_effect_left","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_bossrush_cordon_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffWithOverrideEffect"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1183]
+			BuffTemplate data
+				string templateKey = "bossrush_wave_finished"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"bossrush_finished_wave","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
 			[1184]
 			BuffTemplate data
-				string templateKey = "garage_s[log]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_target":"BUFF_OWNER","_key":"last_cast","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfoForCurrentPlayTime"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1185]
-			BuffTemplate data
-				string templateKey = "enemy_minima_dot"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 2
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKeys":["enemy_minima_drone_1","enemy_minima_drone_2","enemy_minima_drone_3","enemy_minima_drone_4"],"_useSourceFaceVector":false,"$type":"Torappu.Battle.Action.Nodes+CreateRandomEffect"},{"_damageType":"MAGICAL","_atkScaleVar":"atk_scale","_applyWay":"NONE","_baseOnHostAtk":false,"_emitSourceOnCalculateDamage":false,"_attackType":"BUFF","_forceUseProjectileCachedAtk":false,"_ignoreForSp":false,"_ignoreMissFlag":"NONE","$type":"Torappu.Battle.Action.Nodes+AdvancedApplyDamage"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1186]
-			BuffTemplate data
-				string templateKey = "enemy_minima_reborn"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 1
-								ActionArray value
-									string SerializedState = "[{"_modeIndex":2,"_loadModeFromBlackboard":false,"_restoreDefault":false,"_restartFSM":true,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1187]
-			BuffTemplate data
-				string templateKey = "enemy_minima_shield[aura]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 2
-							[0]
-							EventToAction data
-								int key = 1
-								ActionArray value
-									string SerializedState = "[{"_ownerType":"BUFF_OWNER","_abilityName":"InvisibleAura","_loadFromBlackboard":false,"_stopAffect":true,"$type":"Torappu.Battle.Action.Nodes+InterruptAbility"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-							[1]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_ownerType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"InvisibleAura","_checkCanUseAblityFlag":false,"_castDirectly":true,"$type":"Torappu.Battle.Action.Nodes+TriggerAbility"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1188]
-			BuffTemplate data
-				string templateKey = "enemy_minima_shield_last"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 10
-								ActionArray value
-									string SerializedState = "[{"_filterDamageType":true,"_damageMask":"ANY_ATTACK_EXCEPT_PURE","_useDynamicVar":true,"_showDamageNumber":false,"_specifyBlockEffect":"enemy_minima_shield_absorb","_useSource":false,"_sourceType":"SOURCE","_filterApplyWay":false,"_applyWayFilter":"NONE","$type":"Torappu.Battle.Action.Nodes+BlockDamage"},{"_var":"dynamic","$type":"Torappu.Battle.Action.Nodes+IsBlackboardZero"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"},{"_buffKey":"enemy_minima_shield[aura]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1189]
-			BuffTemplate data
-				string templateKey = "enemy_minima_shield"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 10
-								ActionArray value
-									string SerializedState = "[{"_filterDamageType":true,"_damageMask":"ANY_ATTACK_EXCEPT_PURE","_useDynamicVar":true,"_showDamageNumber":false,"_specifyBlockEffect":"enemy_minima_shield_absorb","_useSource":false,"_sourceType":"SOURCE","_filterApplyWay":false,"_applyWayFilter":"NONE","$type":"Torappu.Battle.Action.Nodes+BlockDamage"},{"_var":"dynamic","$type":"Torappu.Battle.Action.Nodes+IsBlackboardZero"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1190]
-			BuffTemplate data
-				string templateKey = "enemy_minima_shield[refresh]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_minima_shield[a]","enemy_minima_shield[b]","enemy_minima_shield[c]"],"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishSeveralBuffsById"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_minima_shield[a]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_minima_shield","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_minima_shield_1","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_minima_shield[b]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_minima_shield","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_minima_shield_2","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_minima_shield[c]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_minima_shield_last","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_minima_shield_3","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_minima_shield[aura]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_minima_shield[aura]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_minima_shield[aura]","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1191]
-			BuffTemplate data
-				string templateKey = "enemy_dursho_t"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 26
-								ActionArray value
-									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"enemy_dursho_t[atk]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":"","overrideType":"STACK","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_targetType":"BUFF_OWNER","_buffKey":"enemy_dursho_t[atk]","_stackCount":3,"_stackCountKey":"","_stackCountPeeling":0,"_condType":"GE","_checkFromUnoverridableBuffCount":false,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKey":"enemy_dursho_t[atk]","_stackCount":7,"_stackCountKey":null,"_stackCountPeeling":0,"_condType":"GE","_checkFromUnoverridableBuffCount":false,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},"_succeedNodes":[{"_derviedBuffKey":"enemy_dursho_t[effect_2]","$type":"Torappu.Battle.Action.Nodes+CheckContainsDerviedBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_dursho_t[effect_2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_dursho_attack_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_derviedBuffKey":"enemy_dursho_t[effect]","$type":"Torappu.Battle.Action.Nodes+CheckContainsDerviedBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_dursho_t[effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_dursho_attack_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1192]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_silence"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_blackboardKey":"enable_silence","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByExecuteBlackboardValue"},{"_buffKey":"silence","_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1193]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_damage"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_damageType":"PHYSICAL","_atkScaleVar":"atk_scale","_applyWay":"MELEE","_baseOnHostAtk":false,"_emitSourceOnCalculateDamage":false,"_attackType":"NORMAL","_forceUseProjectileCachedAtk":false,"_ignoreForSp":false,"_ignoreMissFlag":"NONE","$type":"Torappu.Battle.Action.Nodes+AdvancedApplyDamage"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"enemy_durcar_hit_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_audio","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"enemy_durcar_audio","lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_value":1,"$type":"Torappu.Battle.Action.Nodes+Act20SideModeOnlyIncreaseScore"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_audio_2","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"enemy_durcar_audio_2","lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1194]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_stun"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buffKey":"stun","_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1195]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_hit_blocker"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},"_succeedNodes":[{"_logType":"SIMPLE","_key":"blocked","_attributeType":"NONE","_target":"BUFF_SOURCE","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_hit_blocker[suicide]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_durcar_hit_blocker[suicide]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.01,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_logType":"SIMPLE","_key":"hit","_attributeType":"NONE","_target":"BUFF_SOURCE","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1196]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_hit_blocker[suicide]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 1
-								ActionArray value
-									string SerializedState = "[{"_killSource":false,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1197]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_boom"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 3
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_abnormalFlag":"SILENCED","_targetType":"SOURCE","_isUnset":true,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},{"_mountPoint":"GROUND","_ev":"ON_HIT_OBJECT","_actions":null,"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_blackboardKey":"enable_damage","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"enemy_durcar_boom_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_blackboardKey":"enable_silence","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"enemy_durcar_silent_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1198]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_gain_sp"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_targetType":"BUFF_OWNER","_modifyByRatio":false,"_spMask":"ALL","_forceFlag":false,"_dontShowSpUI":false,"$type":"Torappu.Battle.Action.Nodes+ModifySp"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"enemy_durcar_buff_recovery_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1199]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_buff[heal]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 2
-								ActionArray value
-									string SerializedState = "[{"_sourceType":"BUFF_SOURCE","_useDynamicVar":false,"_targetType":"BUFF_OWNER","_scaleUpIfUnderHpRatio":false,"$type":"Torappu.Battle.Action.Nodes+AdvancedApplyHeal"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1200]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_heal"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_sourceType":"BUFF_SOURCE","_targetType":"BUFF_OWNER","_targetOptions":{"targetSide":"ALLY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":true,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"HEAL","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_excludeTarget":false,"_excludeCurAtkTarget":false,"_alwaysIncudeCurAtkTarget":false,"_useAttackRange":false,"_rangeId":"x-4","_buffs":[{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_buff[heal]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_durcar_buff[heal]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_durcar_buff_treat_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"INFINITY","triggerCnt":0,"triggerInterval":1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]}],"_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffInRange"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"enemy_durcar_buff_treat_range_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1201]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_atk_speed_up"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_sourceType":"BUFF_SOURCE","_targetType":"BUFF_OWNER","_targetOptions":{"targetSide":"ALLY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":true,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_excludeTarget":false,"_excludeCurAtkTarget":false,"_alwaysIncudeCurAtkTarget":false,"_useAttackRange":false,"_rangeId":"x-4","_buffs":[{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"enemy_durcar_buff[atk_speed]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_durcar_buff_speedup_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]}],"_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffInRange"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"enemy_durcar_buff_speedup_range_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1202]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_cold"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buffKey":"c2e_cold","_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffById"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1203]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_mag_resist_down"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"MAGIC_RESISTANCE","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"enemy_durcar_debuff[mag_resist_down]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"buff_magic_resistance_down","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1204]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_def_down"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"DEF","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"enemy_durcar_debuff[def_down]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"buff_defdown","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1205]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_knockback"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_SOURCE","_blackboardKey":"enable","_valueToCompare":0,"_anotherKeyToCompare":null,"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByBlackboardValue"},{"_targetType":"BUFF_OWNER","_filterIds":["enemy_1262_durplc","enemy_1262_durplc_2"],"_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckEnemyId"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_conditionNode":{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[right]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_direction":"RIGHT","$type":"Torappu.Battle.Action.Nodes+KnockBackWithDirection"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[left]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_direction":"LEFT","$type":"Torappu.Battle.Action.Nodes+KnockBackWithDirection"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[up]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_direction":"UP","$type":"Torappu.Battle.Action.Nodes+KnockBackWithDirection"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[down]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_direction":"DOWN","$type":"Torappu.Battle.Action.Nodes+KnockBackWithDirection"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1206]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_change_direction"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_source":"BUFF_OWNER","_direction":"UP","_useCustomDirection":false,"_rightNodes":[{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[right]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_character":"BUFF_OWNER","_enemy":"BUFF_SOURCE","_endPosOffsetAlongDirection":0.5,"$type":"Torappu.Battle.Action.Nodes+EnemyDurcarChangeDirection"},{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[right]","enemy_durcar_mark[left]","enemy_durcar_mark[up]","enemy_durcar_mark[down]"],"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishSeveralBuffsById"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_mark[right]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_leftNodes":[{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[left]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_character":"BUFF_OWNER","_enemy":"BUFF_SOURCE","_endPosOffsetAlongDirection":0.5,"$type":"Torappu.Battle.Action.Nodes+EnemyDurcarChangeDirection"},{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[right]","enemy_durcar_mark[left]","enemy_durcar_mark[up]","enemy_durcar_mark[down]"],"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishSeveralBuffsById"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_mark[left]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_upNodes":[{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[up]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_character":"BUFF_OWNER","_enemy":"BUFF_SOURCE","_endPosOffsetAlongDirection":0.5,"$type":"Torappu.Battle.Action.Nodes+EnemyDurcarChangeDirection"},{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[right]","enemy_durcar_mark[left]","enemy_durcar_mark[up]","enemy_durcar_mark[down]"],"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishSeveralBuffsById"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_mark[up]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_downNodes":[{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[down]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_character":"BUFF_OWNER","_enemy":"BUFF_SOURCE","_endPosOffsetAlongDirection":0.5,"$type":"Torappu.Battle.Action.Nodes+EnemyDurcarChangeDirection"},{"_targetType":"BUFF_SOURCE","_buffKeys":["enemy_durcar_mark[right]","enemy_durcar_mark[left]","enemy_durcar_mark[up]","enemy_durcar_mark[down]"],"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishSeveralBuffsById"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_mark[down]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+SwitchDirection"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1207]
-			BuffTemplate data
-				string templateKey = "enemy_durcar_suicide"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 3
-							[0]
-							EventToAction data
-								int key = 1
-								ActionArray value
-									string SerializedState = "[{"_killSource":true,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-							[1]
-							EventToAction data
-								int key = 2
-								ActionArray value
-									string SerializedState = "[{"$type":"Torappu.Battle.Action.Nodes+EnemyDurcarCheckOverlapWithHighland"},{"_killSource":true,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-							[2]
-							EventToAction data
-								int key = 3
-								ActionArray value
-									string SerializedState = "[{"_infoType":"EXISTING_TIME","_key":"enemy_1265_durcar","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfoForBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1208]
-			BuffTemplate data
-				string templateKey = "garage_mark_direction"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKeys":["enemy_durcar_mark[right]","enemy_durcar_mark[left]","enemy_durcar_mark[up]","enemy_durcar_mark[down]"],"isAND":false,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_source":"BUFF_SOURCE","_direction":"UP","_useCustomDirection":false,"_rightNodes":[{"_buff":{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"enemy_durcar_mark[right]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_leftNodes":[{"_buff":{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"enemy_durcar_mark[left]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_upNodes":[{"_buff":{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"enemy_durcar_mark[up]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_downNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"enemy_durcar_mark[down]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+SwitchDirection"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1209]
-			BuffTemplate data
-				string templateKey = "bossrush_init_grid"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_SpecifyByGridColumn":true,"_useAnotherColEnd":true,"_advancedBuildableMask":"BOSS_RUSH_DISABLE","_isExcludeMode":true,"$type":"Torappu.Battle.Action.Nodes+RewriteTileOptionsInSpecifiedArea"},{"_SpecifyByGridColumn":true,"_useAnotherColEnd":true,"_advancedBuildableMask":"DEFAULT","_isExcludeMode":false,"$type":"Torappu.Battle.Action.Nodes+RewriteTileOptionsInSpecifiedArea"},{"$type":"Torappu.Battle.Action.Nodes+ModifyBossRushBattleAreaData"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1210]
-			BuffTemplate data
-				string templateKey = "bossrush_edge_effect_right[trigger]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_isFirstOnTheLeft":false,"_isFirstOnTheRight":true,"$type":"Torappu.Battle.Action.Nodes+IfBossRushBattleArea"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_effectKey":"map_bossrush_cordon_buff_03","_buff":{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"bossrush_effect_right","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_bossrush_cordon_buff_03","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffWithOverrideEffect"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1211]
-			BuffTemplate data
-				string templateKey = "bossrush_edge_effect_left[trigger]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_isFirstOnTheLeft":true,"_isFirstOnTheRight":false,"$type":"Torappu.Battle.Action.Nodes+IfBossRushBattleArea"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_effectKey":"map_bossrush_cordon_buff_02","_buff":{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"bossrush_effect_left","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_bossrush_cordon_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffWithOverrideEffect"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1212]
-			BuffTemplate data
-				string templateKey = "bossrush_wave_finished"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 0
-								ActionArray value
-									string SerializedState = "[{"_logType":"SIMPLE","_key":"bossrush_finished_wave","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1213]
-			BuffTemplate data
 				string templateKey = "bossrush_move_camera"
 				string effectKey = ""
 				int onEventPriority = 0
@@ -22976,7 +22435,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1214]
+			[1185]
 			BuffTemplate data
 				string templateKey = "bossrush_withdraw_danger_area"
 				string effectKey = ""
@@ -22993,7 +22452,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1215]
+			[1186]
 			BuffTemplate data
 				string templateKey = "bossrush_withdraw"
 				string effectKey = ""
@@ -23010,7 +22469,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1216]
+			[1187]
 			BuffTemplate data
 				string templateKey = "bossrush_init_danger_area"
 				string effectKey = ""
@@ -23027,7 +22486,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1217]
+			[1188]
 			BuffTemplate data
 				string templateKey = "atk_modify_cost"
 				string effectKey = ""
@@ -23044,7 +22503,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1218]
+			[1189]
 			BuffTemplate data
 				string templateKey = "act1bossrush_kazimierz_buff"
 				string effectKey = ""
@@ -23069,7 +22528,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1219]
+			[1190]
 			BuffTemplate data
 				string templateKey = "act1bossrush_relic3_extralog"
 				string effectKey = ""
@@ -23086,7 +22545,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1220]
+			[1191]
 			BuffTemplate data
 				string templateKey = "act1bossrush_relic4_extralog"
 				string effectKey = ""
@@ -23103,7 +22562,760 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
+			[1192]
+			BuffTemplate data
+				string templateKey = "polluted_area"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_heightType":"LOWLAND","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckHeightTypeOfCharacterRootTile"},"_succeedNodes":[{"_damageType":"PURE","_damageKey":"polluted_damage_low","_ignoreForSp":true,"_attackType":"NORMAL","_skipModifierEvent":false,"$type":"Torappu.Battle.Action.Nodes+FixedValueDamage"}],"_failNodes":[{"_damageType":"PURE","_damageKey":"polluted_damage_high","_ignoreForSp":true,"_attackType":"NORMAL","_skipModifierEvent":false,"$type":"Torappu.Battle.Action.Nodes+FixedValueDamage"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1193]
+			BuffTemplate data
+				string templateKey = "legion_nlkgtbs_s_3_anim"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_replaceAnimPairs":[{"fromAnimKey":"Skill_End_1","toAnimKey":"Skill_End_3"}],"$type":"Torappu.Battle.Action.Nodes+ModifyAnimatorHookerReplacePair"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1194]
+			BuffTemplate data
+				string templateKey = "legion_nlkgtbs_s_2_anim"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_replaceAnimPairs":[{"fromAnimKey":"Skill_End_1","toAnimKey":"Skill_End_2"}],"$type":"Torappu.Battle.Action.Nodes+ModifyAnimatorHookerReplacePair"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1195]
+			BuffTemplate data
+				string templateKey = "legion_nlkgtbs_s_1_anim"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_replaceAnimPairs":[{"fromAnimKey":"Skill_End_1","toAnimKey":"Skill_End_1"}],"$type":"Torappu.Battle.Action.Nodes+ModifyAnimatorHookerReplacePair"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1196]
+			BuffTemplate data
+				string templateKey = "legion_nlkgtbs_passive_shield"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_filterDamageType":false,"_damageMask":"NONE","_useDynamicVar":true,"_showDamageNumber":true,"_specifyBlockEffect":null,"_useSource":false,"_sourceType":"SOURCE","_filterApplyWay":false,"_applyWayFilter":"NONE","$type":"Torappu.Battle.Action.Nodes+BlockDamage"},{"_var":"dynamic","$type":"Torappu.Battle.Action.Nodes+IsBlackboardZero"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_attributeType":"MAX_HP","_scaleVar":"hp_shield_scale","$type":"Torappu.Battle.Action.Nodes+AssignAttributeAsDynamicVarToBB"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1197]
+			BuffTemplate data
+				string templateKey = "legion_nlkgtbs_reduce_damage"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkBlockedBySource":true,"_checkBlockedBySourceToken":false,"_sourceType":"MODIFIER_SOURCE","$type":"Torappu.Battle.Action.Nodes+CheckBlocked"},"_succeedNodes":null,"_failNodes":[{"_filterDamageType":true,"_damageMask":"ANY_ATTACK_EXCEPT_PURE","_filterApplyWay":false,"_applyWayFilter":"NONE","_isOneMinus":true,"_isStackable":false,"_cachedDeltaValueToBBKey":"","$type":"Torappu.Battle.Action.Nodes+DamageScale"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1198]
+			BuffTemplate data
+				string templateKey = "legion_nlkgtbs_periodic_damage"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKeys":["trap_tbasnc_boss_periodic_damage"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"_sourceType":"BUFF_OWNER","_damageType":"PURE","_damageKey":"damage","_buffKey":"trap_tbasnc_boss_periodic_damage","_targetOptions":{"targetSide":"ENEMY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"BUFF","_isEnvDamage":true,"_noSourceDamage":true,"$type":"Torappu.Battle.Action.Nodes+NoSourceGlobalDamageScaleByBuffCnt"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1199]
+			BuffTemplate data
+				string templateKey = "legion_trap_tbsmmc"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_isLoop":true,"$type":"Torappu.Battle.Action.Nodes+MoveNextLevelBranch"},{"_sourceType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"BossSelect","_excludeTarget":false,"_excludeTargetType":"SOURCE","_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"trap_tbsmmc_boss_eff1","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_nlkgtbs_s_3_anim","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_nlkgtbs_skill_03_start_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":3.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffSource":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffUseAbilitySelector"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1200]
+			BuffTemplate data
+				string templateKey = "legion_trap_tbpsnc"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"BossSelect","_excludeTarget":false,"_excludeTargetType":"SOURCE","_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"trap_tbasnc_boss_periodic_damage","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_nlkgtbs_skill_02_range_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffSource":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffUseAbilitySelector"},{"_sourceType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"BossSelect","_excludeTarget":false,"_excludeTargetType":"SOURCE","_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"trap_tbasnc_boss_eff1","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_nlkgtbs_s_2_anim","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_nlkgtbs_skill_02_start_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":3.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffSource":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffUseAbilitySelector"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1201]
+			BuffTemplate data
+				string templateKey = "legion_trap_tbattbc"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"BossSelect","_excludeTarget":false,"_excludeTargetType":"SOURCE","_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false},{"attributeType":"DEF","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"trap_tbattbc_boss_strong","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_nlkgtbs_skilll_01_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffSource":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffUseAbilitySelector"},{"_sourceType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"BossSelect","_excludeTarget":false,"_excludeTargetType":"SOURCE","_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"trap_tbattbc_boss_eff1","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_nlkgtbs_s_1_anim","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_nlkgtbs_skilll_01_start_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":3.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffSource":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffUseAbilitySelector"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1202]
+			BuffTemplate data
+				string templateKey = "legion_trap_paras_summon"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_source":"BUFF_OWNER","_enemyKey":null,"_summonCount":0,"_motionMode":"WALK","_unharmful":false,"_alwaysCountAsKilled":false,"_waitTime":0.0,"_spawnOffset":0.0,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesWithRuntimeNearestEndPointRoute"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1203]
+			BuffTemplate data
+				string templateKey = "legion_mode_enemy_die_money"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyEnemyDeathDrop"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"map_028_chouka_die_money","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1204]
+			BuffTemplate data
+				string templateKey = "legion_character_status"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 3
+							[0]
+							EventToAction data
+								int key = 50
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"character_dying","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"character_dying","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_028_chouka_calling_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"character_dying_sos","lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"dying_duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 13
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyShowStatusMessage"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[2]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkIsMaxLevel":false,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyHasProfessionBuff"},"_succeedNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkIsMaxLevel":true,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyHasProfessionBuff"},"_succeedNodes":[{"_derviedBuffKey":"character_in_legionmode[buff_effect][max]","$type":"Torappu.Battle.Action.Nodes+CheckContainsDerviedBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"character_in_legionmode[buff_effect][max]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_028_chouka_zhuangbei_level5","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_derviedBuffKey":"character_in_legionmode[buff_effect][notmax]","$type":"Torappu.Battle.Action.Nodes+CheckContainsDerviedBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"character_in_legionmode[buff_effect][notmax]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_028_chouka_zhuangbei_level1","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":[{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1205]
+			BuffTemplate data
+				string templateKey = "legion_btauntcard_killed"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_cardType":"NULL","_rangeNumKey":"range_num","_canSelectNumKey":"can_select_num","_goldNumWhenSellCard":"sell_card_gold","_discardUnselected":false,"_sellSelected":true,"_putInPendingIfHandFull":false,"_selectCardType":"SELL","_specificCardKeys":[],"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlySelectCard"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1206]
+			BuffTemplate data
+				string templateKey = "legion_btauntcard_remove_passive"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_buffKey":"legion_btauntcard_passive","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1207]
+			BuffTemplate data
+				string templateKey = "legion_btauntcard_life_durantion"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_spShowBuffKey":null,"_isSelf":true,"$type":"Torappu.Battle.Action.Nodes+SpShowBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_spShowBuffKey":null,"_isSelf":true,"$type":"Torappu.Battle.Action.Nodes+SpShowBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1208]
+			BuffTemplate data
+				string templateKey = "legion_btauntcard_trigger_reset"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_skillName":null,"_ownerType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+ReInitEnemySkillCoolDown"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1209]
+			BuffTemplate data
+				string templateKey = "legion_trap_bomb"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCheckCardInHand"},{"_damageType":"PURE","_damageKey":"damage","_targetOptions":{"targetSide":"ENEMY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_attackType":"NORMAL","_buffs":[{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"stun","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]}],"_effectKey":"enemy_pleslm_skill_02_hit","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyGlobalDamageFromCard"},{"_effectKey":"enemy_pleslm_skill_02_range","_screenWidthRatio":0.5,"_screenheightRatio":0.5,"$type":"Torappu.Battle.Action.Nodes+CreateEffectAtScreenPos"},{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyForceRecycleUsingCard"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1210]
+			BuffTemplate data
+				string templateKey = "legion_trap_undeployable"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCheckCardInHand"},{"_deckBuff":{"cardEffectType":"UNDEPLOYABLE","lifeType":"ALL_THE_TIME","affectInHand":false,"showToastWhenAffect":false,"buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"btauntcard_undeployable","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]}},"_randomOneDeckCard":false,"_filterIsInHand":false,"_exceptTokenAndTrap":false,"_excludeTarget":true,"_onlyToTarget":false,"_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CreateDeckBuff"},{"_deckBuff":{"cardEffectType":"TAUNT","lifeType":"ALL_THE_TIME","affectInHand":false,"showToastWhenAffect":false,"buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"btauntcard_taunt","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]}},"_randomOneDeckCard":false,"_filterIsInHand":false,"_exceptTokenAndTrap":false,"_excludeTarget":false,"_onlyToTarget":true,"_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CreateDeckBuff"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1211]
+			BuffTemplate data
+				string templateKey = "legion_trap_remove_deckbuff"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 13
+								ActionArray value
+									string SerializedState = "[{"_target":"TARGET","_deckBuffKey":"btauntcard_undeployable","_removeFromAllCard":true,"$type":"Torappu.Battle.Action.Nodes+FinishDeckBuffByKey"},{"_target":"BUFF_OWNER","_deckBuffKey":"btauntcard_taunt","_removeFromAllCard":false,"$type":"Torappu.Battle.Action.Nodes+FinishDeckBuffByKey"},{"_sideMask":"ENEMY","_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"btauntcard_trigger_ability","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_btauntcard_trigger_reset","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"skill_name","value":0.0,"valueStr":"TauntCard"}]},"_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffToCertainSideUnits"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1212]
+			BuffTemplate data
+				string templateKey = "legion_trap_recycle_dying_buff"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","_targetOptions":{"targetSide":"ALLY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":true,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"WARRIOR,SNIPER,TANK,MEDIC,SUPPORT,CASTER,SPECIAL,PIONEER","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_maxNum":1,"_buffData":{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"recyclecard_buff_dying","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_trap_recycle_card_buff","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"trap_recyclecard_end","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"LIMITED","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"interval","value":1.5,"valueStr":""},{"key":"trig_cnt","value":1.0,"valueStr":""}]},"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCreateBuffToDyingInRange"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1213]
+			BuffTemplate data
+				string templateKey = "legion_trap_recycle_card_buff"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCheckHandCardNotFull"},{"_target":"BUFF_OWNER","_lifeType":"UNTIL_NEXT_SPAWN","_isRatio":true,"_enableMaxStackCount":false,"_filterIsInHand":false,"$type":"Torappu.Battle.Action.Nodes+CreateCardBuff"},{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyTakeCardBackToHand"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1214]
+			BuffTemplate data
+				string templateKey = "legion_trap_mark_use_once"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyMarkCardUseOnce"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1215]
+			BuffTemplate data
+				string templateKey = "legion_select_card"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_cardType":"NULL","_rangeNumKey":"range_num","_canSelectNumKey":"can_select_num","_goldNumWhenSellCard":"sell_card_gold","_discardUnselected":false,"_sellSelected":false,"_putInPendingIfHandFull":false,"_selectCardType":"NULL","_specificCardKeys":null,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlySelectCard"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1216]
+			BuffTemplate data
+				string templateKey = "legion_select_card_sell"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_cardType":"NULL","_rangeNumKey":"range_num","_canSelectNumKey":"can_select_num","_goldNumWhenSellCard":"sell_card_gold","_discardUnselected":false,"_sellSelected":true,"_putInPendingIfHandFull":false,"_selectCardType":"SELL","_specificCardKeys":[],"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlySelectCard"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1217]
+			BuffTemplate data
+				string templateKey = "legion_buffcard_gain_buff"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_levelCnt":0,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyAddProfessionLevel"},{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyShowStatusMessage"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1218]
+			BuffTemplate data
+				string templateKey = "legion_llstone_dead_remove"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 4
+								ActionArray value
+									string SerializedState = "[{"_target":"TARGET","_deckBuffKey":"llstone_card_durance","_removeFromAllCard":true,"$type":"Torappu.Battle.Action.Nodes+FinishDeckBuffByKey"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1219]
+			BuffTemplate data
+				string templateKey = "legion_llstone_trigger_durance"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_ownerType":"BUFF_SOURCE","_targetType":"BUFF_OWNER","_abilityName":"PassiveDurance","_checkCanUseAblityFlag":false,"_castDirectly":false,"$type":"Torappu.Battle.Action.Nodes+TriggerAbility"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_buffKey":"llstone_card_durance","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"_target":"BUFF_OWNER","_deckBuffKey":"llstone_card_durance","_removeFromAllCard":false,"$type":"Torappu.Battle.Action.Nodes+FinishDeckBuffByKey"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1220]
+			BuffTemplate data
+				string templateKey = "legion_fystone_pericdic_damage"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"TARGET","_getMaxHpFromTarget":false,"_damageType":"PURE","_applyWay":"NONE","_ignoreForSp":true,"_isUndeadable":false,"_attackType":"NONE","_skipModifierEvent":true,"$type":"Torappu.Battle.Action.Nodes+DamageViaMaxHpRatio"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"enemy_fystone_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
 			[1221]
+			BuffTemplate data
+				string templateKey = "legion_fystone_t_kill_source"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_killSource":true,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1222]
+			BuffTemplate data
+				string templateKey = "legion_reward_death_emit_projectile"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_mountPoint":"MUZZLE","_ev":"ON_HIT_OBJECT","_actions":null,"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1223]
+			BuffTemplate data
+				string templateKey = "legion_trswlf_passive"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKey":"trswlf_damage_resistance","_stackCount":5,"_stackCountKey":"passive_stack_cnt","_stackCountPeeling":0,"_condType":"LT","_checkFromUnoverridableBuffCount":true,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"trswlf_damage_resistance","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"damage_resistance","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"resist_duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1224]
+			BuffTemplate data
+				string templateKey = "legion_select_card[onlcate]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 35
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"legion_select_card[onlcate][real]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_select_card[onlcate][real]","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"none","lifeTime":0.1,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1225]
+			BuffTemplate data
+				string templateKey = "legion_select_card[onlcate][real]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_cardType":"NULL","_rangeNumKey":"range_num","_canSelectNumKey":"can_select_num","_goldNumWhenSellCard":"sell_card_gold","_discardUnselected":false,"_sellSelected":false,"_putInPendingIfHandFull":false,"_selectCardType":"NULL","_specificCardKeys":null,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlySelectCard"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1226]
+			BuffTemplate data
+				string templateKey = "legion_drawcard_getgold[onlcate]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 35
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"legion_drawcard_getgold[onlcate][real]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_drawcard_getgold[onlcate][real]","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"none","lifeTime":0.1,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1227]
+			BuffTemplate data
+				string templateKey = "legion_drawcard_getgold[onlcate][real]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_goldNum":10,"_loadFromBlackboard":true,"_goldNumKey":"get_gold","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyGainGold"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1228]
+			BuffTemplate data
+				string templateKey = "legion_getgold_via_buff[onlcate]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 13
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_goldPerBuff":10,"_loadFromBlackboard":true,"_goldPerBuffKey":"gold_per_buff","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyGetGoldViaProfessionBuffCount"},{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyClearProfessionLevel"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1229]
+			BuffTemplate data
+				string templateKey = "legion_reborn_in_range[onlcate]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 13
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","_targetOptions":{"targetSide":"ALLY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":false,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_maxNum":1,"_buffData":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"character_reborn_in_dying","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"character_reborn_in_dying","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_028_chouka_fuhuo","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":"none","lifeTime":0.01,"triggerLifeType":"IMMEDIATELY","triggerCnt":1,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCreateBuffToDyingInRange"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1230]
+			BuffTemplate data
+				string templateKey = "character_reborn_in_dying"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 32
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["character_dying"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"character_dying","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1231]
+			BuffTemplate data
+				string templateKey = "character_dying"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCharacterOnDying"},{"_targetType":"BUFF_OWNER","_spShowBuffKey":null,"_isSelf":true,"$type":"Torappu.Battle.Action.Nodes+SpShowBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_spShowBuffKey":null,"_isSelf":true,"$type":"Torappu.Battle.Action.Nodes+SpShowBuff"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["character_reborn_in_dying"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_sourceType":"BUFF_OWNER","_inheritProfessionBuff":true,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCharacterOnRebornlike"},{"_buffKey":"character_reborn_in_dying","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_withdrawSource":false,"_switchToDeadState":true,"_force":true,"_needLog":false,"$type":"Torappu.Battle.Action.Nodes+Withdraw"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1232]
+			BuffTemplate data
+				string templateKey = "apionr_t"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 33
+								ActionArray value
+									string SerializedState = "[{"_blackboardKey":"cnt","_addition":-1,"_additionKey":null,"$type":"Torappu.Battle.Action.Nodes+BlackboardAdd"},{"_var":"cnt","$type":"Torappu.Battle.Action.Nodes+IsBlackboardZero"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1233]
 			BuffTemplate data
 				string templateKey = "gvial2_s_3[bleed]"
 				string effectKey = ""
@@ -23120,7 +23332,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1222]
+			[1234]
 			BuffTemplate data
 				string templateKey = "gvial2_s_3"
 				string effectKey = ""
@@ -23145,7 +23357,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1223]
+			[1235]
 			BuffTemplate data
 				string templateKey = "gvial2_s_2[drag]"
 				string effectKey = ""
@@ -23162,7 +23374,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1224]
+			[1236]
 			BuffTemplate data
 				string templateKey = "heal_via_damage"
 				string effectKey = ""
@@ -23179,7 +23391,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1225]
+			[1237]
 			BuffTemplate data
 				string templateKey = "gvial2_t_1"
 				string effectKey = ""
@@ -23196,7 +23408,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1226]
+			[1238]
 			BuffTemplate data
 				string templateKey = "gvial2_t_2"
 				string effectKey = ""
@@ -23213,7 +23425,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1227]
+			[1239]
 			BuffTemplate data
 				string templateKey = "doroth_t_1[spawn_tokens]"
 				string effectKey = ""
@@ -23230,7 +23442,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1228]
+			[1240]
 			BuffTemplate data
 				string templateKey = "doroth_token[trigger_t2]"
 				string effectKey = ""
@@ -23247,7 +23459,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1229]
+			[1241]
 			BuffTemplate data
 				string templateKey = "doroth_token[withdraw]"
 				string effectKey = ""
@@ -23272,7 +23484,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1230]
+			[1242]
 			BuffTemplate data
 				string templateKey = "doroth_token_s3[trigger]"
 				string effectKey = ""
@@ -23289,7 +23501,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1231]
+			[1243]
 			BuffTemplate data
 				string templateKey = "doroth_t_2"
 				string effectKey = ""
@@ -23314,7 +23526,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1232]
+			[1244]
 			BuffTemplate data
 				string templateKey = "malist_t_1"
 				string effectKey = ""
@@ -23331,7 +23543,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1233]
+			[1245]
 			BuffTemplate data
 				string templateKey = "malist_s_2[eff_cond]"
 				string effectKey = ""
@@ -23348,7 +23560,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1234]
+			[1246]
 			BuffTemplate data
 				string templateKey = "malist_tr"
 				string effectKey = ""
@@ -23365,7 +23577,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1235]
+			[1247]
 			BuffTemplate data
 				string templateKey = "malist_s_2"
 				string effectKey = ""
@@ -23390,7 +23602,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1236]
+			[1248]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_3[base_atk_up]"
 				string effectKey = ""
@@ -23407,7 +23619,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1237]
+			[1249]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_t_1[withdraw]"
 				string effectKey = ""
@@ -23424,7 +23636,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1238]
+			[1250]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_1[random_atk]"
 				string effectKey = ""
@@ -23441,7 +23653,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1239]
+			[1251]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_1[token_trigger]"
 				string effectKey = ""
@@ -23458,7 +23670,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1240]
+			[1252]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_s_2[respawn]"
 				string effectKey = ""
@@ -23475,7 +23687,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1241]
+			[1253]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_s3[atk_up]"
 				string effectKey = ""
@@ -23492,7 +23704,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1242]
+			[1254]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_s3[switch]"
 				string effectKey = ""
@@ -23517,7 +23729,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1243]
+			[1255]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_3[tokeneff]"
 				string effectKey = ""
@@ -23534,7 +23746,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1244]
+			[1256]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_token[debuff]"
 				string effectKey = ""
@@ -23551,7 +23763,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1245]
+			[1257]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_3[atk_up]"
 				string effectKey = ""
@@ -23576,7 +23788,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1246]
+			[1258]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_direction"
 				string effectKey = ""
@@ -23593,7 +23805,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1247]
+			[1259]
 			BuffTemplate data
 				string templateKey = "mlynar_s_3"
 				string effectKey = ""
@@ -23622,7 +23834,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 23
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_var":"kill_target_cnt","$type":"Torappu.Battle.Action.Nodes+IsBlackboardZero"},"_succeedNodes":null,"_failNodes":[{"_inputKey":"kill_target_cnt","_outputKey":"kill_target_cnt","_multiplyParamKey":"per_kill_reduce","_dividedParamKey":"","_addParamKey":"","_minValueKey":"","_maxValueKey":"","_finalAbs":false,"$type":"Torappu.Battle.Action.Nodes+CalculateBlackboardValueViaParams"},{"_inputKey":"cur_atk_up","_outputKey":"cur_atk_up","_multiplyParamKey":"","_dividedParamKey":"","_addParamKey":"kill_target_cnt","_minValueKey":"min_key","_maxValueKey":"","_finalAbs":false,"$type":"Torappu.Battle.Action.Nodes+CalculateBlackboardValueViaParams"},{"_blackboardKeys":"kill_target_cnt","_fromBlackboardKeys":null,"_value":0.0,"_addBasedOriginValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_targetType":"BUFF_OWNER","_attributeType":"ATK","_valueKey":"cur_atk_up","_formulaType":"MULTIPLIER","$type":"Torappu.Battle.Action.Nodes+AttributeModifierWithBB"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_var":"kill_target_cnt","$type":"Torappu.Battle.Action.Nodes+IsBlackboardZero"},"_succeedNodes":null,"_failNodes":[{"_inputKey":"kill_target_cnt","_outputKey":"kill_target_cnt","_multiplyParamKey":"per_kill_reduce","_dividedParamKey":"","_addParamKey":"","_minValueKey":"","_maxValueKey":"","_finalAbs":false,"$type":"Torappu.Battle.Action.Nodes+CalculateBlackboardValueViaParams"},{"_inputKey":"cur_atk_up","_outputKey":"cur_atk_up","_multiplyParamKey":"","_dividedParamKey":"","_addParamKey":"kill_target_cnt","_minValueKey":"min_key","_maxValueKey":"","_finalAbs":false,"$type":"Torappu.Battle.Action.Nodes+CalculateBlackboardValueViaParams"},{"_blackboardKeys":"kill_target_cnt","_fromBlackboardKeys":null,"_value":0.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_targetType":"BUFF_OWNER","_attributeType":"ATK","_valueKey":"cur_atk_up","_formulaType":"MULTIPLIER","$type":"Torappu.Battle.Action.Nodes+AttributeModifierWithBB"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -23630,11 +23842,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 9
 								ActionArray value
-									string SerializedState = "[{"_abilityName":"BigAttack","$type":"Torappu.Battle.Action.Nodes+FilterAbilityName"},{"_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+IsCharacterOrTokenOrTrap"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_targetType":"BUFF_OWNER","_blackboardKey":"kill_target_cnt","_buffKey":"mlynar_s_3","_addition":1,"$type":"Torappu.Battle.Action.Nodes+AddBuffBlackboard"}]"
+									string SerializedState = "[{"_abilityName":"BigAttack","$type":"Torappu.Battle.Action.Nodes+FilterAbilityName"},{"_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+IsCharacterOrTokenOrTrap"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_targetType":"BUFF_OWNER","_blackboardKey":"kill_target_cnt","_buffKey":"mlynar_s_3","_addition":1.0,"_additionKey":null,"_maxValueKey":null,"$type":"Torappu.Battle.Action.Nodes+AddBuffBlackboard"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1248]
+			[1260]
 			BuffTemplate data
 				string templateKey = "mlynar_s_3[aura]"
 				string effectKey = ""
@@ -23651,7 +23863,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1249]
+			[1261]
 			BuffTemplate data
 				string templateKey = "mlynar_s_2"
 				string effectKey = ""
@@ -23684,7 +23896,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1250]
+			[1262]
 			BuffTemplate data
 				string templateKey = "mlynar_tr"
 				string effectKey = ""
@@ -23701,7 +23913,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1251]
+			[1263]
 			BuffTemplate data
 				string templateKey = "mlynar_t_1[multi]"
 				string effectKey = ""
@@ -23714,7 +23926,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"x-4","_needCheckCount":true,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["mlynar_t_1[self]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":null,"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"mlynar_t_1[self]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"damage_resistance[IncludePure]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_targetType":"BUFF_OWNER","_blackboardKey":"atk_scale","_valueKey":"atk_scale_up","_buffKey":"mlynar_t_1[atkscale]","$type":"Torappu.Battle.Action.Nodes+AssignBuffBlackboard"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["mlynar_t_1[self]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"mlynar_t_1[self]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"_targetType":"BUFF_OWNER","_blackboardKey":"atk_scale","_valueKey":"atk_scale_base","_buffKey":"mlynar_t_1[atkscale]","$type":"Torappu.Battle.Action.Nodes+AssignBuffBlackboard"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"x-4","_needCheckCount":true,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"_excludeSource":false,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["mlynar_t_1[self]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":null,"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"mlynar_t_1[self]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"damage_resistance[IncludePure]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_targetType":"BUFF_OWNER","_blackboardKey":"atk_scale","_valueKey":"atk_scale_up","_buffKey":"mlynar_t_1[atkscale]","$type":"Torappu.Battle.Action.Nodes+AssignBuffBlackboard"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["mlynar_t_1[self]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"mlynar_t_1[self]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"_targetType":"BUFF_OWNER","_blackboardKey":"atk_scale","_valueKey":"atk_scale_base","_buffKey":"mlynar_t_1[atkscale]","$type":"Torappu.Battle.Action.Nodes+AssignBuffBlackboard"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -23726,7 +23938,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1252]
+			[1264]
 			BuffTemplate data
 				string templateKey = "mlynar_t_2[inverse]"
 				string effectKey = ""
@@ -23743,7 +23955,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1253]
+			[1265]
 			BuffTemplate data
 				string templateKey = "mlynar_s_cast"
 				string effectKey = ""
@@ -23768,7 +23980,159 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1254]
+			[1266]
+			BuffTemplate data
+				string templateKey = "highmo_t_2[ep_heal]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_ignoreHealFree":true,"_healAllElementType":true,"_elementHealMask":"","$type":"Torappu.Battle.Action.Nodes+FixedValueElementHeal"},{"_decCntIfStack":true,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1267]
+			BuffTemplate data
+				string templateKey = "highmo_t_2[ep_heal_fake]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"allowedSource":"ALL","$type":"Torappu.Battle.Action.Nodes+SetStackCountViaBlockNum"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_t_1[ep_heal]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"highmo_t_2[ep_heal]","disableOverride":false,"overrideKey":"highmo_t_2[ep_heal]","overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"INFINITY","triggerCnt":0,"triggerInterval":0.12,"waitFirstTriggerInterval":false,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_decCntIfStack":true,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"},{"$type":"Torappu.Battle.Action.Nodes+TriggerBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1268]
+			BuffTemplate data
+				string templateKey = "highmo_t_2"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 11
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_t_2[ep_heal_fake]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"highmo_t_2[ep_heal_fake]","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.05,"triggerLifeType":"LIMITED","triggerCnt":1,"triggerInterval":0.001,"waitFirstTriggerInterval":false,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1269]
+			BuffTemplate data
+				string templateKey = "highmo_trait[heal]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_trait[heal][effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":"highmo_heal[effect]","overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"highmo_recover_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.1,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_ignoreHealFree":true,"$type":"Torappu.Battle.Action.Nodes+FixedValueHeal"},{"_decCntIfStack":true,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1270]
+			BuffTemplate data
+				string templateKey = "highmo_trait[heal_fake]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"allowedSource":"ALL","$type":"Torappu.Battle.Action.Nodes+SetStackCountViaBlockNum"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_trait[heal]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"highmo_trait[heal]","disableOverride":false,"overrideKey":"highmo_trait[heal]","overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"INFINITY","triggerCnt":0,"triggerInterval":0.12,"waitFirstTriggerInterval":false,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_decCntIfStack":true,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"},{"$type":"Torappu.Battle.Action.Nodes+TriggerBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1271]
+			BuffTemplate data
+				string templateKey = "highmo_trait"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 11
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_trait[heal_fake]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"highmo_trait[heal_fake]","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.05,"triggerLifeType":"LIMITED","triggerCnt":1,"triggerInterval":0.001,"waitFirstTriggerInterval":false,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1272]
+			BuffTemplate data
+				string templateKey = "highmo_s_2[heal]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_healTarget":"BUFF_OWNER","_getMaxHpFromTarget":false,"_ignoreHealFree":true,"_skipModifierEvent":false,"$type":"Torappu.Battle.Action.Nodes+HealViaMaxHpRatio"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1273]
+			BuffTemplate data
+				string templateKey = "highmo_s_2"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_s_2[heal]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"highmo_s_2[heal]","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_s_2[heal][effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":"highmo_heal[effect]","overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"highmo_recover_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.1,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1274]
 			BuffTemplate data
 				string templateKey = "lolxh_s_2[hit]"
 				string effectKey = ""
@@ -23785,7 +24149,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1255]
+			[1275]
 			BuffTemplate data
 				string templateKey = "lolxh_t_1"
 				string effectKey = ""
@@ -23810,7 +24174,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1256]
+			[1276]
 			BuffTemplate data
 				string templateKey = "bgsnow_e_trait"
 				string effectKey = ""
@@ -23835,7 +24199,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1257]
+			[1277]
 			BuffTemplate data
 				string templateKey = "glady_e_t_1"
 				string effectKey = ""
@@ -23852,7 +24216,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1258]
+			[1278]
 			BuffTemplate data
 				string templateKey = "glady_e_rupture"
 				string effectKey = ""
@@ -23885,7 +24249,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1259]
+			[1279]
 			BuffTemplate data
 				string templateKey = "glady_e_trait"
 				string effectKey = ""
@@ -23910,7 +24274,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1260]
+			[1280]
 			BuffTemplate data
 				string templateKey = "rope_e_trait"
 				string effectKey = ""
@@ -23935,7 +24299,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1261]
+			[1281]
 			BuffTemplate data
 				string templateKey = "rope_e_rupture"
 				string effectKey = ""
@@ -23968,7 +24332,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1262]
+			[1282]
 			BuffTemplate data
 				string templateKey = "slchan_e_trait"
 				string effectKey = ""
@@ -23993,7 +24357,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1263]
+			[1283]
 			BuffTemplate data
 				string templateKey = "slchan_e_rupture"
 				string effectKey = ""
@@ -24026,7 +24390,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1264]
+			[1284]
 			BuffTemplate data
 				string templateKey = "snsant_e_rupture"
 				string effectKey = ""
@@ -24059,7 +24423,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1265]
+			[1285]
 			BuffTemplate data
 				string templateKey = "snsant_e_trait"
 				string effectKey = ""
@@ -24084,7 +24448,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1266]
+			[1286]
 			BuffTemplate data
 				string templateKey = "fartth_e_talent[atk_speed]"
 				string effectKey = ""
@@ -24101,7 +24465,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1267]
+			[1287]
 			BuffTemplate data
 				string templateKey = "fartth_e_trait[SP]"
 				string effectKey = ""
@@ -24118,7 +24482,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1268]
+			[1288]
 			BuffTemplate data
 				string templateKey = "provs_e_002_trait"
 				string effectKey = ""
@@ -24131,11 +24495,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["glacus_e_trait[sp_recover]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"glacus_e_trait[sp_recover]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"_excludeSource":false,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["glacus_e_trait[sp_recover]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"glacus_e_trait[sp_recover]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1269]
+			[1289]
 			BuffTemplate data
 				string templateKey = "ebnhlz_e_003_t_2"
 				string effectKey = ""
@@ -24148,11 +24512,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":true,"_condType":"LE","_countKey":"cnt","_checkRadius":true,"_rangeRadius":0.0,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_damageType":"MAGICAL","_atkScaleVar":"atk_scale","_applyWay":"NONE","_baseOnHostAtk":false,"_emitSourceOnCalculateDamage":false,"_attackType":"NORMAL","_forceUseProjectileCachedAtk":false,"_ignoreForSp":false,"_ignoreMissFlag":"NONE","$type":"Torappu.Battle.Action.Nodes+AdvancedApplyDamage"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"ebnhlz_beidong_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":[{"_sourceType":"BUFF_SOURCE","_targetType":"BUFF_OWNER","_damageType":"MAGICAL","_sourceApplyWay":"NONE","_targetOptions":{"targetSide":"ENEMY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_excludeTarget":true,"_rangeId":null,"_useRadius":true,"_radius":0.0,"_damageScale":"atk_scale_2","_buffs":[],"_attackType":"SPLASH","_createEffect":false,"_useDamageFromBB":false,"_damageKey":"value","_isNoSourceDamage":false,"$type":"Torappu.Battle.Action.Nodes+AOEDamage"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"ebnhlz_mozu_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":true,"_condType":"LE","_countKey":"cnt","_checkRadius":true,"_rangeRadius":0.0,"_excludeSource":true,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_damageType":"MAGICAL","_atkScaleVar":"atk_scale","_applyWay":"NONE","_baseOnHostAtk":false,"_emitSourceOnCalculateDamage":false,"_attackType":"NORMAL","_forceUseProjectileCachedAtk":false,"_ignoreForSp":false,"_ignoreMissFlag":"NONE","$type":"Torappu.Battle.Action.Nodes+AdvancedApplyDamage"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"ebnhlz_beidong_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":[{"_sourceType":"BUFF_SOURCE","_targetType":"BUFF_OWNER","_damageType":"MAGICAL","_sourceApplyWay":"NONE","_targetOptions":{"targetSide":"ENEMY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_excludeTarget":true,"_rangeId":null,"_useRadius":true,"_radius":0.0,"_damageScale":"atk_scale_2","_buffs":[],"_attackType":"SPLASH","_createEffect":false,"_useDamageFromBB":false,"_damageKey":"value","_isNoSourceDamage":false,"$type":"Torappu.Battle.Action.Nodes+AOEDamage"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"ebnhlz_mozu_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1270]
+			[1290]
 			BuffTemplate data
 				string templateKey = "ebnhlz_e_003_trait"
 				string effectKey = ""
@@ -24169,7 +24533,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1271]
+			[1291]
 			BuffTemplate data
 				string templateKey = "nian_e_002_t_2[block]"
 				string effectKey = ""
@@ -24194,7 +24558,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1272]
+			[1292]
 			BuffTemplate data
 				string templateKey = "nian_e_002_t_2"
 				string effectKey = ""
@@ -24211,7 +24575,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1273]
+			[1293]
 			BuffTemplate data
 				string templateKey = "hsguma_e_002_t"
 				string effectKey = ""
@@ -24236,7 +24600,1039 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1274]
+			[1294]
+			BuffTemplate data
+				string templateKey = "shining_e_002_t[aura]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_heightType":"LOWLAND","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckHeightTypeOfCharacterRootTile"},{"_blackboardKeys":"shining_e_002_t[aura][lowland].def","_fromBlackboardKeys":"def_lowland","_value":0.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"DEF","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"shining_e_002_t[aura][lowland]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"UNIQUE","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1295]
+			BuffTemplate data
+				string templateKey = "aglina_e_003_tr[mask]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"aglina_e_003_tr[sp_recover]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1296]
+			BuffTemplate data
+				string templateKey = "dusk_e_003_t[token]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_SOURCE","_buffData":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"dusk_e_003_t[token][sp]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"modify_sp[start]","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffToHost"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1297]
+			BuffTemplate data
+				string templateKey = "folnic_e_002_t[aura]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_blackboardKeys":"damage_scale","_fromBlackboardKeys":"damage_scale_aura","_value":0.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"folnic_e_002_t[aura][real]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"damage_resistance[env]","disableOverride":false,"overrideKey":null,"overrideType":"UNIQUE","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1298]
+			BuffTemplate data
+				string templateKey = "damage_resistance[env]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_filterAttackType":false,"_attackTypeFilter":"NONE","_filterDamageType":false,"_damageMask":"NONE","_filterSharedMask":true,"_sharedFlag":"IS_ENVIRONMENT_DAMAGE","$type":"Torappu.Battle.Action.Nodes+FilterDamageModifer"},{"_filterDamageType":false,"_damageMask":"NONE","_filterApplyWay":false,"_applyWayFilter":"NONE","_isOneMinus":false,"_isStackable":false,"_cachedDeltaValueToBBKey":"","$type":"Torappu.Battle.Action.Nodes+DamageScale"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1299]
+			BuffTemplate data
+				string templateKey = "damage_resistance[physics]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_filterDamageType":true,"_damageMask":"PHYSICAL","_filterApplyWay":false,"_applyWayFilter":"NONE","_isOneMinus":true,"_isStackable":false,"_cachedDeltaValueToBBKey":"","$type":"Torappu.Battle.Action.Nodes+DamageScale"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1300]
+			BuffTemplate data
+				string templateKey = "kalts_e_002_t[token]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKeys":["kalts_t_2"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"_targetType":"BUFF_OWNER","_buffKeys":["kalts_e_002_t[token][used]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_mountPoint":"MUZZLE","_ev":"ON_HIT_OBJECT","_actions":null,"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"kalts_e_002_t[token][used]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"UNIQUE","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1301]
+			BuffTemplate data
+				string templateKey = "heal_scale_up[hpratio][LE]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 8
+								ActionArray value
+									string SerializedState = "[{"$type":"Torappu.Battle.Action.Nodes+IsHeal"},{"_targetType":"MODIFIER_TARGET","_condType":"LE","_useSourceHpRatio":false,"_sourceType":"SOURCE","_blackboardPrefix":null,"$type":"Torappu.Battle.Action.Nodes+FilterByTargetHpRatio"},{"_scaleKey":"","$type":"Torappu.Battle.Action.Nodes+ModifierScaleUp"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1302]
+			BuffTemplate data
+				string templateKey = "heal_scale_up[lowland]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 8
+								ActionArray value
+									string SerializedState = "[{"$type":"Torappu.Battle.Action.Nodes+IsHeal"},{"_targetType":"MODIFIER_TARGET","_heightType":"LOWLAND","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckHeightTypeOfCharacterRootTile"},{"_scaleKey":"","$type":"Torappu.Battle.Action.Nodes+ModifierScaleUp"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1303]
+			BuffTemplate data
+				string templateKey = "rogue_2_atk_up_on_output_damage"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 11
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"rogue_2_atk_up_on_output_damage[timer]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"EXTEND","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_buffKey":"rogue_2_atk_up_on_output_damage[stack]","_stackCount":0,"_stackCountKey":"max_stack_cnt","_stackCountPeeling":0,"_condType":"LT","_checkFromUnoverridableBuffCount":false,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"rogue_2_atk_up_on_output_damage[stack]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKeys":["rogue_2_atk_up_on_output_damage[timer]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_targetType":"BUFF_OWNER","_buffKeys":["rogue_2_atk_up_on_output_damage[stack]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"_buffKey":"rogue_2_atk_up_on_output_damage[stack]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1304]
+			BuffTemplate data
+				string templateKey = "rogue_2_frozen[limited]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 12
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"e2c_freeze","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1305]
+			BuffTemplate data
+				string templateKey = "enemy_sybox_t[logkilled]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"trap_068_badbox","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1306]
+			BuffTemplate data
+				string templateKey = "trap_rarebox_t[logkilled]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"trap_066_rarebox","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1307]
+			BuffTemplate data
+				string templateKey = "rogue_2_attr_up_2[evade]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 15
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"rogue_2_attr_up_2[evade]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_2_relic_fight_137_buff","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1308]
+			BuffTemplate data
+				string templateKey = "rogue_2_atk_up[life_point][king_suit]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKey":"rogue_2_relic_mark[king_suit]","_stackCount":3,"_stackCountKey":null,"_stackCountPeeling":0,"_condType":"GE","_checkFromUnoverridableBuffCount":false,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"rogue_2_atk_up[king_suit][bonus]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"relic_1_sp01_buff_01_start","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"rogue_2_atk_up[king_suit]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1309]
+			BuffTemplate data
+				string templateKey = "rogue_2_ep_damage_scale"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 6
+								ActionArray value
+									string SerializedState = "[{"$type":"Torappu.Battle.Action.Nodes+IsElementDamage"},{"_filterApplyWay":false,"_applyWayFilter":"NONE","_isOneMinus":false,"_isStackable":false,"$type":"Torappu.Battle.Action.Nodes+EpDamageScale"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1310]
+			BuffTemplate data
+				string templateKey = "rogue_2_undeadable_damage[hp_not_full]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":false,"_isUndeadable":true,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1311]
+			BuffTemplate data
+				string templateKey = "rogue_2_attr_down[game_start]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+CheckGamePlayedTime"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1312]
+			BuffTemplate data
+				string templateKey = "rogue_2_hit_to_add_sp[tag]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 11
+								ActionArray value
+									string SerializedState = "[{"_targetType":"MODIFIER_TARGET","_filterTag":null,"$type":"Torappu.Battle.Action.Nodes+CheckFilterTag"},{"_targetType":"BUFF_OWNER","_modifyByRatio":false,"_spMask":"ALL","_forceFlag":false,"_dontShowSpUI":false,"$type":"Torappu.Battle.Action.Nodes+ModifySp"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1313]
+			BuffTemplate data
+				string templateKey = "rogue_2_extra_damage[pure]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 21
+								ActionArray value
+									string SerializedState = "[{"_targetType":"MODIFIER_TARGET","_condType":"LT","_useSourceHpRatio":false,"_sourceType":"SOURCE","_blackboardPrefix":null,"$type":"Torappu.Battle.Action.Nodes+FilterByTargetHpRatio"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"pure_damage","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"no_source_pure_damage_when_start","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"relic_1_p51_attack_01_hit","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"MODIFIER_TARGET","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1314]
+			BuffTemplate data
+				string templateKey = "trap_aidkit_heal[allydonq]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"TARGET","_sourceType":"SOURCE","_ignoreHealFree":true,"$type":"Torappu.Battle.Action.Nodes+FixedValueHeal"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1315]
+			BuffTemplate data
+				string templateKey = "trap_dice_respawn"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_profession":"WARRIOR,SNIPER,TANK,MEDIC,SUPPORT,CASTER,SPECIAL,TOKEN,TRAP,PIONEER","_lifeType":"IMMEDIATELY","_isRatio":true,"_enableMaxStackCount":false,"_filterIsInHand":false,"$type":"Torappu.Battle.Action.Nodes+CreateCardFilterByProfession"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1316]
+			BuffTemplate data
+				string templateKey = "trap_dice_selector"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_maxVal":6,"$type":"Torappu.Battle.Action.Nodes+RollRogueDice"},{"_ownerType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"DiceBuff","_checkCanUseAblityFlag":false,"_castDirectly":false,"$type":"Torappu.Battle.Action.Nodes+TriggerAbility"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"dice_self_effects","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"trap_dice_effects","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"dice","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1317]
+			BuffTemplate data
+				string templateKey = "trap_dice_effects"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_threshold":3,"_condType":"LE","_blackboardKey":"dice_var","$type":"Torappu.Battle.Action.Nodes+CompareRogueDiceNumber"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"dice_1[effct]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_conditionNode":{"_threshold":6,"_condType":"LE","_blackboardKey":"dice_var","$type":"Torappu.Battle.Action.Nodes+CompareRogueDiceNumber"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"dice_2[effct]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_conditionNode":{"_threshold":9,"_condType":"LE","_blackboardKey":"dice_var","$type":"Torappu.Battle.Action.Nodes+CompareRogueDiceNumber"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"dice_3[effct]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"trap_dice_respawn","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_buff_03","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"remaining_respawn_time","value":0.5,"valueStr":""}]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"dice_4[effct]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"trap_dice_respawn","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_buff_04","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"remaining_respawn_time","value":0.0,"valueStr":""}]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1318]
+			BuffTemplate data
+				string templateKey = "trap_dice_buffs"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_threshold":3,"_condType":"LE","_blackboardKey":"dice_var","$type":"Torappu.Battle.Action.Nodes+CompareRogueDiceNumber"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false},{"attributeType":"MOVE_SPEED","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"dice_interval[0]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_conditionNode":{"_threshold":6,"_condType":"LE","_blackboardKey":"dice_var","$type":"Torappu.Battle.Action.Nodes+CompareRogueDiceNumber"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false},{"attributeType":"MOVE_SPEED","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"dice_interval[1]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_conditionNode":{"_threshold":9,"_condType":"LE","_blackboardKey":"dice_var","$type":"Torappu.Battle.Action.Nodes+CompareRogueDiceNumber"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false},{"attributeType":"MOVE_SPEED","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"dice_interval[2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false},{"attributeType":"MOVE_SPEED","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"dice_interval[3]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1319]
+			BuffTemplate data
+				string templateKey = "enemy_sydonq_reborn[shield]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[freeze_shield]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_sydonq_t[freeze_shield]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1320]
+			BuffTemplate data
+				string templateKey = "enemy_sydonq_t[freeze_shield]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkCurModeIndex":0,"$type":"Torappu.Battle.Action.Nodes+CheckUnitCurrentMode"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[shield_1]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_sydonq_characteristic_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[shield_2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_sydonq_characteristic_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1321]
+			BuffTemplate data
+				string templateKey = "enemy_sydonq_t[freeze]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":["FROZEN"],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"e2c_cold","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_targetType":"BUFF_SOURCE","_sourceType":"BUFF_SOURCE","_effectKey":"enemy_sydonq_counter","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"enemy_sydonq_counter_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_conditionNode":{"_abnormalFlag":"FROZEN","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[frozen_audio]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"enemy_sydonq_t[frozen]","lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"MODIFIER_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1322]
+			BuffTemplate data
+				string templateKey = "trap_aidkit_heal"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_targetType":"TARGET","_sourceType":"SOURCE","_ignoreHealFree":false,"$type":"Torappu.Battle.Action.Nodes+FixedValueHeal"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1323]
+			BuffTemplate data
+				string templateKey = "enemy_sydonq_t[inverse_freeze]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_source":"BUFF_OWNER","_target":"MODIFIER_SOURCE","_targetOptions":{"targetSide":"ENEMY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":false,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"$type":"Torappu.Battle.Action.Nodes+VertifyTarget"},"_succeedNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_condType":"LT","_useSourceHpRatio":false,"_sourceType":"SOURCE","_blackboardPrefix":null,"$type":"Torappu.Battle.Action.Nodes+FilterByTargetHpRatio"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[freeze2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_sydonq_t[freeze]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"MODIFIER_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["sydonq_t[freeze_shield]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":null,"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[freeze_shield]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_sydonq_t[freeze_shield]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[freeze1]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_sydonq_t[freeze]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"MODIFIER_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1324]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_reborn[sp_clear]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_enemy":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+ClearEnemySp"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1325]
+			BuffTemplate data
+				string templateKey = "enemy_sygirl_finishwave"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_ownerType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CheckUnitAlive"},"_succeedNodes":null,"_failNodes":[{"_trackSourceAtNextWave":false,"_trackSourceAtWaveDelta":0,"_trackAllManagedEnemiesAtNextWave":false,"_trackAllManagedEnemiesAtWaveDelta":0,"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishCurrentWave"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1326]
+			BuffTemplate data
+				string templateKey = "enemy_syboy_t[mark]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_modifierTarget":"BUFF_OWNER","_condType":"LT","_targetType":"HP","$type":"Torappu.Battle.Action.Nodes+CompareModifierValueWithTargetType"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syboy_t[counter]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":15,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKey":"syboy_t[counter]","_stackCount":0,"_stackCountKey":"damage_counter","_stackCountPeeling":0,"_condType":"GE","_checkFromUnoverridableBuffCount":false,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syboy_t[summon]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_syboy_s","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1327]
+			BuffTemplate data
+				string templateKey = "trap_aidkit_suicide"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_killSource":true,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1328]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_t[clear]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 4
+								ActionArray value
+									string SerializedState = "[{"_target":"TARGET","$type":"Torappu.Battle.Action.Nodes+EnemyKillToken"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1329]
+			BuffTemplate data
+				string templateKey = "enemy_syshop_s[kafka]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_abnormalCombo":"SLEEPING","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalComboImmune"},"_succeedNodes":[{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_healTarget":"BUFF_OWNER","_getMaxHpFromTarget":false,"_ignoreHealFree":false,"_skipModifierEvent":false,"$type":"Torappu.Battle.Action.Nodes+HealViaMaxHpRatio"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1330]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_t[berserk_effect]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["syskad_t[atk]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syskad_t[effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_2039_syskad_c1_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1331]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_s[clear]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_target":"TARGET","$type":"Torappu.Battle.Action.Nodes+EnemyKillToken"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1332]
+			BuffTemplate data
+				string templateKey = "enemy_syrott_t[periodic_sp]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"SOURCE","_buffKeys":["syrott_t[occupied]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":null,"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkCurModeIndex":0,"$type":"Torappu.Battle.Action.Nodes+CheckUnitCurrentMode"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_modifyByRatio":false,"_spMask":"ALL","_forceFlag":false,"_dontShowSpUI":false,"$type":"Torappu.Battle.Action.Nodes+ModifySp"},{"_targetType":"SOURCE","_sourceType":"SOURCE","_effectKey":"enemy_syrott_sp_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_targetType":"BUFF_OWNER","_sourceType":"SOURCE","_effectKey":"enemy_2039_syskad_c1_sp_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1333]
+			BuffTemplate data
+				string templateKey = "enemy_syrott_t[periodic_damage]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"SOURCE","_attributeType":"ATK","_getAttrFromTarget":true,"_damageType":"PURE","_applyWay":"MELEE","_ignoreForSp":false,"_isUndeadable":false,"_attackType":"NORMAL","$type":"Torappu.Battle.Action.Nodes+DamageViaAttr"},{"_targetType":"BUFF_OWNER","_sourceType":"SOURCE","_effectKey":"enemy_syrott_attack_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syrott_t[damage_audio]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"enemy_syrott_t[damage]","lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syrott_t[occupied]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"SOURCE","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1334]
+			BuffTemplate data
+				string templateKey = "enemy_sygirl_die[fly]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"enemy_sygirl_c1_die_start","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1335]
+			BuffTemplate data
+				string templateKey = "enemy_sygirl_die"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"enemy_sygirl_c2_die_start","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1336]
+			BuffTemplate data
+				string templateKey = "enemy_sygirl_fly"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 3
+							[0]
+							EventToAction data
+								int key = 25
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_ownerType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CheckUnitAlive"},"_succeedNodes":[{"_conditionNode":{"_ownerType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CheckUnitInRebornState"},"_succeedNodes":null,"_failNodes":[{"_modeIndex":0,"_loadModeFromBlackboard":true,"_restoreDefault":false,"_restartFSM":false,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"stun","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"stun","value":0.5,"valueStr":null}]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_logType":"SIMPLE","_key":"fell","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_resetToDefault":false,"$type":"Torappu.Battle.Action.Nodes+ChangeMotionMode"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[2]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_resetToDefault":true,"$type":"Torappu.Battle.Action.Nodes+ChangeMotionMode"},{"_ownerType":"BUFF_OWNER","_force":true,"$type":"Torappu.Battle.Action.Nodes+UpdateEnemyCurrentTile"},{"_source":"BUFF_OWNER","_finishReason":"NONE","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1337]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_t[monster]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_healTarget":"BUFF_OWNER","_getMaxHpFromTarget":false,"_ignoreHealFree":false,"_skipModifierEvent":true,"$type":"Torappu.Battle.Action.Nodes+HealViaMaxHpRatio"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1338]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_t[berserk]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 7
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkCurModeIndex":0,"$type":"Torappu.Battle.Action.Nodes+CheckUnitCurrentMode"},"_succeedNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_condType":"LT","_useSourceHpRatio":false,"_sourceType":"SOURCE","_blackboardPrefix":null,"$type":"Torappu.Battle.Action.Nodes+FilterByTargetHpRatio"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"syskad_t[atk]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syskad_t[effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_2039_syskad_c1_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_skillName":"BerserkCorrupt","_checkSkillActive":false,"_ownerType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_interruptCurAbility":true,"$type":"Torappu.Battle.Action.Nodes+TriggerEnemySkill"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1339]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_t[fetch]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_condType":"LT","_useSourceHpRatio":false,"_sourceType":"SOURCE","_blackboardPrefix":null,"$type":"Torappu.Battle.Action.Nodes+FilterByTargetHpRatio"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_damageType":"PURE","_blackboardStr":"dynamic","_buffNameOfBlackboard":"syskad_t[hpsave]","$type":"Torappu.Battle.Action.Nodes+FetchHpToBlackboard"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffNameOfBlackboard":"syskad_t[hpsave]","$type":"Torappu.Battle.Action.Nodes+SaveHpToDynamicVar"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1340]
+			BuffTemplate data
+				string templateKey = "trap_allydonq_logkilled"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"killed","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"born","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1341]
+			BuffTemplate data
+				string templateKey = "enemy_syudg_s[switchmode]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"SOURCE","_condType":"LE","$type":"Torappu.Battle.Action.Nodes+FilterByTargetSpRatio"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syudg[swordmode]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"switch_mode_no_restore","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"mode","value":2.0,"valueStr":""}]},"_buffOwner":"SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1342]
+			BuffTemplate data
+				string templateKey = "enemy_syboys_suicide"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_killSource":false,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1343]
+			BuffTemplate data
+				string templateKey = "enemy_syufo_fly"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 3
+							[0]
+							EventToAction data
+								int key = 25
+								ActionArray value
+									string SerializedState = "[{"_modeIndex":0,"_loadModeFromBlackboard":true,"_restoreDefault":false,"_restartFSM":false,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"stun","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"stun","value":0.5,"valueStr":null}]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_resetToDefault":false,"$type":"Torappu.Battle.Action.Nodes+ChangeMotionMode"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[2]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_resetToDefault":true,"$type":"Torappu.Battle.Action.Nodes+ChangeMotionMode"},{"_ownerType":"BUFF_OWNER","_force":true,"$type":"Torappu.Battle.Action.Nodes+UpdateEnemyCurrentTile"},{"_source":"BUFF_OWNER","_finishReason":"NONE","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syufo_break","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"","lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1344]
+			BuffTemplate data
+				string templateKey = "trap_badbox_s"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_notRepeatInOneLoop":false,"$type":"Torappu.Battle.Action.Nodes+PickRandomBranchPhase"},{"_killSource":false,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1345]
+			BuffTemplate data
+				string templateKey = "trap_rarebox_t[inverse_damage]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_source":"BUFF_OWNER","_target":"MODIFIER_SOURCE","_targetOptions":{"targetSide":"ENEMY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":false,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"$type":"Torappu.Battle.Action.Nodes+VertifyTarget"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"rarebox_t[effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"trap_rarebox_counter","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.5,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_damageType":"PURE","_sideMask":"ENEMY","_attackType":"NORMAL","_hasSource":false,"_skipSourceEvent":false,"_sourceType":"MODIFIER_TARGET","_skipModifierEvent":false,"$type":"Torappu.Battle.Action.Nodes+InverseDamage"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"rarebox_hit[effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"trap_rarebox_counter_hit","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"trap_rarebox_hit","lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.5,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"MODIFIER_SOURCE","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1346]
+			BuffTemplate data
+				string templateKey = "trap_normbox_t[logkilled]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"trap_065_normbox","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1347]
+			BuffTemplate data
+				string templateKey = "enemy_syboy_s"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_enemyId":"enemy_2033_syboys","_limitAmountKey":"limit_amount","_limitAmount":0,"_condType":"LT","$type":"Torappu.Battle.Action.Nodes+CheckSpecificEnemyCount"},"_succeedNodes":[{"_source":"BUFF_OWNER","_enemyKey":null,"_summonCount":0,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":true,"_randomOffsetBound":0.2,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.5,"_stopSummonIfHostDead":true,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1348]
+			BuffTemplate data
+				string templateKey = "enemy_syudg_t"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_condType":"LE","$type":"Torappu.Battle.Action.Nodes+FilterByTargetSpRatio"},"_succeedNodes":[{"_modeIndex":1,"_loadModeFromBlackboard":false,"_restoreDefault":false,"_restartFSM":true,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1349]
+			BuffTemplate data
+				string templateKey = "enemy_syboys_t"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_damageType":"PURE","$type":"Torappu.Battle.Action.Nodes+FetchEnemyHpToHost"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1350]
 			BuffTemplate data
 				string templateKey = "enemy_syboy[kill]"
 				string effectKey = ""
@@ -24253,7 +25649,278 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1275]
+			[1351]
+			BuffTemplate data
+				string templateKey = "enemy_symon_t[heal]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["ally_alive"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_healTarget":"BUFF_OWNER","_getMaxHpFromTarget":false,"_ignoreHealFree":false,"_skipModifierEvent":false,"$type":"Torappu.Battle.Action.Nodes+HealViaMaxHpRatio"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_condType":"GE","_useSourceHpRatio":false,"_sourceType":"SOURCE","_blackboardPrefix":"target_","$type":"Torappu.Battle.Action.Nodes+FilterByTargetHpRatio"},"_succeedNodes":[{"_modeIndex":0,"_loadModeFromBlackboard":false,"_restoreDefault":true,"_restartFSM":true,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":[{"_killSource":true,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":true,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1352]
+			BuffTemplate data
+				string templateKey = "enemy_syevil_t[mark]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"SOURCE","_checkCurModeIndex":1,"$type":"Torappu.Battle.Action.Nodes+CheckUnitCurrentMode"},"_succeedNodes":[{"_killSource":true,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":true,"$type":"Torappu.Battle.Action.Nodes+InstantKill"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_killSource":false,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":true,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_ownerType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CheckUnitInRebornState"},"_succeedNodes":null,"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"ally_alive","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"SOURCE","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1353]
+			BuffTemplate data
+				string templateKey = "enemy_syudg_t[stun]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 42
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByTargetSpRatio"},"_succeedNodes":[{"_modeIndex":0,"_loadModeFromBlackboard":false,"_restoreDefault":true,"_restartFSM":false,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"}],"_failNodes":[{"_modeIndex":2,"_loadModeFromBlackboard":false,"_restoreDefault":false,"_restartFSM":true,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"stun","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1354]
+			BuffTemplate data
+				string templateKey = "enemy_syudg_t[reload]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"SOURCE","_modifyByRatio":false,"_spMask":"INCREASE_WITH_TIME","_forceFlag":true,"_dontShowSpUI":false,"$type":"Torappu.Battle.Action.Nodes+ModifySp"},{"_conditionNode":{"_targetType":"SOURCE","_condType":"GE","$type":"Torappu.Battle.Action.Nodes+FilterByTargetSpRatio"},"_succeedNodes":[{"_modeIndex":0,"_loadModeFromBlackboard":false,"_restoreDefault":true,"_restartFSM":true,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 25
+								ActionArray value
+									string SerializedState = "[{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1355]
+			BuffTemplate data
+				string templateKey = "enemy_sypult_summon"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 11
+								ActionArray value
+									string SerializedState = "[{"_source":"MAIN_TARGET","_target":"SOURCE","_useHostEndPosition":true,"_useRandomEnemy":false,"_enemyKey":null,"_motionMode":"WALK","_unharmful":true,"_alwaysCountAsKilled":false,"_waitTime":0.0,"_spawnOffset":0.2,"$type":"Torappu.Battle.Action.Nodes+SummonEnemyWithRuntimeRoute"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1356]
+			BuffTemplate data
+				string templateKey = "enemy_syzeni_def"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 26
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":["UNMOVABLE_PRIVATE"],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"DEF","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"syzeni_s[unmovable]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_syzeni_attack_buff","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1357]
+			BuffTemplate data
+				string templateKey = "rogue_2_damage_block[stack]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_filterDamageType":false,"_damageMask":"NONE","_useDynamicVar":false,"_showDamageNumber":false,"_specifyBlockEffect":null,"_useSource":false,"_sourceType":"SOURCE","_filterApplyWay":false,"_applyWayFilter":"NONE","$type":"Torappu.Battle.Action.Nodes+BlockDamage"},{"_decCntIfStack":true,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1358]
+			BuffTemplate data
+				string templateKey = "rogue_2_projectile_on_killed"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_mountPoint":"FOOT","_ev":"ON_HIT_OBJECT","_actions":null,"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1359]
+			BuffTemplate data
+				string templateKey = "rogue_2_hp_ratio_to_attr_add[attack_speed]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_minHpRatio":0.0,"_maxHpRatio":1.0,"_attributeType":"ATTACK_SPEED","_overrideSource":true,"_hpRatioSource":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+HpRatioToAttributeAdd"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1360]
+			BuffTemplate data
+				string templateKey = "rogue_2_hp_ratio_to_attr_add[atk]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_minHpRatio":0.0,"_maxHpRatio":1.0,"_attributeType":"ATK","_overrideSource":true,"_hpRatioSource":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+HpRatioToAttributeMul"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1361]
+			BuffTemplate data
+				string templateKey = "rogue_2_attr_up[evade]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 15
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"rogue_2_attr_up[evade]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_2_relic_fight_136_buff","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1362]
+			BuffTemplate data
+				string templateKey = "rogue_2_sp_recovery_up[stack]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 33
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"rogue_2_sp_recovery_up[stack]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKey":"rogue_2_sp_recovery_up[stack]","_stackCount":0,"_stackCountKey":"max_stack_cnt","_stackCountPeeling":0,"_condType":"GE","_checkFromUnoverridableBuffCount":false,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["rogue_2_sp_recovery_up[effect_2]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"rogue_2_sp_recovery_up[effect_2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_2_relic_fight_135_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["rogue_2_sp_recovery_up[effect]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"rogue_2_sp_recovery_up[effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_2_relic_fight_135_buff","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1363]
+			BuffTemplate data
+				string templateKey = "rogue_2_modify_sp"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_modifyByRatio":false,"_spMask":"ALL","_forceFlag":false,"_dontShowSpUI":false,"$type":"Torappu.Battle.Action.Nodes+ModifySp"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1364]
+			BuffTemplate data
+				string templateKey = "enemy_sydonq_t[shield_effect]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkCurModeIndex":0,"$type":"Torappu.Battle.Action.Nodes+CheckUnitCurrentMode"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[shield_1]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_sydonq_characteristic_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[shield_2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_sydonq_characteristic_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1365]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_log_extra"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 4
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"withdraw","_attributeType":"NONE","_target":"BUFF_SOURCE","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1366]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_hit_turngear"
 				string effectKey = ""
@@ -24270,7 +25937,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1276]
+			[1367]
 			BuffTemplate data
 				string templateKey = "garage_s[log]"
 				string effectKey = ""
@@ -24287,7 +25954,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1277]
+			[1368]
 			BuffTemplate data
 				string templateKey = "enemy_minima_dot"
 				string effectKey = ""
@@ -24304,7 +25971,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1278]
+			[1369]
 			BuffTemplate data
 				string templateKey = "enemy_minima_reborn"
 				string effectKey = ""
@@ -24321,7 +25988,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1279]
+			[1370]
 			BuffTemplate data
 				string templateKey = "enemy_minima_shield[aura]"
 				string effectKey = ""
@@ -24346,7 +26013,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1280]
+			[1371]
 			BuffTemplate data
 				string templateKey = "enemy_minima_shield_last"
 				string effectKey = ""
@@ -24363,7 +26030,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1281]
+			[1372]
 			BuffTemplate data
 				string templateKey = "enemy_minima_shield"
 				string effectKey = ""
@@ -24380,7 +26047,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1282]
+			[1373]
 			BuffTemplate data
 				string templateKey = "enemy_minima_shield[refresh]"
 				string effectKey = ""
@@ -24397,7 +26064,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1283]
+			[1374]
 			BuffTemplate data
 				string templateKey = "enemy_dursho_t"
 				string effectKey = ""
@@ -24414,7 +26081,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1284]
+			[1375]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_silence"
 				string effectKey = ""
@@ -24431,7 +26098,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1285]
+			[1376]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_damage"
 				string effectKey = ""
@@ -24448,7 +26115,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1286]
+			[1377]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_stun"
 				string effectKey = ""
@@ -24465,7 +26132,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1287]
+			[1378]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_hit_blocker"
 				string effectKey = ""
@@ -24482,7 +26149,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1288]
+			[1379]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_hit_blocker[suicide]"
 				string effectKey = ""
@@ -24499,7 +26166,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1289]
+			[1380]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_boom"
 				string effectKey = ""
@@ -24516,7 +26183,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1290]
+			[1381]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_gain_sp"
 				string effectKey = ""
@@ -24533,7 +26200,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1291]
+			[1382]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_buff[heal]"
 				string effectKey = ""
@@ -24550,7 +26217,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1292]
+			[1383]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_heal"
 				string effectKey = ""
@@ -24567,7 +26234,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1293]
+			[1384]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_atk_speed_up"
 				string effectKey = ""
@@ -24584,7 +26251,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1294]
+			[1385]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_cold"
 				string effectKey = ""
@@ -24601,7 +26268,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1295]
+			[1386]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_mag_resist_down"
 				string effectKey = ""
@@ -24618,7 +26285,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1296]
+			[1387]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_def_down"
 				string effectKey = ""
@@ -24635,7 +26302,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1297]
+			[1388]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_knockback"
 				string effectKey = ""
@@ -24652,7 +26319,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1298]
+			[1389]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_change_direction"
 				string effectKey = ""
@@ -24669,7 +26336,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1299]
+			[1390]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_suicide"
 				string effectKey = ""
@@ -24702,7 +26369,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1300]
+			[1391]
 			BuffTemplate data
 				string templateKey = "garage_mark_direction"
 				string effectKey = ""
@@ -24719,7 +26386,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1301]
+			[1392]
 			BuffTemplate data
 				string templateKey = "bossrush_init_grid"
 				string effectKey = ""
@@ -24736,7 +26403,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1302]
+			[1393]
 			BuffTemplate data
 				string templateKey = "bossrush_edge_effect_right[trigger]"
 				string effectKey = ""
@@ -24753,7 +26420,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1303]
+			[1394]
 			BuffTemplate data
 				string templateKey = "bossrush_edge_effect_left[trigger]"
 				string effectKey = ""
@@ -24770,7 +26437,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1304]
+			[1395]
 			BuffTemplate data
 				string templateKey = "bossrush_wave_finished"
 				string effectKey = ""
@@ -24787,7 +26454,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1305]
+			[1396]
 			BuffTemplate data
 				string templateKey = "bossrush_move_camera"
 				string effectKey = ""
@@ -24804,7 +26471,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1306]
+			[1397]
 			BuffTemplate data
 				string templateKey = "bossrush_withdraw_danger_area"
 				string effectKey = ""
@@ -24821,7 +26488,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1307]
+			[1398]
 			BuffTemplate data
 				string templateKey = "bossrush_withdraw"
 				string effectKey = ""
@@ -24838,7 +26505,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1308]
+			[1399]
 			BuffTemplate data
 				string templateKey = "bossrush_init_danger_area"
 				string effectKey = ""
@@ -24855,7 +26522,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1309]
+			[1400]
 			BuffTemplate data
 				string templateKey = "atk_modify_cost"
 				string effectKey = ""
@@ -24872,7 +26539,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1310]
+			[1401]
 			BuffTemplate data
 				string templateKey = "act1bossrush_kazimierz_buff"
 				string effectKey = ""
@@ -24897,7 +26564,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1311]
+			[1402]
 			BuffTemplate data
 				string templateKey = "act1bossrush_relic3_extralog"
 				string effectKey = ""
@@ -24914,7 +26581,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1312]
+			[1403]
 			BuffTemplate data
 				string templateKey = "act1bossrush_relic4_extralog"
 				string effectKey = ""
@@ -24931,7 +26598,760 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1313]
+			[1404]
+			BuffTemplate data
+				string templateKey = "polluted_area"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_heightType":"LOWLAND","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckHeightTypeOfCharacterRootTile"},"_succeedNodes":[{"_damageType":"PURE","_damageKey":"polluted_damage_low","_ignoreForSp":true,"_attackType":"NORMAL","_skipModifierEvent":false,"$type":"Torappu.Battle.Action.Nodes+FixedValueDamage"}],"_failNodes":[{"_damageType":"PURE","_damageKey":"polluted_damage_high","_ignoreForSp":true,"_attackType":"NORMAL","_skipModifierEvent":false,"$type":"Torappu.Battle.Action.Nodes+FixedValueDamage"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1405]
+			BuffTemplate data
+				string templateKey = "legion_nlkgtbs_s_3_anim"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_replaceAnimPairs":[{"fromAnimKey":"Skill_End_1","toAnimKey":"Skill_End_3"}],"$type":"Torappu.Battle.Action.Nodes+ModifyAnimatorHookerReplacePair"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1406]
+			BuffTemplate data
+				string templateKey = "legion_nlkgtbs_s_2_anim"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_replaceAnimPairs":[{"fromAnimKey":"Skill_End_1","toAnimKey":"Skill_End_2"}],"$type":"Torappu.Battle.Action.Nodes+ModifyAnimatorHookerReplacePair"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1407]
+			BuffTemplate data
+				string templateKey = "legion_nlkgtbs_s_1_anim"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_replaceAnimPairs":[{"fromAnimKey":"Skill_End_1","toAnimKey":"Skill_End_1"}],"$type":"Torappu.Battle.Action.Nodes+ModifyAnimatorHookerReplacePair"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1408]
+			BuffTemplate data
+				string templateKey = "legion_nlkgtbs_passive_shield"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_filterDamageType":false,"_damageMask":"NONE","_useDynamicVar":true,"_showDamageNumber":true,"_specifyBlockEffect":null,"_useSource":false,"_sourceType":"SOURCE","_filterApplyWay":false,"_applyWayFilter":"NONE","$type":"Torappu.Battle.Action.Nodes+BlockDamage"},{"_var":"dynamic","$type":"Torappu.Battle.Action.Nodes+IsBlackboardZero"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_attributeType":"MAX_HP","_scaleVar":"hp_shield_scale","$type":"Torappu.Battle.Action.Nodes+AssignAttributeAsDynamicVarToBB"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1409]
+			BuffTemplate data
+				string templateKey = "legion_nlkgtbs_reduce_damage"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkBlockedBySource":true,"_checkBlockedBySourceToken":false,"_sourceType":"MODIFIER_SOURCE","$type":"Torappu.Battle.Action.Nodes+CheckBlocked"},"_succeedNodes":null,"_failNodes":[{"_filterDamageType":true,"_damageMask":"ANY_ATTACK_EXCEPT_PURE","_filterApplyWay":false,"_applyWayFilter":"NONE","_isOneMinus":true,"_isStackable":false,"_cachedDeltaValueToBBKey":"","$type":"Torappu.Battle.Action.Nodes+DamageScale"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1410]
+			BuffTemplate data
+				string templateKey = "legion_nlkgtbs_periodic_damage"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKeys":["trap_tbasnc_boss_periodic_damage"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"_sourceType":"BUFF_OWNER","_damageType":"PURE","_damageKey":"damage","_buffKey":"trap_tbasnc_boss_periodic_damage","_targetOptions":{"targetSide":"ENEMY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"BUFF","_isEnvDamage":true,"_noSourceDamage":true,"$type":"Torappu.Battle.Action.Nodes+NoSourceGlobalDamageScaleByBuffCnt"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1411]
+			BuffTemplate data
+				string templateKey = "legion_trap_tbsmmc"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_isLoop":true,"$type":"Torappu.Battle.Action.Nodes+MoveNextLevelBranch"},{"_sourceType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"BossSelect","_excludeTarget":false,"_excludeTargetType":"SOURCE","_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"trap_tbsmmc_boss_eff1","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_nlkgtbs_s_3_anim","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_nlkgtbs_skill_03_start_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":3.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffSource":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffUseAbilitySelector"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1412]
+			BuffTemplate data
+				string templateKey = "legion_trap_tbpsnc"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"BossSelect","_excludeTarget":false,"_excludeTargetType":"SOURCE","_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"trap_tbasnc_boss_periodic_damage","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_nlkgtbs_skill_02_range_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffSource":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffUseAbilitySelector"},{"_sourceType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"BossSelect","_excludeTarget":false,"_excludeTargetType":"SOURCE","_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"trap_tbasnc_boss_eff1","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_nlkgtbs_s_2_anim","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_nlkgtbs_skill_02_start_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":3.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffSource":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffUseAbilitySelector"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1413]
+			BuffTemplate data
+				string templateKey = "legion_trap_tbattbc"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"BossSelect","_excludeTarget":false,"_excludeTargetType":"SOURCE","_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false},{"attributeType":"DEF","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"trap_tbattbc_boss_strong","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_nlkgtbs_skilll_01_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffSource":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffUseAbilitySelector"},{"_sourceType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"BossSelect","_excludeTarget":false,"_excludeTargetType":"SOURCE","_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"trap_tbattbc_boss_eff1","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_nlkgtbs_s_1_anim","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_nlkgtbs_skilll_01_start_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":3.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffSource":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffUseAbilitySelector"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1414]
+			BuffTemplate data
+				string templateKey = "legion_trap_paras_summon"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_source":"BUFF_OWNER","_enemyKey":null,"_summonCount":0,"_motionMode":"WALK","_unharmful":false,"_alwaysCountAsKilled":false,"_waitTime":0.0,"_spawnOffset":0.0,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesWithRuntimeNearestEndPointRoute"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1415]
+			BuffTemplate data
+				string templateKey = "legion_mode_enemy_die_money"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyEnemyDeathDrop"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"map_028_chouka_die_money","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1416]
+			BuffTemplate data
+				string templateKey = "legion_character_status"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 3
+							[0]
+							EventToAction data
+								int key = 50
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"character_dying","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"character_dying","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_028_chouka_calling_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"character_dying_sos","lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"dying_duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 13
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyShowStatusMessage"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[2]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkIsMaxLevel":false,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyHasProfessionBuff"},"_succeedNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkIsMaxLevel":true,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyHasProfessionBuff"},"_succeedNodes":[{"_derviedBuffKey":"character_in_legionmode[buff_effect][max]","$type":"Torappu.Battle.Action.Nodes+CheckContainsDerviedBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"character_in_legionmode[buff_effect][max]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_028_chouka_zhuangbei_level5","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_derviedBuffKey":"character_in_legionmode[buff_effect][notmax]","$type":"Torappu.Battle.Action.Nodes+CheckContainsDerviedBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"character_in_legionmode[buff_effect][notmax]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_028_chouka_zhuangbei_level1","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":[{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1417]
+			BuffTemplate data
+				string templateKey = "legion_btauntcard_killed"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_cardType":"NULL","_rangeNumKey":"range_num","_canSelectNumKey":"can_select_num","_goldNumWhenSellCard":"sell_card_gold","_discardUnselected":false,"_sellSelected":true,"_putInPendingIfHandFull":false,"_selectCardType":"SELL","_specificCardKeys":[],"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlySelectCard"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1418]
+			BuffTemplate data
+				string templateKey = "legion_btauntcard_remove_passive"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_buffKey":"legion_btauntcard_passive","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1419]
+			BuffTemplate data
+				string templateKey = "legion_btauntcard_life_durantion"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_spShowBuffKey":null,"_isSelf":true,"$type":"Torappu.Battle.Action.Nodes+SpShowBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_spShowBuffKey":null,"_isSelf":true,"$type":"Torappu.Battle.Action.Nodes+SpShowBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1420]
+			BuffTemplate data
+				string templateKey = "legion_btauntcard_trigger_reset"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_skillName":null,"_ownerType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+ReInitEnemySkillCoolDown"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1421]
+			BuffTemplate data
+				string templateKey = "legion_trap_bomb"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCheckCardInHand"},{"_damageType":"PURE","_damageKey":"damage","_targetOptions":{"targetSide":"ENEMY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_attackType":"NORMAL","_buffs":[{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"stun","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]}],"_effectKey":"enemy_pleslm_skill_02_hit","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyGlobalDamageFromCard"},{"_effectKey":"enemy_pleslm_skill_02_range","_screenWidthRatio":0.5,"_screenheightRatio":0.5,"$type":"Torappu.Battle.Action.Nodes+CreateEffectAtScreenPos"},{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyForceRecycleUsingCard"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1422]
+			BuffTemplate data
+				string templateKey = "legion_trap_undeployable"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCheckCardInHand"},{"_deckBuff":{"cardEffectType":"UNDEPLOYABLE","lifeType":"ALL_THE_TIME","affectInHand":false,"showToastWhenAffect":false,"buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"btauntcard_undeployable","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]}},"_randomOneDeckCard":false,"_filterIsInHand":false,"_exceptTokenAndTrap":false,"_excludeTarget":true,"_onlyToTarget":false,"_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CreateDeckBuff"},{"_deckBuff":{"cardEffectType":"TAUNT","lifeType":"ALL_THE_TIME","affectInHand":false,"showToastWhenAffect":false,"buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"btauntcard_taunt","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]}},"_randomOneDeckCard":false,"_filterIsInHand":false,"_exceptTokenAndTrap":false,"_excludeTarget":false,"_onlyToTarget":true,"_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CreateDeckBuff"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1423]
+			BuffTemplate data
+				string templateKey = "legion_trap_remove_deckbuff"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 13
+								ActionArray value
+									string SerializedState = "[{"_target":"TARGET","_deckBuffKey":"btauntcard_undeployable","_removeFromAllCard":true,"$type":"Torappu.Battle.Action.Nodes+FinishDeckBuffByKey"},{"_target":"BUFF_OWNER","_deckBuffKey":"btauntcard_taunt","_removeFromAllCard":false,"$type":"Torappu.Battle.Action.Nodes+FinishDeckBuffByKey"},{"_sideMask":"ENEMY","_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"btauntcard_trigger_ability","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_btauntcard_trigger_reset","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"skill_name","value":0.0,"valueStr":"TauntCard"}]},"_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffToCertainSideUnits"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1424]
+			BuffTemplate data
+				string templateKey = "legion_trap_recycle_dying_buff"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","_targetOptions":{"targetSide":"ALLY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":true,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"WARRIOR,SNIPER,TANK,MEDIC,SUPPORT,CASTER,SPECIAL,PIONEER","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_maxNum":1,"_buffData":{"attributes":{"abnormalFlags":null,"abnormalImmunes":null,"abnormalAntis":null,"abnormalCombos":null,"abnormalComboImmunes":null,"attributeModifiers":null},"buffKey":"recyclecard_buff_dying","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_trap_recycle_card_buff","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"trap_recyclecard_end","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"LIMITED","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"interval","value":1.5,"valueStr":""},{"key":"trig_cnt","value":1.0,"valueStr":""}]},"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCreateBuffToDyingInRange"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1425]
+			BuffTemplate data
+				string templateKey = "legion_trap_recycle_card_buff"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCheckHandCardNotFull"},{"_target":"BUFF_OWNER","_lifeType":"UNTIL_NEXT_SPAWN","_isRatio":true,"_enableMaxStackCount":false,"_filterIsInHand":false,"$type":"Torappu.Battle.Action.Nodes+CreateCardBuff"},{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyTakeCardBackToHand"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1426]
+			BuffTemplate data
+				string templateKey = "legion_trap_mark_use_once"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyMarkCardUseOnce"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1427]
+			BuffTemplate data
+				string templateKey = "legion_select_card"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_cardType":"NULL","_rangeNumKey":"range_num","_canSelectNumKey":"can_select_num","_goldNumWhenSellCard":"sell_card_gold","_discardUnselected":false,"_sellSelected":false,"_putInPendingIfHandFull":false,"_selectCardType":"NULL","_specificCardKeys":null,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlySelectCard"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1428]
+			BuffTemplate data
+				string templateKey = "legion_select_card_sell"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_cardType":"NULL","_rangeNumKey":"range_num","_canSelectNumKey":"can_select_num","_goldNumWhenSellCard":"sell_card_gold","_discardUnselected":false,"_sellSelected":true,"_putInPendingIfHandFull":false,"_selectCardType":"SELL","_specificCardKeys":[],"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlySelectCard"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1429]
+			BuffTemplate data
+				string templateKey = "legion_buffcard_gain_buff"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_levelCnt":0,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyAddProfessionLevel"},{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyShowStatusMessage"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1430]
+			BuffTemplate data
+				string templateKey = "legion_llstone_dead_remove"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 4
+								ActionArray value
+									string SerializedState = "[{"_target":"TARGET","_deckBuffKey":"llstone_card_durance","_removeFromAllCard":true,"$type":"Torappu.Battle.Action.Nodes+FinishDeckBuffByKey"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1431]
+			BuffTemplate data
+				string templateKey = "legion_llstone_trigger_durance"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_ownerType":"BUFF_SOURCE","_targetType":"BUFF_OWNER","_abilityName":"PassiveDurance","_checkCanUseAblityFlag":false,"_castDirectly":false,"$type":"Torappu.Battle.Action.Nodes+TriggerAbility"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_buffKey":"llstone_card_durance","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"_target":"BUFF_OWNER","_deckBuffKey":"llstone_card_durance","_removeFromAllCard":false,"$type":"Torappu.Battle.Action.Nodes+FinishDeckBuffByKey"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1432]
+			BuffTemplate data
+				string templateKey = "legion_fystone_pericdic_damage"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"TARGET","_getMaxHpFromTarget":false,"_damageType":"PURE","_applyWay":"NONE","_ignoreForSp":true,"_isUndeadable":false,"_attackType":"NONE","_skipModifierEvent":true,"$type":"Torappu.Battle.Action.Nodes+DamageViaMaxHpRatio"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"enemy_fystone_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1433]
+			BuffTemplate data
+				string templateKey = "legion_fystone_t_kill_source"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_killSource":true,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1434]
+			BuffTemplate data
+				string templateKey = "legion_reward_death_emit_projectile"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_mountPoint":"MUZZLE","_ev":"ON_HIT_OBJECT","_actions":null,"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1435]
+			BuffTemplate data
+				string templateKey = "legion_trswlf_passive"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKey":"trswlf_damage_resistance","_stackCount":5,"_stackCountKey":"passive_stack_cnt","_stackCountPeeling":0,"_condType":"LT","_checkFromUnoverridableBuffCount":true,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"trswlf_damage_resistance","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"damage_resistance","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"resist_duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1436]
+			BuffTemplate data
+				string templateKey = "legion_select_card[onlcate]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 35
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"legion_select_card[onlcate][real]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_select_card[onlcate][real]","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"none","lifeTime":0.1,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1437]
+			BuffTemplate data
+				string templateKey = "legion_select_card[onlcate][real]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_cardType":"NULL","_rangeNumKey":"range_num","_canSelectNumKey":"can_select_num","_goldNumWhenSellCard":"sell_card_gold","_discardUnselected":false,"_sellSelected":false,"_putInPendingIfHandFull":false,"_selectCardType":"NULL","_specificCardKeys":null,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlySelectCard"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1438]
+			BuffTemplate data
+				string templateKey = "legion_drawcard_getgold[onlcate]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 35
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"legion_drawcard_getgold[onlcate][real]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"legion_drawcard_getgold[onlcate][real]","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"none","lifeTime":0.1,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1439]
+			BuffTemplate data
+				string templateKey = "legion_drawcard_getgold[onlcate][real]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_goldNum":10,"_loadFromBlackboard":true,"_goldNumKey":"get_gold","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyGainGold"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1440]
+			BuffTemplate data
+				string templateKey = "legion_getgold_via_buff[onlcate]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 13
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_goldPerBuff":10,"_loadFromBlackboard":true,"_goldPerBuffKey":"gold_per_buff","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyGetGoldViaProfessionBuffCount"},{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyClearProfessionLevel"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1441]
+			BuffTemplate data
+				string templateKey = "legion_reborn_in_range[onlcate]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 13
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","_targetOptions":{"targetSide":"ALLY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":false,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_maxNum":1,"_buffData":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"character_reborn_in_dying","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"character_reborn_in_dying","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"map_028_chouka_fuhuo","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":"none","lifeTime":0.01,"triggerLifeType":"IMMEDIATELY","triggerCnt":1,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCreateBuffToDyingInRange"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1442]
+			BuffTemplate data
+				string templateKey = "character_reborn_in_dying"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 32
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["character_dying"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"character_dying","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1443]
+			BuffTemplate data
+				string templateKey = "character_dying"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCharacterOnDying"},{"_targetType":"BUFF_OWNER","_spShowBuffKey":null,"_isSelf":true,"$type":"Torappu.Battle.Action.Nodes+SpShowBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_spShowBuffKey":null,"_isSelf":true,"$type":"Torappu.Battle.Action.Nodes+SpShowBuff"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["character_reborn_in_dying"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_sourceType":"BUFF_OWNER","_inheritProfessionBuff":true,"$type":"Torappu.Battle.Action.Nodes+LegionModeOnlyCharacterOnRebornlike"},{"_buffKey":"character_reborn_in_dying","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}],"_failNodes":[{"_withdrawSource":false,"_switchToDeadState":true,"_force":true,"_needLog":false,"$type":"Torappu.Battle.Action.Nodes+Withdraw"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1444]
+			BuffTemplate data
+				string templateKey = "apionr_t"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 33
+								ActionArray value
+									string SerializedState = "[{"_blackboardKey":"cnt","_addition":-1,"_additionKey":null,"$type":"Torappu.Battle.Action.Nodes+BlackboardAdd"},{"_var":"cnt","$type":"Torappu.Battle.Action.Nodes+IsBlackboardZero"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1445]
 			BuffTemplate data
 				string templateKey = "gvial2_s_3[bleed]"
 				string effectKey = ""
@@ -24948,7 +27368,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1314]
+			[1446]
 			BuffTemplate data
 				string templateKey = "gvial2_s_3"
 				string effectKey = ""
@@ -24973,7 +27393,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1315]
+			[1447]
 			BuffTemplate data
 				string templateKey = "gvial2_s_2[drag]"
 				string effectKey = ""
@@ -24990,7 +27410,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1316]
+			[1448]
 			BuffTemplate data
 				string templateKey = "heal_via_damage"
 				string effectKey = ""
@@ -25007,7 +27427,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1317]
+			[1449]
 			BuffTemplate data
 				string templateKey = "gvial2_t_1"
 				string effectKey = ""
@@ -25024,7 +27444,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1318]
+			[1450]
 			BuffTemplate data
 				string templateKey = "gvial2_t_2"
 				string effectKey = ""
@@ -25041,7 +27461,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1319]
+			[1451]
 			BuffTemplate data
 				string templateKey = "doroth_t_1[spawn_tokens]"
 				string effectKey = ""
@@ -25058,7 +27478,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1320]
+			[1452]
 			BuffTemplate data
 				string templateKey = "doroth_token[trigger_t2]"
 				string effectKey = ""
@@ -25075,7 +27495,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1321]
+			[1453]
 			BuffTemplate data
 				string templateKey = "doroth_token[withdraw]"
 				string effectKey = ""
@@ -25100,7 +27520,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1322]
+			[1454]
 			BuffTemplate data
 				string templateKey = "doroth_token_s3[trigger]"
 				string effectKey = ""
@@ -25117,7 +27537,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1323]
+			[1455]
 			BuffTemplate data
 				string templateKey = "doroth_t_2"
 				string effectKey = ""
@@ -25142,7 +27562,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1324]
+			[1456]
 			BuffTemplate data
 				string templateKey = "malist_t_1"
 				string effectKey = ""
@@ -25159,7 +27579,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1325]
+			[1457]
 			BuffTemplate data
 				string templateKey = "malist_s_2[eff_cond]"
 				string effectKey = ""
@@ -25176,7 +27596,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1326]
+			[1458]
 			BuffTemplate data
 				string templateKey = "malist_tr"
 				string effectKey = ""
@@ -25193,7 +27613,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1327]
+			[1459]
 			BuffTemplate data
 				string templateKey = "malist_s_2"
 				string effectKey = ""
@@ -25218,7 +27638,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1328]
+			[1460]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_3[base_atk_up]"
 				string effectKey = ""
@@ -25235,7 +27655,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1329]
+			[1461]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_t_1[withdraw]"
 				string effectKey = ""
@@ -25252,7 +27672,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1330]
+			[1462]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_1[random_atk]"
 				string effectKey = ""
@@ -25269,7 +27689,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1331]
+			[1463]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_1[token_trigger]"
 				string effectKey = ""
@@ -25286,7 +27706,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1332]
+			[1464]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_s_2[respawn]"
 				string effectKey = ""
@@ -25303,7 +27723,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1333]
+			[1465]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_s3[atk_up]"
 				string effectKey = ""
@@ -25320,7 +27740,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1334]
+			[1466]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_s3[switch]"
 				string effectKey = ""
@@ -25345,7 +27765,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1335]
+			[1467]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_3[tokeneff]"
 				string effectKey = ""
@@ -25362,7 +27782,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1336]
+			[1468]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_token[debuff]"
 				string effectKey = ""
@@ -25379,7 +27799,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1337]
+			[1469]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_3[atk_up]"
 				string effectKey = ""
@@ -25404,7 +27824,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1338]
+			[1470]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_direction"
 				string effectKey = ""
@@ -25421,7 +27841,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1339]
+			[1471]
 			BuffTemplate data
 				string templateKey = "mlynar_s_3"
 				string effectKey = ""
@@ -25450,7 +27870,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 23
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_var":"kill_target_cnt","$type":"Torappu.Battle.Action.Nodes+IsBlackboardZero"},"_succeedNodes":null,"_failNodes":[{"_inputKey":"kill_target_cnt","_outputKey":"kill_target_cnt","_multiplyParamKey":"per_kill_reduce","_dividedParamKey":"","_addParamKey":"","_minValueKey":"","_maxValueKey":"","_finalAbs":false,"$type":"Torappu.Battle.Action.Nodes+CalculateBlackboardValueViaParams"},{"_inputKey":"cur_atk_up","_outputKey":"cur_atk_up","_multiplyParamKey":"","_dividedParamKey":"","_addParamKey":"kill_target_cnt","_minValueKey":"min_key","_maxValueKey":"","_finalAbs":false,"$type":"Torappu.Battle.Action.Nodes+CalculateBlackboardValueViaParams"},{"_blackboardKeys":"kill_target_cnt","_fromBlackboardKeys":null,"_value":0.0,"_addBasedOriginValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_targetType":"BUFF_OWNER","_attributeType":"ATK","_valueKey":"cur_atk_up","_formulaType":"MULTIPLIER","$type":"Torappu.Battle.Action.Nodes+AttributeModifierWithBB"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_var":"kill_target_cnt","$type":"Torappu.Battle.Action.Nodes+IsBlackboardZero"},"_succeedNodes":null,"_failNodes":[{"_inputKey":"kill_target_cnt","_outputKey":"kill_target_cnt","_multiplyParamKey":"per_kill_reduce","_dividedParamKey":"","_addParamKey":"","_minValueKey":"","_maxValueKey":"","_finalAbs":false,"$type":"Torappu.Battle.Action.Nodes+CalculateBlackboardValueViaParams"},{"_inputKey":"cur_atk_up","_outputKey":"cur_atk_up","_multiplyParamKey":"","_dividedParamKey":"","_addParamKey":"kill_target_cnt","_minValueKey":"min_key","_maxValueKey":"","_finalAbs":false,"$type":"Torappu.Battle.Action.Nodes+CalculateBlackboardValueViaParams"},{"_blackboardKeys":"kill_target_cnt","_fromBlackboardKeys":null,"_value":0.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_targetType":"BUFF_OWNER","_attributeType":"ATK","_valueKey":"cur_atk_up","_formulaType":"MULTIPLIER","$type":"Torappu.Battle.Action.Nodes+AttributeModifierWithBB"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -25458,11 +27878,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 9
 								ActionArray value
-									string SerializedState = "[{"_abilityName":"BigAttack","$type":"Torappu.Battle.Action.Nodes+FilterAbilityName"},{"_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+IsCharacterOrTokenOrTrap"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_targetType":"BUFF_OWNER","_blackboardKey":"kill_target_cnt","_buffKey":"mlynar_s_3","_addition":1,"$type":"Torappu.Battle.Action.Nodes+AddBuffBlackboard"}]"
+									string SerializedState = "[{"_abilityName":"BigAttack","$type":"Torappu.Battle.Action.Nodes+FilterAbilityName"},{"_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+IsCharacterOrTokenOrTrap"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_targetType":"BUFF_OWNER","_blackboardKey":"kill_target_cnt","_buffKey":"mlynar_s_3","_addition":1.0,"_additionKey":null,"_maxValueKey":null,"$type":"Torappu.Battle.Action.Nodes+AddBuffBlackboard"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1340]
+			[1472]
 			BuffTemplate data
 				string templateKey = "mlynar_s_3[aura]"
 				string effectKey = ""
@@ -25479,7 +27899,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1341]
+			[1473]
 			BuffTemplate data
 				string templateKey = "mlynar_s_2"
 				string effectKey = ""
@@ -25512,7 +27932,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1342]
+			[1474]
 			BuffTemplate data
 				string templateKey = "mlynar_tr"
 				string effectKey = ""
@@ -25529,7 +27949,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1343]
+			[1475]
 			BuffTemplate data
 				string templateKey = "mlynar_t_1[multi]"
 				string effectKey = ""
@@ -25542,7 +27962,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"x-4","_needCheckCount":true,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["mlynar_t_1[self]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":null,"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"mlynar_t_1[self]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"damage_resistance[IncludePure]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_targetType":"BUFF_OWNER","_blackboardKey":"atk_scale","_valueKey":"atk_scale_up","_buffKey":"mlynar_t_1[atkscale]","$type":"Torappu.Battle.Action.Nodes+AssignBuffBlackboard"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["mlynar_t_1[self]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"mlynar_t_1[self]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"_targetType":"BUFF_OWNER","_blackboardKey":"atk_scale","_valueKey":"atk_scale_base","_buffKey":"mlynar_t_1[atkscale]","$type":"Torappu.Battle.Action.Nodes+AssignBuffBlackboard"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"x-4","_needCheckCount":true,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"_excludeSource":false,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["mlynar_t_1[self]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":null,"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"mlynar_t_1[self]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"damage_resistance[IncludePure]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_targetType":"BUFF_OWNER","_blackboardKey":"atk_scale","_valueKey":"atk_scale_up","_buffKey":"mlynar_t_1[atkscale]","$type":"Torappu.Battle.Action.Nodes+AssignBuffBlackboard"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["mlynar_t_1[self]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buffKey":"mlynar_t_1[self]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"},{"_targetType":"BUFF_OWNER","_blackboardKey":"atk_scale","_valueKey":"atk_scale_base","_buffKey":"mlynar_t_1[atkscale]","$type":"Torappu.Battle.Action.Nodes+AssignBuffBlackboard"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -25554,7 +27974,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1344]
+			[1476]
 			BuffTemplate data
 				string templateKey = "mlynar_t_2[inverse]"
 				string effectKey = ""
@@ -25571,7 +27991,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1345]
+			[1477]
 			BuffTemplate data
 				string templateKey = "mlynar_s_cast"
 				string effectKey = ""
@@ -25596,7 +28016,159 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1346]
+			[1478]
+			BuffTemplate data
+				string templateKey = "highmo_t_2[ep_heal]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_ignoreHealFree":true,"_healAllElementType":true,"_elementHealMask":"","$type":"Torappu.Battle.Action.Nodes+FixedValueElementHeal"},{"_decCntIfStack":true,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1479]
+			BuffTemplate data
+				string templateKey = "highmo_t_2[ep_heal_fake]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"allowedSource":"ALL","$type":"Torappu.Battle.Action.Nodes+SetStackCountViaBlockNum"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_t_1[ep_heal]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"highmo_t_2[ep_heal]","disableOverride":false,"overrideKey":"highmo_t_2[ep_heal]","overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"INFINITY","triggerCnt":0,"triggerInterval":0.12,"waitFirstTriggerInterval":false,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_decCntIfStack":true,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"},{"$type":"Torappu.Battle.Action.Nodes+TriggerBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1480]
+			BuffTemplate data
+				string templateKey = "highmo_t_2"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 11
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_t_2[ep_heal_fake]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"highmo_t_2[ep_heal_fake]","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.05,"triggerLifeType":"LIMITED","triggerCnt":1,"triggerInterval":0.001,"waitFirstTriggerInterval":false,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1481]
+			BuffTemplate data
+				string templateKey = "highmo_trait[heal]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_trait[heal][effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":"highmo_heal[effect]","overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"highmo_recover_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.1,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_ignoreHealFree":true,"$type":"Torappu.Battle.Action.Nodes+FixedValueHeal"},{"_decCntIfStack":true,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1482]
+			BuffTemplate data
+				string templateKey = "highmo_trait[heal_fake]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"allowedSource":"ALL","$type":"Torappu.Battle.Action.Nodes+SetStackCountViaBlockNum"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_trait[heal]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"highmo_trait[heal]","disableOverride":false,"overrideKey":"highmo_trait[heal]","overrideType":"STACK","maxStackCnt":-1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"INFINITY","triggerCnt":0,"triggerInterval":0.12,"waitFirstTriggerInterval":false,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_decCntIfStack":true,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"},{"$type":"Torappu.Battle.Action.Nodes+TriggerBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1483]
+			BuffTemplate data
+				string templateKey = "highmo_trait"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 11
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_trait[heal_fake]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"highmo_trait[heal_fake]","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.05,"triggerLifeType":"LIMITED","triggerCnt":1,"triggerInterval":0.001,"waitFirstTriggerInterval":false,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1484]
+			BuffTemplate data
+				string templateKey = "highmo_s_2[heal]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_healTarget":"BUFF_OWNER","_getMaxHpFromTarget":false,"_ignoreHealFree":true,"_skipModifierEvent":false,"$type":"Torappu.Battle.Action.Nodes+HealViaMaxHpRatio"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1485]
+			BuffTemplate data
+				string templateKey = "highmo_s_2"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_s_2[heal]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"highmo_s_2[heal]","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"highmo_s_2[heal][effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":"highmo_heal[effect]","overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"highmo_recover_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.1,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1486]
 			BuffTemplate data
 				string templateKey = "lolxh_s_2[hit]"
 				string effectKey = ""
@@ -25613,7 +28185,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1347]
+			[1487]
 			BuffTemplate data
 				string templateKey = "lolxh_t_1"
 				string effectKey = ""
@@ -25638,7 +28210,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1348]
+			[1488]
 			BuffTemplate data
 				string templateKey = "bgsnow_e_trait"
 				string effectKey = ""
@@ -25663,7 +28235,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1349]
+			[1489]
 			BuffTemplate data
 				string templateKey = "glady_e_t_1"
 				string effectKey = ""
@@ -25680,7 +28252,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1350]
+			[1490]
 			BuffTemplate data
 				string templateKey = "glady_e_rupture"
 				string effectKey = ""
@@ -25713,7 +28285,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1351]
+			[1491]
 			BuffTemplate data
 				string templateKey = "glady_e_trait"
 				string effectKey = ""
@@ -25738,7 +28310,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1352]
+			[1492]
 			BuffTemplate data
 				string templateKey = "rope_e_trait"
 				string effectKey = ""
@@ -25763,7 +28335,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1353]
+			[1493]
 			BuffTemplate data
 				string templateKey = "rope_e_rupture"
 				string effectKey = ""
@@ -25796,7 +28368,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1354]
+			[1494]
 			BuffTemplate data
 				string templateKey = "slchan_e_trait"
 				string effectKey = ""
@@ -25821,7 +28393,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1355]
+			[1495]
 			BuffTemplate data
 				string templateKey = "slchan_e_rupture"
 				string effectKey = ""
@@ -25854,7 +28426,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1356]
+			[1496]
 			BuffTemplate data
 				string templateKey = "snsant_e_rupture"
 				string effectKey = ""
@@ -25887,7 +28459,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1357]
+			[1497]
 			BuffTemplate data
 				string templateKey = "snsant_e_trait"
 				string effectKey = ""
@@ -25912,7 +28484,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1358]
+			[1498]
 			BuffTemplate data
 				string templateKey = "fartth_e_talent[atk_speed]"
 				string effectKey = ""
@@ -25929,7 +28501,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1359]
+			[1499]
 			BuffTemplate data
 				string templateKey = "fartth_e_trait[SP]"
 				string effectKey = ""
@@ -25946,7 +28518,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1360]
+			[1500]
 			BuffTemplate data
 				string templateKey = "provs_e_002_trait"
 				string effectKey = ""
@@ -25959,11 +28531,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 2
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["glacus_e_trait[sp_recover]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"glacus_e_trait[sp_recover]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":false,"_condType":"GE","_countKey":"cnt","_checkRadius":false,"_rangeRadius":0.0,"_excludeSource":false,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["glacus_e_trait[sp_recover]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"glacus_e_trait[sp_recover]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1361]
+			[1501]
 			BuffTemplate data
 				string templateKey = "ebnhlz_e_003_t_2"
 				string effectKey = ""
@@ -25976,11 +28548,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 0
 								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":true,"_condType":"LE","_countKey":"cnt","_checkRadius":true,"_rangeRadius":0.0,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_damageType":"MAGICAL","_atkScaleVar":"atk_scale","_applyWay":"NONE","_baseOnHostAtk":false,"_emitSourceOnCalculateDamage":false,"_attackType":"NORMAL","_forceUseProjectileCachedAtk":false,"_ignoreForSp":false,"_ignoreMissFlag":"NONE","$type":"Torappu.Battle.Action.Nodes+AdvancedApplyDamage"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"ebnhlz_beidong_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":[{"_sourceType":"BUFF_SOURCE","_targetType":"BUFF_OWNER","_damageType":"MAGICAL","_sourceApplyWay":"NONE","_targetOptions":{"targetSide":"ENEMY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_excludeTarget":true,"_rangeId":null,"_useRadius":true,"_radius":0.0,"_damageScale":"atk_scale_2","_buffs":[],"_attackType":"SPLASH","_createEffect":false,"_useDamageFromBB":false,"_damageKey":"value","_isNoSourceDamage":false,"$type":"Torappu.Battle.Action.Nodes+AOEDamage"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"ebnhlz_mozu_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									string SerializedState = "[{"_conditionNode":{"_soureceType":"BUFF_OWNER","_rangeId":"","_needCheckCount":true,"_condType":"LE","_countKey":"cnt","_checkRadius":true,"_rangeRadius":0.0,"_excludeSource":true,"$type":"Torappu.Battle.Action.Nodes+CheckHasEnemyInRange"},"_succeedNodes":[{"_damageType":"MAGICAL","_atkScaleVar":"atk_scale","_applyWay":"NONE","_baseOnHostAtk":false,"_emitSourceOnCalculateDamage":false,"_attackType":"NORMAL","_forceUseProjectileCachedAtk":false,"_ignoreForSp":false,"_ignoreMissFlag":"NONE","$type":"Torappu.Battle.Action.Nodes+AdvancedApplyDamage"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"ebnhlz_beidong_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":[{"_sourceType":"BUFF_SOURCE","_targetType":"BUFF_OWNER","_damageType":"MAGICAL","_sourceApplyWay":"NONE","_targetOptions":{"targetSide":"ENEMY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":true,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"_excludeTarget":true,"_rangeId":null,"_useRadius":true,"_radius":0.0,"_damageScale":"atk_scale_2","_buffs":[],"_attackType":"SPLASH","_createEffect":false,"_useDamageFromBB":false,"_damageKey":"value","_isNoSourceDamage":false,"$type":"Torappu.Battle.Action.Nodes+AOEDamage"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_SOURCE","_effectKey":"ebnhlz_mozu_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1362]
+			[1502]
 			BuffTemplate data
 				string templateKey = "ebnhlz_e_003_trait"
 				string effectKey = ""
@@ -25997,7 +28569,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1363]
+			[1503]
 			BuffTemplate data
 				string templateKey = "nian_e_002_t_2[block]"
 				string effectKey = ""
@@ -26022,7 +28594,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1364]
+			[1504]
 			BuffTemplate data
 				string templateKey = "nian_e_002_t_2"
 				string effectKey = ""
@@ -26039,7 +28611,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1365]
+			[1505]
 			BuffTemplate data
 				string templateKey = "hsguma_e_002_t"
 				string effectKey = ""
@@ -26064,7 +28636,1039 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1366]
+			[1506]
+			BuffTemplate data
+				string templateKey = "shining_e_002_t[aura]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_heightType":"LOWLAND","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckHeightTypeOfCharacterRootTile"},{"_blackboardKeys":"shining_e_002_t[aura][lowland].def","_fromBlackboardKeys":"def_lowland","_value":0.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"DEF","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"shining_e_002_t[aura][lowland]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"UNIQUE","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1507]
+			BuffTemplate data
+				string templateKey = "aglina_e_003_tr[mask]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"aglina_e_003_tr[sp_recover]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1508]
+			BuffTemplate data
+				string templateKey = "dusk_e_003_t[token]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_sourceType":"BUFF_SOURCE","_buffData":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"dusk_e_003_t[token][sp]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"modify_sp[start]","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuffToHost"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1509]
+			BuffTemplate data
+				string templateKey = "folnic_e_002_t[aura]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_blackboardKeys":"damage_scale","_fromBlackboardKeys":"damage_scale_aura","_value":0.0,"_addBasedOriginValue":false,"_checkFromBlackboardValue":false,"$type":"Torappu.Battle.Action.Nodes+ModifyBlackboard"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"folnic_e_002_t[aura][real]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"damage_resistance[env]","disableOverride":false,"overrideKey":null,"overrideType":"UNIQUE","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1510]
+			BuffTemplate data
+				string templateKey = "damage_resistance[env]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_filterAttackType":false,"_attackTypeFilter":"NONE","_filterDamageType":false,"_damageMask":"NONE","_filterSharedMask":true,"_sharedFlag":"IS_ENVIRONMENT_DAMAGE","$type":"Torappu.Battle.Action.Nodes+FilterDamageModifer"},{"_filterDamageType":false,"_damageMask":"NONE","_filterApplyWay":false,"_applyWayFilter":"NONE","_isOneMinus":false,"_isStackable":false,"_cachedDeltaValueToBBKey":"","$type":"Torappu.Battle.Action.Nodes+DamageScale"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1511]
+			BuffTemplate data
+				string templateKey = "damage_resistance[physics]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_filterDamageType":true,"_damageMask":"PHYSICAL","_filterApplyWay":false,"_applyWayFilter":"NONE","_isOneMinus":true,"_isStackable":false,"_cachedDeltaValueToBBKey":"","$type":"Torappu.Battle.Action.Nodes+DamageScale"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1512]
+			BuffTemplate data
+				string templateKey = "kalts_e_002_t[token]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKeys":["kalts_t_2"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"_targetType":"BUFF_OWNER","_buffKeys":["kalts_e_002_t[token][used]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_mountPoint":"MUZZLE","_ev":"ON_HIT_OBJECT","_actions":null,"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"kalts_e_002_t[token][used]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"UNIQUE","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1513]
+			BuffTemplate data
+				string templateKey = "heal_scale_up[hpratio][LE]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 8
+								ActionArray value
+									string SerializedState = "[{"$type":"Torappu.Battle.Action.Nodes+IsHeal"},{"_targetType":"MODIFIER_TARGET","_condType":"LE","_useSourceHpRatio":false,"_sourceType":"SOURCE","_blackboardPrefix":null,"$type":"Torappu.Battle.Action.Nodes+FilterByTargetHpRatio"},{"_scaleKey":"","$type":"Torappu.Battle.Action.Nodes+ModifierScaleUp"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1514]
+			BuffTemplate data
+				string templateKey = "heal_scale_up[lowland]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 8
+								ActionArray value
+									string SerializedState = "[{"$type":"Torappu.Battle.Action.Nodes+IsHeal"},{"_targetType":"MODIFIER_TARGET","_heightType":"LOWLAND","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckHeightTypeOfCharacterRootTile"},{"_scaleKey":"","$type":"Torappu.Battle.Action.Nodes+ModifierScaleUp"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1515]
+			BuffTemplate data
+				string templateKey = "rogue_2_atk_up_on_output_damage"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 11
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"rogue_2_atk_up_on_output_damage[timer]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"EXTEND","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_targetType":"BUFF_OWNER","_buffKey":"rogue_2_atk_up_on_output_damage[stack]","_stackCount":0,"_stackCountKey":"max_stack_cnt","_stackCountPeeling":0,"_condType":"LT","_checkFromUnoverridableBuffCount":false,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"rogue_2_atk_up_on_output_damage[stack]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffKeys":["rogue_2_atk_up_on_output_damage[timer]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_targetType":"BUFF_OWNER","_buffKeys":["rogue_2_atk_up_on_output_damage[stack]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"_buffKey":"rogue_2_atk_up_on_output_damage[stack]","_loadFromBlackboard":false,"_decCntIfStack":false,"_updateOverrideMap":true,"_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishBuffsById"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1516]
+			BuffTemplate data
+				string templateKey = "rogue_2_frozen[limited]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 12
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"e2c_freeze","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1517]
+			BuffTemplate data
+				string templateKey = "enemy_sybox_t[logkilled]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"trap_068_badbox","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1518]
+			BuffTemplate data
+				string templateKey = "trap_rarebox_t[logkilled]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"trap_066_rarebox","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1519]
+			BuffTemplate data
+				string templateKey = "rogue_2_attr_up_2[evade]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 15
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"rogue_2_attr_up_2[evade]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_2_relic_fight_137_buff","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1520]
+			BuffTemplate data
+				string templateKey = "rogue_2_atk_up[life_point][king_suit]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKey":"rogue_2_relic_mark[king_suit]","_stackCount":3,"_stackCountKey":null,"_stackCountPeeling":0,"_condType":"GE","_checkFromUnoverridableBuffCount":false,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"rogue_2_atk_up[king_suit][bonus]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"relic_1_sp01_buff_01_start","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"rogue_2_atk_up[king_suit]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1521]
+			BuffTemplate data
+				string templateKey = "rogue_2_ep_damage_scale"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 6
+								ActionArray value
+									string SerializedState = "[{"$type":"Torappu.Battle.Action.Nodes+IsElementDamage"},{"_filterApplyWay":false,"_applyWayFilter":"NONE","_isOneMinus":false,"_isStackable":false,"$type":"Torappu.Battle.Action.Nodes+EpDamageScale"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1522]
+			BuffTemplate data
+				string templateKey = "rogue_2_undeadable_damage[hp_not_full]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_damageType":"PURE","_damageKey":"damage","_ignoreForSp":true,"_damageWithoutModify":false,"_attackType":"NORMAL","_isEnvDamage":false,"_isUndeadable":true,"$type":"Torappu.Battle.Action.Nodes+NoSourceDamage"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1523]
+			BuffTemplate data
+				string templateKey = "rogue_2_attr_down[game_start]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_condType":"GT","$type":"Torappu.Battle.Action.Nodes+CheckGamePlayedTime"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1524]
+			BuffTemplate data
+				string templateKey = "rogue_2_hit_to_add_sp[tag]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 11
+								ActionArray value
+									string SerializedState = "[{"_targetType":"MODIFIER_TARGET","_filterTag":null,"$type":"Torappu.Battle.Action.Nodes+CheckFilterTag"},{"_targetType":"BUFF_OWNER","_modifyByRatio":false,"_spMask":"ALL","_forceFlag":false,"_dontShowSpUI":false,"$type":"Torappu.Battle.Action.Nodes+ModifySp"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1525]
+			BuffTemplate data
+				string templateKey = "rogue_2_extra_damage[pure]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 21
+								ActionArray value
+									string SerializedState = "[{"_targetType":"MODIFIER_TARGET","_condType":"LT","_useSourceHpRatio":false,"_sourceType":"SOURCE","_blackboardPrefix":null,"$type":"Torappu.Battle.Action.Nodes+FilterByTargetHpRatio"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"pure_damage","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"no_source_pure_damage_when_start","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"relic_1_p51_attack_01_hit","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"MODIFIER_TARGET","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1526]
+			BuffTemplate data
+				string templateKey = "trap_aidkit_heal[allydonq]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_targetType":"TARGET","_sourceType":"SOURCE","_ignoreHealFree":true,"$type":"Torappu.Battle.Action.Nodes+FixedValueHeal"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1527]
+			BuffTemplate data
+				string templateKey = "trap_dice_respawn"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_profession":"WARRIOR,SNIPER,TANK,MEDIC,SUPPORT,CASTER,SPECIAL,TOKEN,TRAP,PIONEER","_lifeType":"IMMEDIATELY","_isRatio":true,"_enableMaxStackCount":false,"_filterIsInHand":false,"$type":"Torappu.Battle.Action.Nodes+CreateCardFilterByProfession"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1528]
+			BuffTemplate data
+				string templateKey = "trap_dice_selector"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_maxVal":6,"$type":"Torappu.Battle.Action.Nodes+RollRogueDice"},{"_ownerType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"DiceBuff","_checkCanUseAblityFlag":false,"_castDirectly":false,"$type":"Torappu.Battle.Action.Nodes+TriggerAbility"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"dice_self_effects","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"trap_dice_effects","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"dice","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1529]
+			BuffTemplate data
+				string templateKey = "trap_dice_effects"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_threshold":3,"_condType":"LE","_blackboardKey":"dice_var","$type":"Torappu.Battle.Action.Nodes+CompareRogueDiceNumber"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"dice_1[effct]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_conditionNode":{"_threshold":6,"_condType":"LE","_blackboardKey":"dice_var","$type":"Torappu.Battle.Action.Nodes+CompareRogueDiceNumber"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"dice_2[effct]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_conditionNode":{"_threshold":9,"_condType":"LE","_blackboardKey":"dice_var","$type":"Torappu.Battle.Action.Nodes+CompareRogueDiceNumber"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"dice_3[effct]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"trap_dice_respawn","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_buff_03","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"remaining_respawn_time","value":0.5,"valueStr":""}]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"dice_4[effct]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"trap_dice_respawn","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_buff_04","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"remaining_respawn_time","value":0.0,"valueStr":""}]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1530]
+			BuffTemplate data
+				string templateKey = "trap_dice_buffs"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_threshold":3,"_condType":"LE","_blackboardKey":"dice_var","$type":"Torappu.Battle.Action.Nodes+CompareRogueDiceNumber"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false},{"attributeType":"MOVE_SPEED","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"dice_interval[0]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_conditionNode":{"_threshold":6,"_condType":"LE","_blackboardKey":"dice_var","$type":"Torappu.Battle.Action.Nodes+CompareRogueDiceNumber"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false},{"attributeType":"MOVE_SPEED","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"dice_interval[1]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_conditionNode":{"_threshold":9,"_condType":"LE","_blackboardKey":"dice_var","$type":"Torappu.Battle.Action.Nodes+CompareRogueDiceNumber"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false},{"attributeType":"MOVE_SPEED","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"dice_interval[2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATTACK_SPEED","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false},{"attributeType":"MOVE_SPEED","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"dice_interval[3]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1531]
+			BuffTemplate data
+				string templateKey = "enemy_sydonq_reborn[shield]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[freeze_shield]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_sydonq_t[freeze_shield]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1532]
+			BuffTemplate data
+				string templateKey = "enemy_sydonq_t[freeze_shield]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkCurModeIndex":0,"$type":"Torappu.Battle.Action.Nodes+CheckUnitCurrentMode"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[shield_1]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_sydonq_characteristic_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[shield_2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_sydonq_characteristic_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1533]
+			BuffTemplate data
+				string templateKey = "enemy_sydonq_t[freeze]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":["FROZEN"],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"e2c_cold","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_targetType":"BUFF_SOURCE","_sourceType":"BUFF_SOURCE","_effectKey":"enemy_sydonq_counter","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"enemy_sydonq_counter_hit","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_conditionNode":{"_abnormalFlag":"FROZEN","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalFlag"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[frozen_audio]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"enemy_sydonq_t[frozen]","lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"MODIFIER_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1534]
+			BuffTemplate data
+				string templateKey = "trap_aidkit_heal"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_targetType":"TARGET","_sourceType":"SOURCE","_ignoreHealFree":false,"$type":"Torappu.Battle.Action.Nodes+FixedValueHeal"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1535]
+			BuffTemplate data
+				string templateKey = "enemy_sydonq_t[inverse_freeze]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_source":"BUFF_OWNER","_target":"MODIFIER_SOURCE","_targetOptions":{"targetSide":"ENEMY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":false,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"$type":"Torappu.Battle.Action.Nodes+VertifyTarget"},"_succeedNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_condType":"LT","_useSourceHpRatio":false,"_sourceType":"SOURCE","_blackboardPrefix":null,"$type":"Torappu.Battle.Action.Nodes+FilterByTargetHpRatio"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[freeze2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_sydonq_t[freeze]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"MODIFIER_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["sydonq_t[freeze_shield]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":null,"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[freeze_shield]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_sydonq_t[freeze_shield]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[freeze1]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_sydonq_t[freeze]","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"MODIFIER_SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1536]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_reborn[sp_clear]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_enemy":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+ClearEnemySp"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1537]
+			BuffTemplate data
+				string templateKey = "enemy_sygirl_finishwave"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_ownerType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CheckUnitAlive"},"_succeedNodes":null,"_failNodes":[{"_trackSourceAtNextWave":false,"_trackSourceAtWaveDelta":0,"_trackAllManagedEnemiesAtNextWave":false,"_trackAllManagedEnemiesAtWaveDelta":0,"_sourceType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+FinishCurrentWave"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1538]
+			BuffTemplate data
+				string templateKey = "enemy_syboy_t[mark]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_modifierTarget":"BUFF_OWNER","_condType":"LT","_targetType":"HP","$type":"Torappu.Battle.Action.Nodes+CompareModifierValueWithTargetType"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syboy_t[counter]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":15,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKey":"syboy_t[counter]","_stackCount":0,"_stackCountKey":"damage_counter","_stackCountPeeling":0,"_condType":"GE","_checkFromUnoverridableBuffCount":false,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syboy_t[summon]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"enemy_syboy_s","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1539]
+			BuffTemplate data
+				string templateKey = "trap_aidkit_suicide"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_killSource":true,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1540]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_t[clear]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 4
+								ActionArray value
+									string SerializedState = "[{"_target":"TARGET","$type":"Torappu.Battle.Action.Nodes+EnemyKillToken"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1541]
+			BuffTemplate data
+				string templateKey = "enemy_syshop_s[kafka]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_abnormalCombo":"SLEEPING","_targetType":"BUFF_OWNER","_isUnset":false,"$type":"Torappu.Battle.Action.Nodes+CheckAbnormalComboImmune"},"_succeedNodes":[{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_healTarget":"BUFF_OWNER","_getMaxHpFromTarget":false,"_ignoreHealFree":false,"_skipModifierEvent":false,"$type":"Torappu.Battle.Action.Nodes+HealViaMaxHpRatio"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1542]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_t[berserk_effect]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["syskad_t[atk]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syskad_t[effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_2039_syskad_c1_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1543]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_s[clear]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_target":"TARGET","$type":"Torappu.Battle.Action.Nodes+EnemyKillToken"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1544]
+			BuffTemplate data
+				string templateKey = "enemy_syrott_t[periodic_sp]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"SOURCE","_buffKeys":["syrott_t[occupied]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":null,"_failNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkCurModeIndex":0,"$type":"Torappu.Battle.Action.Nodes+CheckUnitCurrentMode"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_modifyByRatio":false,"_spMask":"ALL","_forceFlag":false,"_dontShowSpUI":false,"$type":"Torappu.Battle.Action.Nodes+ModifySp"},{"_targetType":"SOURCE","_sourceType":"SOURCE","_effectKey":"enemy_syrott_sp_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_targetType":"BUFF_OWNER","_sourceType":"SOURCE","_effectKey":"enemy_2039_syskad_c1_sp_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1545]
+			BuffTemplate data
+				string templateKey = "enemy_syrott_t[periodic_damage]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"SOURCE","_attributeType":"ATK","_getAttrFromTarget":true,"_damageType":"PURE","_applyWay":"MELEE","_ignoreForSp":false,"_isUndeadable":false,"_attackType":"NORMAL","$type":"Torappu.Battle.Action.Nodes+DamageViaAttr"},{"_targetType":"BUFF_OWNER","_sourceType":"SOURCE","_effectKey":"enemy_syrott_attack_01","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syrott_t[damage_audio]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"enemy_syrott_t[damage]","lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syrott_t[occupied]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"SOURCE","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1546]
+			BuffTemplate data
+				string templateKey = "enemy_sygirl_die[fly]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"enemy_sygirl_c1_die_start","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1547]
+			BuffTemplate data
+				string templateKey = "enemy_sygirl_die"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_sourceType":"BUFF_OWNER","_effectKey":"enemy_sygirl_c2_die_start","_useSourceFaceVactor":false,"$type":"Torappu.Battle.Action.Nodes+CreateEffect"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1548]
+			BuffTemplate data
+				string templateKey = "enemy_sygirl_fly"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 3
+							[0]
+							EventToAction data
+								int key = 25
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_ownerType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CheckUnitAlive"},"_succeedNodes":[{"_conditionNode":{"_ownerType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CheckUnitInRebornState"},"_succeedNodes":null,"_failNodes":[{"_modeIndex":0,"_loadModeFromBlackboard":true,"_restoreDefault":false,"_restartFSM":false,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"stun","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"stun","value":0.5,"valueStr":null}]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_logType":"SIMPLE","_key":"fell","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_resetToDefault":false,"$type":"Torappu.Battle.Action.Nodes+ChangeMotionMode"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[2]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_resetToDefault":true,"$type":"Torappu.Battle.Action.Nodes+ChangeMotionMode"},{"_ownerType":"BUFF_OWNER","_force":true,"$type":"Torappu.Battle.Action.Nodes+UpdateEnemyCurrentTile"},{"_source":"BUFF_OWNER","_finishReason":"NONE","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1549]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_t[monster]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_healTarget":"BUFF_OWNER","_getMaxHpFromTarget":false,"_ignoreHealFree":false,"_skipModifierEvent":true,"$type":"Torappu.Battle.Action.Nodes+HealViaMaxHpRatio"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1550]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_t[berserk]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 7
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkCurModeIndex":0,"$type":"Torappu.Battle.Action.Nodes+CheckUnitCurrentMode"},"_succeedNodes":[{"_conditionNode":{"_targetType":"BUFF_OWNER","_condType":"LT","_useSourceHpRatio":false,"_sourceType":"SOURCE","_blackboardPrefix":null,"$type":"Torappu.Battle.Action.Nodes+FilterByTargetHpRatio"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"syskad_t[atk]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syskad_t[effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_2039_syskad_c1_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_skillName":"BerserkCorrupt","_checkSkillActive":false,"_ownerType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_interruptCurAbility":true,"$type":"Torappu.Battle.Action.Nodes+TriggerEnemySkill"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1551]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_t[fetch]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_condType":"LT","_useSourceHpRatio":false,"_sourceType":"SOURCE","_blackboardPrefix":null,"$type":"Torappu.Battle.Action.Nodes+FilterByTargetHpRatio"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_damageType":"PURE","_blackboardStr":"dynamic","_buffNameOfBlackboard":"syskad_t[hpsave]","$type":"Torappu.Battle.Action.Nodes+FetchHpToBlackboard"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_buffNameOfBlackboard":"syskad_t[hpsave]","$type":"Torappu.Battle.Action.Nodes+SaveHpToDynamicVar"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1552]
+			BuffTemplate data
+				string templateKey = "trap_allydonq_logkilled"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"killed","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"born","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1553]
+			BuffTemplate data
+				string templateKey = "enemy_syudg_s[switchmode]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"SOURCE","_condType":"LE","$type":"Torappu.Battle.Action.Nodes+FilterByTargetSpRatio"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syudg[swordmode]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"switch_mode_no_restore","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"mode","value":2.0,"valueStr":""}]},"_buffOwner":"SOURCE","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1554]
+			BuffTemplate data
+				string templateKey = "enemy_syboys_suicide"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_killSource":false,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1555]
+			BuffTemplate data
+				string templateKey = "enemy_syufo_fly"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 3
+							[0]
+							EventToAction data
+								int key = 25
+								ActionArray value
+									string SerializedState = "[{"_modeIndex":0,"_loadModeFromBlackboard":true,"_restoreDefault":false,"_restartFSM":false,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"stun","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[{"key":"stun","value":0.5,"valueStr":null}]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_resetToDefault":false,"$type":"Torappu.Battle.Action.Nodes+ChangeMotionMode"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[2]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_target":"BUFF_OWNER","_resetToDefault":true,"$type":"Torappu.Battle.Action.Nodes+ChangeMotionMode"},{"_ownerType":"BUFF_OWNER","_force":true,"$type":"Torappu.Battle.Action.Nodes+UpdateEnemyCurrentTile"},{"_source":"BUFF_OWNER","_finishReason":"NONE","$type":"Torappu.Battle.Action.Nodes+FilterDeathReason"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"syufo_break","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"","lifeTimeType":"IMMEDIATELY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1556]
+			BuffTemplate data
+				string templateKey = "trap_badbox_s"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_notRepeatInOneLoop":false,"$type":"Torappu.Battle.Action.Nodes+PickRandomBranchPhase"},{"_killSource":false,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1557]
+			BuffTemplate data
+				string templateKey = "trap_rarebox_t[inverse_damage]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_source":"BUFF_OWNER","_target":"MODIFIER_SOURCE","_targetOptions":{"targetSide":"ENEMY","targetMotion":"ALL","targetCategory":"DEFAULT","enableAdvancedOptions":false,"ignoreTargetFree":false,"ignoreAllyTargetFree":false,"ignoreHealFree":false,"ignoreTargetSide":false,"purposeMask":"NONE","professionMask":"","onlyIgnoreSomeOfTargetFreeCase":false,"abnormalFlag":"STUNNED","abnormalCombo":"SLEEPING"},"$type":"Torappu.Battle.Action.Nodes+VertifyTarget"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"rarebox_t[effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"trap_rarebox_counter","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.5,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_SOURCE","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_damageType":"PURE","_sideMask":"ENEMY","_attackType":"NORMAL","_hasSource":false,"_skipSourceEvent":false,"_sourceType":"MODIFIER_TARGET","_skipModifierEvent":false,"$type":"Torappu.Battle.Action.Nodes+InverseDamage"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"rarebox_hit[effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"trap_rarebox_counter_hit","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":"trap_rarebox_hit","lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.5,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"MODIFIER_SOURCE","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1558]
+			BuffTemplate data
+				string templateKey = "trap_normbox_t[logkilled]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"trap_065_normbox","_attributeType":"NONE","_target":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1559]
+			BuffTemplate data
+				string templateKey = "enemy_syboy_s"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_enemyId":"enemy_2033_syboys","_limitAmountKey":"limit_amount","_limitAmount":0,"_condType":"LT","$type":"Torappu.Battle.Action.Nodes+CheckSpecificEnemyCount"},"_succeedNodes":[{"_source":"BUFF_OWNER","_enemyKey":null,"_summonCount":0,"_delayTime":0.0,"_managedByScheduler":true,"_dontBlockWave":false,"_trySummonOutsideWhenInObstacle":true,"_randomOffsetBound":0.2,"_passableMask":"WALK_ONLY","_onlySummonOneInTheSamePlace":false,"_useLocalUnharmfulFlag":false,"_unharmful":false,"_useMapPosition":false,"_useRandomDelay":false,"_randomDelayRange":0.5,"_stopSummonIfHostDead":true,"$type":"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1560]
+			BuffTemplate data
+				string templateKey = "enemy_syudg_t"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_condType":"LE","$type":"Torappu.Battle.Action.Nodes+FilterByTargetSpRatio"},"_succeedNodes":[{"_modeIndex":1,"_loadModeFromBlackboard":false,"_restoreDefault":false,"_restartFSM":true,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1561]
+			BuffTemplate data
+				string templateKey = "enemy_syboys_t"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_damageType":"PURE","$type":"Torappu.Battle.Action.Nodes+FetchEnemyHpToHost"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1562]
 			BuffTemplate data
 				string templateKey = "enemy_syboy[kill]"
 				string effectKey = ""
@@ -26078,6 +29682,277 @@ MonoBehaviour Base
 								int key = 1
 								ActionArray value
 									string SerializedState = "[{"_killSource":false,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":false,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1563]
+			BuffTemplate data
+				string templateKey = "enemy_symon_t[heal]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKeys":["ally_alive"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},"_succeedNodes":[{"_healTarget":"BUFF_OWNER","_getMaxHpFromTarget":false,"_ignoreHealFree":false,"_skipModifierEvent":false,"$type":"Torappu.Battle.Action.Nodes+HealViaMaxHpRatio"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_condType":"GE","_useSourceHpRatio":false,"_sourceType":"SOURCE","_blackboardPrefix":"target_","$type":"Torappu.Battle.Action.Nodes+FilterByTargetHpRatio"},"_succeedNodes":[{"_modeIndex":0,"_loadModeFromBlackboard":false,"_restoreDefault":true,"_restartFSM":true,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}],"_failNodes":[{"_killSource":true,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":true,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1564]
+			BuffTemplate data
+				string templateKey = "enemy_syevil_t[mark]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 1
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"SOURCE","_checkCurModeIndex":1,"$type":"Torappu.Battle.Action.Nodes+CheckUnitCurrentMode"},"_succeedNodes":[{"_killSource":true,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":true,"$type":"Torappu.Battle.Action.Nodes+InstantKill"},{"$type":"Torappu.Battle.Action.Nodes+AlwaysNext"},{"_killSource":false,"_noSource":false,"_withdrawIfRallyPoint":false,"_resultIfInRallyPointMode":false,"_skipReborn":true,"$type":"Torappu.Battle.Action.Nodes+InstantKill"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_ownerType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+CheckUnitInRebornState"},"_succeedNodes":null,"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"ally_alive","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"SOURCE","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1565]
+			BuffTemplate data
+				string templateKey = "enemy_syudg_t[stun]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 42
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_condType":"GT","$type":"Torappu.Battle.Action.Nodes+FilterByTargetSpRatio"},"_succeedNodes":[{"_modeIndex":0,"_loadModeFromBlackboard":false,"_restoreDefault":true,"_restartFSM":false,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"}],"_failNodes":[{"_modeIndex":2,"_loadModeFromBlackboard":false,"_restoreDefault":false,"_restartFSM":true,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"stun","loadFromDB":true,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1566]
+			BuffTemplate data
+				string templateKey = "enemy_syudg_t[reload]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 2
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"SOURCE","_modifyByRatio":false,"_spMask":"INCREASE_WITH_TIME","_forceFlag":true,"_dontShowSpUI":false,"$type":"Torappu.Battle.Action.Nodes+ModifySp"},{"_conditionNode":{"_targetType":"SOURCE","_condType":"GE","$type":"Torappu.Battle.Action.Nodes+FilterByTargetSpRatio"},"_succeedNodes":[{"_modeIndex":0,"_loadModeFromBlackboard":false,"_restoreDefault":true,"_restartFSM":true,"$type":"Torappu.Battle.Action.Nodes+SwitchMode"}],"_failNodes":null,"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+							[1]
+							EventToAction data
+								int key = 25
+								ActionArray value
+									string SerializedState = "[{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1567]
+			BuffTemplate data
+				string templateKey = "enemy_sypult_summon"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 11
+								ActionArray value
+									string SerializedState = "[{"_source":"MAIN_TARGET","_target":"SOURCE","_useHostEndPosition":true,"_useRandomEnemy":false,"_enemyKey":null,"_motionMode":"WALK","_unharmful":true,"_alwaysCountAsKilled":false,"_waitTime":0.0,"_spawnOffset":0.2,"$type":"Torappu.Battle.Action.Nodes+SummonEnemyWithRuntimeRoute"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1568]
+			BuffTemplate data
+				string templateKey = "enemy_syzeni_def"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 26
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":["UNMOVABLE_PRIVATE"],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"DEF","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"syzeni_s[unmovable]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_syzeni_attack_buff","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_decCntIfStack":false,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1569]
+			BuffTemplate data
+				string templateKey = "rogue_2_damage_block[stack]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 10
+								ActionArray value
+									string SerializedState = "[{"_filterDamageType":false,"_damageMask":"NONE","_useDynamicVar":false,"_showDamageNumber":false,"_specifyBlockEffect":null,"_useSource":false,"_sourceType":"SOURCE","_filterApplyWay":false,"_applyWayFilter":"NONE","$type":"Torappu.Battle.Action.Nodes+BlockDamage"},{"_decCntIfStack":true,"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1570]
+			BuffTemplate data
+				string templateKey = "rogue_2_projectile_on_killed"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 3
+								ActionArray value
+									string SerializedState = "[{"_mountPoint":"FOOT","_ev":"ON_HIT_OBJECT","_actions":null,"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1571]
+			BuffTemplate data
+				string templateKey = "rogue_2_hp_ratio_to_attr_add[attack_speed]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_minHpRatio":0.0,"_maxHpRatio":1.0,"_attributeType":"ATTACK_SPEED","_overrideSource":true,"_hpRatioSource":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+HpRatioToAttributeAdd"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1572]
+			BuffTemplate data
+				string templateKey = "rogue_2_hp_ratio_to_attr_add[atk]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_minHpRatio":0.0,"_maxHpRatio":1.0,"_attributeType":"ATK","_overrideSource":true,"_hpRatioSource":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+HpRatioToAttributeMul"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1573]
+			BuffTemplate data
+				string templateKey = "rogue_2_attr_up[evade]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 15
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"ATK","formulaItem":"MULTIPLIER","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"rogue_2_attr_up[evade]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_2_relic_fight_136_buff","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"LIMITED","takeSnapshotWhenExtend":false,"durationKey":"duration","lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1574]
+			BuffTemplate data
+				string templateKey = "rogue_2_sp_recovery_up[stack]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 33
+								ActionArray value
+									string SerializedState = "[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"SP_RECOVERY_PER_SEC","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"rogue_2_sp_recovery_up[stack]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"STACK","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"},{"_conditionNode":{"_targetType":"BUFF_OWNER","_buffKey":"rogue_2_sp_recovery_up[stack]","_stackCount":0,"_stackCountKey":"max_stack_cnt","_stackCountPeeling":0,"_condType":"GE","_checkFromUnoverridableBuffCount":false,"$type":"Torappu.Battle.Action.Nodes+FilterByBuffStackCount"},"_succeedNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["rogue_2_sp_recovery_up[effect_2]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"rogue_2_sp_recovery_up[effect_2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_2_relic_fight_135_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["rogue_2_sp_recovery_up[effect]"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"rogue_2_sp_recovery_up[effect]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_2_relic_fight_135_buff","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1575]
+			BuffTemplate data
+				string templateKey = "rogue_2_modify_sp"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 2
+								ActionArray value
+									string SerializedState = "[{"_targetType":"BUFF_OWNER","_modifyByRatio":false,"_spMask":"ALL","_forceFlag":false,"_dontShowSpUI":false,"$type":"Torappu.Battle.Action.Nodes+ModifySp"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1576]
+			BuffTemplate data
+				string templateKey = "enemy_sydonq_t[shield_effect]"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 0
+								ActionArray value
+									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkCurModeIndex":0,"$type":"Torappu.Battle.Action.Nodes+CheckUnitCurrentMode"},"_succeedNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[shield_1]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_sydonq_characteristic_buff_01","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"_failNodes":[{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"sydonq_t[shield_2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"enemy_sydonq_characteristic_buff_02","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
+									vector SerializedObjectReferences
+										Array Array
+										int size = 0
+			[1577]
+			BuffTemplate data
+				string templateKey = "enemy_syskad_log_extra"
+				string effectKey = ""
+				int onEventPriority = 0
+				EventToActionMap eventToActions
+					EventToAction _items
+						Array Array
+						int size = 1
+							[0]
+							EventToAction data
+								int key = 4
+								ActionArray value
+									string SerializedState = "[{"_logType":"SIMPLE","_key":"withdraw","_attributeType":"NONE","_target":"BUFF_SOURCE","$type":"Torappu.Battle.Action.Nodes+LogExtraBattleInfo"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
