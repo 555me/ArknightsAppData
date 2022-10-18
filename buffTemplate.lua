@@ -9,7 +9,7 @@ MonoBehaviour Base
 	string m_Name = "buff_template_holder"
 	BuffTemplate _templates
 		Array Array
-		int size = 1682
+		int size = 1678
 			[0]
 			BuffTemplate data
 				string templateKey = "damage_block[all]"
@@ -11347,7 +11347,7 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 12
 								ActionArray value
-									string SerializedState = "[{"_sideMask":"ALLY","_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+IfTargetSide"},{"_ownerType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"","_checkCanUseAblityFlag":false,"_castDirectly":false,"$type":"Torappu.Battle.Action.Nodes+TriggerAbility"}]"
+									string SerializedState = "[{"_ownerType":"BUFF_OWNER","_targetType":"BUFF_OWNER","_abilityName":"","_checkCanUseAblityFlag":false,"_castDirectly":false,"$type":"Torappu.Battle.Action.Nodes+TriggerAbility"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
@@ -25658,40 +25658,6 @@ MonoBehaviour Base
 										int size = 0
 			[1350]
 			BuffTemplate data
-				string templateKey = "rogue_2_camouflage"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 2
-								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkBlockedBySource":false,"_checkBlockedBySourceToken":false,"_sourceType":"BUFF_SOURCE","$type":"Torappu.Battle.Action.Nodes+CheckBlocked"},"_succeedNodes":[{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"}],"_failNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["rogue_2_camouflage"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":["CAMOUFLAGE"],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"rogue_2_camouflage","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_2_relic_fight_132_buff","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1351]
-			BuffTemplate data
-				string templateKey = "rogue_2_attr_up[limited]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 1
-								ActionArray value
-									string SerializedState = "[{"_target":"BUFF_OWNER","_condType":"LE","_attributeType":"BLOCK_CNT","$type":"Torappu.Battle.Action.Nodes+FilterByTargetAttribute"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"BLOCK_CNT","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"ensure_block[rl2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1352]
-			BuffTemplate data
 				string templateKey = "trap_dice3_selector"
 				string effectKey = ""
 				int onEventPriority = 0
@@ -25715,7 +25681,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1353]
+			[1351]
 			BuffTemplate data
 				string templateKey = "trap_dice2_selector"
 				string effectKey = ""
@@ -25740,7 +25706,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1354]
+			[1352]
 			BuffTemplate data
 				string templateKey = "enemy_syrott_suicide"
 				string effectKey = ""
@@ -25757,7 +25723,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1355]
+			[1353]
 			BuffTemplate data
 				string templateKey = "rogue_2_atk_up_on_output_damage"
 				string effectKey = ""
@@ -25782,7 +25748,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1356]
+			[1354]
 			BuffTemplate data
 				string templateKey = "rogue_2_frozen[limited]"
 				string effectKey = ""
@@ -25799,7 +25765,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1357]
+			[1355]
 			BuffTemplate data
 				string templateKey = "enemy_sybox_t[logkilled]"
 				string effectKey = ""
@@ -25816,7 +25782,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1358]
+			[1356]
 			BuffTemplate data
 				string templateKey = "trap_rarebox_t[logkilled]"
 				string effectKey = ""
@@ -25833,7 +25799,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1359]
+			[1357]
 			BuffTemplate data
 				string templateKey = "rogue_2_attr_up_2[evade]"
 				string effectKey = ""
@@ -25850,7 +25816,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1360]
+			[1358]
 			BuffTemplate data
 				string templateKey = "rogue_2_atk_up[life_point][king_suit]"
 				string effectKey = ""
@@ -25867,7 +25833,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1361]
+			[1359]
 			BuffTemplate data
 				string templateKey = "rogue_2_ep_damage_scale"
 				string effectKey = ""
@@ -25884,7 +25850,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1362]
+			[1360]
 			BuffTemplate data
 				string templateKey = "rogue_2_undeadable_damage[hp_not_full]"
 				string effectKey = ""
@@ -25901,7 +25867,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1363]
+			[1361]
 			BuffTemplate data
 				string templateKey = "rogue_2_attr_down[game_start]"
 				string effectKey = ""
@@ -25918,7 +25884,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1364]
+			[1362]
 			BuffTemplate data
 				string templateKey = "rogue_2_hit_to_add_sp[tag]"
 				string effectKey = ""
@@ -25935,7 +25901,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1365]
+			[1363]
 			BuffTemplate data
 				string templateKey = "rogue_2_extra_damage[pure]"
 				string effectKey = ""
@@ -25952,7 +25918,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1366]
+			[1364]
 			BuffTemplate data
 				string templateKey = "trap_aidkit_heal[allydonq]"
 				string effectKey = ""
@@ -25969,7 +25935,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1367]
+			[1365]
 			BuffTemplate data
 				string templateKey = "trap_dice_respawn"
 				string effectKey = ""
@@ -25986,7 +25952,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1368]
+			[1366]
 			BuffTemplate data
 				string templateKey = "trap_dice_selector"
 				string effectKey = ""
@@ -26011,7 +25977,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1369]
+			[1367]
 			BuffTemplate data
 				string templateKey = "trap_dice_effects"
 				string effectKey = ""
@@ -26028,7 +25994,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1370]
+			[1368]
 			BuffTemplate data
 				string templateKey = "trap_dice_buffs"
 				string effectKey = ""
@@ -26045,7 +26011,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1371]
+			[1369]
 			BuffTemplate data
 				string templateKey = "enemy_sydonq_reborn[shield]"
 				string effectKey = ""
@@ -26062,7 +26028,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1372]
+			[1370]
 			BuffTemplate data
 				string templateKey = "enemy_sydonq_t[freeze_shield]"
 				string effectKey = ""
@@ -26079,7 +26045,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1373]
+			[1371]
 			BuffTemplate data
 				string templateKey = "enemy_sydonq_t[freeze]"
 				string effectKey = ""
@@ -26096,7 +26062,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1374]
+			[1372]
 			BuffTemplate data
 				string templateKey = "trap_aidkit_heal"
 				string effectKey = ""
@@ -26113,7 +26079,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1375]
+			[1373]
 			BuffTemplate data
 				string templateKey = "enemy_sydonq_t[inverse_freeze]"
 				string effectKey = ""
@@ -26130,7 +26096,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1376]
+			[1374]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_reborn[sp_clear]"
 				string effectKey = ""
@@ -26147,7 +26113,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1377]
+			[1375]
 			BuffTemplate data
 				string templateKey = "enemy_sygirl_finishwave"
 				string effectKey = ""
@@ -26164,7 +26130,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1378]
+			[1376]
 			BuffTemplate data
 				string templateKey = "enemy_syboy_t[mark]"
 				string effectKey = ""
@@ -26181,7 +26147,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1379]
+			[1377]
 			BuffTemplate data
 				string templateKey = "trap_aidkit_suicide"
 				string effectKey = ""
@@ -26198,7 +26164,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1380]
+			[1378]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_t[clear]"
 				string effectKey = ""
@@ -26215,7 +26181,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1381]
+			[1379]
 			BuffTemplate data
 				string templateKey = "enemy_syshop_s[kafka]"
 				string effectKey = ""
@@ -26240,7 +26206,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1382]
+			[1380]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_t[berserk_effect]"
 				string effectKey = ""
@@ -26257,7 +26223,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1383]
+			[1381]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_s[clear]"
 				string effectKey = ""
@@ -26274,7 +26240,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1384]
+			[1382]
 			BuffTemplate data
 				string templateKey = "enemy_syrott_t[periodic_sp]"
 				string effectKey = ""
@@ -26291,7 +26257,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1385]
+			[1383]
 			BuffTemplate data
 				string templateKey = "enemy_syrott_t[periodic_damage]"
 				string effectKey = ""
@@ -26316,7 +26282,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1386]
+			[1384]
 			BuffTemplate data
 				string templateKey = "enemy_sygirl_die[fly]"
 				string effectKey = ""
@@ -26333,7 +26299,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1387]
+			[1385]
 			BuffTemplate data
 				string templateKey = "enemy_sygirl_die"
 				string effectKey = ""
@@ -26350,7 +26316,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1388]
+			[1386]
 			BuffTemplate data
 				string templateKey = "enemy_sygirl_fly"
 				string effectKey = ""
@@ -26383,7 +26349,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1389]
+			[1387]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_t[monster]"
 				string effectKey = ""
@@ -26400,7 +26366,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1390]
+			[1388]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_t[berserk]"
 				string effectKey = ""
@@ -26417,7 +26383,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1391]
+			[1389]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_t[fetch]"
 				string effectKey = ""
@@ -26450,7 +26416,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1392]
+			[1390]
 			BuffTemplate data
 				string templateKey = "trap_allydonq_logkilled"
 				string effectKey = ""
@@ -26475,7 +26441,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1393]
+			[1391]
 			BuffTemplate data
 				string templateKey = "enemy_syudg_s[switchmode]"
 				string effectKey = ""
@@ -26492,7 +26458,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1394]
+			[1392]
 			BuffTemplate data
 				string templateKey = "enemy_syboys_suicide"
 				string effectKey = ""
@@ -26509,7 +26475,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1395]
+			[1393]
 			BuffTemplate data
 				string templateKey = "enemy_syufo_fly"
 				string effectKey = ""
@@ -26542,7 +26508,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1396]
+			[1394]
 			BuffTemplate data
 				string templateKey = "trap_badbox_s"
 				string effectKey = ""
@@ -26559,7 +26525,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1397]
+			[1395]
 			BuffTemplate data
 				string templateKey = "trap_rarebox_t[inverse_damage]"
 				string effectKey = ""
@@ -26576,7 +26542,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1398]
+			[1396]
 			BuffTemplate data
 				string templateKey = "trap_normbox_t[logkilled]"
 				string effectKey = ""
@@ -26593,7 +26559,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1399]
+			[1397]
 			BuffTemplate data
 				string templateKey = "enemy_syboy_s"
 				string effectKey = ""
@@ -26610,7 +26576,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1400]
+			[1398]
 			BuffTemplate data
 				string templateKey = "enemy_syudg_t"
 				string effectKey = ""
@@ -26627,7 +26593,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1401]
+			[1399]
 			BuffTemplate data
 				string templateKey = "enemy_syboys_t"
 				string effectKey = ""
@@ -26644,7 +26610,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1402]
+			[1400]
 			BuffTemplate data
 				string templateKey = "enemy_syboy[kill]"
 				string effectKey = ""
@@ -26661,7 +26627,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1403]
+			[1401]
 			BuffTemplate data
 				string templateKey = "enemy_symon_t[heal]"
 				string effectKey = ""
@@ -26678,7 +26644,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1404]
+			[1402]
 			BuffTemplate data
 				string templateKey = "enemy_syevil_t[mark]"
 				string effectKey = ""
@@ -26703,7 +26669,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1405]
+			[1403]
 			BuffTemplate data
 				string templateKey = "enemy_syudg_t[stun]"
 				string effectKey = ""
@@ -26720,7 +26686,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1406]
+			[1404]
 			BuffTemplate data
 				string templateKey = "enemy_syudg_t[reload]"
 				string effectKey = ""
@@ -26745,7 +26711,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1407]
+			[1405]
 			BuffTemplate data
 				string templateKey = "enemy_sypult_summon"
 				string effectKey = ""
@@ -26762,7 +26728,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1408]
+			[1406]
 			BuffTemplate data
 				string templateKey = "enemy_syzeni_def"
 				string effectKey = ""
@@ -26779,7 +26745,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1409]
+			[1407]
 			BuffTemplate data
 				string templateKey = "rogue_2_damage_block[stack]"
 				string effectKey = ""
@@ -26796,7 +26762,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1410]
+			[1408]
 			BuffTemplate data
 				string templateKey = "rogue_2_projectile_on_killed"
 				string effectKey = ""
@@ -26809,11 +26775,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 3
 								ActionArray value
-									string SerializedState = "[{"_sideMask":"ALLY","_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+IfTargetSide"},{"_mountPoint":"FOOT","_ev":"ON_HIT_OBJECT","_actions":null,"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"}]"
+									string SerializedState = "[{"_mountPoint":"FOOT","_ev":"ON_HIT_OBJECT","_actions":null,"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1411]
+			[1409]
 			BuffTemplate data
 				string templateKey = "rogue_2_hp_ratio_to_attr_add[attack_speed]"
 				string effectKey = ""
@@ -26830,7 +26796,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1412]
+			[1410]
 			BuffTemplate data
 				string templateKey = "rogue_2_hp_ratio_to_attr_add[atk]"
 				string effectKey = ""
@@ -26847,7 +26813,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1413]
+			[1411]
 			BuffTemplate data
 				string templateKey = "rogue_2_attr_up[evade]"
 				string effectKey = ""
@@ -26864,7 +26830,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1414]
+			[1412]
 			BuffTemplate data
 				string templateKey = "rogue_2_sp_recovery_up[stack]"
 				string effectKey = ""
@@ -26881,7 +26847,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1415]
+			[1413]
 			BuffTemplate data
 				string templateKey = "rogue_2_modify_sp"
 				string effectKey = ""
@@ -26898,7 +26864,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1416]
+			[1414]
 			BuffTemplate data
 				string templateKey = "enemy_sydonq_t[shield_effect]"
 				string effectKey = ""
@@ -26915,7 +26881,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1417]
+			[1415]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_log_extra"
 				string effectKey = ""
@@ -26932,7 +26898,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1418]
+			[1416]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_hit_turngear"
 				string effectKey = ""
@@ -26949,7 +26915,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1419]
+			[1417]
 			BuffTemplate data
 				string templateKey = "garage_s[log]"
 				string effectKey = ""
@@ -26966,7 +26932,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1420]
+			[1418]
 			BuffTemplate data
 				string templateKey = "enemy_minima_dot"
 				string effectKey = ""
@@ -26983,7 +26949,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1421]
+			[1419]
 			BuffTemplate data
 				string templateKey = "enemy_minima_reborn"
 				string effectKey = ""
@@ -27000,7 +26966,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1422]
+			[1420]
 			BuffTemplate data
 				string templateKey = "enemy_minima_shield[aura]"
 				string effectKey = ""
@@ -27025,7 +26991,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1423]
+			[1421]
 			BuffTemplate data
 				string templateKey = "enemy_minima_shield_last"
 				string effectKey = ""
@@ -27042,7 +27008,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1424]
+			[1422]
 			BuffTemplate data
 				string templateKey = "enemy_minima_shield"
 				string effectKey = ""
@@ -27059,7 +27025,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1425]
+			[1423]
 			BuffTemplate data
 				string templateKey = "enemy_minima_shield[refresh]"
 				string effectKey = ""
@@ -27076,7 +27042,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1426]
+			[1424]
 			BuffTemplate data
 				string templateKey = "enemy_dursho_t"
 				string effectKey = ""
@@ -27093,7 +27059,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1427]
+			[1425]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_silence"
 				string effectKey = ""
@@ -27110,7 +27076,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1428]
+			[1426]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_damage"
 				string effectKey = ""
@@ -27127,7 +27093,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1429]
+			[1427]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_stun"
 				string effectKey = ""
@@ -27144,7 +27110,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1430]
+			[1428]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_hit_blocker"
 				string effectKey = ""
@@ -27161,7 +27127,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1431]
+			[1429]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_hit_blocker[suicide]"
 				string effectKey = ""
@@ -27178,7 +27144,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1432]
+			[1430]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_boom"
 				string effectKey = ""
@@ -27195,7 +27161,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1433]
+			[1431]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_gain_sp"
 				string effectKey = ""
@@ -27212,7 +27178,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1434]
+			[1432]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_buff[heal]"
 				string effectKey = ""
@@ -27229,7 +27195,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1435]
+			[1433]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_heal"
 				string effectKey = ""
@@ -27246,7 +27212,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1436]
+			[1434]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_atk_speed_up"
 				string effectKey = ""
@@ -27263,7 +27229,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1437]
+			[1435]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_cold"
 				string effectKey = ""
@@ -27280,7 +27246,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1438]
+			[1436]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_mag_resist_down"
 				string effectKey = ""
@@ -27297,7 +27263,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1439]
+			[1437]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_def_down"
 				string effectKey = ""
@@ -27314,7 +27280,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1440]
+			[1438]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_knockback"
 				string effectKey = ""
@@ -27331,7 +27297,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1441]
+			[1439]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_change_direction"
 				string effectKey = ""
@@ -27348,7 +27314,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1442]
+			[1440]
 			BuffTemplate data
 				string templateKey = "enemy_durcar_suicide"
 				string effectKey = ""
@@ -27381,7 +27347,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1443]
+			[1441]
 			BuffTemplate data
 				string templateKey = "garage_mark_direction"
 				string effectKey = ""
@@ -27398,7 +27364,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1444]
+			[1442]
 			BuffTemplate data
 				string templateKey = "bossrush_init_grid"
 				string effectKey = ""
@@ -27415,7 +27381,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1445]
+			[1443]
 			BuffTemplate data
 				string templateKey = "bossrush_edge_effect_right[trigger]"
 				string effectKey = ""
@@ -27432,7 +27398,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1446]
+			[1444]
 			BuffTemplate data
 				string templateKey = "bossrush_edge_effect_left[trigger]"
 				string effectKey = ""
@@ -27449,7 +27415,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1447]
+			[1445]
 			BuffTemplate data
 				string templateKey = "bossrush_wave_finished"
 				string effectKey = ""
@@ -27466,7 +27432,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1448]
+			[1446]
 			BuffTemplate data
 				string templateKey = "bossrush_move_camera"
 				string effectKey = ""
@@ -27483,7 +27449,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1449]
+			[1447]
 			BuffTemplate data
 				string templateKey = "bossrush_withdraw_danger_area"
 				string effectKey = ""
@@ -27500,7 +27466,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1450]
+			[1448]
 			BuffTemplate data
 				string templateKey = "bossrush_withdraw"
 				string effectKey = ""
@@ -27517,7 +27483,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1451]
+			[1449]
 			BuffTemplate data
 				string templateKey = "bossrush_init_danger_area"
 				string effectKey = ""
@@ -27534,7 +27500,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1452]
+			[1450]
 			BuffTemplate data
 				string templateKey = "atk_modify_cost"
 				string effectKey = ""
@@ -27551,7 +27517,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1453]
+			[1451]
 			BuffTemplate data
 				string templateKey = "act1bossrush_kazimierz_buff"
 				string effectKey = ""
@@ -27576,7 +27542,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1454]
+			[1452]
 			BuffTemplate data
 				string templateKey = "act1bossrush_relic3_extralog"
 				string effectKey = ""
@@ -27593,7 +27559,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1455]
+			[1453]
 			BuffTemplate data
 				string templateKey = "act1bossrush_relic4_extralog"
 				string effectKey = ""
@@ -27610,7 +27576,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1456]
+			[1454]
 			BuffTemplate data
 				string templateKey = "enemy_nhfly_t[switch_to_die]"
 				string effectKey = ""
@@ -27627,7 +27593,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1457]
+			[1455]
 			BuffTemplate data
 				string templateKey = "enemy_nhkodo_t[devour]"
 				string effectKey = ""
@@ -27652,7 +27618,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1458]
+			[1456]
 			BuffTemplate data
 				string templateKey = "enemy_nhkodo_t[devour_holder]"
 				string effectKey = ""
@@ -27669,7 +27635,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1459]
+			[1457]
 			BuffTemplate data
 				string templateKey = "enemy_nhnrs_t[healtrap]"
 				string effectKey = ""
@@ -27686,7 +27652,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1460]
+			[1458]
 			BuffTemplate data
 				string templateKey = "enemy_nhapos_t[born]"
 				string effectKey = ""
@@ -27711,7 +27677,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1461]
+			[1459]
 			BuffTemplate data
 				string templateKey = "enemy_nhstlk_t[bleeding]"
 				string effectKey = ""
@@ -27736,7 +27702,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1462]
+			[1460]
 			BuffTemplate data
 				string templateKey = "enemy_nhtank_s_effect[buff]"
 				string effectKey = ""
@@ -27753,7 +27719,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1463]
+			[1461]
 			BuffTemplate data
 				string templateKey = "enemy_stmgun_s[damage]"
 				string effectKey = ""
@@ -27770,7 +27736,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1464]
+			[1462]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt2_s_boost[finish]"
 				string effectKey = ""
@@ -27787,7 +27753,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1465]
+			[1463]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt2_check_reached_checkpoint"
 				string effectKey = ""
@@ -27804,7 +27770,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1466]
+			[1464]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt2_t[failure_level_buff]"
 				string effectKey = ""
@@ -27821,7 +27787,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1467]
+			[1465]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt_boost[finish_weak]"
 				string effectKey = ""
@@ -27838,7 +27804,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1468]
+			[1466]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt_boost[buff]"
 				string effectKey = ""
@@ -27863,7 +27829,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1469]
+			[1467]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt_finish_buff[invincible]"
 				string effectKey = ""
@@ -27880,7 +27846,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1470]
+			[1468]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt_hide_shadow"
 				string effectKey = ""
@@ -27897,7 +27863,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1471]
+			[1469]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt_s[damage]"
 				string effectKey = ""
@@ -27914,7 +27880,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1472]
+			[1470]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt_s[hero_hard]"
 				string effectKey = ""
@@ -27931,7 +27897,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1473]
+			[1471]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt_s[range_effect]"
 				string effectKey = ""
@@ -27948,7 +27914,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1474]
+			[1472]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt_show_shadow"
 				string effectKey = ""
@@ -27965,7 +27931,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1475]
+			[1473]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt_s_hero_bomb[after_zantetsuken]"
 				string effectKey = ""
@@ -27982,7 +27948,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1476]
+			[1474]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt_t[hpratio_trigger]"
 				string effectKey = ""
@@ -28007,7 +27973,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1477]
+			[1475]
 			BuffTemplate data
 				string templateKey = "enemy_stmkgt_t[reborn_bomb]"
 				string effectKey = ""
@@ -28024,7 +27990,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1478]
+			[1476]
 			BuffTemplate data
 				string templateKey = "enemy_telex_t[kill]"
 				string effectKey = ""
@@ -28041,7 +28007,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1479]
+			[1477]
 			BuffTemplate data
 				string templateKey = "polluted_area"
 				string effectKey = ""
@@ -28058,7 +28024,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1480]
+			[1478]
 			BuffTemplate data
 				string templateKey = "trap_allady_protected"
 				string effectKey = ""
@@ -28075,7 +28041,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1481]
+			[1479]
 			BuffTemplate data
 				string templateKey = "trap_allady_shield"
 				string effectKey = ""
@@ -28092,7 +28058,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1482]
+			[1480]
 			BuffTemplate data
 				string templateKey = "trap_allady_killself"
 				string effectKey = ""
@@ -28117,7 +28083,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1483]
+			[1481]
 			BuffTemplate data
 				string templateKey = "trap_larva_t"
 				string effectKey = ""
@@ -28134,7 +28100,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1484]
+			[1482]
 			BuffTemplate data
 				string templateKey = "trap_larva_t[summon]"
 				string effectKey = ""
@@ -28159,7 +28125,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1485]
+			[1483]
 			BuffTemplate data
 				string templateKey = "trap_larva_t_dark_damage"
 				string effectKey = ""
@@ -28176,7 +28142,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1486]
+			[1484]
 			BuffTemplate data
 				string templateKey = "legion_nlkgtbs_s_3_anim"
 				string effectKey = ""
@@ -28193,7 +28159,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1487]
+			[1485]
 			BuffTemplate data
 				string templateKey = "legion_nlkgtbs_s_2_anim"
 				string effectKey = ""
@@ -28210,7 +28176,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1488]
+			[1486]
 			BuffTemplate data
 				string templateKey = "legion_nlkgtbs_s_1_anim"
 				string effectKey = ""
@@ -28227,7 +28193,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1489]
+			[1487]
 			BuffTemplate data
 				string templateKey = "legion_nlkgtbs_passive_shield"
 				string effectKey = ""
@@ -28252,7 +28218,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1490]
+			[1488]
 			BuffTemplate data
 				string templateKey = "legion_nlkgtbs_reduce_damage"
 				string effectKey = ""
@@ -28269,7 +28235,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1491]
+			[1489]
 			BuffTemplate data
 				string templateKey = "legion_nlkgtbs_periodic_damage"
 				string effectKey = ""
@@ -28286,7 +28252,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1492]
+			[1490]
 			BuffTemplate data
 				string templateKey = "legion_trap_tbsmmc"
 				string effectKey = ""
@@ -28303,7 +28269,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1493]
+			[1491]
 			BuffTemplate data
 				string templateKey = "legion_trap_tbpsnc"
 				string effectKey = ""
@@ -28320,7 +28286,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1494]
+			[1492]
 			BuffTemplate data
 				string templateKey = "legion_trap_tbattbc"
 				string effectKey = ""
@@ -28337,7 +28303,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1495]
+			[1493]
 			BuffTemplate data
 				string templateKey = "legion_trap_paras_summon"
 				string effectKey = ""
@@ -28354,7 +28320,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1496]
+			[1494]
 			BuffTemplate data
 				string templateKey = "legion_mode_enemy_die_money"
 				string effectKey = ""
@@ -28371,7 +28337,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1497]
+			[1495]
 			BuffTemplate data
 				string templateKey = "legion_character_status"
 				string effectKey = ""
@@ -28404,7 +28370,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1498]
+			[1496]
 			BuffTemplate data
 				string templateKey = "legion_btauntcard_killed"
 				string effectKey = ""
@@ -28421,7 +28387,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1499]
+			[1497]
 			BuffTemplate data
 				string templateKey = "legion_btauntcard_remove_passive"
 				string effectKey = ""
@@ -28438,7 +28404,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1500]
+			[1498]
 			BuffTemplate data
 				string templateKey = "legion_btauntcard_life_durantion"
 				string effectKey = ""
@@ -28463,7 +28429,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1501]
+			[1499]
 			BuffTemplate data
 				string templateKey = "legion_btauntcard_trigger_reset"
 				string effectKey = ""
@@ -28480,7 +28446,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1502]
+			[1500]
 			BuffTemplate data
 				string templateKey = "legion_trap_bomb"
 				string effectKey = ""
@@ -28497,7 +28463,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1503]
+			[1501]
 			BuffTemplate data
 				string templateKey = "legion_trap_undeployable"
 				string effectKey = ""
@@ -28514,7 +28480,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1504]
+			[1502]
 			BuffTemplate data
 				string templateKey = "legion_trap_remove_deckbuff"
 				string effectKey = ""
@@ -28531,7 +28497,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1505]
+			[1503]
 			BuffTemplate data
 				string templateKey = "legion_trap_recycle_dying_buff"
 				string effectKey = ""
@@ -28548,7 +28514,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1506]
+			[1504]
 			BuffTemplate data
 				string templateKey = "legion_trap_recycle_card_buff"
 				string effectKey = ""
@@ -28565,7 +28531,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1507]
+			[1505]
 			BuffTemplate data
 				string templateKey = "legion_trap_mark_use_once"
 				string effectKey = ""
@@ -28582,7 +28548,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1508]
+			[1506]
 			BuffTemplate data
 				string templateKey = "legion_select_card"
 				string effectKey = ""
@@ -28599,7 +28565,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1509]
+			[1507]
 			BuffTemplate data
 				string templateKey = "legion_select_card_sell"
 				string effectKey = ""
@@ -28616,7 +28582,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1510]
+			[1508]
 			BuffTemplate data
 				string templateKey = "legion_buffcard_gain_buff"
 				string effectKey = ""
@@ -28633,7 +28599,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1511]
+			[1509]
 			BuffTemplate data
 				string templateKey = "legion_llstone_dead_remove"
 				string effectKey = ""
@@ -28650,7 +28616,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1512]
+			[1510]
 			BuffTemplate data
 				string templateKey = "legion_llstone_trigger_durance"
 				string effectKey = ""
@@ -28675,7 +28641,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1513]
+			[1511]
 			BuffTemplate data
 				string templateKey = "legion_fystone_pericdic_damage"
 				string effectKey = ""
@@ -28700,7 +28666,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1514]
+			[1512]
 			BuffTemplate data
 				string templateKey = "legion_fystone_t_kill_source"
 				string effectKey = ""
@@ -28717,7 +28683,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1515]
+			[1513]
 			BuffTemplate data
 				string templateKey = "legion_reward_death_emit_projectile"
 				string effectKey = ""
@@ -28734,7 +28700,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1516]
+			[1514]
 			BuffTemplate data
 				string templateKey = "legion_trswlf_passive"
 				string effectKey = ""
@@ -28751,7 +28717,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1517]
+			[1515]
 			BuffTemplate data
 				string templateKey = "legion_select_card[onlcate]"
 				string effectKey = ""
@@ -28768,7 +28734,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1518]
+			[1516]
 			BuffTemplate data
 				string templateKey = "legion_select_card[onlcate][real]"
 				string effectKey = ""
@@ -28785,7 +28751,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1519]
+			[1517]
 			BuffTemplate data
 				string templateKey = "legion_drawcard_getgold[onlcate]"
 				string effectKey = ""
@@ -28802,7 +28768,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1520]
+			[1518]
 			BuffTemplate data
 				string templateKey = "legion_drawcard_getgold[onlcate][real]"
 				string effectKey = ""
@@ -28819,7 +28785,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1521]
+			[1519]
 			BuffTemplate data
 				string templateKey = "legion_getgold_via_buff[onlcate]"
 				string effectKey = ""
@@ -28836,7 +28802,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1522]
+			[1520]
 			BuffTemplate data
 				string templateKey = "legion_reborn_in_range[onlcate]"
 				string effectKey = ""
@@ -28853,7 +28819,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1523]
+			[1521]
 			BuffTemplate data
 				string templateKey = "character_reborn_in_dying"
 				string effectKey = ""
@@ -28870,7 +28836,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1524]
+			[1522]
 			BuffTemplate data
 				string templateKey = "character_dying"
 				string effectKey = ""
@@ -28895,7 +28861,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1525]
+			[1523]
 			BuffTemplate data
 				string templateKey = "dagda_s_1[end_skill_trigger]"
 				string effectKey = ""
@@ -28912,7 +28878,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1526]
+			[1524]
 			BuffTemplate data
 				string templateKey = "dagda_s_1"
 				string effectKey = ""
@@ -28929,7 +28895,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1527]
+			[1525]
 			BuffTemplate data
 				string templateKey = "dagda_t_1[atk_up]"
 				string effectKey = ""
@@ -28946,7 +28912,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1528]
+			[1526]
 			BuffTemplate data
 				string templateKey = "dagda_t_1[enemy_flag]"
 				string effectKey = ""
@@ -28963,7 +28929,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1529]
+			[1527]
 			BuffTemplate data
 				string templateKey = "dagda_t_2"
 				string effectKey = ""
@@ -28980,7 +28946,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1530]
+			[1528]
 			BuffTemplate data
 				string templateKey = "dagda_t_1"
 				string effectKey = ""
@@ -28997,7 +28963,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1531]
+			[1529]
 			BuffTemplate data
 				string templateKey = "apionr_t"
 				string effectKey = ""
@@ -29014,7 +28980,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1532]
+			[1530]
 			BuffTemplate data
 				string templateKey = "gvial2_s_3[bleed]"
 				string effectKey = ""
@@ -29031,7 +28997,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1533]
+			[1531]
 			BuffTemplate data
 				string templateKey = "gvial2_s_3"
 				string effectKey = ""
@@ -29056,7 +29022,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1534]
+			[1532]
 			BuffTemplate data
 				string templateKey = "gvial2_s_2[drag]"
 				string effectKey = ""
@@ -29073,7 +29039,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1535]
+			[1533]
 			BuffTemplate data
 				string templateKey = "heal_via_damage"
 				string effectKey = ""
@@ -29090,7 +29056,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1536]
+			[1534]
 			BuffTemplate data
 				string templateKey = "gvial2_t_1"
 				string effectKey = ""
@@ -29107,7 +29073,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1537]
+			[1535]
 			BuffTemplate data
 				string templateKey = "gvial2_t_2"
 				string effectKey = ""
@@ -29124,7 +29090,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1538]
+			[1536]
 			BuffTemplate data
 				string templateKey = "doroth_t_1[spawn_tokens]"
 				string effectKey = ""
@@ -29141,7 +29107,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1539]
+			[1537]
 			BuffTemplate data
 				string templateKey = "doroth_token[trigger_t2]"
 				string effectKey = ""
@@ -29158,7 +29124,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1540]
+			[1538]
 			BuffTemplate data
 				string templateKey = "doroth_token[withdraw]"
 				string effectKey = ""
@@ -29183,7 +29149,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1541]
+			[1539]
 			BuffTemplate data
 				string templateKey = "doroth_token_s3[trigger]"
 				string effectKey = ""
@@ -29200,7 +29166,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1542]
+			[1540]
 			BuffTemplate data
 				string templateKey = "doroth_t_2"
 				string effectKey = ""
@@ -29225,7 +29191,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1543]
+			[1541]
 			BuffTemplate data
 				string templateKey = "malist_t_1"
 				string effectKey = ""
@@ -29242,7 +29208,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1544]
+			[1542]
 			BuffTemplate data
 				string templateKey = "malist_s_2[eff_cond]"
 				string effectKey = ""
@@ -29259,7 +29225,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1545]
+			[1543]
 			BuffTemplate data
 				string templateKey = "malist_tr"
 				string effectKey = ""
@@ -29276,7 +29242,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1546]
+			[1544]
 			BuffTemplate data
 				string templateKey = "malist_s_2"
 				string effectKey = ""
@@ -29301,7 +29267,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1547]
+			[1545]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_3[base_atk_up]"
 				string effectKey = ""
@@ -29318,7 +29284,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1548]
+			[1546]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_t_1[withdraw]"
 				string effectKey = ""
@@ -29335,7 +29301,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1549]
+			[1547]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_1[random_atk]"
 				string effectKey = ""
@@ -29352,7 +29318,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1550]
+			[1548]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_1[token_trigger]"
 				string effectKey = ""
@@ -29369,7 +29335,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1551]
+			[1549]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_s_2[respawn]"
 				string effectKey = ""
@@ -29386,7 +29352,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1552]
+			[1550]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_s3[atk_up]"
 				string effectKey = ""
@@ -29403,7 +29369,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1553]
+			[1551]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_s3[switch]"
 				string effectKey = ""
@@ -29428,7 +29394,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1554]
+			[1552]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_3[tokeneff]"
 				string effectKey = ""
@@ -29445,7 +29411,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1555]
+			[1553]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_token[debuff]"
 				string effectKey = ""
@@ -29462,7 +29428,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1556]
+			[1554]
 			BuffTemplate data
 				string templateKey = "bgsnow_s_3[atk_up]"
 				string effectKey = ""
@@ -29487,7 +29453,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1557]
+			[1555]
 			BuffTemplate data
 				string templateKey = "bgsnow_subbow_direction"
 				string effectKey = ""
@@ -29504,7 +29470,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1558]
+			[1556]
 			BuffTemplate data
 				string templateKey = "totter_s_2"
 				string effectKey = ""
@@ -29529,7 +29495,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1559]
+			[1557]
 			BuffTemplate data
 				string templateKey = "totter_t_1"
 				string effectKey = ""
@@ -29562,7 +29528,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1560]
+			[1558]
 			BuffTemplate data
 				string templateKey = "mlynar_s_3"
 				string effectKey = ""
@@ -29603,7 +29569,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1561]
+			[1559]
 			BuffTemplate data
 				string templateKey = "mlynar_s_3[aura]"
 				string effectKey = ""
@@ -29620,7 +29586,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1562]
+			[1560]
 			BuffTemplate data
 				string templateKey = "mlynar_s_2"
 				string effectKey = ""
@@ -29653,7 +29619,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1563]
+			[1561]
 			BuffTemplate data
 				string templateKey = "mlynar_tr"
 				string effectKey = ""
@@ -29670,7 +29636,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1564]
+			[1562]
 			BuffTemplate data
 				string templateKey = "mlynar_t_1[multi]"
 				string effectKey = ""
@@ -29695,7 +29661,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1565]
+			[1563]
 			BuffTemplate data
 				string templateKey = "mlynar_t_2[inverse]"
 				string effectKey = ""
@@ -29712,7 +29678,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1566]
+			[1564]
 			BuffTemplate data
 				string templateKey = "mlynar_s_cast"
 				string effectKey = ""
@@ -29737,7 +29703,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1567]
+			[1565]
 			BuffTemplate data
 				string templateKey = "highmo_t_2[ep_heal]"
 				string effectKey = ""
@@ -29754,7 +29720,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1568]
+			[1566]
 			BuffTemplate data
 				string templateKey = "highmo_t_2[ep_heal_fake]"
 				string effectKey = ""
@@ -29779,7 +29745,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1569]
+			[1567]
 			BuffTemplate data
 				string templateKey = "highmo_t_2"
 				string effectKey = ""
@@ -29796,7 +29762,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1570]
+			[1568]
 			BuffTemplate data
 				string templateKey = "highmo_trait[heal]"
 				string effectKey = ""
@@ -29813,7 +29779,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1571]
+			[1569]
 			BuffTemplate data
 				string templateKey = "highmo_trait[heal_fake]"
 				string effectKey = ""
@@ -29838,7 +29804,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1572]
+			[1570]
 			BuffTemplate data
 				string templateKey = "highmo_trait"
 				string effectKey = ""
@@ -29855,7 +29821,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1573]
+			[1571]
 			BuffTemplate data
 				string templateKey = "highmo_s_2[heal]"
 				string effectKey = ""
@@ -29872,7 +29838,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1574]
+			[1572]
 			BuffTemplate data
 				string templateKey = "highmo_s_2"
 				string effectKey = ""
@@ -29889,7 +29855,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1575]
+			[1573]
 			BuffTemplate data
 				string templateKey = "lolxh_s_2[hit]"
 				string effectKey = ""
@@ -29906,7 +29872,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1576]
+			[1574]
 			BuffTemplate data
 				string templateKey = "lolxh_t_1"
 				string effectKey = ""
@@ -29931,7 +29897,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1577]
+			[1575]
 			BuffTemplate data
 				string templateKey = "peper_t_1"
 				string effectKey = ""
@@ -29948,7 +29914,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1578]
+			[1576]
 			BuffTemplate data
 				string templateKey = "ironmn_pile3_bleed"
 				string effectKey = ""
@@ -29965,7 +29931,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1579]
+			[1577]
 			BuffTemplate data
 				string templateKey = "ironmn_s_2"
 				string effectKey = ""
@@ -29990,7 +29956,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1580]
+			[1578]
 			BuffTemplate data
 				string templateKey = "ironmn_s_3"
 				string effectKey = ""
@@ -30015,7 +29981,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1581]
+			[1579]
 			BuffTemplate data
 				string templateKey = "ironmn_pile3_s[splash]"
 				string effectKey = ""
@@ -30032,7 +29998,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1582]
+			[1580]
 			BuffTemplate data
 				string templateKey = "ironmn_pile3_trait"
 				string effectKey = ""
@@ -30049,7 +30015,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1583]
+			[1581]
 			BuffTemplate data
 				string templateKey = "ironmn_pile3_s[main]"
 				string effectKey = ""
@@ -30066,7 +30032,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1584]
+			[1582]
 			BuffTemplate data
 				string templateKey = "ironmn_pile_bleed"
 				string effectKey = ""
@@ -30083,7 +30049,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1585]
+			[1583]
 			BuffTemplate data
 				string templateKey = "ironmn_s_1"
 				string effectKey = ""
@@ -30108,7 +30074,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1586]
+			[1584]
 			BuffTemplate data
 				string templateKey = "ironmn_t_2"
 				string effectKey = ""
@@ -30125,7 +30091,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1587]
+			[1585]
 			BuffTemplate data
 				string templateKey = "bgsnow_e_trait"
 				string effectKey = ""
@@ -30150,7 +30116,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1588]
+			[1586]
 			BuffTemplate data
 				string templateKey = "glady_e_t_1"
 				string effectKey = ""
@@ -30167,7 +30133,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1589]
+			[1587]
 			BuffTemplate data
 				string templateKey = "glady_e_rupture"
 				string effectKey = ""
@@ -30200,7 +30166,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1590]
+			[1588]
 			BuffTemplate data
 				string templateKey = "glady_e_trait"
 				string effectKey = ""
@@ -30225,7 +30191,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1591]
+			[1589]
 			BuffTemplate data
 				string templateKey = "rope_e_trait"
 				string effectKey = ""
@@ -30250,7 +30216,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1592]
+			[1590]
 			BuffTemplate data
 				string templateKey = "rope_e_rupture"
 				string effectKey = ""
@@ -30283,7 +30249,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1593]
+			[1591]
 			BuffTemplate data
 				string templateKey = "slchan_e_trait"
 				string effectKey = ""
@@ -30308,7 +30274,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1594]
+			[1592]
 			BuffTemplate data
 				string templateKey = "slchan_e_rupture"
 				string effectKey = ""
@@ -30341,7 +30307,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1595]
+			[1593]
 			BuffTemplate data
 				string templateKey = "snsant_e_rupture"
 				string effectKey = ""
@@ -30374,7 +30340,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1596]
+			[1594]
 			BuffTemplate data
 				string templateKey = "snsant_e_trait"
 				string effectKey = ""
@@ -30399,7 +30365,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1597]
+			[1595]
 			BuffTemplate data
 				string templateKey = "fartth_e_talent[atk_speed]"
 				string effectKey = ""
@@ -30416,7 +30382,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1598]
+			[1596]
 			BuffTemplate data
 				string templateKey = "fartth_e_trait[SP]"
 				string effectKey = ""
@@ -30433,7 +30399,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1599]
+			[1597]
 			BuffTemplate data
 				string templateKey = "provs_e_002_trait"
 				string effectKey = ""
@@ -30450,7 +30416,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1600]
+			[1598]
 			BuffTemplate data
 				string templateKey = "ebnhlz_e_003_t_2"
 				string effectKey = ""
@@ -30467,7 +30433,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1601]
+			[1599]
 			BuffTemplate data
 				string templateKey = "ebnhlz_e_003_trait"
 				string effectKey = ""
@@ -30484,7 +30450,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1602]
+			[1600]
 			BuffTemplate data
 				string templateKey = "nian_e_002_t_2[block]"
 				string effectKey = ""
@@ -30509,7 +30475,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1603]
+			[1601]
 			BuffTemplate data
 				string templateKey = "nian_e_002_t_2"
 				string effectKey = ""
@@ -30526,7 +30492,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1604]
+			[1602]
 			BuffTemplate data
 				string templateKey = "hsguma_e_002_t"
 				string effectKey = ""
@@ -30551,7 +30517,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1605]
+			[1603]
 			BuffTemplate data
 				string templateKey = "shining_e_002_t[aura]"
 				string effectKey = ""
@@ -30568,7 +30534,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1606]
+			[1604]
 			BuffTemplate data
 				string templateKey = "aglina_e_003_tr[mask]"
 				string effectKey = ""
@@ -30585,7 +30551,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1607]
+			[1605]
 			BuffTemplate data
 				string templateKey = "dusk_e_003_t[token]"
 				string effectKey = ""
@@ -30602,7 +30568,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1608]
+			[1606]
 			BuffTemplate data
 				string templateKey = "folnic_e_002_t[aura]"
 				string effectKey = ""
@@ -30619,7 +30585,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1609]
+			[1607]
 			BuffTemplate data
 				string templateKey = "damage_resistance[env]"
 				string effectKey = ""
@@ -30636,7 +30602,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1610]
+			[1608]
 			BuffTemplate data
 				string templateKey = "damage_resistance[physics]"
 				string effectKey = ""
@@ -30653,7 +30619,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1611]
+			[1609]
 			BuffTemplate data
 				string templateKey = "kalts_e_002_t[token]"
 				string effectKey = ""
@@ -30670,7 +30636,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1612]
+			[1610]
 			BuffTemplate data
 				string templateKey = "heal_scale_up[hpratio][LE]"
 				string effectKey = ""
@@ -30687,7 +30653,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1613]
+			[1611]
 			BuffTemplate data
 				string templateKey = "heal_scale_up[lowland]"
 				string effectKey = ""
@@ -30704,41 +30670,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1614]
-			BuffTemplate data
-				string templateKey = "rogue_2_camouflage"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 2
-								ActionArray value
-									string SerializedState = "[{"_conditionNode":{"_targetType":"BUFF_OWNER","_checkBlockedBySource":false,"_checkBlockedBySourceToken":false,"_sourceType":"BUFF_SOURCE","$type":"Torappu.Battle.Action.Nodes+CheckBlocked"},"_succeedNodes":[{"_updateOverrideMap":true,"$type":"Torappu.Battle.Action.Nodes+FinishDerivedBuff"}],"_failNodes":[{"_targetType":"BUFF_OWNER","_buffKeys":["rogue_2_camouflage"],"isAND":true,"$type":"Torappu.Battle.Action.Nodes+CheckContainsBuff"},{"$type":"Torappu.Battle.Action.Nodes+IfNot"},{"_buff":{"attributes":{"abnormalFlags":["CAMOUFLAGE"],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[]},"buffKey":"rogue_2_camouflage","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":true,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":"rogue_2_relic_fight_132_buff","overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":false,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":true,"_finishDerivedBuffIfParentFinish":true,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}],"$type":"Torappu.Battle.Action.Nodes+IfElse"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1615]
-			BuffTemplate data
-				string templateKey = "rogue_2_attr_up[limited]"
-				string effectKey = ""
-				int onEventPriority = 0
-				EventToActionMap eventToActions
-					EventToAction _items
-						Array Array
-						int size = 1
-							[0]
-							EventToAction data
-								int key = 1
-								ActionArray value
-									string SerializedState = "[{"_target":"BUFF_OWNER","_condType":"LE","_attributeType":"BLOCK_CNT","$type":"Torappu.Battle.Action.Nodes+FilterByTargetAttribute"},{"_buff":{"attributes":{"abnormalFlags":[],"abnormalImmunes":[],"abnormalAntis":[],"abnormalCombos":[],"abnormalComboImmunes":[],"attributeModifiers":[{"attributeType":"BLOCK_CNT","formulaItem":"ADDITION","value":0.0,"loadFromBlackboard":true,"fetchBaseValueFromSourceEntity":false}]},"buffKey":"ensure_block[rl2]","loadFromDB":false,"isSilenceable":false,"isStunnable":false,"isFreezable":false,"isLevitatable":false,"statusResistable":"AUTOMATIC","templateKey":"empty","disableOverride":false,"overrideKey":null,"overrideType":"DEFAULT","maxStackCnt":1,"maxValidStackCnt":-1,"overrideEffectKey":null,"overrideOnEventPriority":false,"onEventPriority":"DEFAULT","audioSignal":null,"lifeTimeType":"INFINITY","takeSnapshotWhenExtend":false,"durationKey":null,"lifeTime":0.0,"triggerLifeType":"IMMEDIATELY","triggerCnt":0,"triggerInterval":-1.0,"waitFirstTriggerInterval":true,"firstTriggerInterval":-1.0,"priority":-1,"priorityBBKeys":[],"stripBlackboardParamsWithBuffKey":true,"blackboard":[]},"_buffOwner":"BUFF_OWNER","_isDerivedBuff":false,"_finishDerivedBuffIfParentFinish":false,"$type":"Torappu.Battle.Action.Nodes+CreateBuff"}]"
-									vector SerializedObjectReferences
-										Array Array
-										int size = 0
-			[1616]
+			[1612]
 			BuffTemplate data
 				string templateKey = "trap_dice3_selector"
 				string effectKey = ""
@@ -30763,7 +30695,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1617]
+			[1613]
 			BuffTemplate data
 				string templateKey = "trap_dice2_selector"
 				string effectKey = ""
@@ -30788,7 +30720,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1618]
+			[1614]
 			BuffTemplate data
 				string templateKey = "enemy_syrott_suicide"
 				string effectKey = ""
@@ -30805,7 +30737,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1619]
+			[1615]
 			BuffTemplate data
 				string templateKey = "rogue_2_atk_up_on_output_damage"
 				string effectKey = ""
@@ -30830,7 +30762,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1620]
+			[1616]
 			BuffTemplate data
 				string templateKey = "rogue_2_frozen[limited]"
 				string effectKey = ""
@@ -30847,7 +30779,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1621]
+			[1617]
 			BuffTemplate data
 				string templateKey = "enemy_sybox_t[logkilled]"
 				string effectKey = ""
@@ -30864,7 +30796,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1622]
+			[1618]
 			BuffTemplate data
 				string templateKey = "trap_rarebox_t[logkilled]"
 				string effectKey = ""
@@ -30881,7 +30813,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1623]
+			[1619]
 			BuffTemplate data
 				string templateKey = "rogue_2_attr_up_2[evade]"
 				string effectKey = ""
@@ -30898,7 +30830,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1624]
+			[1620]
 			BuffTemplate data
 				string templateKey = "rogue_2_atk_up[life_point][king_suit]"
 				string effectKey = ""
@@ -30915,7 +30847,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1625]
+			[1621]
 			BuffTemplate data
 				string templateKey = "rogue_2_ep_damage_scale"
 				string effectKey = ""
@@ -30932,7 +30864,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1626]
+			[1622]
 			BuffTemplate data
 				string templateKey = "rogue_2_undeadable_damage[hp_not_full]"
 				string effectKey = ""
@@ -30949,7 +30881,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1627]
+			[1623]
 			BuffTemplate data
 				string templateKey = "rogue_2_attr_down[game_start]"
 				string effectKey = ""
@@ -30966,7 +30898,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1628]
+			[1624]
 			BuffTemplate data
 				string templateKey = "rogue_2_hit_to_add_sp[tag]"
 				string effectKey = ""
@@ -30983,7 +30915,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1629]
+			[1625]
 			BuffTemplate data
 				string templateKey = "rogue_2_extra_damage[pure]"
 				string effectKey = ""
@@ -31000,7 +30932,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1630]
+			[1626]
 			BuffTemplate data
 				string templateKey = "trap_aidkit_heal[allydonq]"
 				string effectKey = ""
@@ -31017,7 +30949,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1631]
+			[1627]
 			BuffTemplate data
 				string templateKey = "trap_dice_respawn"
 				string effectKey = ""
@@ -31034,7 +30966,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1632]
+			[1628]
 			BuffTemplate data
 				string templateKey = "trap_dice_selector"
 				string effectKey = ""
@@ -31059,7 +30991,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1633]
+			[1629]
 			BuffTemplate data
 				string templateKey = "trap_dice_effects"
 				string effectKey = ""
@@ -31076,7 +31008,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1634]
+			[1630]
 			BuffTemplate data
 				string templateKey = "trap_dice_buffs"
 				string effectKey = ""
@@ -31093,7 +31025,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1635]
+			[1631]
 			BuffTemplate data
 				string templateKey = "enemy_sydonq_reborn[shield]"
 				string effectKey = ""
@@ -31110,7 +31042,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1636]
+			[1632]
 			BuffTemplate data
 				string templateKey = "enemy_sydonq_t[freeze_shield]"
 				string effectKey = ""
@@ -31127,7 +31059,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1637]
+			[1633]
 			BuffTemplate data
 				string templateKey = "enemy_sydonq_t[freeze]"
 				string effectKey = ""
@@ -31144,7 +31076,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1638]
+			[1634]
 			BuffTemplate data
 				string templateKey = "trap_aidkit_heal"
 				string effectKey = ""
@@ -31161,7 +31093,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1639]
+			[1635]
 			BuffTemplate data
 				string templateKey = "enemy_sydonq_t[inverse_freeze]"
 				string effectKey = ""
@@ -31178,7 +31110,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1640]
+			[1636]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_reborn[sp_clear]"
 				string effectKey = ""
@@ -31195,7 +31127,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1641]
+			[1637]
 			BuffTemplate data
 				string templateKey = "enemy_sygirl_finishwave"
 				string effectKey = ""
@@ -31212,7 +31144,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1642]
+			[1638]
 			BuffTemplate data
 				string templateKey = "enemy_syboy_t[mark]"
 				string effectKey = ""
@@ -31229,7 +31161,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1643]
+			[1639]
 			BuffTemplate data
 				string templateKey = "trap_aidkit_suicide"
 				string effectKey = ""
@@ -31246,7 +31178,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1644]
+			[1640]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_t[clear]"
 				string effectKey = ""
@@ -31263,7 +31195,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1645]
+			[1641]
 			BuffTemplate data
 				string templateKey = "enemy_syshop_s[kafka]"
 				string effectKey = ""
@@ -31288,7 +31220,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1646]
+			[1642]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_t[berserk_effect]"
 				string effectKey = ""
@@ -31305,7 +31237,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1647]
+			[1643]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_s[clear]"
 				string effectKey = ""
@@ -31322,7 +31254,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1648]
+			[1644]
 			BuffTemplate data
 				string templateKey = "enemy_syrott_t[periodic_sp]"
 				string effectKey = ""
@@ -31339,7 +31271,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1649]
+			[1645]
 			BuffTemplate data
 				string templateKey = "enemy_syrott_t[periodic_damage]"
 				string effectKey = ""
@@ -31364,7 +31296,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1650]
+			[1646]
 			BuffTemplate data
 				string templateKey = "enemy_sygirl_die[fly]"
 				string effectKey = ""
@@ -31381,7 +31313,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1651]
+			[1647]
 			BuffTemplate data
 				string templateKey = "enemy_sygirl_die"
 				string effectKey = ""
@@ -31398,7 +31330,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1652]
+			[1648]
 			BuffTemplate data
 				string templateKey = "enemy_sygirl_fly"
 				string effectKey = ""
@@ -31431,7 +31363,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1653]
+			[1649]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_t[monster]"
 				string effectKey = ""
@@ -31448,7 +31380,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1654]
+			[1650]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_t[berserk]"
 				string effectKey = ""
@@ -31465,7 +31397,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1655]
+			[1651]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_t[fetch]"
 				string effectKey = ""
@@ -31498,7 +31430,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1656]
+			[1652]
 			BuffTemplate data
 				string templateKey = "trap_allydonq_logkilled"
 				string effectKey = ""
@@ -31523,7 +31455,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1657]
+			[1653]
 			BuffTemplate data
 				string templateKey = "enemy_syudg_s[switchmode]"
 				string effectKey = ""
@@ -31540,7 +31472,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1658]
+			[1654]
 			BuffTemplate data
 				string templateKey = "enemy_syboys_suicide"
 				string effectKey = ""
@@ -31557,7 +31489,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1659]
+			[1655]
 			BuffTemplate data
 				string templateKey = "enemy_syufo_fly"
 				string effectKey = ""
@@ -31590,7 +31522,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1660]
+			[1656]
 			BuffTemplate data
 				string templateKey = "trap_badbox_s"
 				string effectKey = ""
@@ -31607,7 +31539,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1661]
+			[1657]
 			BuffTemplate data
 				string templateKey = "trap_rarebox_t[inverse_damage]"
 				string effectKey = ""
@@ -31624,7 +31556,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1662]
+			[1658]
 			BuffTemplate data
 				string templateKey = "trap_normbox_t[logkilled]"
 				string effectKey = ""
@@ -31641,7 +31573,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1663]
+			[1659]
 			BuffTemplate data
 				string templateKey = "enemy_syboy_s"
 				string effectKey = ""
@@ -31658,7 +31590,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1664]
+			[1660]
 			BuffTemplate data
 				string templateKey = "enemy_syudg_t"
 				string effectKey = ""
@@ -31675,7 +31607,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1665]
+			[1661]
 			BuffTemplate data
 				string templateKey = "enemy_syboys_t"
 				string effectKey = ""
@@ -31692,7 +31624,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1666]
+			[1662]
 			BuffTemplate data
 				string templateKey = "enemy_syboy[kill]"
 				string effectKey = ""
@@ -31709,7 +31641,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1667]
+			[1663]
 			BuffTemplate data
 				string templateKey = "enemy_symon_t[heal]"
 				string effectKey = ""
@@ -31726,7 +31658,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1668]
+			[1664]
 			BuffTemplate data
 				string templateKey = "enemy_syevil_t[mark]"
 				string effectKey = ""
@@ -31751,7 +31683,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1669]
+			[1665]
 			BuffTemplate data
 				string templateKey = "enemy_syudg_t[stun]"
 				string effectKey = ""
@@ -31768,7 +31700,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1670]
+			[1666]
 			BuffTemplate data
 				string templateKey = "enemy_syudg_t[reload]"
 				string effectKey = ""
@@ -31793,7 +31725,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1671]
+			[1667]
 			BuffTemplate data
 				string templateKey = "enemy_sypult_summon"
 				string effectKey = ""
@@ -31810,7 +31742,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1672]
+			[1668]
 			BuffTemplate data
 				string templateKey = "enemy_syzeni_def"
 				string effectKey = ""
@@ -31827,7 +31759,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1673]
+			[1669]
 			BuffTemplate data
 				string templateKey = "rogue_2_damage_block[stack]"
 				string effectKey = ""
@@ -31844,7 +31776,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1674]
+			[1670]
 			BuffTemplate data
 				string templateKey = "rogue_2_projectile_on_killed"
 				string effectKey = ""
@@ -31857,11 +31789,11 @@ MonoBehaviour Base
 							EventToAction data
 								int key = 3
 								ActionArray value
-									string SerializedState = "[{"_sideMask":"ALLY","_targetType":"BUFF_OWNER","$type":"Torappu.Battle.Action.Nodes+IfTargetSide"},{"_mountPoint":"FOOT","_ev":"ON_HIT_OBJECT","_actions":null,"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"}]"
+									string SerializedState = "[{"_mountPoint":"FOOT","_ev":"ON_HIT_OBJECT","_actions":null,"_overwriteActions":false,"_sourceType":"BUFF_OWNER","_targetType":"TARGET","$type":"Torappu.Battle.Action.Nodes+EmitProjectile"}]"
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1675]
+			[1671]
 			BuffTemplate data
 				string templateKey = "rogue_2_hp_ratio_to_attr_add[attack_speed]"
 				string effectKey = ""
@@ -31878,7 +31810,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1676]
+			[1672]
 			BuffTemplate data
 				string templateKey = "rogue_2_hp_ratio_to_attr_add[atk]"
 				string effectKey = ""
@@ -31895,7 +31827,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1677]
+			[1673]
 			BuffTemplate data
 				string templateKey = "rogue_2_attr_up[evade]"
 				string effectKey = ""
@@ -31912,7 +31844,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1678]
+			[1674]
 			BuffTemplate data
 				string templateKey = "rogue_2_sp_recovery_up[stack]"
 				string effectKey = ""
@@ -31929,7 +31861,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1679]
+			[1675]
 			BuffTemplate data
 				string templateKey = "rogue_2_modify_sp"
 				string effectKey = ""
@@ -31946,7 +31878,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1680]
+			[1676]
 			BuffTemplate data
 				string templateKey = "enemy_sydonq_t[shield_effect]"
 				string effectKey = ""
@@ -31963,7 +31895,7 @@ MonoBehaviour Base
 									vector SerializedObjectReferences
 										Array Array
 										int size = 0
-			[1681]
+			[1677]
 			BuffTemplate data
 				string templateKey = "enemy_syskad_log_extra"
 				string effectKey = ""
