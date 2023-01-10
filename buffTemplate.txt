@@ -11421,7 +11421,7 @@ MonoBehaviour Base
 										int size = 0
 			[625]
 			BuffTemplate data
-				string templateKey = "demkni_e_3_talent2"
+				string templateKey = "demkni_e_2_talent2"
 				string effectKey = ""
 				int onEventPriority = 0
 				EventToActionMap eventToActions
