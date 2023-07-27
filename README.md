@@ -12,11 +12,12 @@
 后续可能会添加更多东西，看情况定
 
 # 目录
-## buffTemplate.txt
- 游戏内部分buff模板，可以通过此文件发现未实装的机制等
+## hgdata 
+### buff_template_holder.json
+ 游戏内部分buff数据
  
-## string_map.txt
- 游戏内部分i18n提示文本
+### string_map.txt
+ 游戏内部分字符映射
  
 ## torappu_index.txt
  游戏文件哈希数据
