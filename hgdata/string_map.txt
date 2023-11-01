@@ -473,7 +473,12 @@
 [ERROR_BATTLE_RECORD_SAVE_FAILED]通讯不佳，记录未能成功同步到神经网络\n将退出当前场景
 [ERROR_BATTLE_JOURNAL_INVALID]战斗记录信息缺失，保存失败
 [DIALOG_CONFIRM_EXIT_AUTO_BATTLE]接管后,本次行动内将无法回到代理指挥模式\n确认要接管作战吗？
+[DIALOG_CONFIRM_EXIT_AUTO_BATTLE_COMBO_CARD]接管后,本次行动将无法回到代理指挥模式\n本场战斗结束后行动将终止\n确认要接管作战吗？
 [DIALOG_JUDGE_TWOSTAR_AUTO_BATTLE]代理指挥出现失误，放弃行动<color=#FF6101>返还{0}{1}</color>，继续结算<color=#FF6101>获得部分奖励</color>\n是否以二星评价结算？
+[DIALOG_JUDGE_TWOSTAR_AUTO_BATTLE_COMBO_CARD]代理指挥出现失误\n放弃行动<color=#FF6101>本场作战视为失败并返还理智</color>；继续结算<color=#FF6101>本场作战以二星评价结算并获得部分奖励</color>\n是否继续结算？
+[DIALOG_COMBO_CARD_AUTO_BATTLE_TOP]<color=#898989FF>正在进行连续代理作战</color>  <color=#FFFFFFFF>进度{0}/{1}</color>
+[DIALOG_AUTO_BATTLE_GIVE_UP]是否放弃行动？
+[DIALOG_AUTO_BATTLE_GIVE_UP_COMBO_CARD]将终止连续代理作战。已完成的作战<color=#FF6101>将正常结算奖励</color>，未进行的作战<color=#FF6101>将全额返还理智</color>\n是否放弃行动？
 [ADD_FRIEND_STRING]是否添加{0}#{1}为好友？
 [JUDGE_DELETE_FRIEND]是否确定删除好友？
 [APPLY_ASSIST_STRING]助战角色未保存，是否保存
@@ -493,6 +498,9 @@
 [AFTER_BATTLE_TRIGGER]行动后
 [BATTLE_FINISH_REWARD]{0:N1}倍声望&龙门币奖励
 [BATTLE_FINISH_AP_UP]理智自然恢复上限提升 <color=#898989>{0}</color> → <color=#22bbff>{1}</color>
+[BATTLE_FINISH_CONTINUOUS_STAT_SUCC]已成功连续代理作战<color=#00b0ff>{0}</color>次
+[BATTLE_FINISH_CONTINUOUS_STAT_FAIL]，<color=#d33434>第{0}次作战失误</color>
+[BATTLE_FINISH_CONTINUOUS_REWARD]声望&龙门币奖励
 [BUY_AP_OUT_OF_LIMIT]使用药剂或源石兑换理智无法超过{0}
 [INVENTORY_BUY_AP_OUT_OF_LIMIT]使用药剂兑换理智无法超过{0}
 [BATTLE_FINISH_FAIL_REWARD]声望&龙门币奖励
@@ -981,6 +989,17 @@
 [CRISIS_MAPRANK_INFO]在该行动地点\n完成危机等级{0}
 [CRISIS_MAPRANK_DETAIL]<color=#ff6801>任意模式</color>中，在<color=#ff6801>指定行动地点</color>完成行动，根据完成的危机等级获得对应的开放等级
 [CRISIS_MAPRANK_UNLOCK]开放等级{0}\n解锁
+[CRISIS_V2_ALL_UNLOCK]活动暂未开放
+[CRISIS_V2_BAG_UNREACH_TOAST]未点亮前置指标
+[CRISIS_V2_BAG_DISABLE_TOAST]完成轮换测试地任务后可解锁
+[CRISIS_V2_TEMP_MAP_HINT]完成所有任务可在【主测试地】解锁新【指标】
+[CRISIS_V2_DAILY_NODE_UNKNOWN_TOAST]轮换测试地指标未开放
+[CRISIS_V2_DAILY_NODE_LOCKED_TOAST]完成轮换测试地任务后可解锁
+[CRISIS_V2_STAGE_UNLOCK]{0} 后开启
+[CRISIS_V2_MISSION_PROGRESS_TEXT]<color=#dbd8d7>{0}</color>/{1}
+[CRISIS_V2_DAILY_RUNE_UNLOCK_TOAST]已解锁新的指标
+[CRISIS_V2_PREVIEW_SELECTED_COUNT_TEXT]（当前<color=#d7181c>{0}</color>/{1}）
+[CRISIS_V2_ENTRY_DAILY_TEXT]轮换测试地
 [GUIDE_UNLOCK_TOAST_TEMPLATE]<color=#4abdff>{0}</color>已解锁
 [TIP_CHAR_SKILL_LOCK]提升角色精英化等级以解锁该技能
 [STORY_REVIEW_UNLOCK_COIN_CONDITION]X{0}   重建过往事件
@@ -1761,15 +1780,15 @@
 [GROCERY_INQUIRE_CONFIRM_ORDER_TIPS]<color=#A49B8F>进货和售卖阶段将共用打探次数</color>
 [GROCERY_INQUIRE_CONFIRM_SELL_INFO]<color=#FFF4E6>打探消息可以知悉对手的<color=#B82929>售卖价格</color>，辅助我们进行竞价决策</color>
 [GROCERY_INQUIRE_CONFIRM_SELL_TIPS]<color=#A49B8F>售卖时将优先打探出<color=#B82929>定价较高者</color>的售卖价格</color>
-[ACT38D1_NO_RECORD_TEXT]暂无相关评分记录
-[ACT38D1_DAILY_ACTIVE_TEXT]已解锁新的测试指标
-[ACT38D1_ENTRY_MAP_NO_INFO]暂无相关情报
-[ACT38D1_ENTRY_MAP_NO_SEVER_DATA]数据还在获取中
-[ACT38D1_ENTRY_MAP_REWARD_OUT_OF_DAY_TIPS]奖励{0}后失效
-[ACT38D1_ENTRY_MAP_TEMPORARY_NOT_OPEN_TOAST]测试地块暂未开放
-[ACT38D1_DAILY_OPEN_HINT]{0}后开放
-[ACT38D1_DAILY_TODO_HINT]奖励{0}后失效
-[ACT38D1_NODE_PREVIEW_LIMIT_TIME_HINT]剩余{0}
+[TUNING_HOME_REMAIN_TIME_DESC]{0}后刷新
+[TUNING_CHAT_ASK_FORMAT]问：{0}
+[TUNING_CHAT_ANSWER_FORMAT]答：{0}
+[TUNING_ARCHIVE_LOCK_TOAST]继续调查解锁
+[TUNING_ENTRY_UNLOCK_TOAST]<color=#9C8F78>循心觅迹</color>已开启
+[TUNING_HANDBOOK_GROUPLOCK_TOAST]继续探索以解锁
+[TUNING_CHAT_GAIN_INVEST_COUNT]完成全部例行查访获得1个授权密令
+[TUNING_BAG_LOCK]未解锁
+[TUNING_TIME_END]活动已结束
 [DOCTOR_NICK_NAME_AND_NUM_TEXT]Dr.{0}#{1}
 [MAINLINE_BP_STAGE_COMPLETE]全部完成
 [MAINLINE_BP_REWARD_OPEN_CLAIM_TIPS]*里程碑奖励开放领取的难度为标准或磨难
