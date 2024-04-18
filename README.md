@@ -18,11 +18,14 @@
 ### string_map.txt
  游戏内部分字符映射
  
+## hgDownload
+ 游戏更新文件
+
 ## torappu_index.txt
  游戏文件哈希数据
 
 ## hot_update_list.json
- 本地补丁资源检查
+ 本地补丁资源列表
  
 # 更新记录
  - Jul 6 停机更新时先获取包体数据后获取补丁数据
