@@ -974,8 +974,12 @@
 [TEMPLATE_TRAP_SAVE_SUCCESS]保存成功
 [SHOP_VOUCHER_PICK_TITLE]可以在以下列表中选择聘用一名干员:
 [SHOP_VOUCHER_EVOLVE_TITLE]可以选择一位已聘用的5★干员直接晋升至精英阶段2，等级1
+[SHOP_VOUCHER_LEVEL_MAX_4_TITLE]可以选择一位已达到精英阶段2的4★干员直接提升至满级
 [SHOP_VOUCHER_LEVEL_MAX_5_TITLE]可以选择一位已达到精英阶段2的5★干员直接提升至满级
 [SHOP_VOUCHER_LEVEL_MAX_6_TITLE]可以选择一位已达到精英阶段2的6★干员直接提升至满级
+[VOUCHER_SKILL_SPECIALLEVELMAX_TITLE]可以选择一个满足专精条件的{0}★干员的技能，提升至专精3级
+[VOUCHER_EVOLVE_EMPTY_TEXT]暂时没有干员可以通过此物品进行等级提升
+[VOUCHER_SKILL_EMPTY_TEXT]暂时没有干员可以通过此物品进行专精训练
 [CRISIS_CONTRACT_NO_SEASON_NAME]危机合约
 [CRISIS_DATA_NEED_RESYNC_ALERT]数据已更新，即将进行同步
 [CRISIS_DATA_RESYNC_SUC]数据同步完成
@@ -1083,6 +1087,8 @@
 [ROGUELIKE_SHOP_SLOT_LOCK]投资<color=#02D3AE>前瞻性投资系统</color>以解锁额外商品栏位
 [ROGUELIKE_SHOP_SLOT_LOCK_CLOSED]本次探索<color=#02D3AE>前瞻性投资系统</color>未开放，暂时无法解锁
 [ROGUELIKE_SHOP_WITHDRAWL_TIPS]每次提取储备所消耗的系统余额会翻倍。
+[ROGUELIKE_SHOP_REFRESH_SUCCESS_TOAST]商品已刷新
+[ROGUELIKE_SHOP_RECYCLE_COUNT_FORMAT]剩余可售数量：{0}
 [ROGUELIKE_HARD_MODE_UNLOCK_HINT]可以游玩<{0}>了
 [ROGUELIKE_RELIC_SELECT]选择一个收藏品
 [ROGUELIKE_RT_SELECT]选择一张招募券
@@ -1135,7 +1141,9 @@
 [RL02_EXPEDITION_SELECT_DESC_MUTATION]干员<color=#824AADFF>{0}</color>将会在本层结束后归来，并带回一些物资。
 [RL02_EXPEDITION_EMPTY_TIP]未选择任何干员，确认离开吗？\n将会返回上一个场景
 [RL_EXPEDITION_RETURN_TITLE]{0}归队了
+[RL_TRAVEL_RETURN_TITLE]{0}从混沌未来中逃脱
 [RL_EXPEDITION_RETURN_DETAIL_REWARD_ITEM]{0}{1}
+[RL_EXPEDITION_RETURN_ITEM_SPLIT]，
 [RL_EXPEDITION_CHOICE_TIP]你有{0}名可以运送物资的干员
 [RL_SACRIFICE_CHOICE_TIP]你有{0}个可供交换的收藏品
 [RL_KEY_ITEM_NOT_ENOUGH]{0}数量不足
@@ -1155,7 +1163,6 @@
 [RL03_GET_TOTEM_CHOICE_TIP]你有{0}个可组装的密文板
 [RL03_SACRIFICE_TOTEM_DEFAULT_NAME]从右侧选择一个密文板来交换
 [RL03_SACRIFICE_TOTEM_EMPTY_TIP]未选择任何密文板，确认离开吗？\n将会返回上一个场景
-[RL03_EXPEDITION_SELECT_DESC]干员{0}将会在本层结束后归来，并增强勘察设备抗干扰指数。
 [RL03_OUTER_BUFF_SUMMARY_COUNT_FORMAT]{0}/<color=#AEAEAE><size=25>{1}</size></color>
 [RL03_OUTER_BUFF_EFFECTIVE_GRADE]<挑战自然{0}>及以上难度进行探索时生效
 [RL03_TOTEM_SELECT_DESC]选择一个密文板
@@ -1460,7 +1467,9 @@
 [CHOOSE_SECRETARY_SKIN_ENSURE]是否选择该装扮作为 <color=#22bbff>{0}</color> 助理装扮?
 [ROGUE_ENDING_BASIC_INFO]您 <color=#{4}>Dr.{0}</color> 使用 <color=#{4}>{1}</color> 历时 <color=#{4}>{2}</color> 于 <color=#{4}>{3}</color>
 [ROGUE_ENDING_FAIL_ENDING_INFO]驻足在 <color=#{1}>{0}</color>
+[ROGUE_ENDING_FAIL_ENDING_INFO_WITH_DIFFICULTY]驻足在 <color=#{1}>{0}</color>级难度的<color=#{1}>{2}</color>
 [ROGUE_ENDING_SUC_ENDING_INFO]见证了 <color=#{1}>{0}</color>
+[ROGUE_ENDING_SUC_ENDING_INFO_WITH_DIFFICULTY]见证了 <color=#{1}>{0}</color>级难度的<color=#{1}>{2}</color>
 [ROGUE_ENDING_UNLOCK_RELIC_COUNT]本次探索新解锁{0}个收藏品
 [ROGUE_ENDING_UNLOCK_TOTEM_COUNT]本次探索新解锁{0}个密文板
 [ROGUE_BP_UPDATE_NOTICE]本月{0}
@@ -2141,3 +2150,4 @@
 [ACT2VMULTI_ROOM_EXIT_PICK_TIPS_TM]此刻退出将造成比赛终止
 [ACT2VMULTI_ROOM_EXIT_PICK_TIPS_MATCH]此刻退出将造成比赛终止，多次退赛会受到禁赛惩罚
 [DEFAULT_TEAM_FULL]当前队伍配置人数已达上限
+[TEMPLATE_MISSION_CLAIM_ALL_COMMON_TIPS]当前有多个已完成待领取的任务
