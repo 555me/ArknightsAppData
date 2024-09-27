@@ -3,7 +3,7 @@
 明日方舟CN-简中服部分文件数据。
 
 与官方数据同步。<br/>
-![Relative date](https://img.shields.io/date/172742403?label=Gamedata&nbsp;Updated)&nbsp;&nbsp;&nbsp;![Relative date](https://img.shields.io/date/1726734090?label=Repositories&nbsp;Data&nbsp;Updated)
+![Relative date](https://img.shields.io/date/1727424003?label=Gamedata&nbsp;Updated)&nbsp;&nbsp;&nbsp;![Relative date](https://img.shields.io/date/1726734090?label=Repositories&nbsp;Data&nbsp;Updated)
 
 # 目前支持的
 - 当前游戏内大部分文本弹窗提示
