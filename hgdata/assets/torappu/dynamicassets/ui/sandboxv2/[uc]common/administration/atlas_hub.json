@@ -1,0 +1,542 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4420957637576057513
+  },
+  "m_Name": "atlas_hub",
+  "_sprites": [
+    {
+      "name": "img_deco_grade",
+      "guid": "e4d503aadd9cefd4ba7299f424044235",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 742,
+        "h": 214
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_mask",
+      "guid": "f02ffcb93b6a5c5458a8c6cf9c0b42af",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 216,
+        "w": 369,
+        "h": 642
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_blur_deco",
+      "guid": "aee99754e6a162143ba4466eb3fc5612",
+      "atlas": 0,
+      "rect": {
+        "x": 744,
+        "y": 0,
+        "w": 200,
+        "h": 690
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_develop_complete",
+      "guid": "77e8200d857d85e49843ac3bbcab4864",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 860,
+        "w": 339,
+        "h": 56
+      },
+      "rotate": 0
+    },
+    {
+      "name": "btn_develop",
+      "guid": "8e6edd6208e3dd54684ca1f5257854d8",
+      "atlas": 0,
+      "rect": {
+        "x": 371,
+        "y": 216,
+        "w": 339,
+        "h": 56
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_can_unlock",
+      "guid": "759b93a76251272419d82fb98833082e",
+      "atlas": 0,
+      "rect": {
+        "x": 744,
+        "y": 692,
+        "w": 133,
+        "h": 133
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_node_select",
+      "guid": "71c26a8569157f3429d9a7753c98d899",
+      "atlas": 0,
+      "rect": {
+        "x": 371,
+        "y": 274,
+        "w": 131,
+        "h": 131
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_tab_select",
+      "guid": "d44f0b4a61b89a54baed94a46a2a9706",
+      "atlas": 0,
+      "rect": {
+        "x": 371,
+        "y": 407,
+        "w": 122,
+        "h": 121
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_complete",
+      "guid": "491d08fb728b7b04a83f8807bcf9bebb",
+      "atlas": 0,
+      "rect": {
+        "x": 744,
+        "y": 827,
+        "w": 123,
+        "h": 116
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bg_node",
+      "guid": "a0c722ac83beccb4fb787542ff84853d",
+      "atlas": 0,
+      "rect": {
+        "x": 371,
+        "y": 530,
+        "w": 117,
+        "h": 117
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_deco",
+      "guid": "da892f7d0b57cdc49ab9aaea08e32816",
+      "atlas": 0,
+      "rect": {
+        "x": 371,
+        "y": 649,
+        "w": 117,
+        "h": 40
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_type",
+      "guid": "e27f111b8f61575438eae4786d370a34",
+      "atlas": 0,
+      "rect": {
+        "x": 371,
+        "y": 691,
+        "w": 97,
+        "h": 27
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_science_bg",
+      "guid": "2cc865db1ad4e56428cdc29e5fd8956b",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 918,
+        "w": 94,
+        "h": 26
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_linelevel_block_bg",
+      "guid": "c55d8b6c97c03384eab7a2471e14786e",
+      "atlas": 0,
+      "rect": {
+        "x": 371,
+        "y": 720,
+        "w": 77,
+        "h": 23
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_linelevel_bg",
+      "guid": "ce9b813267acc5847a8948319692eebc",
+      "atlas": 0,
+      "rect": {
+        "x": 371,
+        "y": 745,
+        "w": 77,
+        "h": 23
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_available",
+      "guid": "5bb2856a39f14f34ba89e35cff9bcbcf",
+      "atlas": 0,
+      "rect": {
+        "x": 371,
+        "y": 770,
+        "w": 77,
+        "h": 23
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_locked",
+      "guid": "25315c2abc971654eabb1fea1958baf0",
+      "atlas": 0,
+      "rect": {
+        "x": 371,
+        "y": 795,
+        "w": 77,
+        "h": 23
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_lock",
+      "guid": "f8c6c52c111aed94996df59d73e5730b",
+      "atlas": 0,
+      "rect": {
+        "x": 371,
+        "y": 820,
+        "w": 49,
+        "h": 49
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_ban",
+      "guid": "44daaf148ff65be4398456607e94aec2",
+      "atlas": 0,
+      "rect": {
+        "x": 371,
+        "y": 871,
+        "w": 49,
+        "h": 49
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_deco_left",
+      "guid": "a8102baecfe0e1943aa769ca33cf1ae7",
+      "atlas": 0,
+      "rect": {
+        "x": 879,
+        "y": 692,
+        "w": 56,
+        "h": 39
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_science_title",
+      "guid": "ea6c59c1b09e9484d9cbcbe663e0d3ca",
+      "atlas": 0,
+      "rect": {
+        "x": 879,
+        "y": 733,
+        "w": 40,
+        "h": 40
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_deco_line",
+      "guid": "0a8098b243d7c5e45930720bf22d6231",
+      "atlas": 0,
+      "rect": {
+        "x": 371,
+        "y": 922,
+        "w": 54,
+        "h": 13
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_select",
+      "guid": "c5d2da2543225be41bd0bd2a59a53412",
+      "atlas": 0,
+      "rect": {
+        "x": 879,
+        "y": 775,
+        "w": 31,
+        "h": 36
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_finish",
+      "guid": "10d8652b25887454aae331d08c6569e0",
+      "atlas": 0,
+      "rect": {
+        "x": 879,
+        "y": 813,
+        "w": 33,
+        "h": 33
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_progress",
+      "guid": "8fde7ed782dbf62419ebb74fa012b9ee",
+      "atlas": 0,
+      "rect": {
+        "x": 879,
+        "y": 848,
+        "w": 31,
+        "h": 30
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_points",
+      "guid": "a904ad4e020b5c64881b6e7b4bd48498",
+      "atlas": 0,
+      "rect": {
+        "x": 879,
+        "y": 880,
+        "w": 21,
+        "h": 28
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_info",
+      "guid": "a4e48747cda3d984c8d81b4d4e3bab19",
+      "atlas": 0,
+      "rect": {
+        "x": 879,
+        "y": 910,
+        "w": 24,
+        "h": 24
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_base_level",
+      "guid": "f685faaf9765399418e7a41a868ff08e",
+      "atlas": 0,
+      "rect": {
+        "x": 341,
+        "y": 860,
+        "w": 21,
+        "h": 17
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_splitor",
+      "guid": "a557e5f812a0a134cbb8f00223d4fa51",
+      "atlas": 0,
+      "rect": {
+        "x": 341,
+        "y": 879,
+        "w": 2,
+        "h": 23
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 7042541264122517104
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -5276905841169062119
+      },
+      "size": 1024
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "img_deco_grade",
+        "guid": "e4d503aadd9cefd4ba7299f424044235",
+        "md5": "ed5c961f9c40a2e0b2a1a1932ff3aec8"
+      },
+      {
+        "name": "img_mask",
+        "guid": "f02ffcb93b6a5c5458a8c6cf9c0b42af",
+        "md5": "99ad5261d7ee82d9fddb3c227216e640"
+      },
+      {
+        "name": "img_blur_deco",
+        "guid": "aee99754e6a162143ba4466eb3fc5612",
+        "md5": "70ece88b074691a285088a72be2065ae"
+      },
+      {
+        "name": "icon_develop_complete",
+        "guid": "77e8200d857d85e49843ac3bbcab4864",
+        "md5": "6dea2aca1cfee6cde1019f113d6f24a0"
+      },
+      {
+        "name": "btn_develop",
+        "guid": "8e6edd6208e3dd54684ca1f5257854d8",
+        "md5": "e468ab148ab8af75b704d3a5f0ee20d9"
+      },
+      {
+        "name": "img_can_unlock",
+        "guid": "759b93a76251272419d82fb98833082e",
+        "md5": "743dd644a3727d7f8d84677cc0eec761"
+      },
+      {
+        "name": "img_node_select",
+        "guid": "71c26a8569157f3429d9a7753c98d899",
+        "md5": "a87cc39b5690904918abb8df588c701a"
+      },
+      {
+        "name": "img_tab_select",
+        "guid": "d44f0b4a61b89a54baed94a46a2a9706",
+        "md5": "b0544ef1c455cf300603acb02d5726c3"
+      },
+      {
+        "name": "icon_complete",
+        "guid": "491d08fb728b7b04a83f8807bcf9bebb",
+        "md5": "0425e45377e09ccd017940e3e64aac7b"
+      },
+      {
+        "name": "img_bg_node",
+        "guid": "a0c722ac83beccb4fb787542ff84853d",
+        "md5": "2f9fadd49de7da142c2e1d547c49abe6"
+      },
+      {
+        "name": "img_deco",
+        "guid": "da892f7d0b57cdc49ab9aaea08e32816",
+        "md5": "5be3b2a5aab684cae495ba1fd6c24fd4"
+      },
+      {
+        "name": "img_type",
+        "guid": "e27f111b8f61575438eae4786d370a34",
+        "md5": "ee8d6500da370d0c87ebce61c77b97b8"
+      },
+      {
+        "name": "img_science_bg",
+        "guid": "2cc865db1ad4e56428cdc29e5fd8956b",
+        "md5": "c6f0a1f7dfa8e10ea757b7052a593762"
+      },
+      {
+        "name": "img_linelevel_block_bg",
+        "guid": "c55d8b6c97c03384eab7a2471e14786e",
+        "md5": "388333bcdfa596869e5fd38f6232e92e"
+      },
+      {
+        "name": "img_linelevel_bg",
+        "guid": "ce9b813267acc5847a8948319692eebc",
+        "md5": "6a24fa5a0278a3d648e01639f1d6004c"
+      },
+      {
+        "name": "img_available",
+        "guid": "5bb2856a39f14f34ba89e35cff9bcbcf",
+        "md5": "6a24fa5a0278a3d648e01639f1d6004c"
+      },
+      {
+        "name": "icon_locked",
+        "guid": "25315c2abc971654eabb1fea1958baf0",
+        "md5": "388333bcdfa596869e5fd38f6232e92e"
+      },
+      {
+        "name": "img_lock",
+        "guid": "f8c6c52c111aed94996df59d73e5730b",
+        "md5": "0d17619f46b64876b21da235b322c6ea"
+      },
+      {
+        "name": "icon_ban",
+        "guid": "44daaf148ff65be4398456607e94aec2",
+        "md5": "5ab5ba853130b103a8c03419a86dc90e"
+      },
+      {
+        "name": "img_deco_left",
+        "guid": "a8102baecfe0e1943aa769ca33cf1ae7",
+        "md5": "d49c78ee715ac4976d8569abdef49b9c"
+      },
+      {
+        "name": "icon_science_title",
+        "guid": "ea6c59c1b09e9484d9cbcbe663e0d3ca",
+        "md5": "d81680129d56b29a6cc1217a578829cb"
+      },
+      {
+        "name": "img_deco_line",
+        "guid": "0a8098b243d7c5e45930720bf22d6231",
+        "md5": "d3a40e848ba97c8a2dd844dc04c1ff38"
+      },
+      {
+        "name": "img_select",
+        "guid": "c5d2da2543225be41bd0bd2a59a53412",
+        "md5": "7f09cd17c6ec56f629846b442e3f98cf"
+      },
+      {
+        "name": "icon_finish",
+        "guid": "10d8652b25887454aae331d08c6569e0",
+        "md5": "2e4bc5241f405e14e9695946263e3401"
+      },
+      {
+        "name": "icon_progress",
+        "guid": "8fde7ed782dbf62419ebb74fa012b9ee",
+        "md5": "1e134905a6a0ab54111a19aa55fb47a5"
+      },
+      {
+        "name": "icon_points",
+        "guid": "a904ad4e020b5c64881b6e7b4bd48498",
+        "md5": "4600695edfe4f658723dde2c25ee838d"
+      },
+      {
+        "name": "icon_info",
+        "guid": "a4e48747cda3d984c8d81b4d4e3bab19",
+        "md5": "de21b640b0b325fd6e2ca312e54f1e4e"
+      },
+      {
+        "name": "icon_base_level",
+        "guid": "f685faaf9765399418e7a41a868ff08e",
+        "md5": "567d2ca8a63672c0de20da679c94e6a5"
+      },
+      {
+        "name": "icon_splitor",
+        "guid": "a557e5f812a0a134cbb8f00223d4fa51",
+        "md5": "78b952085ac4fdd8397b5bf5b29b1254"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "atlas_hub#0",
+        "guid": "3e85c91671a025b448dde068a3b9c43a",
+        "md5": "0246e12efdd980e4dd09ba8c9f219c39"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "atlas_hub#0a",
+        "guid": "c603533f5c30720498d61dae067a3bb8",
+        "md5": "7138059e4fc37a1d3be66639ee6c3c70"
+      }
+    ]
+  }
+}

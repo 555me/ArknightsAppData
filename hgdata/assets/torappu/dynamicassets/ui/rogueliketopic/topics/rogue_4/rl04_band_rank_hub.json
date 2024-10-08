@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4420957637576057513
+  },
+  "m_Name": "rl04_band_rank_hub",
+  "_sprites": [
+    {
+      "name": "band_rank_2",
+      "guid": "b04081919038dbd48bcddbe64fffa2b2",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 56
+      },
+      "rotate": 0
+    },
+    {
+      "name": "band_rank_1",
+      "guid": "0c70649ae1be0b1488343b7030252831",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 58,
+        "w": 35,
+        "h": 56
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -5465040870320355221
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 5748399822223783798
+      },
+      "size": 128
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 1,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "band_rank_2",
+        "guid": "b04081919038dbd48bcddbe64fffa2b2",
+        "md5": "616980b95bc54834318ec6013d164661"
+      },
+      {
+        "name": "band_rank_1",
+        "guid": "0c70649ae1be0b1488343b7030252831",
+        "md5": "7b475d34a74b468d9623229c3590695a"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "rl04_band_rank_hub#0",
+        "guid": "620aa684f1b94734085e63782528607a",
+        "md5": "2d1b66976ae0aab664ac4937220fa882"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "rl04_band_rank_hub#0a",
+        "guid": "980360bde76df5548aacb4e4a9a4b6a8",
+        "md5": "863a5e54f74db163974810e260376979"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "comment_title_hub",
+  "_rootPackingTag": "UI_SIRACUSA_MAP_COMMENT_TITLE",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 1020,
+    "height": 110
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "comment_title_opera_1",
+    "comment_title_opera_2",
+    "comment_title_opera_3",
+    "comment_title_opera_4",
+    "comment_title_opera_5"
+  ],
+  "_values": [
+    "Arts/UI/SiracusaMap/CommentTitle/comment_title_opera_1",
+    "Arts/UI/SiracusaMap/CommentTitle/comment_title_opera_2",
+    "Arts/UI/SiracusaMap/CommentTitle/comment_title_opera_3",
+    "Arts/UI/SiracusaMap/CommentTitle/comment_title_opera_4",
+    "Arts/UI/SiracusaMap/CommentTitle/comment_title_opera_5"
+  ]
+}

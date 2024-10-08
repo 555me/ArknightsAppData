@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "banner_hub",
+  "_rootPackingTag": "UI_HOME_ACT_BANNER_GACHA",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 467,
+    "height": 239
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "picboot_0_1_1",
+    "picboot_0_1_2",
+    "picboot_0_1_3",
+    "piclinkage_54_0_1",
+    "picnorm_53_0_3",
+    "picnorm_54_0_2",
+    "picnorm_54_0_4",
+    "picsingle_54_0_3"
+  ],
+  "_values": [
+    "Arts/UI/HomeBanners/Gacha/picBoot_0_1_1",
+    "Arts/UI/HomeBanners/Gacha/picBoot_0_1_2",
+    "Arts/UI/HomeBanners/Gacha/picBoot_0_1_3",
+    "Arts/UI/HomeBanners/Gacha/picLinkage_54_0_1",
+    "Arts/UI/HomeBanners/Gacha/picNorm_53_0_3",
+    "Arts/UI/HomeBanners/Gacha/picNorm_54_0_2",
+    "Arts/UI/HomeBanners/Gacha/picNorm_54_0_4",
+    "Arts/UI/HomeBanners/Gacha/picSingle_54_0_3"
+  ]
+}

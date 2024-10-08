@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "weather_class_hub",
+  "_rootPackingTag": "UI_SANDBOX_WEATHER_CLASS_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 262,
+    "height": 61
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "weather_type_desert",
+    "weather_type_normal",
+    "weather_type_rainforest",
+    "weather_type_volcano"
+  ],
+  "_values": [
+    "Arts/UI/Sandbox/WeatherClassIcon/weather_type_desert",
+    "Arts/UI/Sandbox/WeatherClassIcon/weather_type_normal",
+    "Arts/UI/Sandbox/WeatherClassIcon/weather_type_rainforest",
+    "Arts/UI/Sandbox/WeatherClassIcon/weather_type_volcano"
+  ]
+}

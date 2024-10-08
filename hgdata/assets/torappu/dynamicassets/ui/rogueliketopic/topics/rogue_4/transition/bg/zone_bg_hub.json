@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "zone_bg_hub",
+  "_rootPackingTag": "RL04_TRANSITION_BG",
+  "_cntPerAtlas": 1,
+  "_standardPicSize": {
+    "width": 1280,
+    "height": 720
+  },
+  "_extraPicSize": [],
+  "_compressType": 11,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 2048000,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "bg_zone_1",
+    "bg_zone_2",
+    "bg_zone_3",
+    "bg_zone_4",
+    "bg_zone_5",
+    "bg_zone_6",
+    "bg_zone_secret"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_4/Transition/BG/bg_zone_1",
+    "UI/RoguelikeTopic/Topics/rogue_4/Transition/BG/bg_zone_2",
+    "UI/RoguelikeTopic/Topics/rogue_4/Transition/BG/bg_zone_3",
+    "UI/RoguelikeTopic/Topics/rogue_4/Transition/BG/bg_zone_4",
+    "UI/RoguelikeTopic/Topics/rogue_4/Transition/BG/bg_zone_5",
+    "UI/RoguelikeTopic/Topics/rogue_4/Transition/BG/bg_zone_6",
+    "UI/RoguelikeTopic/Topics/rogue_4/Transition/BG/bg_zone_secret"
+  ]
+}

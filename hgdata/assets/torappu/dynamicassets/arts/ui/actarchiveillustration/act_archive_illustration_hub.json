@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "act_archive_illustration_hub",
+  "_rootPackingTag": "ACT_ARCHIVE_ILLUSTRATION",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 500,
+    "height": 500
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "avg_img_flamtl",
+    "avg_img_knights",
+    "avg_img_platnm",
+    "avg_rogue_1_1",
+    "avg_rogue_1_2",
+    "avg_rogue_1_3",
+    "avg_rogue_1_4",
+    "avg_rogue_1_5"
+  ],
+  "_values": [
+    "Arts/UI/ActArchiveIllustration/act13side/avg_img_flamtl",
+    "Arts/UI/ActArchiveIllustration/act13side/avg_img_knights",
+    "Arts/UI/ActArchiveIllustration/act13side/avg_img_platnm",
+    "Arts/UI/ActArchiveIllustration/rogue_1/avg_rogue_1_1",
+    "Arts/UI/ActArchiveIllustration/rogue_1/avg_rogue_1_2",
+    "Arts/UI/ActArchiveIllustration/rogue_1/avg_rogue_1_3",
+    "Arts/UI/ActArchiveIllustration/rogue_1/avg_rogue_1_4",
+    "Arts/UI/ActArchiveIllustration/rogue_1/avg_rogue_1_5"
+  ]
+}

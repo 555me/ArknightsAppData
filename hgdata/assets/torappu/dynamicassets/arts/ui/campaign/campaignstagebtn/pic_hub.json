@@ -1,0 +1,98 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "pic_hub",
+  "_rootPackingTag": "UI_CAMPAIGN_STAGE_ICON_IMG",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 226,
+    "height": 239
+  },
+  "_extraPicSize": [
+    {
+      "width": 451,
+      "height": 328
+    },
+    {
+      "width": 401,
+      "height": 239
+    }
+  ],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "btn_camp_01",
+    "btn_camp_02",
+    "btn_camp_03",
+    "btn_camp_r_01",
+    "btn_camp_r_02",
+    "btn_camp_r_03",
+    "btn_camp_r_04",
+    "btn_camp_r_05",
+    "btn_camp_r_06",
+    "btn_camp_r_07",
+    "btn_camp_r_08",
+    "btn_camp_r_09",
+    "btn_camp_r_10",
+    "btn_camp_r_11",
+    "btn_camp_r_12",
+    "btn_camp_r_13",
+    "btn_camp_r_14",
+    "btn_camp_r_15",
+    "btn_camp_r_16",
+    "btn_camp_r_17",
+    "btn_camp_r_18",
+    "btn_camp_r_19",
+    "btn_camp_r_20",
+    "btn_camp_r_21",
+    "btn_camp_r_22",
+    "btn_camp_r_23",
+    "btn_camp_r_24"
+  ],
+  "_values": [
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_01",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_02",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_03",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_01",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_02",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_03",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_04",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_05",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_06",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_07",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_08",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_09",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_10",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_11",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_12",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_13",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_14",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_15",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_16",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_17",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_18",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_19",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_20",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_21",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_22",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_23",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_24"
+  ]
+}

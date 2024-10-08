@@ -1,0 +1,175 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "float_hub",
+  "_rootPackingTag": "UI_SANDBOX_1_FLOAT",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 112,
+    "height": 112
+  },
+  "_extraPicSize": [
+    {
+      "width": 76,
+      "height": 58
+    },
+    {
+      "width": 94,
+      "height": 92
+    },
+    {
+      "width": 200,
+      "height": 200
+    },
+    {
+      "width": 172,
+      "height": 139
+    },
+    {
+      "width": 124,
+      "height": 124
+    },
+    {
+      "width": 113,
+      "height": 114
+    },
+    {
+      "width": 156,
+      "height": 156
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": [
+      {
+        "regex": ".*",
+        "pattern": "FLOAT_HUB"
+      }
+    ]
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "img_badge_guide",
+    "img_badge_main",
+    "img_badge_rift",
+    "img_badge_side",
+    "img_bkg_boss",
+    "img_bkg_circle",
+    "img_enemy_rush_stack_2",
+    "img_enemy_rush_stack_3",
+    "img_enemy_rush_stack_4",
+    "img_enemy_rush_stack_5",
+    "img_enemy_rush_stack_5plus",
+    "img_frame",
+    "img_hp_bar_enemy_rush",
+    "img_shadow",
+    "img_encounter",
+    "img_enemy_axetro",
+    "img_enemy_balloon",
+    "img_enemy_clking",
+    "img_enemy_dva",
+    "img_enemy_flking",
+    "img_enemy_gatgod",
+    "img_enemy_ghking",
+    "img_enemy_mcmstr",
+    "img_enemy_pilot",
+    "img_enemy_rockman",
+    "img_enemy_skodo",
+    "img_enemy_slwazd",
+    "img_enemy_wilder",
+    "img_enemy_wlfmster",
+    "img_enemy_xbbtl",
+    "img_enemy_xbcrab2",
+    "img_enemy_xbele",
+    "img_enemy_xbscp",
+    "img_enemy_xbthief",
+    "img_expedition",
+    "img_npc_tegmaus",
+    "img_npc_tfalco",
+    "img_npc_tpasngr",
+    "img_npc_tpriest",
+    "img_npc_trademan",
+    "img_npc_trmedic",
+    "img_npc_trsrhuntr",
+    "img_npc_ttuye",
+    "img_npc_tzumama",
+    "img_rift_mailbox",
+    "img_rift_mscskt",
+    "img_rush_bandit",
+    "img_rush_commander",
+    "img_rush_elite",
+    "img_rush_normal",
+    "img_xbbird",
+    "img_xbmsn",
+    "img_xbtor"
+  ],
+  "_values": [
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_badge_guide",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_badge_main",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_badge_rift",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_badge_side",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_bkg_boss",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_bkg_circle",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_enemy_rush_stack_2",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_enemy_rush_stack_3",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_enemy_rush_stack_4",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_enemy_rush_stack_5",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_enemy_rush_stack_5plus",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_frame",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_hp_bar_enemy_rush",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/img_shadow",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_encounter",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_axetro",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_balloon",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_clking",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_dva",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_flking",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_gatgod",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_ghking",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_mcmstr",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_pilot",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_rockman",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_skodo",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_slwazd",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_wilder",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_wlfmster",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_xbbtl",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_xbcrab2",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_xbele",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_xbscp",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_enemy_xbthief",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_expedition",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_npc_tegmaus",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_npc_tfalco",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_npc_tpasngr",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_npc_tpriest",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_npc_trademan",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_npc_trmedic",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_npc_trsrhuntr",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_npc_ttuye",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_npc_tzumama",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_rift_mailbox",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_rift_mscskt",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_rush_bandit",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_rush_commander",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_rush_elite",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_rush_normal",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_xbbird",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_xbmsn",
+    "UI/SandboxV2/Topics/[UC]sandbox_1/Dungeon/FloatHub/icons/img_xbtor"
+  ]
+}

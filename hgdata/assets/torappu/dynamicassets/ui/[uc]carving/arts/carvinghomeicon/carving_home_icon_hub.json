@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "carving_home_icon_hub",
+  "_rootPackingTag": "UI_CARVING_HOME_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 116,
+    "height": 66
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "challengeicon_0",
+    "challengeicon_1",
+    "challengeicon_2",
+    "challengeicon_3",
+    "challengeicon_4",
+    "challengeicon_5",
+    "challengeicon_6",
+    "challengeicon_7",
+    "challengeicon_8"
+  ],
+  "_values": [
+    "UI/[UC]Carving/Arts/CarvingHomeIcon/challengeIcon_0",
+    "UI/[UC]Carving/Arts/CarvingHomeIcon/challengeIcon_1",
+    "UI/[UC]Carving/Arts/CarvingHomeIcon/challengeIcon_2",
+    "UI/[UC]Carving/Arts/CarvingHomeIcon/challengeIcon_3",
+    "UI/[UC]Carving/Arts/CarvingHomeIcon/challengeIcon_4",
+    "UI/[UC]Carving/Arts/CarvingHomeIcon/challengeIcon_5",
+    "UI/[UC]Carving/Arts/CarvingHomeIcon/challengeIcon_6",
+    "UI/[UC]Carving/Arts/CarvingHomeIcon/challengeIcon_7",
+    "UI/[UC]Carving/Arts/CarvingHomeIcon/challengeIcon_8"
+  ]
+}

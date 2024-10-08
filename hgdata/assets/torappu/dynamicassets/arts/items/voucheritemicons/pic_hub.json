@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "pic_hub",
+  "_rootPackingTag": "ITEM_VOUCHER_BACK_IMG",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 434,
+    "height": 456
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "randomdiamondshd_1",
+    "randomdiamondshd_2",
+    "randommaterialrune_0",
+    "randommaterialrune_1",
+    "randommaterial_1",
+    "randommaterial_2",
+    "randommaterial_4"
+  ],
+  "_values": [
+    "Arts/Items/VoucherItemIcons/randomDiamondShd_1",
+    "Arts/Items/VoucherItemIcons/randomDiamondShd_2",
+    "Arts/Items/VoucherItemIcons/randomMaterialRune_0",
+    "Arts/Items/VoucherItemIcons/randomMaterialRune_1",
+    "Arts/Items/VoucherItemIcons/randomMaterial_1",
+    "Arts/Items/VoucherItemIcons/randomMaterial_2",
+    "Arts/Items/VoucherItemIcons/randomMaterial_4"
+  ]
+}

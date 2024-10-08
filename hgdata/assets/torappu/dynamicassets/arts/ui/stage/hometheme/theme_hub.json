@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "theme_hub",
+  "_rootPackingTag": "UI_ZONE_HOME_THEME",
+  "_cntPerAtlas": 1,
+  "_standardPicSize": {
+    "width": 1000,
+    "height": 1000
+  },
+  "_extraPicSize": [
+    {
+      "width": 510,
+      "height": 1000
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 2048000,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "(\\w+)",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "act1vecb",
+    "act27sre",
+    "act28sre",
+    "act36side",
+    "main_10",
+    "main_11",
+    "main_12",
+    "main_13",
+    "main_9",
+    "rogue_1_entry_display_1",
+    "rogue_1_entry_display_2",
+    "rogue_1_entry_display_3",
+    "rogue_2_entry_display_1",
+    "rogue_2_entry_display_2",
+    "rogue_2_entry_display_3",
+    "rogue_3_entry_display_1",
+    "rogue_3_entry_display_2",
+    "rogue_3_entry_display_3",
+    "rogue_4_entry_display_1",
+    "sandbox_1_entry_display_1",
+    "sandbox_1_entry_display_2",
+    "sandbox_1_entry_display_3"
+  ],
+  "_values": [
+    "Arts/UI/Stage/HomeTheme/act1vecb",
+    "Arts/UI/Stage/HomeTheme/act27sre",
+    "Arts/UI/Stage/HomeTheme/act28sre",
+    "Arts/UI/Stage/HomeTheme/act36side",
+    "Arts/UI/Stage/HomeTheme/main_10",
+    "Arts/UI/Stage/HomeTheme/main_11",
+    "Arts/UI/Stage/HomeTheme/main_12",
+    "Arts/UI/Stage/HomeTheme/main_13",
+    "Arts/UI/Stage/HomeTheme/main_9",
+    "Arts/UI/Stage/HomeTheme/rogue_1_entry_display_1",
+    "Arts/UI/Stage/HomeTheme/rogue_1_entry_display_2",
+    "Arts/UI/Stage/HomeTheme/rogue_1_entry_display_3",
+    "Arts/UI/Stage/HomeTheme/rogue_2_entry_display_1",
+    "Arts/UI/Stage/HomeTheme/rogue_2_entry_display_2",
+    "Arts/UI/Stage/HomeTheme/rogue_2_entry_display_3",
+    "Arts/UI/Stage/HomeTheme/rogue_3_entry_display_1",
+    "Arts/UI/Stage/HomeTheme/rogue_3_entry_display_2",
+    "Arts/UI/Stage/HomeTheme/rogue_3_entry_display_3",
+    "Arts/UI/Stage/HomeTheme/rogue_4_entry_display_1",
+    "Arts/UI/Stage/HomeTheme/sandbox_1_entry_display_1",
+    "Arts/UI/Stage/HomeTheme/sandbox_1_entry_display_2",
+    "Arts/UI/Stage/HomeTheme/sandbox_1_entry_display_3"
+  ]
+}

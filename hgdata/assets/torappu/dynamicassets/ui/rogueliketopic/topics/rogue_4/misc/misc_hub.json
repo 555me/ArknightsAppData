@@ -1,0 +1,128 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "misc_hub",
+  "_rootPackingTag": "UI_ROGUELIKE_MISC_IMAGE_PACK_RL04",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 25,
+    "height": 25
+  },
+  "_extraPicSize": [
+    {
+      "width": 87,
+      "height": 59
+    },
+    {
+      "width": 62,
+      "height": 57
+    },
+    {
+      "width": 170,
+      "height": 170
+    },
+    {
+      "width": 144,
+      "height": 66
+    },
+    {
+      "width": 96,
+      "height": 65
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "boss_1",
+    "boss_2",
+    "boss_3",
+    "boss_4",
+    "icon_zone_1",
+    "icon_zone_2",
+    "icon_zone_3",
+    "icon_zone_4",
+    "icon_zone_5",
+    "icon_zone_6",
+    "icon_zone_7",
+    "label_zone_1",
+    "label_zone_2",
+    "label_zone_3",
+    "label_zone_4",
+    "label_zone_5",
+    "label_zone_6",
+    "label_zone_secret",
+    "rogue_4_disaster_1",
+    "rogue_4_disaster_1_toast",
+    "rogue_4_disaster_2",
+    "rogue_4_disaster_2_toast",
+    "rogue_4_disaster_3",
+    "rogue_4_disaster_3_toast",
+    "rogue_4_disaster_4",
+    "rogue_4_disaster_4_toast",
+    "rogue_4_disaster_5",
+    "rogue_4_disaster_5_toast",
+    "rogue_4_disaster_6",
+    "rogue_4_disaster_6_toast",
+    "rogue_4_disaster_7",
+    "rogue_4_disaster_7_toast",
+    "rogue_4_disaster_8",
+    "rogue_4_disaster_8_toast",
+    "rogue_4_disaster_9",
+    "rogue_4_disaster_9_toast"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/boss_1",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/boss_2",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/boss_3",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/boss_4",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/icon_zone_1",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/icon_zone_2",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/icon_zone_3",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/icon_zone_4",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/icon_zone_5",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/icon_zone_6",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/icon_zone_7",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/label_zone_1",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/label_zone_2",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/label_zone_3",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/label_zone_4",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/label_zone_5",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/label_zone_6",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/label_zone_secret",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_1",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_1_toast",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_2",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_2_toast",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_3",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_3_toast",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_4",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_4_toast",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_5",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_5_toast",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_6",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_6_toast",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_7",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_7_toast",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_8",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_8_toast",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_9",
+    "UI/RoguelikeTopic/Topics/rogue_4/Misc/rogue_4_disaster_9_toast"
+  ]
+}

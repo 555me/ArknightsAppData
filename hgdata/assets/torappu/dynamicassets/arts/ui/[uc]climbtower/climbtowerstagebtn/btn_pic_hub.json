@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "btn_pic_hub",
+  "_rootPackingTag": "UI_CLIMB_TOWER_STAGE_ICON_IMG",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 256,
+    "height": 353
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "btn_tower_n_01",
+    "btn_tower_n_02",
+    "btn_tower_n_03",
+    "btn_tower_n_04",
+    "btn_tower_n_05",
+    "btn_tower_n_06",
+    "btn_tower_n_07",
+    "btn_tower_n_08",
+    "btn_tower_n_09",
+    "btn_tower_n_10",
+    "btn_tower_n_11",
+    "btn_tower_n_12",
+    "btn_tower_n_13",
+    "btn_tower_n_14",
+    "btn_tower_n_15",
+    "btn_tower_n_16"
+  ],
+  "_values": [
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_01",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_02",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_03",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_04",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_05",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_06",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_07",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_08",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_09",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_10",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_11",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_12",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_13",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_14",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_15",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_16"
+  ]
+}

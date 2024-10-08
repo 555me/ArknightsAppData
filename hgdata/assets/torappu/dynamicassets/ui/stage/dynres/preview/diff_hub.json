@@ -1,0 +1,270 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4420957637576057513
+  },
+  "m_Name": "diff_hub",
+  "_sprites": [
+    {
+      "name": "dot_line_2",
+      "guid": "ae5514b639ac83c45a7167ed91e09c30",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 329,
+        "h": 14
+      },
+      "rotate": 0
+    },
+    {
+      "name": "red_button",
+      "guid": "c6a6ee3fe15f9014d85bea9e5737a7c9",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 16,
+        "w": 251,
+        "h": 66
+      },
+      "rotate": 0
+    },
+    {
+      "name": "blue_button",
+      "guid": "b994431af616f28458e4a02311090af4",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 84,
+        "w": 251,
+        "h": 66
+      },
+      "rotate": 0
+    },
+    {
+      "name": "dot_line_1",
+      "guid": "811722daf6add234d8c01e5d118cec30",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 152,
+        "w": 189,
+        "h": 14
+      },
+      "rotate": 0
+    },
+    {
+      "name": "detail_btn",
+      "guid": "0399701a52b11dc4f85a401ae8af3f04",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 168,
+        "w": 86,
+        "h": 100
+      },
+      "rotate": 0
+    },
+    {
+      "name": "red_squad",
+      "guid": "4884692582c8a854ebcc5a4d4b9be8d0",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 270,
+        "w": 148,
+        "h": 36
+      },
+      "rotate": 0
+    },
+    {
+      "name": "blue_squad",
+      "guid": "02fe20d02ccf6c64d814f0ec2893f11b",
+      "atlas": 0,
+      "rect": {
+        "x": 88,
+        "y": 168,
+        "w": 146,
+        "h": 36
+      },
+      "rotate": 0
+    },
+    {
+      "name": "deco_img",
+      "guid": "654207776340b8f419459b705256d11b",
+      "atlas": 0,
+      "rect": {
+        "x": 88,
+        "y": 206,
+        "w": 86,
+        "h": 31
+      },
+      "rotate": 0
+    },
+    {
+      "name": "ban_img",
+      "guid": "ff54134a3a373d647b3c9315a42d5b17",
+      "atlas": 0,
+      "rect": {
+        "x": 88,
+        "y": 239,
+        "w": 30,
+        "h": 30
+      },
+      "rotate": 0
+    },
+    {
+      "name": "detail_tri",
+      "guid": "d19561e40215d2741b6e9fe696fbab56",
+      "atlas": 0,
+      "rect": {
+        "x": 253,
+        "y": 16,
+        "w": 28,
+        "h": 26
+      },
+      "rotate": 0
+    },
+    {
+      "name": "split_line",
+      "guid": "7e0245c1c5974ff43b45ad01442cfca9",
+      "atlas": 0,
+      "rect": {
+        "x": 253,
+        "y": 44,
+        "w": 14,
+        "h": 25
+      },
+      "rotate": 0
+    },
+    {
+      "name": "dot",
+      "guid": "4f26d919617190a47b2ac1d25ea664c6",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 308,
+        "w": 15,
+        "h": 14
+      },
+      "rotate": 0
+    },
+    {
+      "name": "dot_squad",
+      "guid": "47118d83dbd62354cbdb7b9fcb049f9b",
+      "atlas": 0,
+      "rect": {
+        "x": 253,
+        "y": 71,
+        "w": 14,
+        "h": 14
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 7391326724794043821
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -7895924429041510748
+      },
+      "size": 512
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "dot_line_2",
+        "guid": "ae5514b639ac83c45a7167ed91e09c30",
+        "md5": "51637dc15c4f8aa44cabf77e7ebc046e"
+      },
+      {
+        "name": "red_button",
+        "guid": "c6a6ee3fe15f9014d85bea9e5737a7c9",
+        "md5": "1f1cd95232c2c060802e767ccff2d4df"
+      },
+      {
+        "name": "blue_button",
+        "guid": "b994431af616f28458e4a02311090af4",
+        "md5": "0f18dd4acf325efee8338da190419f44"
+      },
+      {
+        "name": "dot_line_1",
+        "guid": "811722daf6add234d8c01e5d118cec30",
+        "md5": "afcc0581af6325cad19dc6848b058b44"
+      },
+      {
+        "name": "detail_btn",
+        "guid": "0399701a52b11dc4f85a401ae8af3f04",
+        "md5": "f2062fa5fce936c74b8ea65728570f47"
+      },
+      {
+        "name": "red_squad",
+        "guid": "4884692582c8a854ebcc5a4d4b9be8d0",
+        "md5": "4d586986debab232e223ef5b6b1259da"
+      },
+      {
+        "name": "blue_squad",
+        "guid": "02fe20d02ccf6c64d814f0ec2893f11b",
+        "md5": "944adec7f41e230335247328b0da920b"
+      },
+      {
+        "name": "deco_img",
+        "guid": "654207776340b8f419459b705256d11b",
+        "md5": "09c549a36edf0e74188304123faebfc5"
+      },
+      {
+        "name": "ban_img",
+        "guid": "ff54134a3a373d647b3c9315a42d5b17",
+        "md5": "6963dab358d0bab3654add9bb62fc44b"
+      },
+      {
+        "name": "detail_tri",
+        "guid": "d19561e40215d2741b6e9fe696fbab56",
+        "md5": "7b5ce068d66fb31dcd73c3827048b51f"
+      },
+      {
+        "name": "split_line",
+        "guid": "7e0245c1c5974ff43b45ad01442cfca9",
+        "md5": "4802a9c02f30a19de13c89f2214832dc"
+      },
+      {
+        "name": "dot",
+        "guid": "4f26d919617190a47b2ac1d25ea664c6",
+        "md5": "2c25279702c9697c3e739e196e8a0ab8"
+      },
+      {
+        "name": "dot_squad",
+        "guid": "47118d83dbd62354cbdb7b9fcb049f9b",
+        "md5": "ab12a145f53e7c812ad25622659c97c7"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "diff_hub#0",
+        "guid": "8918aafce566bad4da9540effffc9e14",
+        "md5": "b2fea4535eb3b46aaf411ed8b76e0038"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "diff_hub#0a",
+        "guid": "6e1809799f25d624caab068bd3e7e83a",
+        "md5": "2770f176a0c75ffa58dda541bf8c47ed"
+      }
+    ]
+  }
+}

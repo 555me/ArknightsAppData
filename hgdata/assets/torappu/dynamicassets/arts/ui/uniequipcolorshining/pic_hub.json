@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "pic_hub",
+  "_rootPackingTag": "UI_UNIEQUIP_COLOR_SHINING_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 122,
+    "height": 64
+  },
+  "_extraPicSize": [],
+  "_compressType": 2,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "blue_shining",
+    "green_shining",
+    "grey_shining",
+    "purple_shining",
+    "red_shining",
+    "yellow_shining"
+  ],
+  "_values": [
+    "Arts/UI/UniEquipColorShining/blue_shining",
+    "Arts/UI/UniEquipColorShining/green_shining",
+    "Arts/UI/UniEquipColorShining/grey_shining",
+    "Arts/UI/UniEquipColorShining/purple_shining",
+    "Arts/UI/UniEquipColorShining/red_shining",
+    "Arts/UI/UniEquipColorShining/yellow_shining"
+  ]
+}

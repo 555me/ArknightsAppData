@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "type_icon_hub",
+  "_rootPackingTag": "UI_ROGUELIKE_RL04_FRAGMENT_TYPE_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 46,
+    "height": 22
+  },
+  "_extraPicSize": [
+    {
+      "width": 65,
+      "height": 32
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rogue4_idea_icon",
+    "rogue4_idea_icon_alchemy_list",
+    "rogue4_inspiration_icon",
+    "rogue4_inspiration_icon_alchemy_list",
+    "rogue4_wish_icon",
+    "rogue4_wish_icon_alchemy_list"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_4/Fragment/FragmentTypeIcon/rogue4_idea_icon",
+    "UI/RoguelikeTopic/Topics/rogue_4/Fragment/FragmentTypeIcon/rogue4_idea_icon_alchemy_list",
+    "UI/RoguelikeTopic/Topics/rogue_4/Fragment/FragmentTypeIcon/rogue4_inspiration_icon",
+    "UI/RoguelikeTopic/Topics/rogue_4/Fragment/FragmentTypeIcon/rogue4_inspiration_icon_alchemy_list",
+    "UI/RoguelikeTopic/Topics/rogue_4/Fragment/FragmentTypeIcon/rogue4_wish_icon",
+    "UI/RoguelikeTopic/Topics/rogue_4/Fragment/FragmentTypeIcon/rogue4_wish_icon_alchemy_list"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "tuning_product_form_segment_hub",
+  "_rootPackingTag": "UI_TUNING_PRODUCT_FORM_SEGMENT",
+  "_cntPerAtlas": 1,
+  "_standardPicSize": {
+    "width": 706,
+    "height": 236
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "formula_1_sheet",
+    "formula_2_sheet",
+    "formula_3_sheet",
+    "formula_4_sheet",
+    "formula_5_sheet"
+  ],
+  "_values": [
+    "UI/[UC]Tuning/Arts/ProductFormSegment/formula_1_sheet",
+    "UI/[UC]Tuning/Arts/ProductFormSegment/formula_2_sheet",
+    "UI/[UC]Tuning/Arts/ProductFormSegment/formula_3_sheet",
+    "UI/[UC]Tuning/Arts/ProductFormSegment/formula_4_sheet",
+    "UI/[UC]Tuning/Arts/ProductFormSegment/formula_5_sheet"
+  ]
+}

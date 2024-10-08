@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "weather_type_hub",
+  "_rootPackingTag": "UI_SANDBOX_WEATHER_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 51,
+    "height": 51
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "weather_acid_rain",
+    "weather_big_sandstorm",
+    "weather_drought",
+    "weather_heat",
+    "weather_heat_wave",
+    "weather_hot",
+    "weather_normal",
+    "weather_sandstorm",
+    "weather_thunder",
+    "weather_thunder_storm"
+  ],
+  "_values": [
+    "Arts/UI/Sandbox/WeatherTypeIcon/weather_acid_rain",
+    "Arts/UI/Sandbox/WeatherTypeIcon/weather_big_sandstorm",
+    "Arts/UI/Sandbox/WeatherTypeIcon/weather_drought",
+    "Arts/UI/Sandbox/WeatherTypeIcon/weather_heat",
+    "Arts/UI/Sandbox/WeatherTypeIcon/weather_heat_wave",
+    "Arts/UI/Sandbox/WeatherTypeIcon/weather_hot",
+    "Arts/UI/Sandbox/WeatherTypeIcon/weather_normal",
+    "Arts/UI/Sandbox/WeatherTypeIcon/weather_sandstorm",
+    "Arts/UI/Sandbox/WeatherTypeIcon/weather_thunder",
+    "Arts/UI/Sandbox/WeatherTypeIcon/weather_thunder_storm"
+  ]
+}

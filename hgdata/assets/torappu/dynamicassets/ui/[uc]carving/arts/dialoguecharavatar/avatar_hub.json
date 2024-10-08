@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "avatar_hub",
+  "_rootPackingTag": "UI_CARVING_DIALOGUE_CHAR_AVATAR",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 283,
+    "height": 372
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "papyrus_smile",
+    "papyrus_think",
+    "sandreckoner_idle",
+    "sandreckoner_smile"
+  ],
+  "_values": [
+    "UI/[UC]Carving/Arts/DialogueCharAvatar/papyrus_smile",
+    "UI/[UC]Carving/Arts/DialogueCharAvatar/papyrus_think",
+    "UI/[UC]Carving/Arts/DialogueCharAvatar/sandreckoner_idle",
+    "UI/[UC]Carving/Arts/DialogueCharAvatar/sandreckoner_smile"
+  ]
+}

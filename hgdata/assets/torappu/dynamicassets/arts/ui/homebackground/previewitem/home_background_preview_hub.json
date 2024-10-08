@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "home_background_preview_hub",
+  "_rootPackingTag": "UI_HOMEBACKGROUND_PREVIEW",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 341,
+    "height": 114
+  },
+  "_extraPicSize": [],
+  "_compressType": 3,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "bg_anniversary_1",
+    "bg_dungeon_1",
+    "bg_iberia_1",
+    "bg_kalts_1",
+    "bg_kazimierz_1",
+    "bg_laterano_1",
+    "bg_main_victoria_1",
+    "bg_rainbowsix_1",
+    "bg_rhine_1",
+    "bg_rhodes_day",
+    "bg_rhodes_flower_1",
+    "bg_rhodes_night",
+    "bg_rogue_1",
+    "bg_rogue_2",
+    "bg_rogue_3",
+    "bg_sandboxv2_1",
+    "bg_sanrio_1",
+    "bg_siesta_1",
+    "bg_ursus_1",
+    "bg_yan_1"
+  ],
+  "_values": [
+    "Arts/UI/HomeBackground/PreviewItem/bg_anniversary_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_dungeon_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_iberia_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_kalts_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_kazimierz_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_laterano_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_main_victoria_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_rainbowsix_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_rhine_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_rhodes_day",
+    "Arts/UI/HomeBackground/PreviewItem/bg_rhodes_flower_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_rhodes_night",
+    "Arts/UI/HomeBackground/PreviewItem/bg_rogue_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_rogue_2",
+    "Arts/UI/HomeBackground/PreviewItem/bg_rogue_3",
+    "Arts/UI/HomeBackground/PreviewItem/bg_sandboxv2_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_sanrio_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_siesta_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_ursus_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_yan_1"
+  ]
+}

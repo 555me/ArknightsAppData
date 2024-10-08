@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "chat_emoji_icon_hub",
+  "_rootPackingTag": "ACT2VMULTI_CHAT_EMOJI_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 105,
+    "height": 105
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "pic_1",
+    "pic_10",
+    "pic_11",
+    "pic_12",
+    "pic_13",
+    "pic_2",
+    "pic_3",
+    "pic_4",
+    "pic_5",
+    "pic_6",
+    "pic_7",
+    "pic_8",
+    "pic_9"
+  ],
+  "_values": [
+    "Activity/[UC]act2vmulti/Arts/ChatEmojiIcon/pic_1",
+    "Activity/[UC]act2vmulti/Arts/ChatEmojiIcon/pic_10",
+    "Activity/[UC]act2vmulti/Arts/ChatEmojiIcon/pic_11",
+    "Activity/[UC]act2vmulti/Arts/ChatEmojiIcon/pic_12",
+    "Activity/[UC]act2vmulti/Arts/ChatEmojiIcon/pic_13",
+    "Activity/[UC]act2vmulti/Arts/ChatEmojiIcon/pic_2",
+    "Activity/[UC]act2vmulti/Arts/ChatEmojiIcon/pic_3",
+    "Activity/[UC]act2vmulti/Arts/ChatEmojiIcon/pic_4",
+    "Activity/[UC]act2vmulti/Arts/ChatEmojiIcon/pic_5",
+    "Activity/[UC]act2vmulti/Arts/ChatEmojiIcon/pic_6",
+    "Activity/[UC]act2vmulti/Arts/ChatEmojiIcon/pic_7",
+    "Activity/[UC]act2vmulti/Arts/ChatEmojiIcon/pic_8",
+    "Activity/[UC]act2vmulti/Arts/ChatEmojiIcon/pic_9"
+  ]
+}

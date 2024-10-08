@@ -1,0 +1,98 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "pic_hub",
+  "_rootPackingTag": "STORY_REVIEW_MINI_ACTIVITY_BG",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 356,
+    "height": 453
+  },
+  "_extraPicSize": [
+    {
+      "width": 358,
+      "height": 87
+    }
+  ],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "storyentrypic_act10d5",
+    "storyentrypic_act10mini",
+    "storyentrypic_act11mini",
+    "storyentrypic_act12mini",
+    "storyentrypic_act13d0",
+    "storyentrypic_act14mini",
+    "storyentrypic_act15d5",
+    "storyentrypic_act15mini",
+    "storyentrypic_act16mini",
+    "storyentrypic_act17mini",
+    "storyentrypic_act4d0",
+    "storyentrypic_act6d5",
+    "storyentrypic_act7d5",
+    "storyentrypic_act7mini",
+    "storyentrypic_act8mini",
+    "storyentrypic_act9mini",
+    "trial_title_act10d5",
+    "trial_title_act10mini",
+    "trial_title_act11mini",
+    "trial_title_act12mini",
+    "trial_title_act13d0",
+    "trial_title_act14mini",
+    "trial_title_act15d5",
+    "trial_title_act4d0",
+    "trial_title_act6d5",
+    "trial_title_act7d5",
+    "trial_title_act7mini",
+    "trial_title_act8mini",
+    "trial_title_act9mini"
+  ],
+  "_values": [
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act10d5",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act10mini",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act11mini",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act12mini",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act13d0",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act14mini",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act15d5",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act15mini",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act16mini",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act17mini",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act4d0",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act6d5",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act7d5",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act7mini",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act8mini",
+    "Arts/UI/StoryReview/Hubs/Mini/StoryEntryPic/storyEntryPic_act9mini",
+    "Arts/UI/StoryReview/Hubs/Mini/TrialTitle/trial_title_act10d5",
+    "Arts/UI/StoryReview/Hubs/Mini/TrialTitle/trial_title_act10mini",
+    "Arts/UI/StoryReview/Hubs/Mini/TrialTitle/trial_title_act11mini",
+    "Arts/UI/StoryReview/Hubs/Mini/TrialTitle/trial_title_act12mini",
+    "Arts/UI/StoryReview/Hubs/Mini/TrialTitle/trial_title_act13d0",
+    "Arts/UI/StoryReview/Hubs/Mini/TrialTitle/trial_title_act14mini",
+    "Arts/UI/StoryReview/Hubs/Mini/TrialTitle/trial_title_act15d5",
+    "Arts/UI/StoryReview/Hubs/Mini/TrialTitle/trial_title_act4d0",
+    "Arts/UI/StoryReview/Hubs/Mini/TrialTitle/trial_title_act6d5",
+    "Arts/UI/StoryReview/Hubs/Mini/TrialTitle/trial_title_act7d5",
+    "Arts/UI/StoryReview/Hubs/Mini/TrialTitle/trial_title_act7mini",
+    "Arts/UI/StoryReview/Hubs/Mini/TrialTitle/trial_title_act8mini",
+    "Arts/UI/StoryReview/Hubs/Mini/TrialTitle/trial_title_act9mini"
+  ]
+}

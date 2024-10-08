@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "map_area_bg_hub",
+  "_rootPackingTag": "UI_CRISIS_V2_MAP_AREA_BG",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 256,
+    "height": 183
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "map_bolivar_sea",
+    "map_columbia_center",
+    "map_col_testing",
+    "map_fc_reed",
+    "map_ib_dawn",
+    "map_le_alleys",
+    "map_ursus_13ruins",
+    "map_vc_reeds",
+    "map_wb_wall"
+  ],
+  "_values": [
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_bolivar_sea",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_columbia_center",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_col_testing",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_fc_reed",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_ib_dawn",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_le_alleys",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_ursus_13ruins",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_vc_reeds",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_wb_wall"
+  ]
+}

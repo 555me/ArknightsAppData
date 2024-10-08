@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "kv_hub",
+  "_rootPackingTag": "UI_ACT18SIDE_BG",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 780,
+    "height": 960
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 3048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "act18side_kv_01_0",
+    "act18side_kv_01_1",
+    "act18side_kv_02_0",
+    "act18side_kv_02_1"
+  ],
+  "_values": [
+    "Activity/[UC]act18side/KVs/act18side_kv_01_0",
+    "Activity/[UC]act18side/KVs/act18side_kv_01_1",
+    "Activity/[UC]act18side/KVs/act18side_kv_02_0",
+    "Activity/[UC]act18side/KVs/act18side_kv_02_1"
+  ]
+}

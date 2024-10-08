@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "confirm_dialog_hub",
+  "_rootPackingTag": "UI_SANDBOX_V2_CONFIRM_DIALOG",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 167,
+    "height": 167
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "hint_combatexit",
+    "hint_common",
+    "hint_construct",
+    "hint_emergency",
+    "hint_evacuate",
+    "hint_evacuateloss",
+    "hint_loadarchive",
+    "hint_nextday",
+    "hint_normalexit",
+    "hint_quit",
+    "hint_riftexit"
+  ],
+  "_values": [
+    "UI/SandboxV2/[UC]Common/Arts/ConfirmDialogIcon/hint_combatexit",
+    "UI/SandboxV2/[UC]Common/Arts/ConfirmDialogIcon/hint_common",
+    "UI/SandboxV2/[UC]Common/Arts/ConfirmDialogIcon/hint_construct",
+    "UI/SandboxV2/[UC]Common/Arts/ConfirmDialogIcon/hint_emergency",
+    "UI/SandboxV2/[UC]Common/Arts/ConfirmDialogIcon/hint_evacuate",
+    "UI/SandboxV2/[UC]Common/Arts/ConfirmDialogIcon/hint_evacuateloss",
+    "UI/SandboxV2/[UC]Common/Arts/ConfirmDialogIcon/hint_loadarchive",
+    "UI/SandboxV2/[UC]Common/Arts/ConfirmDialogIcon/hint_nextday",
+    "UI/SandboxV2/[UC]Common/Arts/ConfirmDialogIcon/hint_normalexit",
+    "UI/SandboxV2/[UC]Common/Arts/ConfirmDialogIcon/hint_quit",
+    "UI/SandboxV2/[UC]Common/Arts/ConfirmDialogIcon/hint_riftexit"
+  ]
+}

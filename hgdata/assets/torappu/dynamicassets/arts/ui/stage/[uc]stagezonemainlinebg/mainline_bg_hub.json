@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "mainline_bg_hub",
+  "_rootPackingTag": "STAGE_ZONE_MAINLINE_BG",
+  "_cntPerAtlas": 1,
+  "_standardPicSize": {
+    "width": 1024,
+    "height": 720
+  },
+  "_extraPicSize": [],
+  "_compressType": 11,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 2097152,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "mainline_empty_bg",
+    "mbg_chapter_0_1",
+    "mbg_chapter_0_2",
+    "mbg_chapter_0_3",
+    "mbg_chapter_0_4",
+    "mbg_chapter_1_1",
+    "mbg_chapter_1_2",
+    "mbg_chapter_1_3",
+    "mbg_chapter_1_4",
+    "mbg_chapter_1_5",
+    "mbg_chapter_2_1",
+    "mbg_chapter_2_2",
+    "mbg_chapter_2_3",
+    "mbg_chapter_2_4",
+    "mbg_chapter_2_5",
+    "mbg_chapter_2_6"
+  ],
+  "_values": [
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mainline_empty_bg",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_0_1",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_0_2",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_0_3",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_0_4",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_1_1",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_1_2",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_1_3",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_1_4",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_1_5",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_2_1",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_2_2",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_2_3",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_2_4",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_2_5",
+    "Arts/UI/Stage/[UC]StageZoneMainlineBg/mbg_chapter_2_6"
+  ]
+}

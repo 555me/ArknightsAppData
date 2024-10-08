@@ -1,0 +1,309 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4420957637576057513
+  },
+  "m_Name": "act24side_zone_map_hub",
+  "_sprites": [
+    {
+      "name": "moutain1",
+      "guid": "316e1b66bdbddad4d9c9e0fd6e51a8b1",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 938,
+        "h": 275
+      },
+      "rotate": 0
+    },
+    {
+      "name": "moutain5",
+      "guid": "fa61d9099300bd249982411bb55b7a57",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 277,
+        "w": 329,
+        "h": 364
+      },
+      "rotate": 0
+    },
+    {
+      "name": "cloud1",
+      "guid": "dc773de72faa0574788a05d92365864c",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 643,
+        "w": 453,
+        "h": 216
+      },
+      "rotate": 0
+    },
+    {
+      "name": "cloud3",
+      "guid": "169cd2addffd8c14f8904f704c6c3138",
+      "atlas": 0,
+      "rect": {
+        "x": 331,
+        "y": 277,
+        "w": 424,
+        "h": 198
+      },
+      "rotate": 0
+    },
+    {
+      "name": "moutain4",
+      "guid": "9718afce24187b0428b661716a11bf14",
+      "atlas": 0,
+      "rect": {
+        "x": 455,
+        "y": 643,
+        "w": 419,
+        "h": 202
+      },
+      "rotate": 0
+    },
+    {
+      "name": "cloud6",
+      "guid": "2030ad362700fce42a6917ffdd187ce6",
+      "atlas": 0,
+      "rect": {
+        "x": 455,
+        "y": 847,
+        "w": 392,
+        "h": 175
+      },
+      "rotate": 0
+    },
+    {
+      "name": "moutain2",
+      "guid": "83153788c8290c34eb1adf167e7337e9",
+      "atlas": 0,
+      "rect": {
+        "x": 757,
+        "y": 277,
+        "w": 201,
+        "h": 338
+      },
+      "rotate": 1
+    },
+    {
+      "name": "cloud4",
+      "guid": "bc414aa25c7748449b8a1cb5d9aabca9",
+      "atlas": 0,
+      "rect": {
+        "x": 331,
+        "y": 477,
+        "w": 376,
+        "h": 163
+      },
+      "rotate": 0
+    },
+    {
+      "name": "cloud7",
+      "guid": "3883ad5fc8700f947bec2b103aaacd35",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 861,
+        "w": 408,
+        "h": 78
+      },
+      "rotate": 0
+    },
+    {
+      "name": "cloud2",
+      "guid": "d2305f97381c8ce47b5ba1e190306257",
+      "atlas": 0,
+      "rect": {
+        "x": 876,
+        "y": 643,
+        "w": 109,
+        "h": 305
+      },
+      "rotate": 1
+    },
+    {
+      "name": "cloud_little",
+      "guid": "766d6ebe90522a34293ba98642c711e6",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 941,
+        "w": 248,
+        "h": 79
+      },
+      "rotate": 0
+    },
+    {
+      "name": "moutain3",
+      "guid": "21b3788ac2e1f5f4e90a92d39b3c9bdc",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 207,
+        "h": 221
+      },
+      "rotate": 0
+    },
+    {
+      "name": "cloud5",
+      "guid": "0e019b94fb37edf48a78a16ae5ef64fc",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 223,
+        "w": 302,
+        "h": 99
+      },
+      "rotate": 0
+    },
+    {
+      "name": "boss_stage",
+      "guid": "df6e3a3fe6cef6443ae22899c3ec3772",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 324,
+        "w": 255,
+        "h": 137
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -3068760077844350755
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -4112572520768354799
+      },
+      "size": 1024
+    },
+    {
+      "index": 1,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -8433424794661467212
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 1402927221766927352
+      },
+      "size": 512
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "moutain1",
+        "guid": "316e1b66bdbddad4d9c9e0fd6e51a8b1",
+        "md5": "85e76695ad09c8157b67b51ef3e9f861"
+      },
+      {
+        "name": "moutain5",
+        "guid": "fa61d9099300bd249982411bb55b7a57",
+        "md5": "1532fa7af715b10c5aa414bbb61e2ae7"
+      },
+      {
+        "name": "cloud1",
+        "guid": "dc773de72faa0574788a05d92365864c",
+        "md5": "1de9bae8fef5805a62a0b5a6c08ea8d8"
+      },
+      {
+        "name": "cloud3",
+        "guid": "169cd2addffd8c14f8904f704c6c3138",
+        "md5": "6909dfa7b8d6cde8c853ee87f70cb779"
+      },
+      {
+        "name": "moutain4",
+        "guid": "9718afce24187b0428b661716a11bf14",
+        "md5": "0c824239db6eb1d364650fa19b810bca"
+      },
+      {
+        "name": "cloud6",
+        "guid": "2030ad362700fce42a6917ffdd187ce6",
+        "md5": "c99b680263eae6a2b7998bf5bea60713"
+      },
+      {
+        "name": "moutain2",
+        "guid": "83153788c8290c34eb1adf167e7337e9",
+        "md5": "9af3b53c11e4611616841cad50aa2119"
+      },
+      {
+        "name": "cloud4",
+        "guid": "bc414aa25c7748449b8a1cb5d9aabca9",
+        "md5": "afe3f63a784a7c400336a1d63a4418de"
+      },
+      {
+        "name": "cloud7",
+        "guid": "3883ad5fc8700f947bec2b103aaacd35",
+        "md5": "3e27064e5234abe5d847d5c67be4860d"
+      },
+      {
+        "name": "cloud2",
+        "guid": "d2305f97381c8ce47b5ba1e190306257",
+        "md5": "6656214ae7c7be93fefc9f97be66701c"
+      },
+      {
+        "name": "cloud_little",
+        "guid": "766d6ebe90522a34293ba98642c711e6",
+        "md5": "f57cb430c971540c6a3099fde3116506"
+      },
+      {
+        "name": "moutain3",
+        "guid": "21b3788ac2e1f5f4e90a92d39b3c9bdc",
+        "md5": "ac61e180646fcd4080cd68dcda5edd33"
+      },
+      {
+        "name": "cloud5",
+        "guid": "0e019b94fb37edf48a78a16ae5ef64fc",
+        "md5": "c0af9cc19bd1fa1c79679054fe5da67a"
+      },
+      {
+        "name": "boss_stage",
+        "guid": "df6e3a3fe6cef6443ae22899c3ec3772",
+        "md5": "ea47d0fa32639d1ff0da1c64ff1f8eaf"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "act24side_zone_map_hub#0",
+        "guid": "bc7789335db59db4ab03d5607026ad16",
+        "md5": "482f0dc3db3eeb78f5026166f4cd9e2c"
+      },
+      {
+        "name": "act24side_zone_map_hub#1",
+        "guid": "2ab2c85491c7b3944b783c7ddb47fe75",
+        "md5": "055c4c8c0eade37da64a06f95d8fe6fb"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "act24side_zone_map_hub#0a",
+        "guid": "44df8661f1f1d95489f7c080dd609ffe",
+        "md5": "f62374d6d748369e007ced585a730388"
+      },
+      {
+        "name": "act24side_zone_map_hub#1a",
+        "guid": "98d0ed61f6145aa458c59ae0295dd5ac",
+        "md5": "8b81b02b82a7cfc575f60eeebf6c690f"
+      }
+    ]
+  }
+}

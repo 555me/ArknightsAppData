@@ -1,0 +1,63 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "carving_material_icon_hub",
+  "_rootPackingTag": "UI_CARVING_MATERIAL_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 100,
+    "height": 100
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "icon_material_clst_1",
+    "icon_material_clst_2",
+    "icon_material_clst_3",
+    "icon_material_clst_4",
+    "icon_material_fire_1",
+    "icon_material_fire_2",
+    "icon_material_fire_3",
+    "icon_material_fire_4",
+    "icon_material_fire_5",
+    "icon_material_leaf_1",
+    "icon_material_leaf_2",
+    "icon_material_leaf_3",
+    "icon_material_leaf_4",
+    "icon_material_sand"
+  ],
+  "_values": [
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_clst_1",
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_clst_2",
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_clst_3",
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_clst_4",
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_fire_1",
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_fire_2",
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_fire_3",
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_fire_4",
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_fire_5",
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_leaf_1",
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_leaf_2",
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_leaf_3",
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_leaf_4",
+    "UI/[UC]Carving/Arts/MaterialIcons/icon_material_sand"
+  ]
+}

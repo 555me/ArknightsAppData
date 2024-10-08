@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "meal_pic_hub",
+  "_rootPackingTag": "UI_ACT24SIDE_MEAL_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 360,
+    "height": 263
+  },
+  "_extraPicSize": [
+    {
+      "width": 250,
+      "height": 34
+    }
+  ],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "meal_1",
+    "meal_2",
+    "meal_3",
+    "meal_4",
+    "meal_5",
+    "title_meal_1",
+    "title_meal_2",
+    "title_meal_3",
+    "title_meal_4",
+    "title_meal_5"
+  ],
+  "_values": [
+    "Activity/[UC]act24side/Arts/Eat/meal_1",
+    "Activity/[UC]act24side/Arts/Eat/meal_2",
+    "Activity/[UC]act24side/Arts/Eat/meal_3",
+    "Activity/[UC]act24side/Arts/Eat/meal_4",
+    "Activity/[UC]act24side/Arts/Eat/meal_5",
+    "Activity/[UC]act24side/Arts/Eat/title_meal_1",
+    "Activity/[UC]act24side/Arts/Eat/title_meal_2",
+    "Activity/[UC]act24side/Arts/Eat/title_meal_3",
+    "Activity/[UC]act24side/Arts/Eat/title_meal_4",
+    "Activity/[UC]act24side/Arts/Eat/title_meal_5"
+  ]
+}

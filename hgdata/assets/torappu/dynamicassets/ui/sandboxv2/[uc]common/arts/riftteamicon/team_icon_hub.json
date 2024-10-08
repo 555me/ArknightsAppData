@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "team_icon_hub",
+  "_rootPackingTag": "SANDBOX_V2_RIFT_TEAM_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 160,
+    "height": 160
+  },
+  "_extraPicSize": [
+    {
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "builder_big",
+    "builder_small",
+    "empty_big",
+    "empty_small",
+    "explorer_big",
+    "explorer_small",
+    "warrior_big",
+    "warrior_small"
+  ],
+  "_values": [
+    "UI/SandboxV2/[UC]Common/Arts/RiftTeamIcon/builder_big",
+    "UI/SandboxV2/[UC]Common/Arts/RiftTeamIcon/builder_small",
+    "UI/SandboxV2/[UC]Common/Arts/RiftTeamIcon/empty_big",
+    "UI/SandboxV2/[UC]Common/Arts/RiftTeamIcon/empty_small",
+    "UI/SandboxV2/[UC]Common/Arts/RiftTeamIcon/explorer_big",
+    "UI/SandboxV2/[UC]Common/Arts/RiftTeamIcon/explorer_small",
+    "UI/SandboxV2/[UC]Common/Arts/RiftTeamIcon/warrior_big",
+    "UI/SandboxV2/[UC]Common/Arts/RiftTeamIcon/warrior_small"
+  ]
+}

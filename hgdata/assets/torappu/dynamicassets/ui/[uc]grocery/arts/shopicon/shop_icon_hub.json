@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "shop_icon_hub",
+  "_rootPackingTag": "UI_GROCERY_SHOP_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 142,
+    "height": 142
+  },
+  "_extraPicSize": [
+    {
+      "width": 122,
+      "height": 122
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "before_inquire_shop_1",
+    "before_inquire_shop_2",
+    "before_inquire_shop_3",
+    "inquire_shop_1",
+    "inquire_shop_2",
+    "inquire_shop_3",
+    "myshop_1",
+    "shop_1",
+    "shop_2",
+    "shop_3"
+  ],
+  "_values": [
+    "UI/[UC]Grocery/Arts/ShopIcon/before_inquire_shop_1",
+    "UI/[UC]Grocery/Arts/ShopIcon/before_inquire_shop_2",
+    "UI/[UC]Grocery/Arts/ShopIcon/before_inquire_shop_3",
+    "UI/[UC]Grocery/Arts/ShopIcon/inquire_shop_1",
+    "UI/[UC]Grocery/Arts/ShopIcon/inquire_shop_2",
+    "UI/[UC]Grocery/Arts/ShopIcon/inquire_shop_3",
+    "UI/[UC]Grocery/Arts/ShopIcon/myshop_1",
+    "UI/[UC]Grocery/Arts/ShopIcon/shop_1",
+    "UI/[UC]Grocery/Arts/ShopIcon/shop_2",
+    "UI/[UC]Grocery/Arts/ShopIcon/shop_3"
+  ]
+}

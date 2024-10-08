@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "melding_pic_hub",
+  "_rootPackingTag": "UI_ACT24SIDE_MELDING_ITEM_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 50,
+    "height": 50
+  },
+  "_extraPicSize": [
+    {
+      "width": 72,
+      "height": 72
+    },
+    {
+      "width": 28,
+      "height": 28
+    }
+  ],
+  "_compressType": 0,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "act24side_melding_1",
+    "act24side_melding_1_bg",
+    "act24side_melding_1_small",
+    "act24side_melding_2",
+    "act24side_melding_2_bg",
+    "act24side_melding_2_small",
+    "act24side_melding_3",
+    "act24side_melding_3_bg",
+    "act24side_melding_3_small",
+    "act24side_melding_4",
+    "act24side_melding_4_bg",
+    "act24side_melding_4_small",
+    "act24side_melding_5",
+    "act24side_melding_5_bg",
+    "act24side_melding_5_small",
+    "act24side_melding_6",
+    "act24side_melding_6_bg",
+    "act24side_melding_6_small"
+  ],
+  "_values": [
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_1",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_1_bg",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_1_small",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_2",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_2_bg",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_2_small",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_3",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_3_bg",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_3_small",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_4",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_4_bg",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_4_small",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_5",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_5_bg",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_5_small",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_6",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_6_bg",
+    "Activity/[UC]act24side/Arts/MeldingItem/act24side_melding_6_small"
+  ]
+}
