@@ -10,16 +10,16 @@
   },
   "m_Name": "logo_hub",
   "_rootPackingTag": "UI_CAMP_LOGO",
-  "_cntPerAtlas": -1,
+  "_cntPerAtlas": 60,
   "_standardPicSize": {
     "width": 510,
     "height": 510
   },
   "_extraPicSize": [],
-  "_compressType": 2,
+  "_compressType": 10,
   "_atlasSize": 2,
   "_meshType": 1,
-  "_useCntPerAtlas": 0,
+  "_useCntPerAtlas": 1,
   "_maxFileSize": 1048576,
   "_maxTextureSize": 0,
   "_extraTagRegex": "",
@@ -27,7 +27,7 @@
     "rules": []
   },
   "_atlasOutputPath": "",
-  "_configName": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "logo_abyssal",
     "logo_action4",

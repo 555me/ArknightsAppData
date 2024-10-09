@@ -116,7 +116,8 @@
     "kv_witchfeast1",
     "kv_witchfeast2",
     "kv_witchfeast3",
-    "kv_witchfeast4"
+    "kv_witchfeast4",
+    "kv_witchfeast5"
   ],
   "_values": [
     "UI/KVImg/default_kv_ambienceSynesthesia",
@@ -206,6 +207,7 @@
     "UI/KVImg/kv_witchfeast1",
     "UI/KVImg/kv_witchfeast2",
     "UI/KVImg/kv_witchfeast3",
-    "UI/KVImg/kv_witchfeast4"
+    "UI/KVImg/kv_witchfeast4",
+    "UI/KVImg/kv_witchfeast5"
   ]
 }

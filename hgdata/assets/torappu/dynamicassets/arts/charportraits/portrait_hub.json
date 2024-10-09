@@ -4087,11 +4087,27 @@
       "atlas": 84
     },
     {
-      "name": "char_4151_tinman_sale#11",
+      "name": "char_487_bobb_2",
       "atlas": 85
     },
     {
-      "name": "char_4141_marcil_dungeon#1",
+      "name": "char_487_bobb_1",
+      "atlas": 85
+    },
+    {
+      "name": "char_4162_cathy_2",
+      "atlas": 85
+    },
+    {
+      "name": "char_4162_cathy_1",
+      "atlas": 85
+    },
+    {
+      "name": "char_4116_blkkgt_witch#5",
+      "atlas": 85
+    },
+    {
+      "name": "char_4109_baslin_witch#5",
       "atlas": 85
     },
     {
@@ -4101,6 +4117,30 @@
     {
       "name": "char_4083_chimes_yun#5",
       "atlas": 85
+    },
+    {
+      "name": "char_281_popka_witch#5",
+      "atlas": 85
+    },
+    {
+      "name": "char_1019_siege2_2",
+      "atlas": 85
+    },
+    {
+      "name": "char_1019_siege2_1",
+      "atlas": 85
+    },
+    {
+      "name": "char_017_huang_witch#5",
+      "atlas": 85
+    },
+    {
+      "name": "char_4151_tinman_sale#11",
+      "atlas": 86
+    },
+    {
+      "name": "char_4141_marcil_dungeon#1",
+      "atlas": 86
     }
   ],
   "_atlases": [
@@ -4189,7 +4229,8 @@
     "Arts/CharPortraits/portraits#82",
     "Arts/CharPortraits/portraits#83",
     "Arts/CharPortraits/portraits#84",
-    "Arts/CharPortraits/portraits#85"
+    "Arts/CharPortraits/portraits#85",
+    "Arts/CharPortraits/portraits#86"
   ],
   "_inputSpriteDir": "Assets/Torappu/Arts/CharPortraits",
   "_outputAtlasDir": "Assets/Torappu/Arts/CharPortraits/[X]Atlas",

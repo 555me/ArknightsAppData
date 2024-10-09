@@ -126,7 +126,8 @@
     "avatar_special_27",
     "avatar_special_28",
     "avatar_special_29",
-    "avatar_special_30"
+    "avatar_special_30",
+    "avatar_special_31"
   ],
   "_values": [
     "Arts/UI/PlayerAvatar/avatar_activity_AF",
@@ -226,6 +227,7 @@
     "Arts/UI/PlayerAvatar/avatar_special_27",
     "Arts/UI/PlayerAvatar/avatar_special_28",
     "Arts/UI/PlayerAvatar/avatar_special_29",
-    "Arts/UI/PlayerAvatar/avatar_special_30"
+    "Arts/UI/PlayerAvatar/avatar_special_30",
+    "Arts/UI/PlayerAvatar/avatar_special_31"
   ]
 }
