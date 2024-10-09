@@ -35,6 +35,7 @@
     "bg_zone_4",
     "bg_zone_5",
     "bg_zone_6",
+    "bg_zone_7",
     "bg_zone_secret"
   ],
   "_values": [
@@ -44,6 +45,7 @@
     "UI/RoguelikeTopic/Topics/rogue_4/Transition/BG/bg_zone_4",
     "UI/RoguelikeTopic/Topics/rogue_4/Transition/BG/bg_zone_5",
     "UI/RoguelikeTopic/Topics/rogue_4/Transition/BG/bg_zone_6",
+    "UI/RoguelikeTopic/Topics/rogue_4/Transition/BG/bg_zone_7",
     "UI/RoguelikeTopic/Topics/rogue_4/Transition/BG/bg_zone_secret"
   ]
 }
