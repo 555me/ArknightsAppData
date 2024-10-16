@@ -56,7 +56,8 @@
     "permanent_sub_3_under_tides",
     "permanent_sub_4_stultifera_navis",
     "permanent_sub_5_lone_trail",
-    "permanent_sub_6_babel"
+    "permanent_sub_6_babel",
+    "permanent_sub_7_ending_a_grand_overture"
   ],
   "_values": [
     "Arts/UI/Stage/[UC]RetroBack/permanent_sidestory_10_Near_Light",
@@ -86,6 +87,7 @@
     "Arts/UI/Stage/[UC]RetroBack/permanent_sub_3_Under_Tides",
     "Arts/UI/Stage/[UC]RetroBack/permanent_sub_4_Stultifera_Navis",
     "Arts/UI/Stage/[UC]RetroBack/permanent_sub_5_Lone_Trail",
-    "Arts/UI/Stage/[UC]RetroBack/permanent_sub_6_Babel"
+    "Arts/UI/Stage/[UC]RetroBack/permanent_sub_6_Babel",
+    "Arts/UI/Stage/[UC]RetroBack/permanent_sub_7_Ending_A_Grand_Overture"
   ]
 }
