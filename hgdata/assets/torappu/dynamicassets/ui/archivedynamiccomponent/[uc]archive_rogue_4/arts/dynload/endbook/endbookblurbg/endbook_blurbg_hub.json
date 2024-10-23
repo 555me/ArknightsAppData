@@ -31,11 +31,13 @@
   "_keys": [
     "endbook_bgblur_rogue_4_1",
     "endbook_bgblur_rogue_4_2",
-    "endbook_bgblur_rogue_4_3"
+    "endbook_bgblur_rogue_4_3",
+    "endbook_bgblur_rogue_4_4"
   ],
   "_values": [
     "UI/ArchiveDynamicComponent/[UC]archive_rogue_4/Arts/DynLoad/Endbook/EndbookBlurBg/endbook_bgblur_rogue_4_1",
     "UI/ArchiveDynamicComponent/[UC]archive_rogue_4/Arts/DynLoad/Endbook/EndbookBlurBg/endbook_bgblur_rogue_4_2",
-    "UI/ArchiveDynamicComponent/[UC]archive_rogue_4/Arts/DynLoad/Endbook/EndbookBlurBg/endbook_bgblur_rogue_4_3"
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_4/Arts/DynLoad/Endbook/EndbookBlurBg/endbook_bgblur_rogue_4_3",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_4/Arts/DynLoad/Endbook/EndbookBlurBg/endbook_bgblur_rogue_4_4"
   ]
 }

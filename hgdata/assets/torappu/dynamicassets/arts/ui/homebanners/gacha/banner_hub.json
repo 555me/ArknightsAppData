@@ -34,6 +34,7 @@
     "picboot_0_1_3",
     "picnorm_54_0_4",
     "picnorm_55_0_2",
+    "picnorm_55_0_3",
     "picsingle_55_0_1"
   ],
   "_values": [
@@ -42,6 +43,7 @@
     "Arts/UI/HomeBanners/Gacha/picBoot_0_1_3",
     "Arts/UI/HomeBanners/Gacha/picNorm_54_0_4",
     "Arts/UI/HomeBanners/Gacha/picNorm_55_0_2",
+    "Arts/UI/HomeBanners/Gacha/picNorm_55_0_3",
     "Arts/UI/HomeBanners/Gacha/picSingle_55_0_1"
   ]
 }
