@@ -34,7 +34,8 @@
     "randommaterialrune_0",
     "randommaterialrune_1",
     "randommaterial_1",
-    "randommaterial_2"
+    "randommaterial_2",
+    "randommaterial_4"
   ],
   "_values": [
     "Arts/Items/VoucherItemIcons/randomDiamondShd_1",
@@ -42,6 +43,7 @@
     "Arts/Items/VoucherItemIcons/randomMaterialRune_0",
     "Arts/Items/VoucherItemIcons/randomMaterialRune_1",
     "Arts/Items/VoucherItemIcons/randomMaterial_1",
-    "Arts/Items/VoucherItemIcons/randomMaterial_2"
+    "Arts/Items/VoucherItemIcons/randomMaterial_2",
+    "Arts/Items/VoucherItemIcons/randomMaterial_4"
   ]
 }
