@@ -34,8 +34,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
-    "act1vecb",
-    "act37side",
+    "act38side",
     "main_10",
     "main_11",
     "main_12",
@@ -57,8 +56,7 @@
     "sandbox_1_entry_display_3"
   ],
   "_values": [
-    "Arts/UI/Stage/HomeTheme/act1vecb",
-    "Arts/UI/Stage/HomeTheme/act37side",
+    "Arts/UI/Stage/HomeTheme/act38side",
     "Arts/UI/Stage/HomeTheme/main_10",
     "Arts/UI/Stage/HomeTheme/main_11",
     "Arts/UI/Stage/HomeTheme/main_12",

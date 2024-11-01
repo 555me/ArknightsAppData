@@ -4135,12 +4135,80 @@
       "atlas": 85
     },
     {
-      "name": "char_4151_tinman_sale#11",
+      "name": "char_4165_ctrail_2",
       "atlas": 86
     },
     {
-      "name": "char_4141_marcil_dungeon#1",
+      "name": "char_4165_ctrail_1",
       "atlas": 86
+    },
+    {
+      "name": "char_4155_talr_2",
+      "atlas": 86
+    },
+    {
+      "name": "char_4155_talr_1",
+      "atlas": 86
+    },
+    {
+      "name": "char_4148_philae_2",
+      "atlas": 86
+    },
+    {
+      "name": "char_4148_philae_1",
+      "atlas": 86
+    },
+    {
+      "name": "char_4026_vulpis_2",
+      "atlas": 86
+    },
+    {
+      "name": "char_4026_vulpis_1",
+      "atlas": 86
+    },
+    {
+      "name": "char_1502_crosly_2",
+      "atlas": 86
+    },
+    {
+      "name": "char_1502_crosly_1",
+      "atlas": 86
+    },
+    {
+      "name": "char_1038_whitw2_2",
+      "atlas": 86
+    },
+    {
+      "name": "char_1038_whitw2_1",
+      "atlas": 86
+    },
+    {
+      "name": "char_1032_excu2_sale#12",
+      "atlas": 87
+    },
+    {
+      "name": "char_1028_texas2_epoque#36",
+      "atlas": 87
+    },
+    {
+      "name": "char_4151_tinman_sale#11",
+      "atlas": 88
+    },
+    {
+      "name": "char_4141_marcil_dungeon#1",
+      "atlas": 88
+    },
+    {
+      "name": "char_4081_warmy_winter#4",
+      "atlas": 88
+    },
+    {
+      "name": "char_298_susuro_winter#4",
+      "atlas": 89
+    },
+    {
+      "name": "char_245_cello_sale#12",
+      "atlas": 89
     }
   ],
   "_atlases": [
@@ -4230,7 +4298,10 @@
     "Arts/CharPortraits/portraits#83",
     "Arts/CharPortraits/portraits#84",
     "Arts/CharPortraits/portraits#85",
-    "Arts/CharPortraits/portraits#86"
+    "Arts/CharPortraits/portraits#86",
+    "Arts/CharPortraits/portraits#87",
+    "Arts/CharPortraits/portraits#88",
+    "Arts/CharPortraits/portraits#89"
   ],
   "_inputSpriteDir": "Assets/Torappu/Arts/CharPortraits",
   "_outputAtlasDir": "Assets/Torappu/Arts/CharPortraits/[X]Atlas",
