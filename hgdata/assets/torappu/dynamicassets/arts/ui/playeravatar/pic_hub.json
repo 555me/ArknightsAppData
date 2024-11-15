@@ -29,6 +29,7 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "avatar_activity_ac",
     "avatar_activity_af",
     "avatar_activity_aw",
     "avatar_activity_bh",
@@ -131,6 +132,7 @@
     "avatar_special_31"
   ],
   "_values": [
+    "Arts/UI/PlayerAvatar/avatar_activity_AC",
     "Arts/UI/PlayerAvatar/avatar_activity_AF",
     "Arts/UI/PlayerAvatar/avatar_activity_AW",
     "Arts/UI/PlayerAvatar/avatar_activity_BH",

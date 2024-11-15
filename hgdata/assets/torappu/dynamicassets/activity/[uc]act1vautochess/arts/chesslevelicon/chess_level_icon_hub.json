@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "chess_level_icon_hub",
+  "_rootPackingTag": "ACT1VAUTOCHESS_CHAR_CHESS_LEVEL_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 45,
+    "height": 45
+  },
+  "_extraPicSize": [
+    {
+      "width": 86,
+      "height": 41
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "card_chess_level_0",
+    "card_chess_level_1",
+    "card_chess_level_2",
+    "card_chess_level_3",
+    "card_chess_level_4",
+    "card_chess_level_5",
+    "card_chess_level_6",
+    "detail_char_chess_level_0",
+    "detail_char_chess_level_1",
+    "detail_char_chess_level_2",
+    "detail_char_chess_level_3",
+    "detail_char_chess_level_4",
+    "detail_char_chess_level_5",
+    "detail_char_chess_level_6"
+  ],
+  "_values": [
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/card_chess_level_0",
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/card_chess_level_1",
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/card_chess_level_2",
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/card_chess_level_3",
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/card_chess_level_4",
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/card_chess_level_5",
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/card_chess_level_6",
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/detail_char_chess_level_0",
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/detail_char_chess_level_1",
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/detail_char_chess_level_2",
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/detail_char_chess_level_3",
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/detail_char_chess_level_4",
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/detail_char_chess_level_5",
+    "Activity/[UC]act1vautochess/Arts/ChessLevelIcon/detail_char_chess_level_6"
+  ]
+}

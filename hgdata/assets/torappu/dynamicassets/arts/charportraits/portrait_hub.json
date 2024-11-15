@@ -4183,12 +4183,80 @@
       "atlas": 86
     },
     {
+      "name": "char_615_acspec_1",
+      "atlas": 87
+    },
+    {
+      "name": "char_614_acsupo_1",
+      "atlas": 87
+    },
+    {
+      "name": "char_613_acmedc_1",
+      "atlas": 87
+    },
+    {
+      "name": "char_612_accast_1",
+      "atlas": 87
+    },
+    {
+      "name": "char_611_acnipe_1",
+      "atlas": 87
+    },
+    {
+      "name": "char_610_acfend_1",
+      "atlas": 87
+    },
+    {
+      "name": "char_609_acguad_1",
+      "atlas": 87
+    },
+    {
+      "name": "char_608_acpion_1",
+      "atlas": 87
+    },
+    {
       "name": "char_1032_excu2_sale#12",
       "atlas": 87
     },
     {
       "name": "char_1028_texas2_epoque#36",
       "atlas": 87
+    },
+    {
+      "name": "char_607_cspec_1",
+      "atlas": 88
+    },
+    {
+      "name": "char_606_csuppo_1",
+      "atlas": 88
+    },
+    {
+      "name": "char_605_cmedic_1",
+      "atlas": 88
+    },
+    {
+      "name": "char_604_ccast_1",
+      "atlas": 88
+    },
+    {
+      "name": "char_603_csnipe_1",
+      "atlas": 88
+    },
+    {
+      "name": "char_602_cdfend_1",
+      "atlas": 88
+    },
+    {
+      "name": "char_601_cguard_1",
+      "atlas": 88
+    },
+    {
+      "name": "char_600_cpione_1",
+      "atlas": 88
+    },
+    {
+      "name": "char_499_kaitou_epoque#37",
+      "atlas": 88
     },
     {
       "name": "char_4151_tinman_sale#11",

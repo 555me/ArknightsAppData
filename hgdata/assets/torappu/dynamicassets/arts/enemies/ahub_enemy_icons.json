@@ -1223,7 +1223,12 @@
     "enemy_8007_eltrsm_2",
     "enemy_8007_eltrsm_3",
     "enemy_8008_eltswd",
-    "enemy_8009_eltufo"
+    "enemy_8009_eltufo",
+    "enemy_9001_ayokai",
+    "enemy_9002_adsham",
+    "enemy_9003_askate",
+    "enemy_9004_anlock",
+    "enemy_9005_aicemn"
   ],
   "_values": [
     "Arts/Enemies/enemy_10001_trslim",
@@ -2420,6 +2425,11 @@
     "Arts/Enemies/enemy_8007_eltrsm_2",
     "Arts/Enemies/enemy_8007_eltrsm_3",
     "Arts/Enemies/enemy_8008_eltswd",
-    "Arts/Enemies/enemy_8009_eltufo"
+    "Arts/Enemies/enemy_8009_eltufo",
+    "Arts/Enemies/enemy_9001_ayokai",
+    "Arts/Enemies/enemy_9002_adsham",
+    "Arts/Enemies/enemy_9003_askate",
+    "Arts/Enemies/enemy_9004_anlock",
+    "Arts/Enemies/enemy_9005_aicemn"
   ]
 }
