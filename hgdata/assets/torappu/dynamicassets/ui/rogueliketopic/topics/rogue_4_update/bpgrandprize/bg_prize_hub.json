@@ -41,7 +41,9 @@
     "grand_6",
     "grand_7",
     "grand_8",
-    "grand_9"
+    "grand_8_2",
+    "grand_9",
+    "grand_9_2"
   ],
   "_values": [
     "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_1",
@@ -56,6 +58,8 @@
     "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_6",
     "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_7",
     "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_8",
-    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_9"
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_8_2",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_9",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_9_2"
   ]
 }
