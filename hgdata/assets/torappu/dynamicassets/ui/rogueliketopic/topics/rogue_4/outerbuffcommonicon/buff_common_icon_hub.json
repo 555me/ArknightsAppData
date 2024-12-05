@@ -119,7 +119,9 @@
     "rogue_4_grow_icon_refreshnode_active",
     "rogue_4_grow_icon_refreshnode_inactive",
     "rogue_4_grow_icon_scout_active",
-    "rogue_4_grow_icon_scout_inactive"
+    "rogue_4_grow_icon_scout_inactive",
+    "rogue_4_grow_icon_sp_active",
+    "rogue_4_grow_icon_sp_inactive"
   ],
   "_values": [
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/display_bat_attack",
@@ -191,6 +193,8 @@
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_refreshnode_active",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_refreshnode_inactive",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_scout_active",
-    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_scout_inactive"
+    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_scout_inactive",
+    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_sp_active",
+    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_sp_inactive"
   ]
 }
