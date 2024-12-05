@@ -29,9 +29,11 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "shining_2",
     "winter_sale_epoque"
   ],
   "_values": [
+    "Premain/PremainTitleBar/shining_2",
     "Premain/PremainTitleBar/winter_sale_epoque"
   ]
 }

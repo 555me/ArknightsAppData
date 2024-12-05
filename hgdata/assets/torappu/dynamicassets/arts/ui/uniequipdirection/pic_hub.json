@@ -29,6 +29,9 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "aft-d",
+    "aft-x",
+    "aft-y",
     "age-x",
     "amb-x",
     "amb-y",
@@ -129,6 +132,9 @@
     "wdm-x"
   ],
   "_values": [
+    "Arts/UI/UniEquipDirection/aft-d",
+    "Arts/UI/UniEquipDirection/aft-x",
+    "Arts/UI/UniEquipDirection/aft-y",
     "Arts/UI/UniEquipDirection/age-x",
     "Arts/UI/UniEquipDirection/amb-x",
     "Arts/UI/UniEquipDirection/amb-y",

@@ -4279,12 +4279,44 @@
       "atlas": 88
     },
     {
+      "name": "char_4164_tecno_2",
+      "atlas": 89
+    },
+    {
+      "name": "char_4164_tecno_1",
+      "atlas": 89
+    },
+    {
+      "name": "char_4163_rosesa_2",
+      "atlas": 89
+    },
+    {
+      "name": "char_4163_rosesa_1",
+      "atlas": 89
+    },
+    {
       "name": "char_298_susuro_winter#4",
       "atlas": 89
     },
     {
       "name": "char_245_cello_sale#12",
       "atlas": 89
+    },
+    {
+      "name": "char_1039_thorn2_2",
+      "atlas": 89
+    },
+    {
+      "name": "char_1039_thorn2_1",
+      "atlas": 89
+    },
+    {
+      "name": "char_486_takila_shining#2",
+      "atlas": 90
+    },
+    {
+      "name": "char_4117_ray_shining#2",
+      "atlas": 90
     }
   ],
   "_atlases": [
@@ -4377,7 +4409,8 @@
     "Arts/CharPortraits/portraits#86",
     "Arts/CharPortraits/portraits#87",
     "Arts/CharPortraits/portraits#88",
-    "Arts/CharPortraits/portraits#89"
+    "Arts/CharPortraits/portraits#89",
+    "Arts/CharPortraits/portraits#90"
   ],
   "_inputSpriteDir": "Assets/Torappu/Arts/CharPortraits",
   "_outputAtlasDir": "Assets/Torappu/Arts/CharPortraits/[X]Atlas",

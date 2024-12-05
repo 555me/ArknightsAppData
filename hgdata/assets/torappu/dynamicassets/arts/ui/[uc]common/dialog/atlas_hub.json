@@ -71,12 +71,24 @@
       "rotate": 0
     },
     {
+      "name": "sprite_typeframe",
+      "guid": "29c0024c590026647aef7b8083b2ee9f",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 780,
+        "w": 64,
+        "h": 64
+      },
+      "rotate": 0
+    },
+    {
       "name": "btn_icon_confirm",
       "guid": "1ae03acdee79aaf47b163532d1a1371c",
       "atlas": 0,
       "rect": {
         "x": 0,
-        "y": 780,
+        "y": 846,
         "w": 39,
         "h": 39
       },
@@ -88,7 +100,7 @@
       "atlas": 0,
       "rect": {
         "x": 0,
-        "y": 821,
+        "y": 887,
         "w": 37,
         "h": 37
       },
@@ -100,7 +112,7 @@
       "atlas": 0,
       "rect": {
         "x": 0,
-        "y": 860,
+        "y": 926,
         "w": 32,
         "h": 32
       },
@@ -152,6 +164,11 @@
         "md5": "5932ad392449caa960b823b579e961b9"
       },
       {
+        "name": "sprite_typeframe",
+        "guid": "29c0024c590026647aef7b8083b2ee9f",
+        "md5": "ba8318ebe280785cb30af60a8f0ab230"
+      },
+      {
         "name": "btn_icon_confirm",
         "guid": "1ae03acdee79aaf47b163532d1a1371c",
         "md5": "33fc419ec48a48b5be737499b9f89583"
@@ -171,14 +188,14 @@
       {
         "name": "atlas_hub#0",
         "guid": "2a24422d4cef6ec4284186b28f1fbd8a",
-        "md5": "6700e6445b4aca323d1154cb89a45e53"
+        "md5": "a0933cc7ef0873bea314f749ea2d1cae"
       }
     ],
     "m_alphas": [
       {
         "name": "atlas_hub#0a",
         "guid": "ec9efebe736282e44b887e1bc2043d20",
-        "md5": "56e4f42b6da11fa65e237100d4349f58"
+        "md5": "4b48a5854dcead6c74b5bc7ad4e35358"
       }
     ]
   }

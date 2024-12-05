@@ -29,9 +29,8 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
-    "act1vautochess",
     "act29sre",
-    "act38side",
+    "act39side",
     "main_0",
     "main_1",
     "main_10",
@@ -49,9 +48,8 @@
     "main_9"
   ],
   "_values": [
-    "Arts/UI/Stage/[UC]HomeEntry/act1vautochess",
     "Arts/UI/Stage/[UC]HomeEntry/act29sre",
-    "Arts/UI/Stage/[UC]HomeEntry/act38side",
+    "Arts/UI/Stage/[UC]HomeEntry/act39side",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_10",

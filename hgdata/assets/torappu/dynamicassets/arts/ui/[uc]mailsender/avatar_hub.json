@@ -8,20 +8,15 @@
     "m_FileID": 0,
     "m_PathID": 5461515488609553696
   },
-  "m_Name": "lmtgs_btn_hub",
-  "_rootPackingTag": "UI_SHOP_LMTGS_BTNS",
+  "m_Name": "avatar_hub",
+  "_rootPackingTag": "UI_HOME_MAIL_SENDER_AVATAR",
   "_cntPerAtlas": -1,
   "_standardPicSize": {
-    "width": 227,
-    "height": 102
+    "width": 180,
+    "height": 180
   },
-  "_extraPicSize": [
-    {
-      "width": 241,
-      "height": 102
-    }
-  ],
-  "_compressType": 0,
+  "_extraPicSize": [],
+  "_compressType": 10,
   "_atlasSize": 2,
   "_meshType": 0,
   "_useCntPerAtlas": 0,
@@ -34,11 +29,15 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
-    "default_lmgts_off",
-    "default_lmgts_on"
+    "icon_rhodes_island",
+    "mail_avatar_penguin_logistics",
+    "mail_closure",
+    "mail_siren_record"
   ],
   "_values": [
-    "Arts/Shop/[UC]LmtgsShop/Btns/default_LMGTS_off",
-    "Arts/Shop/[UC]LmtgsShop/Btns/default_LMGTS_on"
+    "Arts/UI/[UC]MailSender/icon_rhodes_island",
+    "Arts/UI/[UC]MailSender/mail_avatar_penguin_logistics",
+    "Arts/UI/[UC]MailSender/mail_closure",
+    "Arts/UI/[UC]MailSender/mail_siren_record"
   ]
 }
