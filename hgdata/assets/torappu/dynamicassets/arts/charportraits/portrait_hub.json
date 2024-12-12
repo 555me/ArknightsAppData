@@ -4303,6 +4303,14 @@
       "atlas": 89
     },
     {
+      "name": "char_2024_chyue_cfa#1",
+      "atlas": 89
+    },
+    {
+      "name": "char_2014_nian_cfa#1",
+      "atlas": 89
+    },
+    {
       "name": "char_1039_thorn2_2",
       "atlas": 89
     },
@@ -4311,11 +4319,19 @@
       "atlas": 89
     },
     {
+      "name": "char_1034_jesca2_cfa#1",
+      "atlas": 89
+    },
+    {
       "name": "char_486_takila_shining#2",
       "atlas": 90
     },
     {
       "name": "char_4117_ray_shining#2",
+      "atlas": 90
+    },
+    {
+      "name": "char_4114_harold_snow#7",
       "atlas": 90
     }
   ],

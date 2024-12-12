@@ -35,7 +35,9 @@
     "picclassicattain_57_0_2",
     "picnorm_56_0_4",
     "picnorm_56_0_5",
-    "picsingle_57_0_1"
+    "picnorm_57_0_2",
+    "picsingle_57_0_1",
+    "picsingle_57_0_3"
   ],
   "_values": [
     "Arts/UI/HomeBanners/Gacha/picBoot_0_1_1",
@@ -44,6 +46,8 @@
     "Arts/UI/HomeBanners/Gacha/picClassicAttain_57_0_2",
     "Arts/UI/HomeBanners/Gacha/picNorm_56_0_4",
     "Arts/UI/HomeBanners/Gacha/picNorm_56_0_5",
-    "Arts/UI/HomeBanners/Gacha/picSingle_57_0_1"
+    "Arts/UI/HomeBanners/Gacha/picNorm_57_0_2",
+    "Arts/UI/HomeBanners/Gacha/picSingle_57_0_1",
+    "Arts/UI/HomeBanners/Gacha/picSingle_57_0_3"
   ]
 }
