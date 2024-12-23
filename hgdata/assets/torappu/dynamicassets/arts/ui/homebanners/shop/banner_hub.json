@@ -30,6 +30,7 @@
   "_configName": "",
   "_keys": [
     "shop2",
+    "shop_amiya3_sale#13",
     "shop_chyue_cfa#1",
     "shop_chyue_cfa#1_sp",
     "shop_condition_1",
@@ -56,6 +57,7 @@
     "shop_once_246",
     "shop_once_247",
     "shop_once_248",
+    "shop_once_249",
     "shop_r6_2024",
     "shop_ray_shining#2",
     "shop_shiproom_2024",
@@ -64,6 +66,7 @@
   ],
   "_values": [
     "Arts/UI/HomeBanners/Shop/shop2",
+    "Arts/UI/HomeBanners/Shop/shop_amiya3_sale#13",
     "Arts/UI/HomeBanners/Shop/shop_chyue_cfa#1",
     "Arts/UI/HomeBanners/Shop/shop_chyue_cfa#1_SP",
     "Arts/UI/HomeBanners/Shop/shop_Condition_1",
@@ -90,6 +93,7 @@
     "Arts/UI/HomeBanners/Shop/shop_Once_246",
     "Arts/UI/HomeBanners/Shop/shop_Once_247",
     "Arts/UI/HomeBanners/Shop/shop_Once_248",
+    "Arts/UI/HomeBanners/Shop/shop_Once_249",
     "Arts/UI/HomeBanners/Shop/shop_R6_2024",
     "Arts/UI/HomeBanners/Shop/shop_ray_shining#2",
     "Arts/UI/HomeBanners/Shop/shop_shipRoom_2024",
