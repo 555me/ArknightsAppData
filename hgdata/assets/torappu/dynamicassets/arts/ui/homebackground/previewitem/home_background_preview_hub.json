@@ -44,9 +44,11 @@
     "bg_rogue_1",
     "bg_rogue_2",
     "bg_rogue_3",
+    "bg_rogue_4",
     "bg_sandboxv2_1",
     "bg_sanrio_1",
     "bg_siesta_1",
+    "bg_sui_1",
     "bg_ursus_1",
     "bg_yan_1"
   ],
@@ -66,9 +68,11 @@
     "Arts/UI/HomeBackground/PreviewItem/bg_rogue_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_rogue_2",
     "Arts/UI/HomeBackground/PreviewItem/bg_rogue_3",
+    "Arts/UI/HomeBackground/PreviewItem/bg_rogue_4",
     "Arts/UI/HomeBackground/PreviewItem/bg_sandboxv2_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_sanrio_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_siesta_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_sui_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_ursus_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_yan_1"
   ]

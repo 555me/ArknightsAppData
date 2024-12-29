@@ -29,21 +29,25 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "tm_arcade_1",
     "tm_dungeon_1",
     "tm_mainline_1",
     "tm_rainbowsix_1",
     "tm_rhodes_day",
     "tm_rhodes_night",
     "tm_rogue_3",
-    "tm_rogue_4"
+    "tm_rogue_4",
+    "tm_sui_1"
   ],
   "_values": [
+    "Arts/UI/HomeTheme/PreviewItem/tm_arcade_1",
     "Arts/UI/HomeTheme/PreviewItem/tm_dungeon_1",
     "Arts/UI/HomeTheme/PreviewItem/tm_mainline_1",
     "Arts/UI/HomeTheme/PreviewItem/tm_rainbowsix_1",
     "Arts/UI/HomeTheme/PreviewItem/tm_rhodes_day",
     "Arts/UI/HomeTheme/PreviewItem/tm_rhodes_night",
     "Arts/UI/HomeTheme/PreviewItem/tm_rogue_3",
-    "Arts/UI/HomeTheme/PreviewItem/tm_rogue_4"
+    "Arts/UI/HomeTheme/PreviewItem/tm_rogue_4",
+    "Arts/UI/HomeTheme/PreviewItem/tm_sui_1"
   ]
 }

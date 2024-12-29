@@ -34,6 +34,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
+    "act1arcade",
     "act29sre",
     "act30sre",
     "act39side",
@@ -58,6 +59,7 @@
     "sandbox_1_entry_display_3"
   ],
   "_values": [
+    "Arts/UI/Stage/HomeTheme/act1arcade",
     "Arts/UI/Stage/HomeTheme/act29sre",
     "Arts/UI/Stage/HomeTheme/act30sre",
     "Arts/UI/Stage/HomeTheme/act39side",
