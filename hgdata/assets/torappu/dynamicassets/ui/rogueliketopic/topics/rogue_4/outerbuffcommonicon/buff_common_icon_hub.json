@@ -98,6 +98,8 @@
     "rogue_4_grow_icon_difficult3_active",
     "rogue_4_grow_icon_difficult3_bottom",
     "rogue_4_grow_icon_difficult3_inactive",
+    "rogue_4_grow_icon_duel_active",
+    "rogue_4_grow_icon_duel_inactive",
     "rogue_4_grow_icon_effic_active",
     "rogue_4_grow_icon_effic_inactive",
     "rogue_4_grow_icon_either_active",
@@ -110,6 +112,8 @@
     "rogue_4_grow_icon_gold_inactive",
     "rogue_4_grow_icon_hp_active",
     "rogue_4_grow_icon_hp_inactive",
+    "rogue_4_grow_icon_idea_active",
+    "rogue_4_grow_icon_idea_inactive",
     "rogue_4_grow_icon_mystery_active",
     "rogue_4_grow_icon_mystery_inactive",
     "rogue_4_grow_icon_perfect_active",
@@ -121,7 +125,11 @@
     "rogue_4_grow_icon_scout_active",
     "rogue_4_grow_icon_scout_inactive",
     "rogue_4_grow_icon_sp_active",
-    "rogue_4_grow_icon_sp_inactive"
+    "rogue_4_grow_icon_sp_inactive",
+    "rogue_4_grow_icon_store_active",
+    "rogue_4_grow_icon_store_inactive",
+    "rogue_4_grow_icon_travel_active",
+    "rogue_4_grow_icon_travel_inactive"
   ],
   "_values": [
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/display_bat_attack",
@@ -172,6 +180,8 @@
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_difficult3_active",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_difficult3_bottom",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_difficult3_inactive",
+    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_duel_active",
+    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_duel_inactive",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_effic_active",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_effic_inactive",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_either_active",
@@ -184,6 +194,8 @@
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_gold_inactive",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_hp_active",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_hp_inactive",
+    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_idea_active",
+    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_idea_inactive",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_mystery_active",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_mystery_inactive",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_perfect_active",
@@ -195,6 +207,10 @@
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_scout_active",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_scout_inactive",
     "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_sp_active",
-    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_sp_inactive"
+    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_sp_inactive",
+    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_store_active",
+    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_store_inactive",
+    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_travel_active",
+    "UI/RoguelikeTopic/Topics/rogue_4/OuterBuffCommonIcon/rogue_4_grow_icon_travel_inactive"
   ]
 }

@@ -32,12 +32,14 @@
     "endbook_card_rogue_4_1_title",
     "endbook_card_rogue_4_2_title",
     "endbook_card_rogue_4_3_title",
-    "endbook_card_rogue_4_4_title"
+    "endbook_card_rogue_4_4_title",
+    "endbook_card_rogue_4_5_title"
   ],
   "_values": [
     "UI/ArchiveDynamicComponent/[UC]archive_rogue_4/Arts/DynLoad/Endbook/EndbookCardTitle/endbook_card_rogue_4_1_title",
     "UI/ArchiveDynamicComponent/[UC]archive_rogue_4/Arts/DynLoad/Endbook/EndbookCardTitle/endbook_card_rogue_4_2_title",
     "UI/ArchiveDynamicComponent/[UC]archive_rogue_4/Arts/DynLoad/Endbook/EndbookCardTitle/endbook_card_rogue_4_3_title",
-    "UI/ArchiveDynamicComponent/[UC]archive_rogue_4/Arts/DynLoad/Endbook/EndbookCardTitle/endbook_card_rogue_4_4_title"
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_4/Arts/DynLoad/Endbook/EndbookCardTitle/endbook_card_rogue_4_4_title",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_4/Arts/DynLoad/Endbook/EndbookCardTitle/endbook_card_rogue_4_5_title"
   ]
 }
