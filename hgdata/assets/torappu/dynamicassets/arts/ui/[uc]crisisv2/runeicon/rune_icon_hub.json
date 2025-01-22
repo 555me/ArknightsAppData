@@ -155,6 +155,7 @@
     "g_enemy_lysdb_1",
     "g_enemy_mag1",
     "g_enemy_magic_resistant",
+    "g_enemy_mag_1",
     "g_enemy_movespeed_1",
     "g_enemy_movespeed_2",
     "g_enemy_vofwiz_1",
@@ -200,6 +201,15 @@
     "g_level_hidden_ymkilr_1",
     "g_level_hidden_ymknif_1",
     "g_level_hidden_ymmir_1",
+    "g_lrchld_1",
+    "g_lrfkkt_1",
+    "g_lrmm_5",
+    "g_ltbow_atk_2",
+    "g_ltbow_hp_2",
+    "g_ltgint_atk_2",
+    "g_ltholo_hp_2",
+    "g_ltmage_atkspeed_2",
+    "g_ltswar_def_2",
     "g_lunmag_1",
     "g_lyacpa_atk1",
     "g_lyacpa_atk2",
@@ -319,7 +329,8 @@
     "g_zom_hprec_1",
     "g_zom_hprec_d_1",
     "g_zom_hprec_t_1",
-    "g_zom_hp_1"
+    "g_zom_hp_1",
+    "sotidp_tal3"
   ],
   "_values": [
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_bhrknf_atk_1",
@@ -448,6 +459,7 @@
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_enemy_lysdb_1",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_enemy_mag1",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_enemy_magic_resistant",
+    "Arts/UI/[UC]CrisisV2/RuneIcon/g_enemy_mag_1",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_enemy_movespeed_1",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_enemy_movespeed_2",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_enemy_vofwiz_1",
@@ -493,6 +505,15 @@
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_level_hidden_ymkilr_1",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_level_hidden_ymknif_1",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_level_hidden_ymmir_1",
+    "Arts/UI/[UC]CrisisV2/RuneIcon/g_lrchld_1",
+    "Arts/UI/[UC]CrisisV2/RuneIcon/g_lrfkkt_1",
+    "Arts/UI/[UC]CrisisV2/RuneIcon/g_lrmm_5",
+    "Arts/UI/[UC]CrisisV2/RuneIcon/g_ltbow_atk_2",
+    "Arts/UI/[UC]CrisisV2/RuneIcon/g_ltbow_hp_2",
+    "Arts/UI/[UC]CrisisV2/RuneIcon/g_ltgint_atk_2",
+    "Arts/UI/[UC]CrisisV2/RuneIcon/g_ltholo_hp_2",
+    "Arts/UI/[UC]CrisisV2/RuneIcon/g_ltmage_atkspeed_2",
+    "Arts/UI/[UC]CrisisV2/RuneIcon/g_ltswar_def_2",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_lunmag_1",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_lyacpa_atk1",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_lyacpa_atk2",
@@ -612,6 +633,7 @@
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_zom_hprec_1",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_zom_hprec_d_1",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_zom_hprec_t_1",
-    "Arts/UI/[UC]CrisisV2/RuneIcon/g_zom_hp_1"
+    "Arts/UI/[UC]CrisisV2/RuneIcon/g_zom_hp_1",
+    "Arts/UI/[UC]CrisisV2/RuneIcon/sotidp_tal3"
   ]
 }

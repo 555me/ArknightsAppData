@@ -29,10 +29,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
-    "act1arcade",
-    "act29sre",
-    "act30sre",
-    "act39side",
+    "act40side",
     "main_0",
     "main_1",
     "main_10",
@@ -50,10 +47,7 @@
     "main_9"
   ],
   "_values": [
-    "Arts/UI/Stage/[UC]HomeEntry/act1arcade",
-    "Arts/UI/Stage/[UC]HomeEntry/act29sre",
-    "Arts/UI/Stage/[UC]HomeEntry/act30sre",
-    "Arts/UI/Stage/[UC]HomeEntry/act39side",
+    "Arts/UI/Stage/[UC]HomeEntry/act40side",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_10",

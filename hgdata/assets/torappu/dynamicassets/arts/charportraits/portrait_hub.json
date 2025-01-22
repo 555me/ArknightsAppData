@@ -4327,20 +4327,68 @@
       "atlas": 89
     },
     {
-      "name": "char_486_takila_shining#2",
+      "name": "char_4172_xingzh_2",
       "atlas": 90
     },
     {
-      "name": "char_4117_ray_shining#2",
+      "name": "char_4172_xingzh_1",
+      "atlas": 90
+    },
+    {
+      "name": "char_4052_surfer_2",
+      "atlas": 90
+    },
+    {
+      "name": "char_4052_surfer_1",
+      "atlas": 90
+    },
+    {
+      "name": "char_2026_yu_2",
+      "atlas": 90
+    },
+    {
+      "name": "char_2026_yu_1",
+      "atlas": 90
+    },
+    {
+      "name": "char_1040_blaze2_2",
+      "atlas": 90
+    },
+    {
+      "name": "char_1040_blaze2_1",
       "atlas": 90
     },
     {
       "name": "char_4114_harold_snow#7",
-      "atlas": 90
+      "atlas": 91
+    },
+    {
+      "name": "char_4105_almond_epoque#38",
+      "atlas": 91
+    },
+    {
+      "name": "char_369_bena_epoque#38",
+      "atlas": 91
     },
     {
       "name": "char_301_cutter_marthe#8",
-      "atlas": 90
+      "atlas": 91
+    },
+    {
+      "name": "char_2025_shu_nian#11",
+      "atlas": 91
+    },
+    {
+      "name": "char_486_takila_shining#2",
+      "atlas": 92
+    },
+    {
+      "name": "char_4121_zuole_nian#11",
+      "atlas": 92
+    },
+    {
+      "name": "char_4117_ray_shining#2",
+      "atlas": 92
     }
   ],
   "_atlases": [
@@ -4434,7 +4482,9 @@
     "Arts/CharPortraits/portraits#87",
     "Arts/CharPortraits/portraits#88",
     "Arts/CharPortraits/portraits#89",
-    "Arts/CharPortraits/portraits#90"
+    "Arts/CharPortraits/portraits#90",
+    "Arts/CharPortraits/portraits#91",
+    "Arts/CharPortraits/portraits#92"
   ],
   "_inputSpriteDir": "Assets/Torappu/Arts/CharPortraits",
   "_outputAtlasDir": "Assets/Torappu/Arts/CharPortraits/[X]Atlas",

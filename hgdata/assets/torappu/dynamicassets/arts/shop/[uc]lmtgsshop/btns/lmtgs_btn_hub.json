@@ -35,10 +35,14 @@
   "_configName": "",
   "_keys": [
     "default_lmgts_off",
-    "default_lmgts_on"
+    "default_lmgts_on",
+    "lmtgs_coin_5801_lmgts_off",
+    "lmtgs_coin_5801_lmgts_on"
   ],
   "_values": [
     "Arts/Shop/[UC]LmtgsShop/Btns/default_LMGTS_off",
-    "Arts/Shop/[UC]LmtgsShop/Btns/default_LMGTS_on"
+    "Arts/Shop/[UC]LmtgsShop/Btns/default_LMGTS_on",
+    "Arts/Shop/[UC]LmtgsShop/Btns/LMTGS_COIN_5801_LMGTS_off",
+    "Arts/Shop/[UC]LmtgsShop/Btns/LMTGS_COIN_5801_LMGTS_on"
   ]
 }

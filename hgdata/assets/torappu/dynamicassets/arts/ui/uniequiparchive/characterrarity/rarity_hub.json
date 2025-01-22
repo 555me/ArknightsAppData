@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "rarity_hub",
+  "_rootPackingTag": "UI_UNIEQUIP_ARCHIVE_CHARACTER_RARITY",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 87,
+    "height": 25
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rarity_0",
+    "rarity_1",
+    "rarity_2",
+    "rarity_3",
+    "rarity_4",
+    "rarity_5"
+  ],
+  "_values": [
+    "Arts/UI/UniEquipArchive/CharacterRarity/rarity_0",
+    "Arts/UI/UniEquipArchive/CharacterRarity/rarity_1",
+    "Arts/UI/UniEquipArchive/CharacterRarity/rarity_2",
+    "Arts/UI/UniEquipArchive/CharacterRarity/rarity_3",
+    "Arts/UI/UniEquipArchive/CharacterRarity/rarity_4",
+    "Arts/UI/UniEquipArchive/CharacterRarity/rarity_5"
+  ]
+}

@@ -32,6 +32,7 @@
     "avatar_special_amiya",
     "icon_rhodes_island",
     "mail_avatar_penguin_logistics",
+    "mail_choearth_amiya",
     "mail_closure",
     "mail_siren_record"
   ],
@@ -39,6 +40,7 @@
     "Arts/UI/[UC]MailSender/avatar_special_amiya",
     "Arts/UI/[UC]MailSender/icon_rhodes_island",
     "Arts/UI/[UC]MailSender/mail_avatar_penguin_logistics",
+    "Arts/UI/[UC]MailSender/mail_choearth_amiya",
     "Arts/UI/[UC]MailSender/mail_closure",
     "Arts/UI/[UC]MailSender/mail_siren_record"
   ]

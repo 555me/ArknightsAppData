@@ -29,6 +29,7 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "furnim_set_basicroom",
     "furni_set_abyssal",
     "furni_set_activity",
     "furni_set_airship",
@@ -89,6 +90,7 @@
     "furni_set_msvillage",
     "furni_set_musicalstore",
     "furni_set_nhl",
+    "furni_set_niansroom",
     "furni_set_nightview",
     "furni_set_observation",
     "furni_set_office",
@@ -120,6 +122,7 @@
     "furni_set_snowvenue",
     "furni_set_specimen",
     "furni_set_spirit",
+    "furni_set_springfeast",
     "furni_set_stage",
     "furni_set_tailorshop",
     "furni_set_teahouse",
@@ -134,6 +137,7 @@
     "furni_set_wooden"
   ],
   "_values": [
+    "Arts/UI/FurniThemes/furniM_set_basicRoom",
     "Arts/UI/FurniThemes/furni_set_abyssal",
     "Arts/UI/FurniThemes/furni_set_activity",
     "Arts/UI/FurniThemes/furni_set_Airship",
@@ -194,6 +198,7 @@
     "Arts/UI/FurniThemes/furni_set_msVillage",
     "Arts/UI/FurniThemes/furni_set_musicalStore",
     "Arts/UI/FurniThemes/furni_set_NHL",
+    "Arts/UI/FurniThemes/furni_set_niansroom",
     "Arts/UI/FurniThemes/furni_set_nightView",
     "Arts/UI/FurniThemes/furni_set_observation",
     "Arts/UI/FurniThemes/furni_set_office",
@@ -225,6 +230,7 @@
     "Arts/UI/FurniThemes/furni_set_snowVenue",
     "Arts/UI/FurniThemes/furni_set_specimen",
     "Arts/UI/FurniThemes/furni_set_spirit",
+    "Arts/UI/FurniThemes/furni_set_springfeast",
     "Arts/UI/FurniThemes/furni_set_stage",
     "Arts/UI/FurniThemes/furni_set_tailorShop",
     "Arts/UI/FurniThemes/furni_set_teaHouse",
