@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "rglk_evolution_rarity_hub",
+  "_rootPackingTag": "RL02_UI_ROGUE_EVOLUTION_RARITY_BAR_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 169,
+    "height": 58
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rarity_0",
+    "rarity_1",
+    "rarity_2",
+    "rarity_3",
+    "rarity_4",
+    "rarity_5"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_2/SelectChar/EvolutionRarity/rarity_0",
+    "UI/RoguelikeTopic/Topics/rogue_2/SelectChar/EvolutionRarity/rarity_1",
+    "UI/RoguelikeTopic/Topics/rogue_2/SelectChar/EvolutionRarity/rarity_2",
+    "UI/RoguelikeTopic/Topics/rogue_2/SelectChar/EvolutionRarity/rarity_3",
+    "UI/RoguelikeTopic/Topics/rogue_2/SelectChar/EvolutionRarity/rarity_4",
+    "UI/RoguelikeTopic/Topics/rogue_2/SelectChar/EvolutionRarity/rarity_5"
+  ]
+}

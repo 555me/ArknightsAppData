@@ -28,6 +28,30 @@
   },
   "_atlasOutputPath": "",
   "_configName": "",
-  "_keys": [],
-  "_values": []
+  "_keys": [
+    "card_grand_1",
+    "card_grand_10",
+    "card_grand_11",
+    "card_grand_2",
+    "card_grand_3",
+    "card_grand_4",
+    "card_grand_5",
+    "card_grand_6",
+    "card_grand_7",
+    "card_grand_8",
+    "card_grand_9"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_1",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_10",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_11",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_2",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_3",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_4",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_5",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_6",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_7",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_8",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_9"
+  ]
 }

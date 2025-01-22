@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "under_tex_hub",
+  "_rootPackingTag": "UI_ROGUELIKE_UNDER_TEX_RL02",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 220,
+    "height": 220
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "dice",
+    "gold",
+    "hp",
+    "key",
+    "lock_treasure",
+    "lock_treasure_dice",
+    "lock_treasure_key",
+    "lock_treasure_leave",
+    "pill",
+    "recruit_ticket",
+    "relic",
+    "relic_curse",
+    "relic_init",
+    "relic_select",
+    "trap"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/DICE",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/GOLD",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/HP",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/KEY",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/LOCK_TREASURE",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/LOCK_TREASURE_DICE",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/LOCK_TREASURE_KEY",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/LOCK_TREASURE_LEAVE",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/PILL",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/RECRUIT_TICKET",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/RELIC",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/RELIC_CURSE",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/RELIC_INIT",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/RELIC_SELECT",
+    "UI/RoguelikeTopic/Topics/rogue_2/UnderTexPic/TRAP"
+  ]
+}
