@@ -35,6 +35,7 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act40side",
+    "crisis_v2_season_3_1",
     "main_10",
     "main_11",
     "main_12",
@@ -58,6 +59,7 @@
   ],
   "_values": [
     "Arts/UI/Stage/HomeTheme/act40side",
+    "Arts/UI/Stage/HomeTheme/crisis_v2_season_3_1",
     "Arts/UI/Stage/HomeTheme/main_10",
     "Arts/UI/Stage/HomeTheme/main_11",
     "Arts/UI/Stage/HomeTheme/main_12",

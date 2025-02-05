@@ -29,25 +29,35 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "map_bolivar_beach",
     "map_bolivar_sea",
     "map_columbia_center",
     "map_col_testing",
     "map_fc_reed",
     "map_ib_dawn",
+    "map_kjerag_lake",
+    "map_leithanien_street",
     "map_le_alleys",
     "map_ursus_13ruins",
+    "map_ursus_ruins",
     "map_vc_reeds",
+    "map_victoria_parch",
     "map_wb_wall"
   ],
   "_values": [
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_bolivar_beach",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_bolivar_sea",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_columbia_center",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_col_testing",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_fc_reed",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_ib_dawn",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_kjerag_lake",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_leithanien_street",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_le_alleys",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_ursus_13ruins",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_ursus_ruins",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_vc_reeds",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_victoria_parch",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_wb_wall"
   ]
 }
