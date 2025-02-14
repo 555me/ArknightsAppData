@@ -4327,6 +4327,14 @@
       "atlas": 89
     },
     {
+      "name": "char_4173_nowell_2",
+      "atlas": 90
+    },
+    {
+      "name": "char_4173_nowell_1",
+      "atlas": 90
+    },
+    {
       "name": "char_4172_xingzh_2",
       "atlas": 90
     },
@@ -4340,6 +4348,14 @@
     },
     {
       "name": "char_4052_surfer_1",
+      "atlas": 90
+    },
+    {
+      "name": "char_4010_etlchi_2",
+      "atlas": 90
+    },
+    {
+      "name": "char_4010_etlchi_1",
       "atlas": 90
     },
     {
@@ -4363,7 +4379,15 @@
       "atlas": 91
     },
     {
+      "name": "char_4107_vrdant_unveiling#3",
+      "atlas": 91
+    },
+    {
       "name": "char_4105_almond_epoque#38",
+      "atlas": 91
+    },
+    {
+      "name": "char_4098_vvana_epoque#40",
       "atlas": 91
     },
     {
@@ -4376,6 +4400,14 @@
     },
     {
       "name": "char_301_cutter_marthe#8",
+      "atlas": 91
+    },
+    {
+      "name": "char_289_gyuki_epoque#40",
+      "atlas": 91
+    },
+    {
+      "name": "char_222_bpipe_epoque#40",
       "atlas": 91
     },
     {
