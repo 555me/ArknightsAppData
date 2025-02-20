@@ -73,6 +73,7 @@
     "shop_teahouse_2023",
     "shop_villagemanor_2025",
     "shop_vvana_epoque#40",
+    "shop_wanqin_epoque#41",
     "shop_zuole_nian#11"
   ],
   "_values": [
@@ -120,6 +121,7 @@
     "Arts/UI/HomeBanners/Shop/shop_teaHouse_2023",
     "Arts/UI/HomeBanners/Shop/shop_villagemanor_2025",
     "Arts/UI/HomeBanners/Shop/shop_vvana_epoque#40",
+    "Arts/UI/HomeBanners/Shop/shop_wanqin_epoque#41",
     "Arts/UI/HomeBanners/Shop/shop_zuole_nian#11"
   ]
 }

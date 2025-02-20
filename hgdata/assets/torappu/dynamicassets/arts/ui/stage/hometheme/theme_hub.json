@@ -35,6 +35,7 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act18mini",
+    "act31sre",
     "act40side",
     "crisis_v2_season_3_1",
     "main_10",
@@ -48,6 +49,7 @@
     "rogue_2_entry_display_1",
     "rogue_2_entry_display_2",
     "rogue_2_entry_display_3",
+    "rogue_2_entry_display_4",
     "rogue_3_entry_display_1",
     "rogue_3_entry_display_2",
     "rogue_3_entry_display_3",
@@ -60,6 +62,7 @@
   ],
   "_values": [
     "Arts/UI/Stage/HomeTheme/act18mini",
+    "Arts/UI/Stage/HomeTheme/act31sre",
     "Arts/UI/Stage/HomeTheme/act40side",
     "Arts/UI/Stage/HomeTheme/crisis_v2_season_3_1",
     "Arts/UI/Stage/HomeTheme/main_10",
@@ -73,6 +76,7 @@
     "Arts/UI/Stage/HomeTheme/rogue_2_entry_display_1",
     "Arts/UI/Stage/HomeTheme/rogue_2_entry_display_2",
     "Arts/UI/Stage/HomeTheme/rogue_2_entry_display_3",
+    "Arts/UI/Stage/HomeTheme/rogue_2_entry_display_4",
     "Arts/UI/Stage/HomeTheme/rogue_3_entry_display_1",
     "Arts/UI/Stage/HomeTheme/rogue_3_entry_display_2",
     "Arts/UI/Stage/HomeTheme/rogue_3_entry_display_3",

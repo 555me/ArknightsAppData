@@ -30,6 +30,7 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act18mini",
+    "act31sre",
     "act40side",
     "crisis_v2_season_3_1",
     "main_0",
@@ -50,6 +51,7 @@
   ],
   "_values": [
     "Arts/UI/Stage/[UC]HomeEntry/act18mini",
+    "Arts/UI/Stage/[UC]HomeEntry/act31sre",
     "Arts/UI/Stage/[UC]HomeEntry/act40side",
     "Arts/UI/Stage/[UC]HomeEntry/crisis_v2_season_3_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
