@@ -19,13 +19,17 @@
     {
       "width": 510,
       "height": 1000
+    },
+    {
+      "width": 1024,
+      "height": 1024
     }
   ],
   "_compressType": 10,
   "_atlasSize": 1,
   "_meshType": 0,
   "_useCntPerAtlas": 1,
-  "_maxFileSize": 2048000,
+  "_maxFileSize": 3145728,
   "_maxTextureSize": 0,
   "_extraTagRegex": "(\\w+)",
   "_extractTagConfig": {
@@ -36,8 +40,7 @@
   "_keys": [
     "act18mini",
     "act31sre",
-    "act40side",
-    "crisis_v2_season_3_1",
+    "act41side",
     "main_10",
     "main_11",
     "main_12",
@@ -56,6 +59,7 @@
     "rogue_4_entry_display_1",
     "rogue_4_entry_display_2",
     "rogue_4_entry_display_3",
+    "rogue_4_entry_display_4",
     "sandbox_1_entry_display_1",
     "sandbox_1_entry_display_2",
     "sandbox_1_entry_display_3"
@@ -63,8 +67,7 @@
   "_values": [
     "Arts/UI/Stage/HomeTheme/act18mini",
     "Arts/UI/Stage/HomeTheme/act31sre",
-    "Arts/UI/Stage/HomeTheme/act40side",
-    "Arts/UI/Stage/HomeTheme/crisis_v2_season_3_1",
+    "Arts/UI/Stage/HomeTheme/act41side",
     "Arts/UI/Stage/HomeTheme/main_10",
     "Arts/UI/Stage/HomeTheme/main_11",
     "Arts/UI/Stage/HomeTheme/main_12",
@@ -83,6 +86,7 @@
     "Arts/UI/Stage/HomeTheme/rogue_4_entry_display_1",
     "Arts/UI/Stage/HomeTheme/rogue_4_entry_display_2",
     "Arts/UI/Stage/HomeTheme/rogue_4_entry_display_3",
+    "Arts/UI/Stage/HomeTheme/rogue_4_entry_display_4",
     "Arts/UI/Stage/HomeTheme/sandbox_1_entry_display_1",
     "Arts/UI/Stage/HomeTheme/sandbox_1_entry_display_2",
     "Arts/UI/Stage/HomeTheme/sandbox_1_entry_display_3"

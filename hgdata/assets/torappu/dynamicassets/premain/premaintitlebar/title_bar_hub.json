@@ -30,6 +30,7 @@
   "_configName": "",
   "_keys": [
     "epoque_39",
+    "epoque_42",
     "nian_11",
     "sale_13",
     "shining_2",
@@ -37,6 +38,7 @@
   ],
   "_values": [
     "Premain/PremainTitleBar/epoque_39",
+    "Premain/PremainTitleBar/epoque_42",
     "Premain/PremainTitleBar/nian_11",
     "Premain/PremainTitleBar/sale_13",
     "Premain/PremainTitleBar/shining_2",

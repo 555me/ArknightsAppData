@@ -4423,11 +4423,31 @@
       "atlas": 91
     },
     {
-      "name": "char_486_takila_shining#2",
+      "name": "char_450_necras_2",
       "atlas": 92
     },
     {
-      "name": "char_4121_zuole_nian#11",
+      "name": "char_450_necras_1",
+      "atlas": 92
+    },
+    {
+      "name": "char_4177_brigid_2",
+      "atlas": 92
+    },
+    {
+      "name": "char_4177_brigid_1",
+      "atlas": 92
+    },
+    {
+      "name": "char_4171_wulfen_2",
+      "atlas": 92
+    },
+    {
+      "name": "char_4171_wulfen_1",
+      "atlas": 92
+    },
+    {
+      "name": "char_4146_nymph_epoque#42",
       "atlas": 92
     },
     {
@@ -4435,8 +4455,28 @@
       "atlas": 92
     },
     {
-      "name": "char_4117_ray_shining#2",
+      "name": "char_4102_threye_epoque#42",
       "atlas": 92
+    },
+    {
+      "name": "char_379_sesa_game#5",
+      "atlas": 92
+    },
+    {
+      "name": "char_260_durnar_epoque#42",
+      "atlas": 92
+    },
+    {
+      "name": "char_486_takila_shining#2",
+      "atlas": 93
+    },
+    {
+      "name": "char_4121_zuole_nian#11",
+      "atlas": 93
+    },
+    {
+      "name": "char_4117_ray_shining#2",
+      "atlas": 93
     }
   ],
   "_atlases": [
@@ -4532,7 +4572,8 @@
     "Arts/CharPortraits/portraits#89",
     "Arts/CharPortraits/portraits#90",
     "Arts/CharPortraits/portraits#91",
-    "Arts/CharPortraits/portraits#92"
+    "Arts/CharPortraits/portraits#92",
+    "Arts/CharPortraits/portraits#93"
   ],
   "_inputSpriteDir": "Assets/Torappu/Arts/CharPortraits",
   "_outputAtlasDir": "Assets/Torappu/Arts/CharPortraits/[X]Atlas",
