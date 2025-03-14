@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8420858811362262673
+  },
+  "m_Name": "carving_home",
+  "_pageIds": [
+    "[PACK]Carving/carving_home_1",
+    "[PACK]Carving/carving_home_2",
+    "[PACK]Carving/carving_home_3",
+    "[PACK]Carving/carving_home_4",
+    "[PACK]Carving/carving_home_5",
+    "[PACK]Carving/carving_home_6"
+  ],
+  "_autoShowTarget": 38,
+  "_subsignal": ""
+}

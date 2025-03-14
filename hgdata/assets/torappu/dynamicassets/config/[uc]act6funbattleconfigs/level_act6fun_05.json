@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -44719532003922444
+  },
+  "m_Name": "level_act6fun_05",
+  "characterActionPacks": [
+    {
+      "levelId": "level_act6fun_05",
+      "characterActions": [],
+      "triggerPuzzles": [
+        {
+          "triggerGrids": [
+            {
+              "row": 4,
+              "col": 3
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 0.0,
+              "charId": "char_190_clour",
+              "op": 0,
+              "direction": 0,
+              "pos": {
+                "row": 3,
+                "col": 4
+              }
+            }
+          ],
+          "branchId": ""
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 4,
+              "col": 12
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 0.0,
+              "charId": "char_1038_whitw2",
+              "op": 2,
+              "direction": 3,
+              "pos": {
+                "row": 4,
+                "col": 14
+              }
+            }
+          ],
+          "branchId": ""
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 4,
+              "col": 29
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 0.0,
+              "charId": "char_144_red",
+              "op": 0,
+              "direction": 3,
+              "pos": {
+                "row": 4,
+                "col": 30
+              }
+            },
+            {
+              "timestamp": 2.0,
+              "charId": "char_350_surtr",
+              "op": 0,
+              "direction": 3,
+              "pos": {
+                "row": 4,
+                "col": 38
+              }
+            }
+          ],
+          "branchId": ""
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 4,
+              "col": 33
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 0.0,
+              "charId": "char_1028_texas2",
+              "op": 0,
+              "direction": 3,
+              "pos": {
+                "row": 4,
+                "col": 34
+              }
+            }
+          ],
+          "branchId": ""
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 4,
+              "col": 35
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 0.0,
+              "charId": "char_350_surtr",
+              "op": 2,
+              "direction": 3,
+              "pos": {
+                "row": 0,
+                "col": 0
+              }
+            }
+          ],
+          "branchId": ""
+        }
+      ]
+    }
+  ]
+}

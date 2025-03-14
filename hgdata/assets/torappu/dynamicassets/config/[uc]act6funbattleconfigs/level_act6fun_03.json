@@ -1,0 +1,247 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -44719532003922444
+  },
+  "m_Name": "level_act6fun_03",
+  "characterActionPacks": [
+    {
+      "levelId": "level_act6fun_03",
+      "characterActions": [],
+      "triggerPuzzles": [
+        {
+          "triggerGrids": [
+            {
+              "row": 6,
+              "col": 11
+            },
+            {
+              "row": 5,
+              "col": 11
+            },
+            {
+              "row": 4,
+              "col": 11
+            },
+            {
+              "row": 6,
+              "col": 12
+            },
+            {
+              "row": 4,
+              "col": 12
+            },
+            {
+              "row": 6,
+              "col": 13
+            },
+            {
+              "row": 5,
+              "col": 13
+            },
+            {
+              "row": 4,
+              "col": 13
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 1.0,
+              "charId": "trap_002_emp",
+              "op": 2,
+              "direction": 0,
+              "pos": {
+                "row": 3,
+                "col": 12
+              }
+            },
+            {
+              "timestamp": 0.0,
+              "charId": "char_291_aglina",
+              "op": 0,
+              "direction": 2,
+              "pos": {
+                "row": 4,
+                "col": 14
+              }
+            }
+          ],
+          "branchId": ""
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 2,
+              "col": 13
+            },
+            {
+              "row": 3,
+              "col": 13
+            },
+            {
+              "row": 3,
+              "col": 14
+            },
+            {
+              "row": 3,
+              "col": 15
+            },
+            {
+              "row": 2,
+              "col": 15
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 1.0,
+              "charId": "trap_002_emp",
+              "op": 2,
+              "direction": 0,
+              "pos": {
+                "row": 2,
+                "col": 14
+              }
+            }
+          ],
+          "branchId": ""
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 6,
+              "col": 15
+            },
+            {
+              "row": 5,
+              "col": 15
+            },
+            {
+              "row": 4,
+              "col": 15
+            },
+            {
+              "row": 5,
+              "col": 15
+            },
+            {
+              "row": 4,
+              "col": 16
+            },
+            {
+              "row": 6,
+              "col": 16
+            },
+            {
+              "row": 6,
+              "col": 17
+            },
+            {
+              "row": 5,
+              "col": 17
+            },
+            {
+              "row": 4,
+              "col": 17
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 1.0,
+              "charId": "trap_002_emp",
+              "op": 2,
+              "direction": 0,
+              "pos": {
+                "row": 5,
+                "col": 16
+              }
+            }
+          ],
+          "branchId": ""
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 4,
+              "col": 19
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 5.0,
+              "charId": "char_431_ashlok",
+              "op": 2,
+              "direction": 2,
+              "pos": {
+                "row": 0,
+                "col": 0
+              }
+            },
+            {
+              "timestamp": 0.0,
+              "charId": "char_4039_horn",
+              "op": 2,
+              "direction": 2,
+              "pos": {
+                "row": 0,
+                "col": 0
+              }
+            }
+          ],
+          "branchId": "trigger_1"
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 6,
+              "col": 24
+            },
+            {
+              "row": 5,
+              "col": 24
+            },
+            {
+              "row": 4,
+              "col": 24
+            },
+            {
+              "row": 3,
+              "col": 24
+            },
+            {
+              "row": 2,
+              "col": 24
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 0.0,
+              "charId": "char_300_phenxi",
+              "op": 2,
+              "direction": 0,
+              "pos": {
+                "row": 0,
+                "col": 0
+              }
+            },
+            {
+              "timestamp": 1.0,
+              "charId": "char_2025_shu",
+              "op": 2,
+              "direction": 0,
+              "pos": {
+                "row": 0,
+                "col": 0
+              }
+            }
+          ],
+          "branchId": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8420858811362262673
+  },
+  "m_Name": "climb_tower_inner",
+  "_pageIds": [
+    "[PACK]ClimbTower/climb_tower_inner_1",
+    "[PACK]ClimbTower/climb_tower_inner_2",
+    "[PACK]ClimbTower/climb_tower_inner_3",
+    "[PACK]ClimbTower/climb_tower_inner_4",
+    "[PACK]ClimbTower/climb_tower_inner_5",
+    "[PACK]ClimbTower/climb_tower_inner_6"
+  ],
+  "_autoShowTarget": 28,
+  "_subsignal": "layer"
+}

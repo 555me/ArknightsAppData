@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8420858811362262673
+  },
+  "m_Name": "bp",
+  "_pageIds": [
+    "[uc]roguelike/bp_1",
+    "[uc]roguelike/bp_2",
+    "[uc]roguelike/bp_3"
+  ],
+  "_autoShowTarget": 26,
+  "_subsignal": "bp"
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8420858811362262673
+  },
+  "m_Name": "rogue_4_dungeon",
+  "_pageIds": [
+    "[uc]roguelike/dungeon_rogue_4_1",
+    "[uc]roguelike/fragment_rogue_4_1",
+    "[uc]roguelike/dungeon_rogue_4_3",
+    "[uc]roguelike/dungeon_rogue_4_4",
+    "[uc]roguelike/dungeon_rogue_4_5",
+    "[uc]roguelike/node_upgrade_rogue_4_1"
+  ],
+  "_autoShowTarget": 31,
+  "_subsignal": "rogue_4"
+}

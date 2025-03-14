@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8420858811362262673
+  },
+  "m_Name": "shop",
+  "_pageIds": [
+    "[pack]crisisv2/crisis_v2_shop_1"
+  ],
+  "_autoShowTarget": 35,
+  "_subsignal": "shop"
+}

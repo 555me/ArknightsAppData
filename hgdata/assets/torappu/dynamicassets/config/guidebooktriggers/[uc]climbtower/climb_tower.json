@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8420858811362262673
+  },
+  "m_Name": "climb_tower",
+  "_pageIds": [
+    "[PACK]ClimbTower/climb_tower_1",
+    "[PACK]ClimbTower/climb_tower_2",
+    "[PACK]ClimbTower/climb_tower_3",
+    "[PACK]ClimbTower/climb_tower_4"
+  ],
+  "_autoShowTarget": 27,
+  "_subsignal": "entry"
+}

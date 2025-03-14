@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8420858811362262673
+  },
+  "m_Name": "tuning_product",
+  "_pageIds": [
+    "[PACK]Tuning/tuning_product_1",
+    "[PACK]Tuning/tuning_product_2",
+    "[PACK]Tuning/tuning_product_3",
+    "[PACK]Tuning/tuning_product_4"
+  ],
+  "_autoShowTarget": 34,
+  "_subsignal": "product"
+}

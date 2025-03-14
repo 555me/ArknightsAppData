@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8420858811362262673
+  },
+  "m_Name": "firework_puzzle",
+  "_pageIds": [
+    "[PACK]Firework/puzzle_1",
+    "[PACK]Firework/puzzle_2"
+  ],
+  "_autoShowTarget": 40,
+  "_subsignal": "puzzle"
+}

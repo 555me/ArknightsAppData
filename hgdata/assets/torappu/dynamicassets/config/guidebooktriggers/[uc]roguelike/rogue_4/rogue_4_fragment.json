@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8420858811362262673
+  },
+  "m_Name": "rogue_4_fragment",
+  "_pageIds": [
+    "[uc]roguelike/fragment_rogue_4_1",
+    "[uc]roguelike/fragment_rogue_4_2",
+    "[uc]roguelike/fragment_rogue_4_3"
+  ],
+  "_autoShowTarget": 31,
+  "_subsignal": "rl04_fragment"
+}

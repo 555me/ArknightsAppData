@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8420858811362262673
+  },
+  "m_Name": "grocery",
+  "_pageIds": [
+    "[PACK]Grocery/grocery_1",
+    "[PACK]Grocery/grocery_2",
+    "[PACK]Grocery/grocery_3"
+  ],
+  "_autoShowTarget": 33,
+  "_subsignal": ""
+}

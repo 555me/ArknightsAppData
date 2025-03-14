@@ -1,0 +1,146 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2337168187260716130
+  },
+  "m_Name": "dialogue_command_holder",
+  "_actionCommands": [
+    {
+      "actionId": "recover_sp_recovery",
+      "actionArray": {
+        "SerializedState": "[{\"_buffKey\":\"[dialog] stop_sp_recovery\",\"_loadFromBlackboard\":false,\"_decCntIfStack\":false,\"_updateOverrideMap\":true,\"_targetType\":\"TARGET\",\"_checkBuffSource\":false,\"_sourceType\":\"BUFF_SOURCE\",\"_alsoClearNullSource\":false,\"_finishHostBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FinishBuffsById\"}]",
+        "SerializedObjectReferences": []
+      },
+      "blackboard": []
+    },
+    {
+      "actionId": "stop_sp_recovery",
+      "actionArray": {
+        "SerializedState": "[{\"_buff\":{\"attributes\":{\"abnormalFlags\":[\"SP_RECOVER_STOPPED\"],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"[dialog] stop_sp_recovery\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"empty\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"INFINITY\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[]},\"_buffOwner\":\"TARGET\",\"_isDerivedBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateNoSourceBuff\"}]",
+        "SerializedObjectReferences": []
+      },
+      "blackboard": []
+    },
+    {
+      "actionId": "switch_mode[0]",
+      "actionArray": {
+        "SerializedState": "[{\"_modeIndex\":0,\"_loadModeFromBlackboard\":false,\"_restoreDefault\":false,\"_restartFSM\":false,\"_targetType\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+SwitchMode\"}]",
+        "SerializedObjectReferences": []
+      },
+      "blackboard": []
+    },
+    {
+      "actionId": "switch_mode[1]",
+      "actionArray": {
+        "SerializedState": "[{\"_modeIndex\":1,\"_loadModeFromBlackboard\":false,\"_restoreDefault\":false,\"_restartFSM\":false,\"_targetType\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+SwitchMode\"}]",
+        "SerializedObjectReferences": []
+      },
+      "blackboard": []
+    },
+    {
+      "actionId": "common_bubble_happy",
+      "actionArray": {
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedObjectReferences": []
+      },
+      "blackboard": [
+        {
+          "key": "effect",
+          "value": 0.0,
+          "valueStr": "common_bubble_happy"
+        }
+      ]
+    },
+    {
+      "actionId": "common_bubble_confuse",
+      "actionArray": {
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedObjectReferences": []
+      },
+      "blackboard": [
+        {
+          "key": "effect",
+          "value": 0.0,
+          "valueStr": "common_bubble_confuse"
+        }
+      ]
+    },
+    {
+      "actionId": "common_bubble_angry",
+      "actionArray": {
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedObjectReferences": []
+      },
+      "blackboard": [
+        {
+          "key": "effect",
+          "value": 0.0,
+          "valueStr": "common_bubble_angry"
+        }
+      ]
+    },
+    {
+      "actionId": "common_bubble_sad",
+      "actionArray": {
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedObjectReferences": []
+      },
+      "blackboard": [
+        {
+          "key": "effect",
+          "value": 0.0,
+          "valueStr": "common_bubble_sad"
+        }
+      ]
+    },
+    {
+      "actionId": "common_bubble_surprise",
+      "actionArray": {
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedObjectReferences": []
+      },
+      "blackboard": [
+        {
+          "key": "effect",
+          "value": 0.0,
+          "valueStr": "common_bubble_surprise"
+        }
+      ]
+    },
+    {
+      "actionId": "common_bubble_think",
+      "actionArray": {
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedObjectReferences": []
+      },
+      "blackboard": [
+        {
+          "key": "effect",
+          "value": 0.0,
+          "valueStr": "common_bubble_think"
+        }
+      ]
+    },
+    {
+      "actionId": "effect_mantic[hidden]",
+      "actionArray": {
+        "SerializedState": "[{\"_buff\":{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"effect_mantic[hidden]\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"empty\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":\"mantic_buff_01\",\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"INFINITY\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[]},\"_buffOwner\":\"TARGET\",\"_isDerivedBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateNoSourceBuff\"}]",
+        "SerializedObjectReferences": []
+      },
+      "blackboard": []
+    },
+    {
+      "actionId": "effect_mantic[hidden][finish]",
+      "actionArray": {
+        "SerializedState": "[{\"_buffKey\":\"effect_mantic[hidden]\",\"_loadFromBlackboard\":false,\"_decCntIfStack\":false,\"_updateOverrideMap\":true,\"_targetType\":\"TARGET\",\"_checkBuffSource\":false,\"_sourceType\":\"BUFF_SOURCE\",\"_alsoClearNullSource\":false,\"_finishHostBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FinishBuffsById\"}]",
+        "SerializedObjectReferences": []
+      },
+      "blackboard": []
+    }
+  ]
+}

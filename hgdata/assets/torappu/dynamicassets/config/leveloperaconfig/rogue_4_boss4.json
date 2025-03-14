@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5290414107711269485
+  },
+  "m_Name": "rogue_4_boss4",
+  "_commands": [
+    {
+      "key": "move_camera",
+      "operaNodes": {
+        "SerializedState": "[{\"_offset\":{\"x\":12.0,\"y\":0.0,\"z\":0.0},\"_preDelay\":3.0,\"$type\":\"Torappu.Battle.Opera.MoveCamera\"},{\"_min\":{\"row\":0,\"col\":9},\"_max\":{\"row\":9,\"col\":17},\"_buildableType\":\"NONE\",\"_restoreOptions\":true,\"_preDelay\":3.1,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":9,\"col\":8},\"_buff\":{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"enemy_skzjkl_clean_area\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"enemy_skzjkl_clean_area\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"IMMEDIATELY\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[{\"key\":\"respawn_time\",\"value\":-1.0,\"valueStr\":null}]},\"_preDelay\":3.1,\"$type\":\"Torappu.Battle.Opera.CreateBuffInArea\"},{\"_min\":{\"row\":0,\"col\":9},\"_max\":{\"row\":9,\"col\":17},\"_buff\":{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"enemy_skzjkl_start_card\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"enemy_skzjkl_start_card\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"LIMITED\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[{\"key\":\"remaining_respawn_time\",\"value\":999.0,\"valueStr\":null}]},\"_preDelay\":3.1,\"$type\":\"Torappu.Battle.Opera.CreateBuffInArea\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":9,\"col\":8},\"_buildableType\":\"NONE\",\"_restoreOptions\":false,\"_preDelay\":3.1,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":9,\"col\":8},\"_buff\":{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"enemy_skzjkl_clean_enemy\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"enemy_skzjkl_clean_enemy\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"IMMEDIATELY\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[]},\"_preDelay\":7.5,\"$type\":\"Torappu.Battle.Opera.CreateBuffInArea\",\"$id\":\"21\"},{\"$ref\":\"21\"},{\"$ref\":\"21\"},{\"$ref\":\"21\"},{\"$ref\":\"21\"},{\"$ref\":\"21\"},{\"$ref\":\"21\"},{\"$ref\":\"21\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 8.0
+    },
+    {
+      "key": "init",
+      "operaNodes": {
+        "SerializedState": "[{\"_min\":{\"row\":0,\"col\":9},\"_max\":{\"row\":6,\"col\":17},\"_buildableType\":\"NONE\",\"_restoreOptions\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 0.0
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -548502070026144910
+  },
+  "m_Name": "HGColorGrading",
+  "active": 1,
+  "enabled": {
+    "overrideState": 1,
+    "value": 1
+  },
+  "runtimeDynamic": {
+    "overrideState": 1,
+    "value": 1
+  },
+  "lutContribution": {
+    "overrideState": 1,
+    "value": 1.0
+  },
+  "externalLut": {
+    "overrideState": 1,
+    "value": {
+      "m_FileID": 0,
+      "m_PathID": 3134900786988888554
+    },
+    "defaultState": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8420858811362262673
+  },
+  "m_Name": "select",
+  "_pageIds": [
+    "[uc]roguelike/select_1",
+    "[uc]roguelike/select_2",
+    "[uc]roguelike/select_3",
+    "[uc]roguelike/select_4",
+    "[uc]roguelike/select_5",
+    "[uc]roguelike/select_6"
+  ],
+  "_autoShowTarget": 25,
+  "_subsignal": "select"
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5290414107711269485
+  },
+  "m_Name": "rogue_4_dlc2_temp",
+  "_commands": [
+    {
+      "key": "move_camera_2",
+      "operaNodes": {
+        "SerializedState": "[{\"_offset\":{\"x\":25.0,\"y\":0.0,\"z\":0.0},\"_preDelay\":2.6,\"$type\":\"Torappu.Battle.Opera.MoveCamera\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":7,\"col\":22},\"_buff\":{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"rogue4_boss5_killAll\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"rogue4_boss5_killAll\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"IMMEDIATELY\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[]},\"_preDelay\":3.5,\"$type\":\"Torappu.Battle.Opera.CreateBuffInArea\"},{\"_min\":{\"row\":0,\"col\":23},\"_max\":{\"row\":7,\"col\":32},\"_buildableType\":\"NONE\",\"_restoreOptions\":true,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"},{\"_min\":{\"row\":0,\"col\":11},\"_max\":{\"row\":7,\"col\":22},\"_buildableType\":\"NONE\",\"_restoreOptions\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 5.0
+    },
+    {
+      "key": "move_camera_1",
+      "operaNodes": {
+        "SerializedState": "[{\"_offset\":{\"x\":15.0,\"y\":0.0,\"z\":0.0},\"_preDelay\":2.6,\"$type\":\"Torappu.Battle.Opera.MoveCamera\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":7,\"col\":11},\"_buff\":{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"rogue4_boss5_killAll\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"rogue4_boss5_killAll\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"IMMEDIATELY\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[]},\"_preDelay\":3.5,\"$type\":\"Torappu.Battle.Opera.CreateBuffInArea\"},{\"_min\":{\"row\":0,\"col\":11},\"_max\":{\"row\":7,\"col\":22},\"_buildableType\":\"NONE\",\"_restoreOptions\":true,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":7,\"col\":11},\"_buildableType\":\"NONE\",\"_restoreOptions\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 5.0
+    },
+    {
+      "key": "init",
+      "operaNodes": {
+        "SerializedState": "[{\"_min\":{\"row\":0,\"col\":11},\"_max\":{\"row\":7,\"col\":32},\"_buildableType\":\"NONE\",\"_restoreOptions\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 0.0
+    }
+  ]
+}

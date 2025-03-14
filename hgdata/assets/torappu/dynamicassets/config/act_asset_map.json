@@ -1,0 +1,114 @@
+{
+  "isTrimed": true,
+  "code": 409,
+  "aspects": {
+    "ZONE_MAP": {
+      "permanent_sub_2_zone1": {
+        "resPath": "Retro/permanent_sub_2_A_Walk_In_The_Dust/zone_map_permanent_sub_2_zone1",
+        "activity": "permanent_sub_2_a_walk_in_the_dust"
+      },
+      "permanent_sidestory_3_zone2": {
+        "resPath": "Retro/permanent_sidestory_3_Code_Of_Brawl/zone_map_permanent_sidestory_3_zone2",
+        "activity": "permanent_sidestory_3_code_of_brawl"
+      },
+      "act31sre_zone3": {
+        "resPath": "Activity/[UC]act31sre/ZoneMaps/zone_map_act31sre_zone3",
+        "activity": "act31sre"
+      },
+      "act31sre_zone2": {
+        "resPath": "Activity/[UC]act31sre/ZoneMaps/zone_map_act31sre_zone2",
+        "activity": "act31sre"
+      },
+      "act31sre_zone1": {
+        "resPath": "Activity/[UC]act31sre/ZoneMaps/zone_map_act31sre_zone1",
+        "activity": "act31sre"
+      },
+      "act18mini_zone1": {
+        "resPath": "Activity/[UC]act18mini/ZoneMaps/zone_map_act18mini_zone1",
+        "activity": "act18mini"
+      },
+      "act41side_zone2": {
+        "resPath": "Activity/[UC]act41side/ZoneMaps/zone_map_act41side_zone2",
+        "activity": "act41side"
+      },
+      "act41side_zone1": {
+        "resPath": "Activity/[UC]act41side/ZoneMaps/zone_map_act41side_zone1",
+        "activity": "act41side"
+      }
+    },
+    "START_BATTLE_BUTTON": {},
+    "ITEM_ICON": {},
+    "TIMELY_DROP": {
+      "exDrop_act18mini": {
+        "resPath": "Activity/[UC]act18mini/TimelyDrop/exDrop_act18mini",
+        "activity": "act18mini"
+      }
+    },
+    "STAGE_BTN": {},
+    "ZONE_MAP_PLUGIN": {
+      "act18mini": {
+        "resPath": "Activity/[UC]act18mini/Prefabs/MapPlugin/act18mini_map_plugin_holder",
+        "activity": "act18mini"
+      }
+    },
+    "BATTLE_FINISH": {},
+    "TEMPLATE_SHOP": {
+      "templateshop_shop_act31sre": {
+        "resPath": "Activity/[UC]act31sre/Prefabs/act31sre_template_shop",
+        "activity": "act31sre"
+      },
+      "title_shop_act31sre": {
+        "resPath": "Activity/[UC]act31sre/Prefabs/act31sre_template_shop",
+        "activity": "act31sre"
+      },
+      "templateshop_shop_act18mini": {
+        "resPath": "Activity/[UC]act18mini/Prefabs/Shop/act18mini_template_shop",
+        "activity": "act18mini"
+      },
+      "title_shop_act18mini": {
+        "resPath": "Activity/[UC]act18mini/Prefabs/Shop/act18mini_template_shop",
+        "activity": "act18mini"
+      },
+      "templateshop_shop_act41side": {
+        "resPath": "Activity/[UC]act41side/Prefabs/act41side_template_shop",
+        "activity": "act41side"
+      },
+      "title_shop_act41side": {
+        "resPath": "Activity/[UC]act41side/Prefabs/act41side_template_shop",
+        "activity": "act41side"
+      }
+    },
+    "BATTLE": {},
+    "SQUAD_HOME_PLUGIN": {},
+    "HOME_TOPBAR": {},
+    "HIDDEN_STAGE_TOAST": {
+      "permanent_sidestory_15_dorothy's_vision": {
+        "resPath": "Retro/permanent_sidestory_15_Dorothy's_Vision/permanent_sidestory_15_hidden_stage_toast_holder",
+        "activity": "permanent_sidestory_15_dorothy's_vision"
+      }
+    },
+    "STAGE_PREVIEW_PLUGIN": {},
+    "TEMPLATE_TRAP_VIEW": {},
+    "DYNAMIC_PAGE": {},
+    "TEMPLATE_MISSION": {
+      "act31sre_custom_mission_res_holder": {
+        "resPath": "Activity/[UC]act31sre/Prefabs/act31sre_mission_view_holder",
+        "activity": "act31sre"
+      },
+      "act31sre_custom_mission_view_holder": {
+        "resPath": "Activity/[UC]act31sre/Prefabs/act31sre_mission_view_holder",
+        "activity": "act31sre"
+      },
+      "act41side_custom_mission_res_holder": {
+        "resPath": "Activity/[UC]act41side/Prefabs/act41side_mission_view_holder",
+        "activity": "act41side"
+      },
+      "act41side_custom_mission_view_holder": {
+        "resPath": "Activity/[UC]act41side/Prefabs/act41side_mission_view_holder",
+        "activity": "act41side"
+      }
+    },
+    "CUSTOM_ZONE_CONTAINER": {},
+    "ACTIVITY_CUSTOM_ZONE_MAP_HOLDER": {}
+  }
+}
