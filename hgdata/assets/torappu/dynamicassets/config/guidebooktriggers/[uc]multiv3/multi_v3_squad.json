@@ -9,7 +9,10 @@
     "m_PathID": 8420858811362262673
   },
   "m_Name": "multi_v3_squad",
-  "_pageIds": [],
+  "_pageIds": [
+    "[PACK]MultiV3/squad_1",
+    "[PACK]MultiV3/squad_2"
+  ],
   "_autoShowTarget": 42,
   "_subsignal": "squad"
 }

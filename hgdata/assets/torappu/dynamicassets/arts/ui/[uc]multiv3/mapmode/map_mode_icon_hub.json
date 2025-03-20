@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "map_mode_icon_hub",
+  "_rootPackingTag": "ACT_MULTI_V3_MAP_MODE_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 128,
+    "height": 128
+  },
+  "_extraPicSize": [
+    {
+      "width": 64,
+      "height": 64
+    },
+    {
+      "width": 57,
+      "height": 55
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 1,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "icon_corner_mode_2",
+    "icon_corner_mode_3",
+    "icon_mode_1",
+    "icon_mode_1_color",
+    "icon_mode_1_tiny",
+    "icon_mode_2",
+    "icon_mode_2_color",
+    "icon_mode_2_tiny",
+    "icon_mode_3",
+    "icon_mode_3_color",
+    "icon_mode_3_tiny"
+  ],
+  "_values": [
+    "Arts/UI/[UC]MultiV3/MapMode/icon_corner_mode_2",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_corner_mode_3",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_1",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_1_color",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_1_tiny",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_2",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_2_color",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_2_tiny",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_3",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_3_color",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_3_tiny"
+  ]
+}

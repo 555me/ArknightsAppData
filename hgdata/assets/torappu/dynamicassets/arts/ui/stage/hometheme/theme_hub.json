@@ -39,6 +39,7 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act18mini",
+    "act1multi",
     "act31sre",
     "act41side",
     "main_10",
@@ -66,6 +67,7 @@
   ],
   "_values": [
     "Arts/UI/Stage/HomeTheme/act18mini",
+    "Arts/UI/Stage/HomeTheme/act1multi",
     "Arts/UI/Stage/HomeTheme/act31sre",
     "Arts/UI/Stage/HomeTheme/act41side",
     "Arts/UI/Stage/HomeTheme/main_10",

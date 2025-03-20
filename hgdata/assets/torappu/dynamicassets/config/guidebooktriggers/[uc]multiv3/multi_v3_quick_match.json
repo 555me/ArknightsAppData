@@ -9,7 +9,14 @@
     "m_PathID": 8420858811362262673
   },
   "m_Name": "multi_v3_quick_match",
-  "_pageIds": [],
+  "_pageIds": [
+    "[PACK]MultiV3/match_1",
+    "[PACK]MultiV3/match_2",
+    "[PACK]MultiV3/match_3",
+    "[PACK]MultiV3/match_4",
+    "[PACK]MultiV3/match_5",
+    "[PACK]MultiV3/match_6"
+  ],
   "_autoShowTarget": 42,
   "_subsignal": "quick_match"
 }
