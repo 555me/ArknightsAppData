@@ -27,6 +27,10 @@
         "resPath": "Activity/[UC]act18mini/ZoneMaps/zone_map_act18mini_zone1",
         "activity": "act18mini"
       },
+      "act6fun_zone1": {
+        "resPath": "UI/Activity/ActFun/Actfun6/zoneMap/zone_map_act6fun_zone1",
+        "activity": "actfun"
+      },
       "act41side_zone2": {
         "resPath": "Activity/[UC]act41side/ZoneMaps/zone_map_act41side_zone2",
         "activity": "act41side"
@@ -51,7 +55,24 @@
         "activity": "act18mini"
       }
     },
-    "BATTLE_FINISH": {},
+    "BATTLE_FINISH": {
+      "act3fun": {
+        "resPath": "UI/Activity/ActFun/Actfun3/BattleFinish/act3fun_battle_finish_view",
+        "activity": "act3fun"
+      },
+      "act4fun": {
+        "resPath": "UI/Activity/ActFun/Actfun4/BattleFinish/act4fun_battle_finish_view",
+        "activity": "act4fun"
+      },
+      "act5fun": {
+        "resPath": "UI/Activity/ActFun/Actfun5/BattleFinish/act5fun_battle_finish_view",
+        "activity": "act5fun"
+      },
+      "act6fun": {
+        "resPath": "UI/Activity/ActFun/Actfun6/BattleFinish/act6fun_battle_finish_view",
+        "activity": "act6fun"
+      }
+    },
     "TEMPLATE_SHOP": {
       "templateshop_shop_act31sre": {
         "resPath": "Activity/[UC]act31sre/Prefabs/act31sre_template_shop",
@@ -80,7 +101,12 @@
     },
     "BATTLE": {},
     "SQUAD_HOME_PLUGIN": {},
-    "HOME_TOPBAR": {},
+    "HOME_TOPBAR": {
+      "act6fun": {
+        "resPath": "Activity/[UC]act6fun/Prefab/top_entry_holder",
+        "activity": "act6fun"
+      }
+    },
     "HIDDEN_STAGE_TOAST": {
       "permanent_sidestory_15_dorothy's_vision": {
         "resPath": "Retro/permanent_sidestory_15_Dorothy's_Vision/permanent_sidestory_15_hidden_stage_toast_holder",
@@ -109,6 +135,11 @@
       }
     },
     "CUSTOM_ZONE_CONTAINER": {},
-    "ACTIVITY_CUSTOM_ZONE_MAP_HOLDER": {}
+    "ACTIVITY_CUSTOM_ZONE_MAP_HOLDER": {
+      "act6fun_zone1": {
+        "resPath": "UI/Activity/ActFun/Actfun6/zoneMap/act6fun_zone_map_holder",
+        "activity": "actfun"
+      }
+    }
   }
 }

@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "act6fun_char_big_pic_hub",
+  "_rootPackingTag": "ACT6FUN_CHAR_BIG_PIC",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 960,
+    "height": 960
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "act6fun_char_01",
+    "act6fun_char_02",
+    "act6fun_char_03",
+    "act6fun_char_04",
+    "act6fun_char_05",
+    "act6fun_char_06",
+    "act6fun_char_07",
+    "act6fun_char_08"
+  ],
+  "_values": [
+    "Activity/[UC]ActFun/Arts/Act6funCharBigPic/act6fun_char_01",
+    "Activity/[UC]ActFun/Arts/Act6funCharBigPic/act6fun_char_02",
+    "Activity/[UC]ActFun/Arts/Act6funCharBigPic/act6fun_char_03",
+    "Activity/[UC]ActFun/Arts/Act6funCharBigPic/act6fun_char_04",
+    "Activity/[UC]ActFun/Arts/Act6funCharBigPic/act6fun_char_05",
+    "Activity/[UC]ActFun/Arts/Act6funCharBigPic/act6fun_char_06",
+    "Activity/[UC]ActFun/Arts/Act6funCharBigPic/act6fun_char_07",
+    "Activity/[UC]ActFun/Arts/Act6funCharBigPic/act6fun_char_08"
+  ]
+}
