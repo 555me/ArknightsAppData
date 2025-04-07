@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "month_squad_hub",
+  "_rootPackingTag": "UI_ROGUE_2_TOPIC_RECORD",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 711,
+    "height": 770
+  },
+  "_extraPicSize": [
+    {
+      "width": 227,
+      "height": 214
+    }
+  ],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": [
+      {
+        "regex": "rogue_2_([0-9a-z]{1,})",
+        "pattern": "MONTH_{1}"
+      }
+    ]
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "ending_month_chat_rogue_2_1",
+    "ending_month_chat_rogue_2_2",
+    "ending_month_chat_rogue_2_3",
+    "ending_month_chat_rogue_2_4",
+    "ending_month_chat_rogue_2_5",
+    "ending_month_chat_rogue_2_6",
+    "ending_month_chat_rogue_2_7",
+    "ending_month_chat_rogue_2_8",
+    "month_chat_rogue_2_1",
+    "month_chat_rogue_2_2",
+    "month_chat_rogue_2_3",
+    "month_chat_rogue_2_4",
+    "month_chat_rogue_2_5",
+    "month_chat_rogue_2_6",
+    "month_chat_rogue_2_7",
+    "month_chat_rogue_2_8"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/ending_month_chat_rogue_2_1",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/ending_month_chat_rogue_2_2",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/ending_month_chat_rogue_2_3",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/ending_month_chat_rogue_2_4",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/ending_month_chat_rogue_2_5",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/ending_month_chat_rogue_2_6",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/ending_month_chat_rogue_2_7",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/ending_month_chat_rogue_2_8",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/month_chat_rogue_2_1",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/month_chat_rogue_2_2",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/month_chat_rogue_2_3",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/month_chat_rogue_2_4",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/month_chat_rogue_2_5",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/month_chat_rogue_2_6",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/month_chat_rogue_2_7",
+    "UI/RoguelikeTopic/Topics/rogue_2_update/MonthSquadRecord/month_chat_rogue_2_8"
+  ]
+}

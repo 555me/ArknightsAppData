@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -4420957637576057513
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
   },
   "m_Name": "rl04_menu_difficulty_hub",
   "_sprites": [
@@ -64,11 +64,11 @@
       "index": 0,
       "texture": {
         "m_FileID": 0,
-        "m_PathID": 1829849155267607144
+        "m_PathID": 8227972208438755644
       },
       "alpha": {
         "m_FileID": 0,
-        "m_PathID": 6973011328789394659
+        "m_PathID": 2853803675016317892
       },
       "size": 128
     }
