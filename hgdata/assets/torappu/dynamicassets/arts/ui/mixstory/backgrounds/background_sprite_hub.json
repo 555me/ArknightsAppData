@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "background_sprite_hub",
+  "_rootPackingTag": "MIXSTORY_BACKGROUND_SPRITES",
+  "_cntPerAtlas": 32,
+  "_standardPicSize": {
+    "width": 1024,
+    "height": 720
+  },
+  "_extraPicSize": [],
+  "_compressType": 11,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 3145728,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "bg_mainline_0",
+    "bg_mainline_1",
+    "bg_mainline_2",
+    "bg_mainline_3",
+    "bg_ssline_1",
+    "bg_ssline_10",
+    "bg_ssline_11",
+    "bg_ssline_12",
+    "bg_ssline_2",
+    "bg_ssline_3",
+    "bg_ssline_4",
+    "bg_ssline_5",
+    "bg_ssline_6",
+    "bg_ssline_7",
+    "bg_ssline_8",
+    "bg_ssline_9"
+  ],
+  "_values": [
+    "Arts/UI/MixStory/Backgrounds/bg_mainLine_0",
+    "Arts/UI/MixStory/Backgrounds/bg_mainLine_1",
+    "Arts/UI/MixStory/Backgrounds/bg_mainLine_2",
+    "Arts/UI/MixStory/Backgrounds/bg_mainLine_3",
+    "Arts/UI/MixStory/Backgrounds/bg_ssLine_1",
+    "Arts/UI/MixStory/Backgrounds/bg_ssLine_10",
+    "Arts/UI/MixStory/Backgrounds/bg_ssLine_11",
+    "Arts/UI/MixStory/Backgrounds/bg_ssLine_12",
+    "Arts/UI/MixStory/Backgrounds/bg_ssLine_2",
+    "Arts/UI/MixStory/Backgrounds/bg_ssLine_3",
+    "Arts/UI/MixStory/Backgrounds/bg_ssLine_4",
+    "Arts/UI/MixStory/Backgrounds/bg_ssLine_5",
+    "Arts/UI/MixStory/Backgrounds/bg_ssLine_6",
+    "Arts/UI/MixStory/Backgrounds/bg_ssLine_7",
+    "Arts/UI/MixStory/Backgrounds/bg_ssLine_8",
+    "Arts/UI/MixStory/Backgrounds/bg_ssLine_9"
+  ]
+}

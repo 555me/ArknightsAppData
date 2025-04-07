@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -4420957637576057513
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
   },
   "m_Name": "season_hub",
   "_sprites": [
@@ -352,11 +352,11 @@
       "index": 0,
       "texture": {
         "m_FileID": 0,
-        "m_PathID": -4734255301219125197
+        "m_PathID": -6260928155486060812
       },
       "alpha": {
         "m_FileID": 0,
-        "m_PathID": 217833198929432233
+        "m_PathID": -8516560099702802888
       },
       "size": 1024
     }

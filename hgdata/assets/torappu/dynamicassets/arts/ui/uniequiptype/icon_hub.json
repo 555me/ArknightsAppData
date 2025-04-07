@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 5461515488609553696
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
   },
   "m_Name": "icon_hub",
   "_rootPackingTag": "UI_EQUIP_TYPE_HUB",
@@ -33,6 +33,7 @@
     "aft-x",
     "aft-y",
     "age-x",
+    "age-y",
     "alc-x",
     "amb-x",
     "amb-y",
@@ -141,6 +142,7 @@
     "Arts/UI/UniEquipType/aft-x",
     "Arts/UI/UniEquipType/aft-y",
     "Arts/UI/UniEquipType/age-x",
+    "Arts/UI/UniEquipType/age-y",
     "Arts/UI/UniEquipType/alc-x",
     "Arts/UI/UniEquipType/amb-x",
     "Arts/UI/UniEquipType/amb-y",

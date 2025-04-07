@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -2901845067482496567
+    "m_FileID": 1,
+    "m_PathID": 919658484135957278
   },
   "m_Name": "portrait_hub",
   "_sprites": [
@@ -4471,7 +4471,27 @@
       "atlas": 92
     },
     {
-      "name": "char_486_takila_shining#2",
+      "name": "char_445_wscoot_2",
+      "atlas": 93
+    },
+    {
+      "name": "char_445_wscoot_1",
+      "atlas": 93
+    },
+    {
+      "name": "char_4179_monstr_2",
+      "atlas": 93
+    },
+    {
+      "name": "char_4179_monstr_1",
+      "atlas": 93
+    },
+    {
+      "name": "char_4178_alanna_2",
+      "atlas": 93
+    },
+    {
+      "name": "char_4178_alanna_1",
       "atlas": 93
     },
     {
@@ -4481,6 +4501,22 @@
     {
       "name": "char_4117_ray_shining#2",
       "atlas": 93
+    },
+    {
+      "name": "char_4087_ines_ambiencesynesthesia#5",
+      "atlas": 93
+    },
+    {
+      "name": "char_4072_ironmn_ambiencesynesthesia#5",
+      "atlas": 93
+    },
+    {
+      "name": "char_486_takila_shining#2",
+      "atlas": 94
+    },
+    {
+      "name": "char_4131_odda_whirlwind#8",
+      "atlas": 94
     }
   ],
   "_atlases": [
@@ -4577,7 +4613,8 @@
     "Arts/CharPortraits/portraits#90",
     "Arts/CharPortraits/portraits#91",
     "Arts/CharPortraits/portraits#92",
-    "Arts/CharPortraits/portraits#93"
+    "Arts/CharPortraits/portraits#93",
+    "Arts/CharPortraits/portraits#94"
   ],
   "_inputSpriteDir": "Assets/Torappu/Arts/CharPortraits",
   "_outputAtlasDir": "Assets/Torappu/Arts/CharPortraits/[X]Atlas",

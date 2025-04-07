@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -4420957637576057513
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
   },
   "m_Name": "battle_finish_hub",
   "_sprites": [
@@ -220,11 +220,11 @@
       "index": 0,
       "texture": {
         "m_FileID": 0,
-        "m_PathID": 1630965294334159748
+        "m_PathID": 4961905417462833537
       },
       "alpha": {
         "m_FileID": 0,
-        "m_PathID": -3027841535448924266
+        "m_PathID": -1702594345316773610
       },
       "size": 1024
     }

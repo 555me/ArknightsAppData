@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -4420957637576057513
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
   },
   "m_Name": "chat_emoji_hub",
   "_sprites": [
@@ -76,11 +76,11 @@
       "index": 0,
       "texture": {
         "m_FileID": 0,
-        "m_PathID": -6070103107554320726
+        "m_PathID": -3172105025677554639
       },
       "alpha": {
         "m_FileID": 0,
-        "m_PathID": 182809709138388163
+        "m_PathID": -7740546626683889217
       },
       "size": 512
     }

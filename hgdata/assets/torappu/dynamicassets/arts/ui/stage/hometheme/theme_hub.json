@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 5461515488609553696
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
   },
   "m_Name": "theme_hub",
   "_rootPackingTag": "UI_ZONE_HOME_THEME",
@@ -38,9 +38,10 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
-    "act18mini",
     "act1multi",
-    "act31sre",
+    "act2mainss_1",
+    "act2mainss_2",
+    "act2mainss_3",
     "act41side",
     "main_10",
     "main_11",
@@ -66,9 +67,10 @@
     "sandbox_1_entry_display_3"
   ],
   "_values": [
-    "Arts/UI/Stage/HomeTheme/act18mini",
     "Arts/UI/Stage/HomeTheme/act1multi",
-    "Arts/UI/Stage/HomeTheme/act31sre",
+    "Arts/UI/Stage/HomeTheme/act2mainss_1",
+    "Arts/UI/Stage/HomeTheme/act2mainss_2",
+    "Arts/UI/Stage/HomeTheme/act2mainss_3",
     "Arts/UI/Stage/HomeTheme/act41side",
     "Arts/UI/Stage/HomeTheme/main_10",
     "Arts/UI/Stage/HomeTheme/main_11",

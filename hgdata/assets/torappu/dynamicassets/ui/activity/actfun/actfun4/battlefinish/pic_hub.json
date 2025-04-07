@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -4420957637576057513
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
   },
   "m_Name": "pic_hub",
   "_sprites": [
@@ -148,11 +148,11 @@
       "index": 0,
       "texture": {
         "m_FileID": 0,
-        "m_PathID": 6724048479556592391
+        "m_PathID": -3342863583017695885
       },
       "alpha": {
         "m_FileID": 0,
-        "m_PathID": -3882540983459667526
+        "m_PathID": 3423659237595508006
       },
       "size": 1024
     }

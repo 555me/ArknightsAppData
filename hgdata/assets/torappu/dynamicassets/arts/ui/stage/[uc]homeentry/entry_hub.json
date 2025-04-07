@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 5461515488609553696
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
   },
   "m_Name": "entry_hub",
   "_rootPackingTag": "UI_ZONE_HOME_ENTRY",
@@ -29,9 +29,8 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
-    "act18mini",
     "act1multi",
-    "act31sre",
+    "act2mainss",
     "act41side",
     "main_0",
     "main_1",
@@ -47,12 +46,12 @@
     "main_6",
     "main_7",
     "main_8",
-    "main_9"
+    "main_9",
+    "permanent_main_1_zone1"
   ],
   "_values": [
-    "Arts/UI/Stage/[UC]HomeEntry/act18mini",
     "Arts/UI/Stage/[UC]HomeEntry/act1multi",
-    "Arts/UI/Stage/[UC]HomeEntry/act31sre",
+    "Arts/UI/Stage/[UC]HomeEntry/act2mainss",
     "Arts/UI/Stage/[UC]HomeEntry/act41side",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
@@ -68,6 +67,7 @@
     "Arts/UI/Stage/[UC]HomeEntry/main_6",
     "Arts/UI/Stage/[UC]HomeEntry/main_7",
     "Arts/UI/Stage/[UC]HomeEntry/main_8",
-    "Arts/UI/Stage/[UC]HomeEntry/main_9"
+    "Arts/UI/Stage/[UC]HomeEntry/main_9",
+    "Arts/UI/Stage/[UC]HomeEntry/permanent_main_1_zone1"
   ]
 }

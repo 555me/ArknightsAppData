@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 5461515488609553696
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
   },
   "m_Name": "pic_hub",
   "_rootPackingTag": "UI_KV_IMG",
@@ -60,6 +60,7 @@
     "kv_0011_5",
     "kv_0011_6",
     "kv_ambiencesynesthesia1",
+    "kv_ambiencesynesthesia2",
     "kv_boc1",
     "kv_boc2",
     "kv_boc3",
@@ -154,6 +155,7 @@
     "UI/KVImg/kv_0011_5",
     "UI/KVImg/kv_0011_6",
     "UI/KVImg/kv_ambienceSynesthesia1",
+    "UI/KVImg/kv_ambienceSynesthesia2",
     "UI/KVImg/kv_boc1",
     "UI/KVImg/kv_boc2",
     "UI/KVImg/kv_boc3",

@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -4420957637576057513
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
   },
   "m_Name": "atlas_hub",
   "_sprites": [
@@ -124,11 +124,11 @@
       "index": 0,
       "texture": {
         "m_FileID": 0,
-        "m_PathID": -3943258161117598462
+        "m_PathID": -5535459158344207970
       },
       "alpha": {
         "m_FileID": 0,
-        "m_PathID": -92518893069781896
+        "m_PathID": -2192061740308174898
       },
       "size": 1024
     }

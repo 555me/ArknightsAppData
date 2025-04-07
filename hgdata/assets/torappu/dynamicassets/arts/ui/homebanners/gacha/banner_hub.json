@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 5461515488609553696
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
   },
   "m_Name": "banner_hub",
   "_rootPackingTag": "UI_HOME_ACT_BANNER_GACHA",
@@ -35,13 +35,11 @@
     "picclassic_attain_57_0_2",
     "picdouble_59_0_2",
     "picdouble_59_0_4",
-    "picnorm_58_0_4",
+    "picdouble_60_0_2",
     "picnorm_58_0_5",
-    "picnorm_58_0_6",
     "picnorm_58_0_7",
     "picnorm_58_0_8",
-    "picsingle_58_0_5",
-    "picsingle_59_0_1"
+    "picsingle_60_0_1"
   ],
   "_values": [
     "Arts/UI/HomeBanners/Gacha/picBoot_0_1_1",
@@ -50,12 +48,10 @@
     "Arts/UI/HomeBanners/Gacha/picClassic_Attain_57_0_2",
     "Arts/UI/HomeBanners/Gacha/picDouble_59_0_2",
     "Arts/UI/HomeBanners/Gacha/picDouble_59_0_4",
-    "Arts/UI/HomeBanners/Gacha/picNorm_58_0_4",
+    "Arts/UI/HomeBanners/Gacha/picDouble_60_0_2",
     "Arts/UI/HomeBanners/Gacha/picNORM_58_0_5",
-    "Arts/UI/HomeBanners/Gacha/picNorm_58_0_6",
     "Arts/UI/HomeBanners/Gacha/picNORM_58_0_7",
     "Arts/UI/HomeBanners/Gacha/picNORM_58_0_8",
-    "Arts/UI/HomeBanners/Gacha/picSingle_58_0_5",
-    "Arts/UI/HomeBanners/Gacha/picSingle_59_0_1"
+    "Arts/UI/HomeBanners/Gacha/picSingle_60_0_1"
   ]
 }

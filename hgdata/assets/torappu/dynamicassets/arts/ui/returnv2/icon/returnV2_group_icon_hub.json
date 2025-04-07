@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 5461515488609553696
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
   },
   "m_Name": "returnV2_group_icon_hub",
   "_rootPackingTag": "UI_RETURNV2_ICON",
@@ -49,7 +49,8 @@
     "page_058_normalgacha_icon",
     "page_episode_main_12_icon",
     "page_episode_main_13_icon",
-    "page_episode_main_14_icon"
+    "page_episode_main_14_icon",
+    "page_episode_main_15_icon"
   ],
   "_values": [
     "Arts/UI/ReturnV2/Icon/page_040_annihilation_icon",
@@ -72,6 +73,7 @@
     "Arts/UI/ReturnV2/Icon/page_058_normalgacha_icon",
     "Arts/UI/ReturnV2/Icon/page_episode_main_12_icon",
     "Arts/UI/ReturnV2/Icon/page_episode_main_13_icon",
-    "Arts/UI/ReturnV2/Icon/page_episode_main_14_icon"
+    "Arts/UI/ReturnV2/Icon/page_episode_main_14_icon",
+    "Arts/UI/ReturnV2/Icon/page_episode_main_15_icon"
   ]
 }

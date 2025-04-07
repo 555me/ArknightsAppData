@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 5461515488609553696
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
   },
   "m_Name": "pic_hub",
   "_rootPackingTag": "UI_EQUIP_TYPE_DIRECTION_HUB",
@@ -33,6 +33,7 @@
     "aft-x",
     "aft-y",
     "age-x",
+    "age-y",
     "alc-x",
     "amb-x",
     "amb-y",
@@ -141,6 +142,7 @@
     "Arts/UI/UniEquipDirection/aft-x",
     "Arts/UI/UniEquipDirection/aft-y",
     "Arts/UI/UniEquipDirection/age-x",
+    "Arts/UI/UniEquipDirection/age-y",
     "Arts/UI/UniEquipDirection/alc-x",
     "Arts/UI/UniEquipDirection/amb-x",
     "Arts/UI/UniEquipDirection/amb-y",

@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 5461515488609553696
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
   },
   "m_Name": "furni_theme_hub",
   "_rootPackingTag": "BUILDING_DIY_THEME_UI",
@@ -72,6 +72,7 @@
     "furni_set_icu",
     "furni_set_idealcity",
     "furni_set_inkart",
+    "furni_set_kaltsroom",
     "furni_set_kazimierz",
     "furni_set_kfc",
     "furni_set_kitchen",
@@ -182,6 +183,7 @@
     "Arts/UI/FurniThemes/furni_set_icu",
     "Arts/UI/FurniThemes/furni_set_idealCity",
     "Arts/UI/FurniThemes/furni_set_inkArt",
+    "Arts/UI/FurniThemes/furni_set_kaltsroom",
     "Arts/UI/FurniThemes/furni_set_kazimierz",
     "Arts/UI/FurniThemes/furni_set_KFC",
     "Arts/UI/FurniThemes/furni_set_kitchen",

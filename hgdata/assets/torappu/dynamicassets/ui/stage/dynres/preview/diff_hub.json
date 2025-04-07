@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -4420957637576057513
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
   },
   "m_Name": "diff_hub",
   "_sprites": [
@@ -172,11 +172,11 @@
       "index": 0,
       "texture": {
         "m_FileID": 0,
-        "m_PathID": 7391326724794043821
+        "m_PathID": 599722856051088238
       },
       "alpha": {
         "m_FileID": 0,
-        "m_PathID": -7895924429041510748
+        "m_PathID": -1613503343859802540
       },
       "size": 512
     }

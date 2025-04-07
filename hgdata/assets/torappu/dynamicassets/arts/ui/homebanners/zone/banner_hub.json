@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 5461515488609553696
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
   },
   "m_Name": "banner_hub",
   "_rootPackingTag": "UI_HOME_ACT_BANNER_ZONE",
@@ -29,6 +29,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
+    "act2mainss_zone1",
     "main_0",
     "main_1",
     "main_10",
@@ -43,9 +44,11 @@
     "main_6",
     "main_7",
     "main_8",
-    "main_9"
+    "main_9",
+    "permanent_main_1_zone1"
   ],
   "_values": [
+    "Arts/UI/HomeBanners/Zone/act2mainss_zone1",
     "Arts/UI/HomeBanners/Zone/main_0",
     "Arts/UI/HomeBanners/Zone/main_1",
     "Arts/UI/HomeBanners/Zone/main_10",
@@ -60,6 +63,7 @@
     "Arts/UI/HomeBanners/Zone/main_6",
     "Arts/UI/HomeBanners/Zone/main_7",
     "Arts/UI/HomeBanners/Zone/main_8",
-    "Arts/UI/HomeBanners/Zone/main_9"
+    "Arts/UI/HomeBanners/Zone/main_9",
+    "Arts/UI/HomeBanners/Zone/permanent_main_1_zone1"
   ]
 }

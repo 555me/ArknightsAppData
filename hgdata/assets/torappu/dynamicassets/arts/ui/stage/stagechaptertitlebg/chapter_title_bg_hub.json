@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 5461515488609553696
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
   },
   "m_Name": "chapter_title_bg_hub",
   "_rootPackingTag": "CHAPTER_TITLE_BG",
@@ -40,6 +40,7 @@
     "chapter_1_selected",
     "chapter_2",
     "chapter_2_selected",
+    "chapter_3",
     "theme_chapter_0",
     "theme_chapter_1",
     "theme_chapter_2"
@@ -51,6 +52,7 @@
     "Arts/UI/Stage/StageChapterTitleBg/chapter_1_selected",
     "Arts/UI/Stage/StageChapterTitleBg/chapter_2",
     "Arts/UI/Stage/StageChapterTitleBg/chapter_2_selected",
+    "Arts/UI/Stage/StageChapterTitleBg/chapter_3",
     "Arts/UI/Stage/StageChapterTitleBg/theme_chapter_0",
     "Arts/UI/Stage/StageChapterTitleBg/theme_chapter_1",
     "Arts/UI/Stage/StageChapterTitleBg/theme_chapter_2"

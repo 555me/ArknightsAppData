@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -4420957637576057513
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
   },
   "m_Name": "stage_reward_buff_hub",
   "_sprites": [
@@ -124,11 +124,11 @@
       "index": 0,
       "texture": {
         "m_FileID": 0,
-        "m_PathID": -6344428365926301806
+        "m_PathID": -2797120910783133697
       },
       "alpha": {
         "m_FileID": 0,
-        "m_PathID": -5840017763870781042
+        "m_PathID": -3217590785259616138
       },
       "size": 256
     }

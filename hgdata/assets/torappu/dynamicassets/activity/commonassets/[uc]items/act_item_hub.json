@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 5461515488609553696
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
   },
   "m_Name": "act_item_hub",
   "_rootPackingTag": "UI_ACTITEM_ICON",
@@ -91,6 +91,7 @@
     "act29side_frag_4",
     "act29side_token_erin",
     "act2collection_point_token",
+    "act2mainss_token_courage",
     "act2vmulti_token_cap",
     "act30side_token_box",
     "act31side_token_box",
@@ -204,6 +205,7 @@
     "Activity/CommonAssets/[UC]Items/act29side_frag_4",
     "Activity/CommonAssets/[UC]Items/act29side_token_erin",
     "Activity/CommonAssets/[UC]Items/act2collection_point_token",
+    "Activity/CommonAssets/[UC]Items/act2mainss_token_courage",
     "Activity/CommonAssets/[UC]Items/act2vmulti_token_cap",
     "Activity/CommonAssets/[UC]Items/act30side_token_box",
     "Activity/CommonAssets/[UC]Items/act31side_token_box",
