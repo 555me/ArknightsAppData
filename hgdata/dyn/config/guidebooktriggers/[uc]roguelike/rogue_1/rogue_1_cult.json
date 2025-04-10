@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "rogue_1_cult",
+  "_pageIds": [
+    "[uc]roguelike/cult_rogue_1_1",
+    "[uc]roguelike/cult_rogue_1_2",
+    "[uc]roguelike/cult_rogue_1_3",
+    "[uc]roguelike/cult_rogue_1_4"
+  ],
+  "_autoShowTarget": 0,
+  "_subsignal": ""
+}

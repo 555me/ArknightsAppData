@@ -1,0 +1,151 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
+  },
+  "m_Name": "rhine_battle_performance_hub",
+  "_sprites": [
+    {
+      "name": "img_item_back",
+      "guid": "56eef97012aca674d94dc6361a8d41ba",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 510,
+        "h": 215
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_rhine_logo",
+      "guid": "66d758afa28e7ef49a4947e117f36ba6",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 217,
+        "w": 274,
+        "h": 88
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_no_info",
+      "guid": "0dd10491ce246594c93bd8ae5ed379e3",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 307,
+        "w": 254,
+        "h": 47
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_state_back",
+      "guid": "b6b5ad71f8ad6c743b00393c077dce2c",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 356,
+        "w": 94,
+        "h": 25
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_new",
+      "guid": "df7231541a0cdbd43a6119d72f8abd6e",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 383,
+        "w": 61,
+        "h": 28
+      },
+      "rotate": 0
+    },
+    {
+      "name": "sprite_white",
+      "guid": "40cecb08aed743a48834971b8ec01eda",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 413,
+        "w": 32,
+        "h": 32
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -87867968506394100
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -590199388792539883
+      },
+      "size": 512
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "img_item_back",
+        "guid": "56eef97012aca674d94dc6361a8d41ba",
+        "md5": "216614f394aedec94f095b45f86360f7"
+      },
+      {
+        "name": "img_rhine_logo",
+        "guid": "66d758afa28e7ef49a4947e117f36ba6",
+        "md5": "42c88c3a2680a0cdc903a6a3b9b417a5"
+      },
+      {
+        "name": "img_no_info",
+        "guid": "0dd10491ce246594c93bd8ae5ed379e3",
+        "md5": "384b5032100895be9ff4fc30f576c25f"
+      },
+      {
+        "name": "img_state_back",
+        "guid": "b6b5ad71f8ad6c743b00393c077dce2c",
+        "md5": "281d8e38ea34a790503f60d0bfcfbc59"
+      },
+      {
+        "name": "img_new",
+        "guid": "df7231541a0cdbd43a6119d72f8abd6e",
+        "md5": "809d93f50b5ea50bee5a7673df3546c4"
+      },
+      {
+        "name": "sprite_white",
+        "guid": "40cecb08aed743a48834971b8ec01eda",
+        "md5": "2ce5bb41cb46836bf4109504a7582745"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "rhine_battle_performance_hub#0",
+        "guid": "d8baf249a5e4d1d4abfe183658f04b3b",
+        "md5": "da0442050fed8b3ee2c9da31ab8a6406"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "rhine_battle_performance_hub#0a",
+        "guid": "ed02246efe2226d43b519637978fcd42",
+        "md5": "89bd797ef32f9e5678729342c54c6664"
+      }
+    ]
+  }
+}

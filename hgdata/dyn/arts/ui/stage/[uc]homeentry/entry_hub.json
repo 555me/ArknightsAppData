@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "entry_hub",
+  "_rootPackingTag": "UI_ZONE_HOME_ENTRY",
+  "_cntPerAtlas": 90,
+  "_standardPicSize": {
+    "width": 280,
+    "height": 166
+  },
+  "_extraPicSize": [],
+  "_compressType": 13,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "act1multi",
+    "act2mainss",
+    "act41side",
+    "main_0",
+    "main_1",
+    "main_10",
+    "main_11",
+    "main_12",
+    "main_13",
+    "main_14",
+    "main_2",
+    "main_3",
+    "main_4",
+    "main_5",
+    "main_6",
+    "main_7",
+    "main_8",
+    "main_9",
+    "permanent_main_1_zone1"
+  ],
+  "_values": [
+    "Arts/UI/Stage/[UC]HomeEntry/act1multi",
+    "Arts/UI/Stage/[UC]HomeEntry/act2mainss",
+    "Arts/UI/Stage/[UC]HomeEntry/act41side",
+    "Arts/UI/Stage/[UC]HomeEntry/main_0",
+    "Arts/UI/Stage/[UC]HomeEntry/main_1",
+    "Arts/UI/Stage/[UC]HomeEntry/main_10",
+    "Arts/UI/Stage/[UC]HomeEntry/main_11",
+    "Arts/UI/Stage/[UC]HomeEntry/main_12",
+    "Arts/UI/Stage/[UC]HomeEntry/main_13",
+    "Arts/UI/Stage/[UC]HomeEntry/main_14",
+    "Arts/UI/Stage/[UC]HomeEntry/main_2",
+    "Arts/UI/Stage/[UC]HomeEntry/main_3",
+    "Arts/UI/Stage/[UC]HomeEntry/main_4",
+    "Arts/UI/Stage/[UC]HomeEntry/main_5",
+    "Arts/UI/Stage/[UC]HomeEntry/main_6",
+    "Arts/UI/Stage/[UC]HomeEntry/main_7",
+    "Arts/UI/Stage/[UC]HomeEntry/main_8",
+    "Arts/UI/Stage/[UC]HomeEntry/main_9",
+    "Arts/UI/Stage/[UC]HomeEntry/permanent_main_1_zone1"
+  ]
+}

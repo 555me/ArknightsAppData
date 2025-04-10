@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 741099624361746541
+  },
+  "m_Name": "hard_08-04",
+  "_commands": [
+    {
+      "key": "blast_effect_x",
+      "operaNodes": {
+        "SerializedState": "[{\"_duration\":2.2,\"_strength\":{\"x\":0.09,\"y\":0.025,\"z\":0.0},\"_vibrato\":50,\"_randomness\":90.0,\"_preDelay\":0.3,\"$type\":\"Torappu.Battle.Opera.CameraShake\"},{\"_fadeInTime\":0.6,\"_keepTime\":0.3,\"_fadeOutTime\":2.0,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.ColorGrading\"},{\"_signal\":\"main_08_bomb_audio_effect\",\"_position\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"_preDelay\":0.2,\"$type\":\"Torappu.Battle.Opera.GlobalAudio\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 3.0
+    },
+    {
+      "key": "blast_effect_y",
+      "operaNodes": {
+        "SerializedState": "[{\"_duration\":2.2,\"_strength\":{\"x\":0.025,\"y\":0.075,\"z\":0.0},\"_vibrato\":50,\"_randomness\":90.0,\"_preDelay\":0.3,\"$type\":\"Torappu.Battle.Opera.CameraShake\"},{\"_fadeInTime\":0.6,\"_keepTime\":0.3,\"_fadeOutTime\":2.0,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.ColorGrading\"},{\"_signal\":\"main_08_bomb_audio_effect\",\"_position\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"_preDelay\":0.2,\"$type\":\"Torappu.Battle.Opera.GlobalAudio\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 3.0
+    }
+  ]
+}

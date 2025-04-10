@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "banner_hub",
+  "_rootPackingTag": "UI_HOME_ACT_BANNER_ZONE",
+  "_cntPerAtlas": 30,
+  "_standardPicSize": {
+    "width": 467,
+    "height": 239
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "act2mainss_zone1",
+    "main_0",
+    "main_1",
+    "main_10",
+    "main_11",
+    "main_12",
+    "main_13",
+    "main_14",
+    "main_2",
+    "main_3",
+    "main_4",
+    "main_5",
+    "main_6",
+    "main_7",
+    "main_8",
+    "main_9",
+    "permanent_main_1_zone1"
+  ],
+  "_values": [
+    "Arts/UI/HomeBanners/Zone/act2mainss_zone1",
+    "Arts/UI/HomeBanners/Zone/main_0",
+    "Arts/UI/HomeBanners/Zone/main_1",
+    "Arts/UI/HomeBanners/Zone/main_10",
+    "Arts/UI/HomeBanners/Zone/main_11",
+    "Arts/UI/HomeBanners/Zone/main_12",
+    "Arts/UI/HomeBanners/Zone/main_13",
+    "Arts/UI/HomeBanners/Zone/main_14",
+    "Arts/UI/HomeBanners/Zone/main_2",
+    "Arts/UI/HomeBanners/Zone/main_3",
+    "Arts/UI/HomeBanners/Zone/main_4",
+    "Arts/UI/HomeBanners/Zone/main_5",
+    "Arts/UI/HomeBanners/Zone/main_6",
+    "Arts/UI/HomeBanners/Zone/main_7",
+    "Arts/UI/HomeBanners/Zone/main_8",
+    "Arts/UI/HomeBanners/Zone/main_9",
+    "Arts/UI/HomeBanners/Zone/permanent_main_1_zone1"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 741099624361746541
+  },
+  "m_Name": "main_05-10",
+  "_commands": [
+    {
+      "key": "test",
+      "operaNodes": {
+        "SerializedState": "[{\"_duration\":1.5,\"_strength\":{\"x\":0.5,\"y\":0.5,\"z\":0.0},\"_vibrato\":20,\"_randomness\":90.0,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.CameraShake\"},{\"_fadeInTime\":0.5,\"_keepTime\":0.5,\"_fadeOutTime\":1.0,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.ColorGrading\"},{\"_effectKey\":\"dscout_skill_start\",\"_holdByTile\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.PlayEffect\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 2.0
+    }
+  ]
+}

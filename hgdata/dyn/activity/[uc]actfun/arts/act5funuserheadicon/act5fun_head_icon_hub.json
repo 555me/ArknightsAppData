@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "act5fun_head_icon_hub",
+  "_rootPackingTag": "ACT5FUN_USER_HEAD_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 43,
+    "height": 43
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "act5fun_avatar_01",
+    "act5fun_avatar_02",
+    "act5fun_avatar_03",
+    "act5fun_avatar_04",
+    "act5fun_avatar_05",
+    "act5fun_avatar_06",
+    "act5fun_avatar_07",
+    "act5fun_avatar_08",
+    "act5fun_avatar_09",
+    "act5fun_avatar_10",
+    "act5fun_avatar_11",
+    "act5fun_avatar_12",
+    "act5fun_avatar_13"
+  ],
+  "_values": [
+    "Activity/[UC]ActFun/Arts/Act5funUserHeadIcon/act5fun_avatar_01",
+    "Activity/[UC]ActFun/Arts/Act5funUserHeadIcon/act5fun_avatar_02",
+    "Activity/[UC]ActFun/Arts/Act5funUserHeadIcon/act5fun_avatar_03",
+    "Activity/[UC]ActFun/Arts/Act5funUserHeadIcon/act5fun_avatar_04",
+    "Activity/[UC]ActFun/Arts/Act5funUserHeadIcon/act5fun_avatar_05",
+    "Activity/[UC]ActFun/Arts/Act5funUserHeadIcon/act5fun_avatar_06",
+    "Activity/[UC]ActFun/Arts/Act5funUserHeadIcon/act5fun_avatar_07",
+    "Activity/[UC]ActFun/Arts/Act5funUserHeadIcon/act5fun_avatar_08",
+    "Activity/[UC]ActFun/Arts/Act5funUserHeadIcon/act5fun_avatar_09",
+    "Activity/[UC]ActFun/Arts/Act5funUserHeadIcon/act5fun_avatar_10",
+    "Activity/[UC]ActFun/Arts/Act5funUserHeadIcon/act5fun_avatar_11",
+    "Activity/[UC]ActFun/Arts/Act5funUserHeadIcon/act5fun_avatar_12",
+    "Activity/[UC]ActFun/Arts/Act5funUserHeadIcon/act5fun_avatar_13"
+  ]
+}

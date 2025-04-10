@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "returnV2_group_icon_hub",
+  "_rootPackingTag": "UI_RETURNV2_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 177,
+    "height": 85
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 1,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "page_040_annihilation_icon",
+    "page_040_apupgrade_icon",
+    "page_040_base_icon",
+    "page_040_diffmission_icon",
+    "page_040_modular_icon",
+    "page_040_normalgacha_icon",
+    "page_040_roguelike3_icon",
+    "page_040_roguelike_icon",
+    "page_040_tower_icon",
+    "page_041_normalgacha_icon",
+    "page_044_normalgacha_icon",
+    "page_047_normalgacha_icon",
+    "page_047_sandbox_icon",
+    "page_050_normalgacha_icon",
+    "page_052_roguelike4_icon",
+    "page_053_normalgacha_icon",
+    "page_056_normalgacha_icon",
+    "page_058_normalgacha_icon",
+    "page_episode_main_12_icon",
+    "page_episode_main_13_icon",
+    "page_episode_main_14_icon",
+    "page_episode_main_15_icon"
+  ],
+  "_values": [
+    "Arts/UI/ReturnV2/Icon/page_040_annihilation_icon",
+    "Arts/UI/ReturnV2/Icon/page_040_apupgrade_icon",
+    "Arts/UI/ReturnV2/Icon/page_040_base_icon",
+    "Arts/UI/ReturnV2/Icon/page_040_diffmission_icon",
+    "Arts/UI/ReturnV2/Icon/page_040_modular_icon",
+    "Arts/UI/ReturnV2/Icon/page_040_normalgacha_icon",
+    "Arts/UI/ReturnV2/Icon/page_040_roguelike3_icon",
+    "Arts/UI/ReturnV2/Icon/page_040_roguelike_icon",
+    "Arts/UI/ReturnV2/Icon/page_040_tower_icon",
+    "Arts/UI/ReturnV2/Icon/page_041_normalgacha_icon",
+    "Arts/UI/ReturnV2/Icon/page_044_normalgacha_icon",
+    "Arts/UI/ReturnV2/Icon/page_047_normalgacha_icon",
+    "Arts/UI/ReturnV2/Icon/page_047_sandbox_icon",
+    "Arts/UI/ReturnV2/Icon/page_050_normalgacha_icon",
+    "Arts/UI/ReturnV2/Icon/page_052_roguelike4_icon",
+    "Arts/UI/ReturnV2/Icon/page_053_normalgacha_icon",
+    "Arts/UI/ReturnV2/Icon/page_056_normalgacha_icon",
+    "Arts/UI/ReturnV2/Icon/page_058_normalgacha_icon",
+    "Arts/UI/ReturnV2/Icon/page_episode_main_12_icon",
+    "Arts/UI/ReturnV2/Icon/page_episode_main_13_icon",
+    "Arts/UI/ReturnV2/Icon/page_episode_main_14_icon",
+    "Arts/UI/ReturnV2/Icon/page_episode_main_15_icon"
+  ]
+}

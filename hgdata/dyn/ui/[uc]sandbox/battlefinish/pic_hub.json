@@ -1,0 +1,372 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4420957637576057513
+  },
+  "m_Name": "pic_hub",
+  "_sprites": [
+    {
+      "name": "node_round",
+      "guid": "ed74d9f3e3c32424fa9938243f6ec320",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 124,
+        "h": 364
+      },
+      "rotate": 0
+    },
+    {
+      "name": "half_rhod",
+      "guid": "8ba2cbecb6b9cd045b743cdb31bddcdb",
+      "atlas": 0,
+      "rect": {
+        "x": 126,
+        "y": 0,
+        "w": 127,
+        "h": 217
+      },
+      "rotate": 0
+    },
+    {
+      "name": "left_deco",
+      "guid": "e442469a73b4dd740a9ed87ac5605915",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 366,
+        "w": 258,
+        "h": 36
+      },
+      "rotate": 0
+    },
+    {
+      "name": "defeat_icon",
+      "guid": "eb1c1a1f92eeb92418b79d721ab70c4c",
+      "atlas": 0,
+      "rect": {
+        "x": 126,
+        "y": 219,
+        "w": 151,
+        "h": 70
+      },
+      "rotate": 0
+    },
+    {
+      "name": "drop_tri",
+      "guid": "42be6c5db2ba3a6469e52ed4dafdce61",
+      "atlas": 0,
+      "rect": {
+        "x": 255,
+        "y": 0,
+        "w": 100,
+        "h": 86
+      },
+      "rotate": 0
+    },
+    {
+      "name": "base_lightcolor",
+      "guid": "5fa58c6da770e8145a3a790aee8d0d3b",
+      "atlas": 0,
+      "rect": {
+        "x": 255,
+        "y": 88,
+        "w": 90,
+        "h": 90
+      },
+      "rotate": 0
+    },
+    {
+      "name": "base_hp",
+      "guid": "789464635d5be254a8a6670b2389e0d0",
+      "atlas": 0,
+      "rect": {
+        "x": 279,
+        "y": 219,
+        "w": 90,
+        "h": 90
+      },
+      "rotate": 0
+    },
+    {
+      "name": "get_reward",
+      "guid": "9ff6dc2a0a1a52645932def2cfb13a9b",
+      "atlas": 0,
+      "rect": {
+        "x": 126,
+        "y": 291,
+        "w": 118,
+        "h": 27
+      },
+      "rotate": 0
+    },
+    {
+      "name": "boss_node_icon",
+      "guid": "ee5d194e31d2bb241b975da758d5b163",
+      "atlas": 0,
+      "rect": {
+        "x": 279,
+        "y": 311,
+        "w": 62,
+        "h": 62
+      },
+      "rotate": 0
+    },
+    {
+      "name": "boss_icon",
+      "guid": "766ae600846966443b84e1c5e78f0f17",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 404,
+        "w": 62,
+        "h": 62
+      },
+      "rotate": 0
+    },
+    {
+      "name": "base_icon",
+      "guid": "7275881e3d0fe7245a18d77a564ad04a",
+      "atlas": 0,
+      "rect": {
+        "x": 279,
+        "y": 375,
+        "w": 62,
+        "h": 62
+      },
+      "rotate": 0
+    },
+    {
+      "name": "reward_get",
+      "guid": "ff2d960466b9e3c4b891452a8cb135b4",
+      "atlas": 0,
+      "rect": {
+        "x": 255,
+        "y": 180,
+        "w": 74,
+        "h": 38
+      },
+      "rotate": 0
+    },
+    {
+      "name": "white_round",
+      "guid": "31946ed0e9c018544a853d8c024c1724",
+      "atlas": 0,
+      "rect": {
+        "x": 126,
+        "y": 320,
+        "w": 76,
+        "h": 24
+      },
+      "rotate": 0
+    },
+    {
+      "name": "black_round_3",
+      "guid": "c8e409d7c0780fd49b4f929e77a23563",
+      "atlas": 0,
+      "rect": {
+        "x": 279,
+        "y": 439,
+        "w": 74,
+        "h": 23
+      },
+      "rotate": 0
+    },
+    {
+      "name": "num_round_3",
+      "guid": "778412c84f109c0439d4ee6282c0c280",
+      "atlas": 0,
+      "rect": {
+        "x": 357,
+        "y": 0,
+        "w": 58,
+        "h": 24
+      },
+      "rotate": 0
+    },
+    {
+      "name": "additive_res",
+      "guid": "70c6f584319796f4c8e4bb163ef61522",
+      "atlas": 0,
+      "rect": {
+        "x": 357,
+        "y": 26,
+        "w": 35,
+        "h": 29
+      },
+      "rotate": 0
+    },
+    {
+      "name": "remain_count",
+      "guid": "a23a44cba7649b04ca8064ec34d4516d",
+      "atlas": 0,
+      "rect": {
+        "x": 357,
+        "y": 57,
+        "w": 23,
+        "h": 21
+      },
+      "rotate": 0
+    },
+    {
+      "name": "main_drop",
+      "guid": "a459b3e85203a804d9a0304164ce6ba3",
+      "atlas": 0,
+      "rect": {
+        "x": 357,
+        "y": 80,
+        "w": 23,
+        "h": 20
+      },
+      "rotate": 0
+    },
+    {
+      "name": "gray_deco",
+      "guid": "9161e5500dd17144598bc26fbefeeecd",
+      "atlas": 0,
+      "rect": {
+        "x": 126,
+        "y": 346,
+        "w": 9,
+        "h": 9
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 3712224179380776477
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -8002299406908529293
+      },
+      "size": 512
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "node_round",
+        "guid": "ed74d9f3e3c32424fa9938243f6ec320",
+        "md5": "21fb0483ebc821a36d5b927ba03db8c0"
+      },
+      {
+        "name": "half_rhod",
+        "guid": "8ba2cbecb6b9cd045b743cdb31bddcdb",
+        "md5": "9b385f8a857d6cb6068a5d362cc562f8"
+      },
+      {
+        "name": "left_deco",
+        "guid": "e442469a73b4dd740a9ed87ac5605915",
+        "md5": "249036b1e09cb197d9f0ae270c621260"
+      },
+      {
+        "name": "defeat_icon",
+        "guid": "eb1c1a1f92eeb92418b79d721ab70c4c",
+        "md5": "91d3d9e461dddcae1222191802f1f857"
+      },
+      {
+        "name": "drop_tri",
+        "guid": "42be6c5db2ba3a6469e52ed4dafdce61",
+        "md5": "64cb8414df792651840c0fdebe7cfe1d"
+      },
+      {
+        "name": "base_lightcolor",
+        "guid": "5fa58c6da770e8145a3a790aee8d0d3b",
+        "md5": "394091bd3a954371b6da1366c4830ad4"
+      },
+      {
+        "name": "base_hp",
+        "guid": "789464635d5be254a8a6670b2389e0d0",
+        "md5": "66344147c29a8155e053d6ec2a352426"
+      },
+      {
+        "name": "get_reward",
+        "guid": "9ff6dc2a0a1a52645932def2cfb13a9b",
+        "md5": "e0d1640fdc746f60668c03c97cc2b8f3"
+      },
+      {
+        "name": "boss_node_icon",
+        "guid": "ee5d194e31d2bb241b975da758d5b163",
+        "md5": "a4920a31fda31a73f52a5d01c3fd1a41"
+      },
+      {
+        "name": "boss_icon",
+        "guid": "766ae600846966443b84e1c5e78f0f17",
+        "md5": "bea293f1cb2335fbef395563830c5c9b"
+      },
+      {
+        "name": "base_icon",
+        "guid": "7275881e3d0fe7245a18d77a564ad04a",
+        "md5": "70ca921d69d739ed7b14407ca3ce5328"
+      },
+      {
+        "name": "reward_get",
+        "guid": "ff2d960466b9e3c4b891452a8cb135b4",
+        "md5": "0bfcf82d70eb47f8589bad2918f1aae3"
+      },
+      {
+        "name": "white_round",
+        "guid": "31946ed0e9c018544a853d8c024c1724",
+        "md5": "39a44ae0479544537a8d89d9011f72a0"
+      },
+      {
+        "name": "black_round_3",
+        "guid": "c8e409d7c0780fd49b4f929e77a23563",
+        "md5": "caa5879c083ae6813979079a0b1f07ff"
+      },
+      {
+        "name": "num_round_3",
+        "guid": "778412c84f109c0439d4ee6282c0c280",
+        "md5": "5117d866ce4b86fcb82d17e99da84c68"
+      },
+      {
+        "name": "additive_res",
+        "guid": "70c6f584319796f4c8e4bb163ef61522",
+        "md5": "85a6574e22d9ffcfab4bf951209df12c"
+      },
+      {
+        "name": "remain_count",
+        "guid": "a23a44cba7649b04ca8064ec34d4516d",
+        "md5": "b149f327dd974b2af134fc97f54e0094"
+      },
+      {
+        "name": "main_drop",
+        "guid": "a459b3e85203a804d9a0304164ce6ba3",
+        "md5": "12a006edccb7231274776fd0c44f0cfe"
+      },
+      {
+        "name": "gray_deco",
+        "guid": "9161e5500dd17144598bc26fbefeeecd",
+        "md5": "3e3acda89179f6b13326bfd1dc098fa2"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "pic_hub#0",
+        "guid": "ba9099a57e7968e40a80697b797d6119",
+        "md5": "fc1456d0b5c2bed80db5bb77b9f13cdd"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "pic_hub#0a",
+        "guid": "4c7941a07018cea4c803e8de2d94e192",
+        "md5": "9c7c719970f6a776c4d8329aae5f171b"
+      }
+    ]
+  }
+}

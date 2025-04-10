@@ -1,0 +1,136 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "sprite_hub",
+  "_rootPackingTag": "UI_ACT13SRE",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 180,
+    "height": 180
+  },
+  "_extraPicSize": [
+    {
+      "width": 226,
+      "height": 104
+    },
+    {
+      "width": 501,
+      "height": 102
+    },
+    {
+      "width": 74,
+      "height": 74
+    },
+    {
+      "width": 162,
+      "height": 400
+    },
+    {
+      "width": 203,
+      "height": 41
+    }
+  ],
+  "_compressType": 0,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "left_bar_armorless",
+    "left_bar_armorless_1",
+    "left_bar_commerce_1",
+    "left_bar_commerce_2",
+    "left_bar_kazimierz_1",
+    "left_bar_kazimierz_2",
+    "mission_avatar_gravel",
+    "mission_avatar_ioleta",
+    "mission_avatar_jewell",
+    "mission_avatar_malkiewicz",
+    "mission_avatar_mannar",
+    "mission_avatar_mcgee",
+    "mission_avatar_platnm",
+    "mission_avatar_silverlance",
+    "mission_avatar_toland",
+    "mission_principal_bg_gravel",
+    "mission_principal_bg_ioleta",
+    "mission_principal_bg_jewell",
+    "mission_principal_bg_malkiewicz",
+    "mission_principal_bg_mannar",
+    "mission_principal_bg_mcgee",
+    "mission_principal_bg_platnm",
+    "mission_principal_bg_silverlance",
+    "mission_principal_bg_toland",
+    "logo_armorless",
+    "logo_commerce",
+    "logo_kazimierz",
+    "title_armorless",
+    "title_commerce",
+    "title_kazimierz",
+    "emoji_rank_0",
+    "emoji_rank_1",
+    "emoji_rank_2",
+    "emoji_rank_3",
+    "emoji_rank_4",
+    "up_title_armorless_1",
+    "up_title_commerce_1",
+    "up_title_commerce_2",
+    "up_title_kazimierz_1",
+    "up_title_kazimierz_2"
+  ],
+  "_values": [
+    "Activity/[UC]act13sre/Arts/LeftBar/left_bar_armorless",
+    "Activity/[UC]act13sre/Arts/LeftBar/left_bar_armorless_1",
+    "Activity/[UC]act13sre/Arts/LeftBar/left_bar_commerce_1",
+    "Activity/[UC]act13sre/Arts/LeftBar/left_bar_commerce_2",
+    "Activity/[UC]act13sre/Arts/LeftBar/left_bar_kazimierz_1",
+    "Activity/[UC]act13sre/Arts/LeftBar/left_bar_kazimierz_2",
+    "Activity/[UC]act13sre/Arts/MissionAvatar/mission_avatar_gravel",
+    "Activity/[UC]act13sre/Arts/MissionAvatar/mission_avatar_ioleta",
+    "Activity/[UC]act13sre/Arts/MissionAvatar/mission_avatar_jewell",
+    "Activity/[UC]act13sre/Arts/MissionAvatar/mission_avatar_malkiewicz",
+    "Activity/[UC]act13sre/Arts/MissionAvatar/mission_avatar_mannar",
+    "Activity/[UC]act13sre/Arts/MissionAvatar/mission_avatar_mcgee",
+    "Activity/[UC]act13sre/Arts/MissionAvatar/mission_avatar_platnm",
+    "Activity/[UC]act13sre/Arts/MissionAvatar/mission_avatar_silverlance",
+    "Activity/[UC]act13sre/Arts/MissionAvatar/mission_avatar_toland",
+    "Activity/[UC]act13sre/Arts/MissionPrincipalBg/mission_principal_bg_gravel",
+    "Activity/[UC]act13sre/Arts/MissionPrincipalBg/mission_principal_bg_ioleta",
+    "Activity/[UC]act13sre/Arts/MissionPrincipalBg/mission_principal_bg_jewell",
+    "Activity/[UC]act13sre/Arts/MissionPrincipalBg/mission_principal_bg_malkiewicz",
+    "Activity/[UC]act13sre/Arts/MissionPrincipalBg/mission_principal_bg_mannar",
+    "Activity/[UC]act13sre/Arts/MissionPrincipalBg/mission_principal_bg_mcgee",
+    "Activity/[UC]act13sre/Arts/MissionPrincipalBg/mission_principal_bg_platnm",
+    "Activity/[UC]act13sre/Arts/MissionPrincipalBg/mission_principal_bg_silverlance",
+    "Activity/[UC]act13sre/Arts/MissionPrincipalBg/mission_principal_bg_toland",
+    "Activity/[UC]act13sre/Arts/OrgLogo/logo_armorless",
+    "Activity/[UC]act13sre/Arts/OrgLogo/logo_commerce",
+    "Activity/[UC]act13sre/Arts/OrgLogo/logo_kazimierz",
+    "Activity/[UC]act13sre/Arts/OrgTitle/title_armorless",
+    "Activity/[UC]act13sre/Arts/OrgTitle/title_commerce",
+    "Activity/[UC]act13sre/Arts/OrgTitle/title_kazimierz",
+    "Activity/[UC]act13sre/Arts/PrestigeEmoji/emoji_rank_0",
+    "Activity/[UC]act13sre/Arts/PrestigeEmoji/emoji_rank_1",
+    "Activity/[UC]act13sre/Arts/PrestigeEmoji/emoji_rank_2",
+    "Activity/[UC]act13sre/Arts/PrestigeEmoji/emoji_rank_3",
+    "Activity/[UC]act13sre/Arts/PrestigeEmoji/emoji_rank_4",
+    "Activity/[UC]act13sre/Arts/UpTitle/up_title_armorless_1",
+    "Activity/[UC]act13sre/Arts/UpTitle/up_title_commerce_1",
+    "Activity/[UC]act13sre/Arts/UpTitle/up_title_commerce_2",
+    "Activity/[UC]act13sre/Arts/UpTitle/up_title_kazimierz_1",
+    "Activity/[UC]act13sre/Arts/UpTitle/up_title_kazimierz_2"
+  ]
+}

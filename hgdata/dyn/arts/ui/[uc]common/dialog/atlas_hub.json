@@ -1,0 +1,202 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
+  },
+  "m_Name": "atlas_hub",
+  "_sprites": [
+    {
+      "name": "image_judge_dialog_bkg",
+      "guid": "6d4c90ff34e5d2f4990850771bbd56ba",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 248
+      },
+      "rotate": 0
+    },
+    {
+      "name": "btn_cancel_bkg",
+      "guid": "43a1441e036f329428d692dca87dbe28",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 250,
+        "w": 651,
+        "h": 99
+      },
+      "rotate": 0
+    },
+    {
+      "name": "btn_confirm_red",
+      "guid": "eae0feae2fc41664f8cf4eae10a24c69",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 351,
+        "w": 640,
+        "h": 99
+      },
+      "rotate": 0
+    },
+    {
+      "name": "btn_confirm_blue",
+      "guid": "d2fa2787be6f1344f8eb56fe89b3e7a2",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 452,
+        "w": 640,
+        "h": 99
+      },
+      "rotate": 0
+    },
+    {
+      "name": "teck_icon",
+      "guid": "a46002f78d64794419ab70ce4388e561",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 553,
+        "w": 225,
+        "h": 225
+      },
+      "rotate": 0
+    },
+    {
+      "name": "sprite_typeframe",
+      "guid": "29c0024c590026647aef7b8083b2ee9f",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 780,
+        "w": 64,
+        "h": 64
+      },
+      "rotate": 0
+    },
+    {
+      "name": "btn_icon_confirm",
+      "guid": "1ae03acdee79aaf47b163532d1a1371c",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 846,
+        "w": 39,
+        "h": 39
+      },
+      "rotate": 0
+    },
+    {
+      "name": "btn_icon_cancel",
+      "guid": "d72376ef3cb43f14396ab7d692297301",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 887,
+        "w": 37,
+        "h": 37
+      },
+      "rotate": 0
+    },
+    {
+      "name": "sprite_white",
+      "guid": "42db9aeb73e085a4d845ff22a210f911",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 926,
+        "w": 32,
+        "h": 32
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -5535459158344207970
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -2192061740308174898
+      },
+      "size": 1024
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "image_judge_dialog_bkg",
+        "guid": "6d4c90ff34e5d2f4990850771bbd56ba",
+        "md5": "977f1b97e291a614f1e31856bee87d57"
+      },
+      {
+        "name": "btn_cancel_bkg",
+        "guid": "43a1441e036f329428d692dca87dbe28",
+        "md5": "23d6d6c4501b08e7615eadfc7ee1bbb8"
+      },
+      {
+        "name": "btn_confirm_red",
+        "guid": "eae0feae2fc41664f8cf4eae10a24c69",
+        "md5": "6ab100b248a385592c9860982177a182"
+      },
+      {
+        "name": "btn_confirm_blue",
+        "guid": "d2fa2787be6f1344f8eb56fe89b3e7a2",
+        "md5": "38affd7d270650ddc8731cc830b25714"
+      },
+      {
+        "name": "teck_icon",
+        "guid": "a46002f78d64794419ab70ce4388e561",
+        "md5": "5932ad392449caa960b823b579e961b9"
+      },
+      {
+        "name": "sprite_typeframe",
+        "guid": "29c0024c590026647aef7b8083b2ee9f",
+        "md5": "ba8318ebe280785cb30af60a8f0ab230"
+      },
+      {
+        "name": "btn_icon_confirm",
+        "guid": "1ae03acdee79aaf47b163532d1a1371c",
+        "md5": "33fc419ec48a48b5be737499b9f89583"
+      },
+      {
+        "name": "btn_icon_cancel",
+        "guid": "d72376ef3cb43f14396ab7d692297301",
+        "md5": "7cdf6424cbbb00b8c802e2c2acc37039"
+      },
+      {
+        "name": "sprite_white",
+        "guid": "42db9aeb73e085a4d845ff22a210f911",
+        "md5": "2ce5bb41cb46836bf4109504a7582745"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "atlas_hub#0",
+        "guid": "2a24422d4cef6ec4284186b28f1fbd8a",
+        "md5": "a0933cc7ef0873bea314f749ea2d1cae"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "atlas_hub#0a",
+        "guid": "ec9efebe736282e44b887e1bc2043d20",
+        "md5": "4b48a5854dcead6c74b5bc7ad4e35358"
+      }
+    ]
+  }
+}

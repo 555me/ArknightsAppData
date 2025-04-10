@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "home_check_in_gp_icon_hub",
+  "_rootPackingTag": "UI_HOME_CHECK_IN_PROGRESS_GP_IMG",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 106,
+    "height": 106
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "new_progress",
+    "return_progress"
+  ],
+  "_values": [
+    "Arts/UI/HomeCheckInProgressGPIcon/new_progress",
+    "Arts/UI/HomeCheckInProgressGPIcon/return_progress"
+  ]
+}

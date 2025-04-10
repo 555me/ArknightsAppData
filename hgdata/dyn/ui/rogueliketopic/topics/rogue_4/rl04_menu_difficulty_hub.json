@@ -1,0 +1,117 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
+  },
+  "m_Name": "rl04_menu_difficulty_hub",
+  "_sprites": [
+    {
+      "name": "icon_difficulty_3",
+      "guid": "7dacb999dc96a7947b0e144e96e466b7",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 36
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_difficulty_2",
+      "guid": "c2cd59bcebe565e4cacc134e9aab8aa2",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 38,
+        "w": 32,
+        "h": 36
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_difficulty_1",
+      "guid": "ebc2907b56b477848b165162c58b7f68",
+      "atlas": 0,
+      "rect": {
+        "x": 34,
+        "y": 0,
+        "w": 32,
+        "h": 36
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_difficulty_0",
+      "guid": "86478b93f022b774a99ad0767d405fe0",
+      "atlas": 0,
+      "rect": {
+        "x": 34,
+        "y": 38,
+        "w": 32,
+        "h": 36
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 8227972208438755644
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 2853803675016317892
+      },
+      "size": 128
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "icon_difficulty_3",
+        "guid": "7dacb999dc96a7947b0e144e96e466b7",
+        "md5": "e7cdb8846a6bf1a3fc9bc6cdd86d1c82"
+      },
+      {
+        "name": "icon_difficulty_2",
+        "guid": "c2cd59bcebe565e4cacc134e9aab8aa2",
+        "md5": "c77d5c2669910bddfa2825a596fae944"
+      },
+      {
+        "name": "icon_difficulty_1",
+        "guid": "ebc2907b56b477848b165162c58b7f68",
+        "md5": "20c3f31989409012add1b54562a2099f"
+      },
+      {
+        "name": "icon_difficulty_0",
+        "guid": "86478b93f022b774a99ad0767d405fe0",
+        "md5": "ac0986d6b6734266623374b1765b1210"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "rl04_menu_difficulty_hub#0",
+        "guid": "f9ee47f9e52cf534d9d1febcae157bc2",
+        "md5": "8097bbd4ecfbee0ad048dfcf00b2a252"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "rl04_menu_difficulty_hub#0a",
+        "guid": "6e8f066807aa8144dab213c989f59453",
+        "md5": "7f013316de282f6a7bd623132668e15c"
+      }
+    ]
+  }
+}

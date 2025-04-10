@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "squad",
+  "_pageIds": [
+    "[uc]roguelike/squad_1",
+    "[uc]roguelike/select_1",
+    "[uc]roguelike/select_2",
+    "[uc]roguelike/select_3",
+    "[uc]roguelike/select_4",
+    "[uc]roguelike/select_5",
+    "[uc]roguelike/select_6"
+  ],
+  "_autoShowTarget": 0,
+  "_subsignal": ""
+}

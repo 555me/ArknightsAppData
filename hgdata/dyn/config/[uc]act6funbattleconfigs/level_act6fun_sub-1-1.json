@@ -1,0 +1,372 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1665993882191751740
+  },
+  "m_Name": "level_act6fun_sub-1-1",
+  "characterActionPacks": [
+    {
+      "levelId": "level_act6fun_sub-1-1",
+      "characterActions": [
+        {
+          "timestamp": 2.0,
+          "charId": "char_222_bpipe",
+          "op": 0,
+          "direction": 3,
+          "pos": {
+            "row": 3,
+            "col": 8
+          }
+        },
+        {
+          "timestamp": 2.0,
+          "charId": "char_151_myrtle",
+          "op": 0,
+          "direction": 0,
+          "pos": {
+            "row": 2,
+            "col": 17
+          }
+        },
+        {
+          "timestamp": 5.0,
+          "charId": "char_151_myrtle",
+          "op": 2,
+          "direction": 0,
+          "pos": {
+            "row": 2,
+            "col": 17
+          }
+        },
+        {
+          "timestamp": 10.0,
+          "charId": "char_1014_nearl2",
+          "op": 0,
+          "direction": 3,
+          "pos": {
+            "row": 3,
+            "col": 12
+          }
+        },
+        {
+          "timestamp": 16.0,
+          "charId": "char_4064_mlynar",
+          "op": 0,
+          "direction": 3,
+          "pos": {
+            "row": 3,
+            "col": 17
+          }
+        },
+        {
+          "timestamp": 22.0,
+          "charId": "char_2025_shu",
+          "op": 0,
+          "direction": 1,
+          "pos": {
+            "row": 3,
+            "col": 16
+          }
+        },
+        {
+          "timestamp": 30.0,
+          "charId": "char_202_demkni",
+          "op": 0,
+          "direction": 1,
+          "pos": {
+            "row": 6,
+            "col": 22
+          }
+        },
+        {
+          "timestamp": 31.0,
+          "charId": "char_017_huang",
+          "op": 0,
+          "direction": 3,
+          "pos": {
+            "row": 6,
+            "col": 23
+          }
+        },
+        {
+          "timestamp": 35.0,
+          "charId": "char_1035_wisdel",
+          "op": 0,
+          "direction": 3,
+          "pos": {
+            "row": 5,
+            "col": 23
+          }
+        }
+      ],
+      "triggerPuzzles": [
+        {
+          "triggerGrids": [
+            {
+              "row": 3,
+              "col": 5
+            }
+          ],
+          "characterActions": [],
+          "branchId": "trigger_1"
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 3,
+              "col": 7
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 0.0,
+              "charId": "char_222_bpipe",
+              "op": 2,
+              "direction": 3,
+              "pos": {
+                "row": 3,
+                "col": 8
+              }
+            }
+          ],
+          "branchId": ""
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 2,
+              "col": 11
+            },
+            {
+              "row": 3,
+              "col": 11
+            },
+            {
+              "row": 4,
+              "col": 11
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 0.0,
+              "charId": "char_1014_nearl2",
+              "op": 2,
+              "direction": 3,
+              "pos": {
+                "row": 3,
+                "col": 12
+              }
+            },
+            {
+              "timestamp": 5.0,
+              "charId": "char_264_f12yin",
+              "op": 0,
+              "direction": 1,
+              "pos": {
+                "row": 6,
+                "col": 16
+              }
+            },
+            {
+              "timestamp": 10.0,
+              "charId": "char_264_f12yin",
+              "op": 2,
+              "direction": 1,
+              "pos": {
+                "row": 6,
+                "col": 16
+              }
+            }
+          ],
+          "branchId": "trigger_3"
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 3,
+              "col": 15
+            },
+            {
+              "row": 3,
+              "col": 16
+            },
+            {
+              "row": 4,
+              "col": 16
+            },
+            {
+              "row": 2,
+              "col": 16
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 0.0,
+              "charId": "char_2025_shu",
+              "op": 2,
+              "direction": 1,
+              "pos": {
+                "row": 3,
+                "col": 16
+              }
+            },
+            {
+              "timestamp": 3.0,
+              "charId": "char_4064_mlynar",
+              "op": 2,
+              "direction": 3,
+              "pos": {
+                "row": 3,
+                "col": 17
+              }
+            },
+            {
+              "timestamp": 73.0,
+              "charId": "char_4064_mlynar",
+              "op": 2,
+              "direction": 0,
+              "pos": {
+                "row": 3,
+                "col": 17
+              }
+            },
+            {
+              "timestamp": 143.0,
+              "charId": "char_4064_mlynar",
+              "op": 2,
+              "direction": 3,
+              "pos": {
+                "row": 3,
+                "col": 17
+              }
+            }
+          ],
+          "branchId": ""
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 4,
+              "col": 18
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 5.0,
+              "charId": "char_1035_wisdel",
+              "op": 2,
+              "direction": 3,
+              "pos": {
+                "row": 5,
+                "col": 23
+              }
+            },
+            {
+              "timestamp": 75.0,
+              "charId": "char_1035_wisdel",
+              "op": 2,
+              "direction": 3,
+              "pos": {
+                "row": 5,
+                "col": 23
+              }
+            },
+            {
+              "timestamp": 145.0,
+              "charId": "char_1035_wisdel",
+              "op": 2,
+              "direction": 3,
+              "pos": {
+                "row": 5,
+                "col": 23
+              }
+            }
+          ],
+          "branchId": "trigger_2"
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 3,
+              "col": 4
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 0.0,
+              "charId": "char_1028_texas2",
+              "op": 0,
+              "direction": 3,
+              "pos": {
+                "row": 3,
+                "col": 5
+              }
+            }
+          ],
+          "branchId": ""
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 2,
+              "col": 22
+            },
+            {
+              "row": 2,
+              "col": 23
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 0.0,
+              "charId": "char_350_surtr",
+              "op": 0,
+              "direction": 3,
+              "pos": {
+                "row": 2,
+                "col": 26
+              }
+            }
+          ],
+          "branchId": ""
+        },
+        {
+          "triggerGrids": [
+            {
+              "row": 2,
+              "col": 24
+            }
+          ],
+          "characterActions": [
+            {
+              "timestamp": 1.0,
+              "charId": "char_350_surtr",
+              "op": 2,
+              "direction": 3,
+              "pos": {
+                "row": 2,
+                "col": 26
+              }
+            },
+            {
+              "timestamp": 0.0,
+              "charId": "char_1028_texas2",
+              "op": 0,
+              "direction": 0,
+              "pos": {
+                "row": 2,
+                "col": 24
+              }
+            }
+          ],
+          "branchId": ""
+        }
+      ]
+    }
+  ]
+}

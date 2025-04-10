@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "progress_icon_hub",
+  "_rootPackingTag": "UI_RHINE_RESEARCH_PROGRESS",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 132,
+    "height": 150
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 1,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "progress_1",
+    "progress_2",
+    "progress_3",
+    "progress_4",
+    "progress_5"
+  ],
+  "_values": [
+    "Arts/UI/Rhine/ResearchProgress/progress_1",
+    "Arts/UI/Rhine/ResearchProgress/progress_2",
+    "Arts/UI/Rhine/ResearchProgress/progress_3",
+    "Arts/UI/Rhine/ResearchProgress/progress_4",
+    "Arts/UI/Rhine/ResearchProgress/progress_5"
+  ]
+}

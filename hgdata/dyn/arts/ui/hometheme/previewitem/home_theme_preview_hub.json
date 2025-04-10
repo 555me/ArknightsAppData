@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "home_theme_preview_hub",
+  "_rootPackingTag": "UI_HOMETHEME_PREVIEW",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 341,
+    "height": 114
+  },
+  "_extraPicSize": [],
+  "_compressType": 3,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "tm_arcade_1",
+    "tm_dungeon_1",
+    "tm_mainline_1",
+    "tm_rainbowsix_1",
+    "tm_rhodes_day",
+    "tm_rhodes_night",
+    "tm_rogue_3",
+    "tm_rogue_4",
+    "tm_sui_1"
+  ],
+  "_values": [
+    "Arts/UI/HomeTheme/PreviewItem/tm_arcade_1",
+    "Arts/UI/HomeTheme/PreviewItem/tm_dungeon_1",
+    "Arts/UI/HomeTheme/PreviewItem/tm_mainline_1",
+    "Arts/UI/HomeTheme/PreviewItem/tm_rainbowsix_1",
+    "Arts/UI/HomeTheme/PreviewItem/tm_rhodes_day",
+    "Arts/UI/HomeTheme/PreviewItem/tm_rhodes_night",
+    "Arts/UI/HomeTheme/PreviewItem/tm_rogue_3",
+    "Arts/UI/HomeTheme/PreviewItem/tm_rogue_4",
+    "Arts/UI/HomeTheme/PreviewItem/tm_sui_1"
+  ]
+}

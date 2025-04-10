@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 741099624361746541
+  },
+  "m_Name": "rune_05-01",
+  "_commands": [
+    {
+      "key": "dscout_skill_start",
+      "operaNodes": {
+        "SerializedState": "[{\"_effectKey\":\"dscout_skill_start\",\"_holdByTile\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.PlayEffect\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 0.1
+    }
+  ]
+}

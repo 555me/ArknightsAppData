@@ -1,0 +1,236 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4420957637576057513
+  },
+  "m_Name": "mission_atlas_hub",
+  "_sprites": [
+    {
+      "name": "img_unreceived",
+      "guid": "4e023f4a438bd99488e82755d1932910",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 858,
+        "h": 139
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_received",
+      "guid": "a765833af7da1244c9a0a4fa25f8a0bf",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 141,
+        "w": 858,
+        "h": 139
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_complete",
+      "guid": "4609d4d42421aa34ba453f7ddf7c7138",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 282,
+        "w": 844,
+        "h": 125
+      },
+      "rotate": 0
+    },
+    {
+      "name": "dec",
+      "guid": "736cba03cdc70a3469ef282dfc5dc83c",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 409,
+        "w": 258,
+        "h": 603
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_title",
+      "guid": "b34c7452cfbef724c83497c3cc34eb9d",
+      "atlas": 0,
+      "rect": {
+        "x": 260,
+        "y": 409,
+        "w": 332,
+        "h": 171
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_not_claim_all",
+      "guid": "a61c3b9dba4d10840adfb33dadaf4b48",
+      "atlas": 0,
+      "rect": {
+        "x": 260,
+        "y": 582,
+        "w": 296,
+        "h": 57
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_claim_all",
+      "guid": "445cc188f7cf51242af94eb2b2703600",
+      "atlas": 0,
+      "rect": {
+        "x": 260,
+        "y": 641,
+        "w": 296,
+        "h": 57
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_scroll_bar",
+      "guid": "8cfcacc8e201e164a94682d52f28d233",
+      "atlas": 0,
+      "rect": {
+        "x": 260,
+        "y": 700,
+        "w": 5,
+        "h": 239
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_mission_cnt_bg",
+      "guid": "3bd66f407e9d10b4d89a0fd661419aef",
+      "atlas": 0,
+      "rect": {
+        "x": 260,
+        "y": 941,
+        "w": 104,
+        "h": 38
+      },
+      "rotate": 0
+    },
+    {
+      "name": "dec_logo",
+      "guid": "3788788ae32ff6249834d383b115c246",
+      "atlas": 0,
+      "rect": {
+        "x": 860,
+        "y": 0,
+        "w": 18,
+        "h": 85
+      },
+      "rotate": 0
+    },
+    {
+      "name": "sprite_white",
+      "guid": "f754cafeb1cb9364fa1a18f0cbd97a3b",
+      "atlas": 0,
+      "rect": {
+        "x": 860,
+        "y": 87,
+        "w": 32,
+        "h": 32
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 250564338307384508
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 1867329869028772384
+      },
+      "size": 1024
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "img_unreceived",
+        "guid": "4e023f4a438bd99488e82755d1932910",
+        "md5": "37c1c4852882bcc1b84460d661125d86"
+      },
+      {
+        "name": "img_received",
+        "guid": "a765833af7da1244c9a0a4fa25f8a0bf",
+        "md5": "a2984428b5fe5986cd7db63d0bb817be"
+      },
+      {
+        "name": "img_complete",
+        "guid": "4609d4d42421aa34ba453f7ddf7c7138",
+        "md5": "89cabe65c0c47fc4cd5854b7a42e6231"
+      },
+      {
+        "name": "dec",
+        "guid": "736cba03cdc70a3469ef282dfc5dc83c",
+        "md5": "325eccf0cadaf0ae83050ae6145a4bf3"
+      },
+      {
+        "name": "img_title",
+        "guid": "b34c7452cfbef724c83497c3cc34eb9d",
+        "md5": "a7b53ac5c32e9be74917708f51a6653c"
+      },
+      {
+        "name": "img_not_claim_all",
+        "guid": "a61c3b9dba4d10840adfb33dadaf4b48",
+        "md5": "c1ec2c8ce032dd6ad854a876b5bfe197"
+      },
+      {
+        "name": "img_claim_all",
+        "guid": "445cc188f7cf51242af94eb2b2703600",
+        "md5": "4cc79c2459d8afcafc4cbf7bbf8a5b9f"
+      },
+      {
+        "name": "img_scroll_bar",
+        "guid": "8cfcacc8e201e164a94682d52f28d233",
+        "md5": "daaeec42ef58543b5ca64e2acd43c9ea"
+      },
+      {
+        "name": "img_mission_cnt_bg",
+        "guid": "3bd66f407e9d10b4d89a0fd661419aef",
+        "md5": "deacaaedbfdd02ed91d474ea017f8f4b"
+      },
+      {
+        "name": "dec_logo",
+        "guid": "3788788ae32ff6249834d383b115c246",
+        "md5": "ec3f11de1d2f1da89a65cabe58ff4b78"
+      },
+      {
+        "name": "sprite_white",
+        "guid": "f754cafeb1cb9364fa1a18f0cbd97a3b",
+        "md5": "f7efcff3edca1e9b2c7b31d8f7f270e3"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "mission_atlas_hub#0",
+        "guid": "a7ed3074dfd418d4995c6266bfd45a2c",
+        "md5": "bb69ab67604f7e00697f734d8d2ef679"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "mission_atlas_hub#0a",
+        "guid": "f97fdcc8c61269140beb361b1b44f396",
+        "md5": "a94ed71c709c21e6e042978ffa937eae"
+      }
+    ]
+  }
+}

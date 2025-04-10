@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "pic_hub",
+  "_rootPackingTag": "UI_CRISIS_RUNE_BG",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 510,
+    "height": 169
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "crisis_enemy_1",
+    "crisis_enemy_2",
+    "crisis_enemy_3",
+    "crisis_enemy_4",
+    "crisis_field_1",
+    "crisis_field_2",
+    "crisis_field_3",
+    "crisis_field_4",
+    "crisis_normal",
+    "crisis_op_1",
+    "crisis_op_2",
+    "crisis_op_3",
+    "crisis_weather_1",
+    "crisis_weather_2",
+    "crisis_weather_3",
+    "crisis_weather_4",
+    "crisis_weather_5",
+    "crisis_weather_6"
+  ],
+  "_values": [
+    "Arts/UI/Crisis/RuneDetailBg/crisis_enemy_1",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_enemy_2",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_enemy_3",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_enemy_4",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_field_1",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_field_2",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_field_3",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_field_4",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_normal",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_op_1",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_op_2",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_op_3",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_weather_1",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_weather_2",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_weather_3",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_weather_4",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_weather_5",
+    "Arts/UI/Crisis/RuneDetailBg/crisis_weather_6"
+  ]
+}

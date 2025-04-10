@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "bg_prize_card_hub",
+  "_rootPackingTag": "UI_ROGUE_4_BP_GRAND_PRIZE_CARD",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 176,
+    "height": 400
+  },
+  "_extraPicSize": [],
+  "_compressType": 3,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "card_grand_1",
+    "card_grand_10",
+    "card_grand_11",
+    "card_grand_2",
+    "card_grand_3",
+    "card_grand_4",
+    "card_grand_5",
+    "card_grand_6",
+    "card_grand_7",
+    "card_grand_8",
+    "card_grand_9"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_1",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_10",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_11",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_2",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_3",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_4",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_5",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_6",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_7",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_8",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrizeCard/card_grand_9"
+  ]
+}

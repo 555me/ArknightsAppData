@@ -1,0 +1,134 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
+  },
+  "m_Name": "chat_emoji_hub",
+  "_sprites": [
+    {
+      "name": "chat_panel_bg",
+      "guid": "2ecdb89e43241d847b168bf281ec4cde",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 224
+      },
+      "rotate": 0
+    },
+    {
+      "name": "chat_bubble_light",
+      "guid": "5228836152af198489365671569d4e19",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 226,
+        "w": 230,
+        "h": 89
+      },
+      "rotate": 0
+    },
+    {
+      "name": "theme_name",
+      "guid": "8b3f118a54162d3459198eea26fa34bb",
+      "atlas": 0,
+      "rect": {
+        "x": 221,
+        "y": 0,
+        "w": 56,
+        "h": 28
+      },
+      "rotate": 0
+    },
+    {
+      "name": "arrow",
+      "guid": "b432db4189d025143bb93b42e480e14a",
+      "atlas": 0,
+      "rect": {
+        "x": 221,
+        "y": 30,
+        "w": 23,
+        "h": 38
+      },
+      "rotate": 0
+    },
+    {
+      "name": "pager_dot",
+      "guid": "7502525212b8d72478ecc32bc1827de7",
+      "atlas": 0,
+      "rect": {
+        "x": 221,
+        "y": 70,
+        "w": 16,
+        "h": 15
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -3172105025677554639
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -7740546626683889217
+      },
+      "size": 512
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "chat_panel_bg",
+        "guid": "2ecdb89e43241d847b168bf281ec4cde",
+        "md5": "5ddcd824fb378f6f0f718fdc43ae3da8"
+      },
+      {
+        "name": "chat_bubble_light",
+        "guid": "5228836152af198489365671569d4e19",
+        "md5": "5475b4a8d83b59bef53221fa3d7dbee3"
+      },
+      {
+        "name": "theme_name",
+        "guid": "8b3f118a54162d3459198eea26fa34bb",
+        "md5": "211db8e0976a86dceb83ae6bc1542892"
+      },
+      {
+        "name": "arrow",
+        "guid": "b432db4189d025143bb93b42e480e14a",
+        "md5": "0933518a6315d8098466c5e4a31b3b38"
+      },
+      {
+        "name": "pager_dot",
+        "guid": "7502525212b8d72478ecc32bc1827de7",
+        "md5": "dd0245016d75b3b75b27cd43eec05305"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "chat_emoji_hub#0",
+        "guid": "796898c0afeb53c4788f8a9ff29808fe",
+        "md5": "8b2dfd5c37bf36dfe282ebe58c7fdbc4"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "chat_emoji_hub#0a",
+        "guid": "5408c92d3461bc5428f85b7c2cba6f1e",
+        "md5": "5b9d496bb37b60b46aa925eecbad9fb4"
+      }
+    ]
+  }
+}

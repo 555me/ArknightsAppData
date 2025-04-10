@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "ManualPhotoBgHub",
+  "_rootPackingTag": "UI_ACT1MULTI_UI_MANUAL_PHOTO_BG",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 596,
+    "height": 335
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "photobg_season1_outside",
+    "photobg_season1_podium",
+    "photobg_season1_postcarda",
+    "photobg_season1_postcardb",
+    "photobg_season1_track"
+  ],
+  "_values": [
+    "Activity/[UC]act1multi/Arts/ManualPhotoBg/photoBg_season1_outside",
+    "Activity/[UC]act1multi/Arts/ManualPhotoBg/photoBg_season1_podium",
+    "Activity/[UC]act1multi/Arts/ManualPhotoBg/photoBg_season1_postcardA",
+    "Activity/[UC]act1multi/Arts/ManualPhotoBg/photoBg_season1_postcardB",
+    "Activity/[UC]act1multi/Arts/ManualPhotoBg/photoBg_season1_track"
+  ]
+}

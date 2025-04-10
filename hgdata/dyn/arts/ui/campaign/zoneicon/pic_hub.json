@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "pic_hub",
+  "_rootPackingTag": "UI_CAMPAIGN_ZONE_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 180,
+    "height": 180
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "camp_zone_1",
+    "camp_zone_10",
+    "camp_zone_11",
+    "camp_zone_12",
+    "camp_zone_13",
+    "camp_zone_2",
+    "camp_zone_3",
+    "camp_zone_4",
+    "camp_zone_5",
+    "camp_zone_6",
+    "camp_zone_7",
+    "camp_zone_8",
+    "camp_zone_9"
+  ],
+  "_values": [
+    "Arts/UI/Campaign/ZoneIcon/camp_zone_1",
+    "Arts/UI/Campaign/ZoneIcon/camp_zone_10",
+    "Arts/UI/Campaign/ZoneIcon/camp_zone_11",
+    "Arts/UI/Campaign/ZoneIcon/camp_zone_12",
+    "Arts/UI/Campaign/ZoneIcon/camp_zone_13",
+    "Arts/UI/Campaign/ZoneIcon/camp_zone_2",
+    "Arts/UI/Campaign/ZoneIcon/camp_zone_3",
+    "Arts/UI/Campaign/ZoneIcon/camp_zone_4",
+    "Arts/UI/Campaign/ZoneIcon/camp_zone_5",
+    "Arts/UI/Campaign/ZoneIcon/camp_zone_6",
+    "Arts/UI/Campaign/ZoneIcon/camp_zone_7",
+    "Arts/UI/Campaign/ZoneIcon/camp_zone_8",
+    "Arts/UI/Campaign/ZoneIcon/camp_zone_9"
+  ]
+}

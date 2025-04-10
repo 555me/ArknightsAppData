@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4420957637576057513
+  },
+  "m_Name": "act19sre_entry_hub",
+  "_sprites": [
+    {
+      "name": "btn_replicate",
+      "guid": "4af051242f7dfb548bee2204e48e600c",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 182,
+        "h": 58
+      },
+      "rotate": 0
+    },
+    {
+      "name": "title",
+      "guid": "837ec133e51452046813ab9a42e52255",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 60,
+        "w": 103,
+        "h": 54
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -4125678065999525647
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -7598638567238997286
+      },
+      "size": 256
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "btn_replicate",
+        "guid": "4af051242f7dfb548bee2204e48e600c",
+        "md5": "5f34e9070f5549a15f92bd75bb0cbc3d"
+      },
+      {
+        "name": "title",
+        "guid": "837ec133e51452046813ab9a42e52255",
+        "md5": "9f112b7e09bc4efaae90d2924f56228a"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "act19sre_entry_hub#0",
+        "guid": "250be2fcd6b2c224e8f208be78bdde27",
+        "md5": "942e2f4fa6357bb060c0f21f64459b1d"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "act19sre_entry_hub#0a",
+        "guid": "16bff7aaa2078f84faf634aa4dbead42",
+        "md5": "5952aa1c33e2f1680be98f572b7a95d4"
+      }
+    ]
+  }
+}

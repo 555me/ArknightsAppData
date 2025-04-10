@@ -1,0 +1,287 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4420957637576057513
+  },
+  "m_Name": "act30side_mission_hub",
+  "_sprites": [
+    {
+      "name": "uncompleted",
+      "guid": "5470b9b1ed6de4d449a276545f5b5e01",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 886,
+        "h": 165
+      },
+      "rotate": 0
+    },
+    {
+      "name": "completed_mask",
+      "guid": "59dce8128bd257248854a9e0d640d043",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 167,
+        "w": 886,
+        "h": 165
+      },
+      "rotate": 0
+    },
+    {
+      "name": "completed",
+      "guid": "134822693bbc6fc4881170aabc4ebcf0",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 334,
+        "w": 886,
+        "h": 165
+      },
+      "rotate": 0
+    },
+    {
+      "name": "deco1",
+      "guid": "6dc80780193477e4e9e6a29a0c8d1f87",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 501,
+        "w": 333,
+        "h": 405
+      },
+      "rotate": 0
+    },
+    {
+      "name": "claim_all_on",
+      "guid": "a0fc5ef45d5d89c4b87a98869679785b",
+      "atlas": 0,
+      "rect": {
+        "x": 335,
+        "y": 501,
+        "w": 368,
+        "h": 112
+      },
+      "rotate": 0
+    },
+    {
+      "name": "claim_all_off",
+      "guid": "78c2fe2da1561a94fb1ed744d9bf19fd",
+      "atlas": 0,
+      "rect": {
+        "x": 335,
+        "y": 615,
+        "w": 368,
+        "h": 112
+      },
+      "rotate": 0
+    },
+    {
+      "name": "intro_text",
+      "guid": "ab19abde4d0e6b74ca7cacb092a7b1d1",
+      "atlas": 0,
+      "rect": {
+        "x": 335,
+        "y": 729,
+        "w": 304,
+        "h": 115
+      },
+      "rotate": 0
+    },
+    {
+      "name": "title",
+      "guid": "cc97554b1923b0e45af0ce541e36ae78",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 908,
+        "w": 337,
+        "h": 70
+      },
+      "rotate": 0
+    },
+    {
+      "name": "item",
+      "guid": "2422b6a8b7c66674b9d3152c101e410a",
+      "atlas": 0,
+      "rect": {
+        "x": 705,
+        "y": 501,
+        "w": 180,
+        "h": 180
+      },
+      "rotate": 0
+    },
+    {
+      "name": "mission_count_bg",
+      "guid": "3ccb550298f90804784fe01791a4251b",
+      "atlas": 0,
+      "rect": {
+        "x": 335,
+        "y": 846,
+        "w": 267,
+        "h": 38
+      },
+      "rotate": 0
+    },
+    {
+      "name": "item_bg",
+      "guid": "80b6b131808ea78448f25e379ff0c697",
+      "atlas": 0,
+      "rect": {
+        "x": 705,
+        "y": 683,
+        "w": 158,
+        "h": 128
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_scroll_bar",
+      "guid": "df6ae7953aab9934a8f796fc761c4598",
+      "atlas": 0,
+      "rect": {
+        "x": 888,
+        "y": 0,
+        "w": 5,
+        "h": 239
+      },
+      "rotate": 0
+    },
+    {
+      "name": "value_bar",
+      "guid": "216efddda94ae1c438975cbcae06a05e",
+      "atlas": 0,
+      "rect": {
+        "x": 705,
+        "y": 813,
+        "w": 172,
+        "h": 42
+      },
+      "rotate": 0
+    },
+    {
+      "name": "sprite_white",
+      "guid": "95e1fdc842602bd4ea9464fa45eaf974",
+      "atlas": 0,
+      "rect": {
+        "x": 888,
+        "y": 241,
+        "w": 32,
+        "h": 32
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -4377831478033953802
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -2815494489542033037
+      },
+      "size": 1024
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "uncompleted",
+        "guid": "5470b9b1ed6de4d449a276545f5b5e01",
+        "md5": "d137b232122a7b7210a06b36ec49b336"
+      },
+      {
+        "name": "completed_mask",
+        "guid": "59dce8128bd257248854a9e0d640d043",
+        "md5": "b3f1d036c73b90615b08fdef8a6792b2"
+      },
+      {
+        "name": "completed",
+        "guid": "134822693bbc6fc4881170aabc4ebcf0",
+        "md5": "e6d2ce53bc125a4c1b5e50b327c905e1"
+      },
+      {
+        "name": "deco1",
+        "guid": "6dc80780193477e4e9e6a29a0c8d1f87",
+        "md5": "53fc415bd006ee7cd2dd02224f801bc1"
+      },
+      {
+        "name": "claim_all_on",
+        "guid": "a0fc5ef45d5d89c4b87a98869679785b",
+        "md5": "2ed27a555b06352efd39eacad1789a5b"
+      },
+      {
+        "name": "claim_all_off",
+        "guid": "78c2fe2da1561a94fb1ed744d9bf19fd",
+        "md5": "7c9f8cf829fbc99fe3023f00eaf5a7e1"
+      },
+      {
+        "name": "intro_text",
+        "guid": "ab19abde4d0e6b74ca7cacb092a7b1d1",
+        "md5": "7cc9479998860767b3c6e4c910119eeb"
+      },
+      {
+        "name": "title",
+        "guid": "cc97554b1923b0e45af0ce541e36ae78",
+        "md5": "de76618fcadb5eee90c4d64a64f14bed"
+      },
+      {
+        "name": "item",
+        "guid": "2422b6a8b7c66674b9d3152c101e410a",
+        "md5": "74ba5c228fc83d03474fe7bb9505e44c"
+      },
+      {
+        "name": "mission_count_bg",
+        "guid": "3ccb550298f90804784fe01791a4251b",
+        "md5": "e17da0d6e30b7e7472cede7bedb1d2c8"
+      },
+      {
+        "name": "item_bg",
+        "guid": "80b6b131808ea78448f25e379ff0c697",
+        "md5": "deae630ac1bd8419b268fb51ca4b6c60"
+      },
+      {
+        "name": "img_scroll_bar",
+        "guid": "df6ae7953aab9934a8f796fc761c4598",
+        "md5": "daaeec42ef58543b5ca64e2acd43c9ea"
+      },
+      {
+        "name": "value_bar",
+        "guid": "216efddda94ae1c438975cbcae06a05e",
+        "md5": "19c595786fccfd4d192840453a3d7207"
+      },
+      {
+        "name": "sprite_white",
+        "guid": "95e1fdc842602bd4ea9464fa45eaf974",
+        "md5": "2ce5bb41cb46836bf4109504a7582745"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "act30side_mission_atlas#0",
+        "guid": "d0267dcf8de1a4049bbecd5a850a7318",
+        "md5": "e74b8a3ed92f634064d38be542958399"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "act30side_mission_atlas#0a",
+        "guid": "fbf3da0f10d65004a843b54c86b0fed3",
+        "md5": "36c263722d23f8b60cf859a2b8053d54"
+      }
+    ]
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4420957637576057513
+  },
+  "m_Name": "team_info_hub",
+  "_sprites": [
+    {
+      "name": "slide_line",
+      "guid": "da6d9d0de6a8b2e419962a8884d7642d",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 642,
+        "h": 275
+      },
+      "rotate": 0
+    },
+    {
+      "name": "deco_bg",
+      "guid": "cab50b60ac8515f4b9af32049e6bf783",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 277,
+        "w": 404,
+        "h": 194
+      },
+      "rotate": 0
+    },
+    {
+      "name": "spine_base",
+      "guid": "bb8046f27a2e96043a823525d8696ba7",
+      "atlas": 0,
+      "rect": {
+        "x": 406,
+        "y": 277,
+        "w": 214,
+        "h": 214
+      },
+      "rotate": 0
+    },
+    {
+      "name": "bg_circle",
+      "guid": "615120a96f0be2546b25b616e9886c20",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 473,
+        "w": 193,
+        "h": 193
+      },
+      "rotate": 0
+    },
+    {
+      "name": "down_panel",
+      "guid": "e5c081fa748acb04c9302da4968f394f",
+      "atlas": 0,
+      "rect": {
+        "x": 195,
+        "y": 473,
+        "w": 177,
+        "h": 179
+      },
+      "rotate": 0
+    },
+    {
+      "name": "select_frame",
+      "guid": "2e5ff63bf6e18c0418b75fc84b781d97",
+      "atlas": 0,
+      "rect": {
+        "x": 406,
+        "y": 493,
+        "w": 167,
+        "h": 168
+      },
+      "rotate": 0
+    },
+    {
+      "name": "slice_down_deco",
+      "guid": "478f5e42020539148b67d5ef2181f173",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 668,
+        "w": 272,
+        "h": 8
+      },
+      "rotate": 0
+    },
+    {
+      "name": "line",
+      "guid": "ec14e7fdb39ba104bbfd3b8a4ca581c1",
+      "atlas": 0,
+      "rect": {
+        "x": 274,
+        "y": 668,
+        "w": 272,
+        "h": 2
+      },
+      "rotate": 0
+    },
+    {
+      "name": "deco_sweep",
+      "guid": "710bd2cb879abb14fb3edd0c690d0a70",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 678,
+        "w": 202,
+        "h": 64
+      },
+      "rotate": 0
+    },
+    {
+      "name": "selected",
+      "guid": "bdeddacb5661841418424195b22112a7",
+      "atlas": 0,
+      "rect": {
+        "x": 274,
+        "y": 672,
+        "w": 198,
+        "h": 59
+      },
+      "rotate": 0
+    },
+    {
+      "name": "deco_frame_up",
+      "guid": "9cfdb81469f195d409921a6cfdaf08bc",
+      "atlas": 0,
+      "rect": {
+        "x": 548,
+        "y": 668,
+        "w": 194,
+        "h": 20
+      },
+      "rotate": 0
+    },
+    {
+      "name": "select_back",
+      "guid": "dd45e60d668257544bec5a35f7f976e9",
+      "atlas": 0,
+      "rect": {
+        "x": 548,
+        "y": 690,
+        "w": 153,
+        "h": 43
+      },
+      "rotate": 0
+    },
+    {
+      "name": "enemy_info_btn",
+      "guid": "955a6d0abbad58747846ff96a25bf40c",
+      "atlas": 0,
+      "rect": {
+        "x": 575,
+        "y": 493,
+        "w": 152,
+        "h": 41
+      },
+      "rotate": 0
+    },
+    {
+      "name": "deco_report",
+      "guid": "a2ddd4a4cae6e774f8c79d1553725ad4",
+      "atlas": 0,
+      "rect": {
+        "x": 575,
+        "y": 536,
+        "w": 148,
+        "h": 45
+      },
+      "rotate": 0
+    },
+    {
+      "name": "frame",
+      "guid": "372df52c5921ecf45b87d7280caf9c37",
+      "atlas": 0,
+      "rect": {
+        "x": 575,
+        "y": 583,
+        "w": 86,
+        "h": 84
+      },
+      "rotate": 0
+    },
+    {
+      "name": "enemy_id",
+      "guid": "c15ca9dc98f23c54dac16944e1e2d5c8",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 744,
+        "w": 122,
+        "h": 34
+      },
+      "rotate": 0
+    },
+    {
+      "name": "deco_bar_down",
+      "guid": "901db78c079df984092582983a885b46",
+      "atlas": 0,
+      "rect": {
+        "x": 274,
+        "y": 733,
+        "w": 126,
+        "h": 30
+      },
+      "rotate": 0
+    },
+    {
+      "name": "atk_team",
+      "guid": "7aca82feb7019984ca44ff8886c970c2",
+      "atlas": 0,
+      "rect": {
+        "x": 548,
+        "y": 735,
+        "w": 126,
+        "h": 30
+      },
+      "rotate": 0
+    },
+    {
+      "name": "unlock_deco",
+      "guid": "f6dba4514387b7a469c55dfff8af2244",
+      "atlas": 0,
+      "rect": {
+        "x": 644,
+        "y": 0,
+        "w": 111,
+        "h": 32
+      },
+      "rotate": 0
+    },
+    {
+      "name": "intro",
+      "guid": "6d819eefebcd1da46a21ec6af2ab22a1",
+      "atlas": 0,
+      "rect": {
+        "x": 644,
+        "y": 34,
+        "w": 111,
+        "h": 32
+      },
+      "rotate": 0
+    },
+    {
+      "name": "effect_deco",
+      "guid": "1dc38da0e37dbfe4f98712fa46e667e1",
+      "atlas": 0,
+      "rect": {
+        "x": 644,
+        "y": 68,
+        "w": 111,
+        "h": 32
+      },
+      "rotate": 0
+    },
+    {
+      "name": "team_id_bar",
+      "guid": "9de90590f5ac7554182bd70abde81a59",
+      "atlas": 0,
+      "rect": {
+        "x": 644,
+        "y": 102,
+        "w": 111,
+        "h": 31
+      },
+      "rotate": 0
+    },
+    {
+      "name": "cross",
+      "guid": "277cc59e53bf95340a58c280c0dab5f0",
+      "atlas": 0,
+      "rect": {
+        "x": 644,
+        "y": 135,
+        "w": 67,
+        "h": 66
+      },
+      "rotate": 0
+    },
+    {
+      "name": "lock_icon2",
+      "guid": "ff1a63668f6068e48a0b854add285d6d",
+      "atlas": 0,
+      "rect": {
+        "x": 644,
+        "y": 203,
+        "w": 63,
+        "h": 63
+      },
+      "rotate": 0
+    },
+    {
+      "name": "hp_bar_back",
+      "guid": "b963fbf7781d9804f8a6bffd8bf95ad2",
+      "atlas": 0,
+      "rect": {
+        "x": 644,
+        "y": 268,
+        "w": 55,
+        "h": 35
+      },
+      "rotate": 0
+    },
+    {
+      "name": "deco_symbol",
+      "guid": "6685571df01e8d641bd8dce3438aba0b",
+      "atlas": 0,
+      "rect": {
+        "x": 644,
+        "y": 305,
+        "w": 55,
+        "h": 25
+      },
+      "rotate": 0
+    },
+    {
+      "name": "team_deco_icon",
+      "guid": "36bb9ff46ad20274490b961dc8aaeff9",
+      "atlas": 0,
+      "rect": {
+        "x": 644,
+        "y": 332,
+        "w": 37,
+        "h": 42
+      },
+      "rotate": 0
+    },
+    {
+      "name": "bg_x",
+      "guid": "f6b2256fa23d0c141805979df2378a19",
+      "atlas": 0,
+      "rect": {
+        "x": 644,
+        "y": 376,
+        "w": 36,
+        "h": 36
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_sprite_white",
+      "guid": "9757220b371cd9b4bad1bb8a1208775c",
+      "atlas": 0,
+      "rect": {
+        "x": 644,
+        "y": 414,
+        "w": 32,
+        "h": 32
+      },
+      "rotate": 0
+    },
+    {
+      "name": "def",
+      "guid": "bec313a9bf40be94aa4a9d2eacf978f0",
+      "atlas": 0,
+      "rect": {
+        "x": 644,
+        "y": 448,
+        "w": 30,
+        "h": 30
+      },
+      "rotate": 0
+    },
+    {
+      "name": "atk",
+      "guid": "90f5340b2b32f2f449844c0c4f680d52",
+      "atlas": 0,
+      "rect": {
+        "x": 374,
+        "y": 473,
+        "w": 30,
+        "h": 30
+      },
+      "rotate": 0
+    },
+    {
+      "name": "lock_icon",
+      "guid": "ee577294c06a5924d914dab03e2a3b3b",
+      "atlas": 0,
+      "rect": {
+        "x": 374,
+        "y": 505,
+        "w": 28,
+        "h": 28
+      },
+      "rotate": 0
+    },
+    {
+      "name": "def_icon",
+      "guid": "e733cf4d9bdee2b4b900b24027619f64",
+      "atlas": 0,
+      "rect": {
+        "x": 374,
+        "y": 535,
+        "w": 25,
+        "h": 25
+      },
+      "rotate": 0
+    },
+    {
+      "name": "deco_down_part",
+      "guid": "376dc19fdd9fc4b4dafcb114290472d9",
+      "atlas": 0,
+      "rect": {
+        "x": 374,
+        "y": 562,
+        "w": 29,
+        "h": 21
+      },
+      "rotate": 0
+    },
+    {
+      "name": "atk_icon",
+      "guid": "aaa4116485eb584499d8d6e55cc44682",
+      "atlas": 0,
+      "rect": {
+        "x": 374,
+        "y": 585,
+        "w": 25,
+        "h": 25
+      },
+      "rotate": 0
+    },
+    {
+      "name": "bg_arrow",
+      "guid": "83d700ea22e7ee64e8f1c4996d03df98",
+      "atlas": 0,
+      "rect": {
+        "x": 374,
+        "y": 612,
+        "w": 28,
+        "h": 15
+      },
+      "rotate": 0
+    },
+    {
+      "name": "lock_text",
+      "guid": "2034fa5607064fe45a64030bd4b124fb",
+      "atlas": 0,
+      "rect": {
+        "x": 374,
+        "y": 629,
+        "w": 15,
+        "h": 19
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 5739398133970204031
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 2994205742737096486
+      },
+      "size": 1024
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "slide_line",
+        "guid": "da6d9d0de6a8b2e419962a8884d7642d",
+        "md5": "73d06a3b05f620e59fed73b74fb1b5ed"
+      },
+      {
+        "name": "deco_bg",
+        "guid": "cab50b60ac8515f4b9af32049e6bf783",
+        "md5": "d3400bf55e76a0451263f061524f160a"
+      },
+      {
+        "name": "spine_base",
+        "guid": "bb8046f27a2e96043a823525d8696ba7",
+        "md5": "1f768ca83baf01b93d570e0508f000f0"
+      },
+      {
+        "name": "bg_circle",
+        "guid": "615120a96f0be2546b25b616e9886c20",
+        "md5": "1da62092be7a97c2a7ceeb0905eab2b2"
+      },
+      {
+        "name": "down_panel",
+        "guid": "e5c081fa748acb04c9302da4968f394f",
+        "md5": "29f668ae8942fe165cc65c0bae6cd55c"
+      },
+      {
+        "name": "select_frame",
+        "guid": "2e5ff63bf6e18c0418b75fc84b781d97",
+        "md5": "e986df30f200fda86a19b67914950acf"
+      },
+      {
+        "name": "slice_down_deco",
+        "guid": "478f5e42020539148b67d5ef2181f173",
+        "md5": "3cf7ef3c7572db070c98087d94819f39"
+      },
+      {
+        "name": "line",
+        "guid": "ec14e7fdb39ba104bbfd3b8a4ca581c1",
+        "md5": "7b932bdbaf702e22f26dfbacdc1f2a97"
+      },
+      {
+        "name": "deco_sweep",
+        "guid": "710bd2cb879abb14fb3edd0c690d0a70",
+        "md5": "01f0464acfa2d931a35651703d9890b3"
+      },
+      {
+        "name": "selected",
+        "guid": "bdeddacb5661841418424195b22112a7",
+        "md5": "ce003e010b958df746b02da14a08dbb8"
+      },
+      {
+        "name": "deco_frame_up",
+        "guid": "9cfdb81469f195d409921a6cfdaf08bc",
+        "md5": "e4c6243d1c2b56e10e5c494208af3763"
+      },
+      {
+        "name": "select_back",
+        "guid": "dd45e60d668257544bec5a35f7f976e9",
+        "md5": "7282df9e168bb5a7a773376e5fe717f9"
+      },
+      {
+        "name": "enemy_info_btn",
+        "guid": "955a6d0abbad58747846ff96a25bf40c",
+        "md5": "7c431bda1b49913804ec1932e8771aa7"
+      },
+      {
+        "name": "deco_report",
+        "guid": "a2ddd4a4cae6e774f8c79d1553725ad4",
+        "md5": "71b4456337f9c17e14350656ec58f598"
+      },
+      {
+        "name": "frame",
+        "guid": "372df52c5921ecf45b87d7280caf9c37",
+        "md5": "b0da191cd5b60d6f7761693e9205ed72"
+      },
+      {
+        "name": "enemy_id",
+        "guid": "c15ca9dc98f23c54dac16944e1e2d5c8",
+        "md5": "317e4d5f26ee3b2186cd670be345a969"
+      },
+      {
+        "name": "deco_bar_down",
+        "guid": "901db78c079df984092582983a885b46",
+        "md5": "5bb68fd1878d0d2098cc989273c908b9"
+      },
+      {
+        "name": "atk_team",
+        "guid": "7aca82feb7019984ca44ff8886c970c2",
+        "md5": "a5a96af77203cba0218d1f45b8255c32"
+      },
+      {
+        "name": "unlock_deco",
+        "guid": "f6dba4514387b7a469c55dfff8af2244",
+        "md5": "ef42b4cc0d342677d1429e1d746f4c2e"
+      },
+      {
+        "name": "intro",
+        "guid": "6d819eefebcd1da46a21ec6af2ab22a1",
+        "md5": "0c38c625886de02cb61019482cf8f43b"
+      },
+      {
+        "name": "effect_deco",
+        "guid": "1dc38da0e37dbfe4f98712fa46e667e1",
+        "md5": "9ab6bf45c56448c823caacf19386e64e"
+      },
+      {
+        "name": "team_id_bar",
+        "guid": "9de90590f5ac7554182bd70abde81a59",
+        "md5": "9d1d919fd2b12c309d47945fb17515e6"
+      },
+      {
+        "name": "cross",
+        "guid": "277cc59e53bf95340a58c280c0dab5f0",
+        "md5": "c5bfb4102a8cbc080cf13dd73646eb9b"
+      },
+      {
+        "name": "lock_icon2",
+        "guid": "ff1a63668f6068e48a0b854add285d6d",
+        "md5": "c22189dca118c89b50c229dee6acf8ec"
+      },
+      {
+        "name": "hp_bar_back",
+        "guid": "b963fbf7781d9804f8a6bffd8bf95ad2",
+        "md5": "e91d84ac531a6958a6e01e6b58449846"
+      },
+      {
+        "name": "deco_symbol",
+        "guid": "6685571df01e8d641bd8dce3438aba0b",
+        "md5": "e51d8dd10e666829575a170c76a24ea5"
+      },
+      {
+        "name": "team_deco_icon",
+        "guid": "36bb9ff46ad20274490b961dc8aaeff9",
+        "md5": "bd8c589303a403ec64180914ce18e020"
+      },
+      {
+        "name": "bg_x",
+        "guid": "f6b2256fa23d0c141805979df2378a19",
+        "md5": "2fd0ec3650e70931dd7508ab0312985f"
+      },
+      {
+        "name": "img_sprite_white",
+        "guid": "9757220b371cd9b4bad1bb8a1208775c",
+        "md5": "2ce5bb41cb46836bf4109504a7582745"
+      },
+      {
+        "name": "def",
+        "guid": "bec313a9bf40be94aa4a9d2eacf978f0",
+        "md5": "585003346bc45c694fbfa023f0e4de4d"
+      },
+      {
+        "name": "atk",
+        "guid": "90f5340b2b32f2f449844c0c4f680d52",
+        "md5": "b5c0a67773eb650d1b9c909e74ffb8d6"
+      },
+      {
+        "name": "lock_icon",
+        "guid": "ee577294c06a5924d914dab03e2a3b3b",
+        "md5": "445698e602c873ee3820fb96f3431375"
+      },
+      {
+        "name": "def_icon",
+        "guid": "e733cf4d9bdee2b4b900b24027619f64",
+        "md5": "50249eb26090bcc2aac44e7e243f25d4"
+      },
+      {
+        "name": "deco_down_part",
+        "guid": "376dc19fdd9fc4b4dafcb114290472d9",
+        "md5": "b3873ffbcf7ca9fa510094da514c34f6"
+      },
+      {
+        "name": "atk_icon",
+        "guid": "aaa4116485eb584499d8d6e55cc44682",
+        "md5": "bf3e9375c36c96ec45ecb73cbf28e52f"
+      },
+      {
+        "name": "bg_arrow",
+        "guid": "83d700ea22e7ee64e8f1c4996d03df98",
+        "md5": "fa182b6e66885a807243dab2360174ce"
+      },
+      {
+        "name": "lock_text",
+        "guid": "2034fa5607064fe45a64030bd4b124fb",
+        "md5": "f277a8fabb28bcdd992cc8e645049876"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "team_info_hub#0",
+        "guid": "a167bb7cc45822a438bff35c4e5da3bb",
+        "md5": "4a87bfcb9480bf75f7c7adc5e90e7c85"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "team_info_hub#0a",
+        "guid": "aaf2c4725c34e194ca25e1975053ab96",
+        "md5": "f2652587fdffc586109dce690f707483"
+      }
+    ]
+  }
+}

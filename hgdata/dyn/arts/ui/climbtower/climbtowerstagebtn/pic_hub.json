@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "pic_hub",
+  "_rootPackingTag": "UI_CLIMB_TOWER_STAGE_ICON_IMG",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 256,
+    "height": 353
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "tower_n_01",
+    "tower_n_02",
+    "tower_n_03",
+    "tower_n_04"
+  ],
+  "_values": [
+    "Arts/UI/ClimbTower/ClimbTowerStageBtn/tower_n_01",
+    "Arts/UI/ClimbTower/ClimbTowerStageBtn/tower_n_02",
+    "Arts/UI/ClimbTower/ClimbTowerStageBtn/tower_n_03",
+    "Arts/UI/ClimbTower/ClimbTowerStageBtn/tower_n_04"
+  ]
+}

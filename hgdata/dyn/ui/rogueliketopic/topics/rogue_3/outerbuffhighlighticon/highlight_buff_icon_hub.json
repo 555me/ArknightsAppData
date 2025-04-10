@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "highlight_buff_icon_hub",
+  "_rootPackingTag": "UI_ROGUELIKE_OUTER_BUFF_HIGHLIGHT_ICON_RL03",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 67,
+    "height": 67
+  },
+  "_extraPicSize": [
+    {
+      "width": 102,
+      "height": 102
+    }
+  ],
+  "_compressType": 0,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "display_bat_attack",
+    "display_bat_char_limit",
+    "display_bat_def",
+    "display_bat_max_hp",
+    "display_exp",
+    "display_gold",
+    "display_grow_point",
+    "display_hp",
+    "display_squad_capacity",
+    "img_summary_node_lifebuff",
+    "img_summary_node_lock",
+    "rogue_3_difficulty_1_light",
+    "rogue_3_difficulty_2_light",
+    "rogue_3_difficulty_3_light"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/display_bat_attack",
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/display_bat_char_limit",
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/display_bat_def",
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/display_bat_max_hp",
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/display_exp",
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/display_gold",
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/display_grow_point",
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/display_hp",
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/display_squad_capacity",
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/img_summary_node_lifebuff",
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/img_summary_node_lock",
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/rogue_3_difficulty_1_light",
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/rogue_3_difficulty_2_light",
+    "UI/RoguelikeTopic/Topics/rogue_3/OuterBuffHighlightIcon/rogue_3_difficulty_3_light"
+  ]
+}

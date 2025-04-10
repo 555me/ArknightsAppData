@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "bg_prize_hub",
+  "_rootPackingTag": "UI_ROGUE_4_TOPIC_BP_GRAND_PRIZE",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 510,
+    "height": 470
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "grand_1",
+    "grand_10",
+    "grand_10_2",
+    "grand_11",
+    "grand_11_2",
+    "grand_2",
+    "grand_3",
+    "grand_4",
+    "grand_4_2",
+    "grand_5",
+    "grand_5_2",
+    "grand_6",
+    "grand_7",
+    "grand_8",
+    "grand_8_2",
+    "grand_9",
+    "grand_9_2"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_1",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_10",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_10_2",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_11",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_11_2",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_2",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_3",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_4",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_4_2",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_5",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_5_2",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_6",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_7",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_8",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_8_2",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_9",
+    "UI/RoguelikeTopic/Topics/rogue_4_update/BPGrandPrize/grand_9_2"
+  ]
+}

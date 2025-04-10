@@ -1,0 +1,1329 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4420957637576057513
+  },
+  "m_Name": "act1blessing_atlas_hub",
+  "_sprites": [
+    {
+      "name": "img_home_title",
+      "guid": "c0ee97adef15d774ea2bd4dcfa773542",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 432,
+        "h": 207
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_avail_4",
+      "guid": "961c748ef592aa1488d65d5ded002cc2",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 209,
+        "w": 193,
+        "h": 227
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_avail_3",
+      "guid": "87361184f33836f44ae4fbbdcc7b09c1",
+      "atlas": 0,
+      "rect": {
+        "x": 195,
+        "y": 209,
+        "w": 193,
+        "h": 227
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_avail_2",
+      "guid": "ca49a164e5319174eaa6d41a31f236ed",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 438,
+        "w": 193,
+        "h": 227
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_avail_1",
+      "guid": "95e989429357ef64b94c4513b71a0256",
+      "atlas": 0,
+      "rect": {
+        "x": 195,
+        "y": 438,
+        "w": 192,
+        "h": 227
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_receive_2",
+      "guid": "47422fa94f0204b41b3578a62607c2be",
+      "atlas": 0,
+      "rect": {
+        "x": 434,
+        "y": 0,
+        "w": 193,
+        "h": 194
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_disable_2",
+      "guid": "1f2af1eb67adbc9439d944717baf7cf7",
+      "atlas": 0,
+      "rect": {
+        "x": 434,
+        "y": 196,
+        "w": 193,
+        "h": 194
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_receive_4",
+      "guid": "3a0743f1d6fed024bb426e3d55202e98",
+      "atlas": 0,
+      "rect": {
+        "x": 434,
+        "y": 392,
+        "w": 193,
+        "h": 193
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_receive_3",
+      "guid": "fadf2acab524e394bb1969a3d7e03276",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 667,
+        "w": 193,
+        "h": 193
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_disable_4",
+      "guid": "ab73a64193ffb054eacf56977aad719b",
+      "atlas": 0,
+      "rect": {
+        "x": 195,
+        "y": 667,
+        "w": 193,
+        "h": 193
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_disable_3",
+      "guid": "132234c5732133846aa42fac8f35c2a1",
+      "atlas": 0,
+      "rect": {
+        "x": 434,
+        "y": 587,
+        "w": 193,
+        "h": 193
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_receive_1",
+      "guid": "463ab4b1ea8dca84c99c58ea0c8ce870",
+      "atlas": 0,
+      "rect": {
+        "x": 629,
+        "y": 0,
+        "w": 192,
+        "h": 193
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_disable_1",
+      "guid": "e06613791a06fd14e8c74d8c243bb3b2",
+      "atlas": 0,
+      "rect": {
+        "x": 629,
+        "y": 195,
+        "w": 192,
+        "h": 193
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_avatar_bg_4",
+      "guid": "911be4d406ffa4a4d9b84c51d8581416",
+      "atlas": 0,
+      "rect": {
+        "x": 629,
+        "y": 390,
+        "w": 187,
+        "h": 187
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_avatar_bg_3",
+      "guid": "d9a2248149853794f9eca20ce9438548",
+      "atlas": 0,
+      "rect": {
+        "x": 629,
+        "y": 579,
+        "w": 187,
+        "h": 187
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_avatar_bg_2",
+      "guid": "8a126ed25570f604998b9f4f5aaf5c17",
+      "atlas": 0,
+      "rect": {
+        "x": 434,
+        "y": 782,
+        "w": 187,
+        "h": 187
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_avatar_bg_1",
+      "guid": "9e6dcfff9e35aee4e89a9efc5a5c4263",
+      "atlas": 0,
+      "rect": {
+        "x": 629,
+        "y": 768,
+        "w": 187,
+        "h": 187
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_checkin_unreceived",
+      "guid": "a45b0ed1557d6dd4e84606f73e76bb08",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 862,
+        "w": 308,
+        "h": 105
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_checkin_can_receive",
+      "guid": "2b8b2de55664a5841ace19d232312bc4",
+      "atlas": 0,
+      "rect": {
+        "x": 823,
+        "y": 0,
+        "w": 105,
+        "h": 308
+      },
+      "rotate": 1
+    },
+    {
+      "name": "btn_packet_open",
+      "guid": "1d7298a7c2de1554b80e3e76ef88fdcb",
+      "atlas": 0,
+      "rect": {
+        "x": 823,
+        "y": 310,
+        "w": 176,
+        "h": 177
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_diamond",
+      "guid": "1f419d033551f0a4289d343c6e8174c0",
+      "atlas": 0,
+      "rect": {
+        "x": 823,
+        "y": 489,
+        "w": 170,
+        "h": 172
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_received_bg",
+      "guid": "219405fbf3768d048801be263c7ca52e",
+      "atlas": 0,
+      "rect": {
+        "x": 823,
+        "y": 663,
+        "w": 83,
+        "h": 286
+      },
+      "rotate": 1
+    },
+    {
+      "name": "img_bless_4",
+      "guid": "de3401ff2d598bb41a66ac9cb223990c",
+      "atlas": 0,
+      "rect": {
+        "x": 629,
+        "y": 957,
+        "w": 332,
+        "h": 63
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_logo",
+      "guid": "bb699d8599bf1424490ca17c0d3652cf",
+      "atlas": 0,
+      "rect": {
+        "x": 908,
+        "y": 663,
+        "w": 91,
+        "h": 190
+      },
+      "rotate": 1
+    },
+    {
+      "name": "btn_select_char",
+      "guid": "837d013939d3ba44d93b67fedb681e5b",
+      "atlas": 0,
+      "rect": {
+        "x": 930,
+        "y": 0,
+        "w": 62,
+        "h": 236
+      },
+      "rotate": 1
+    },
+    {
+      "name": "right_gradient",
+      "guid": "31dd0cb647a0e7e4f87accebe7da5405",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 969,
+        "w": 393,
+        "h": 36
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_main_text",
+      "guid": "754c67631de829047866dc34ea5e490e",
+      "atlas": 0,
+      "rect": {
+        "x": 390,
+        "y": 209,
+        "w": 38,
+        "h": 353
+      },
+      "rotate": 1
+    },
+    {
+      "name": "img_diamond_bg",
+      "guid": "c78d271128996c742a77731763adeccc",
+      "atlas": 0,
+      "rect": {
+        "x": 434,
+        "y": 971,
+        "w": 145,
+        "h": 50
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_main_text_bg",
+      "guid": "2c5ed2a416052f74e920503a030ddc24",
+      "atlas": 0,
+      "rect": {
+        "x": 908,
+        "y": 855,
+        "w": 85,
+        "h": 85
+      },
+      "rotate": 0
+    },
+    {
+      "name": "btn_close",
+      "guid": "66a2b8e4f645d664585ef3837170f0a0",
+      "atlas": 0,
+      "rect": {
+        "x": 310,
+        "y": 862,
+        "w": 82,
+        "h": 84
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_arrow",
+      "guid": "6f5e3ffb3318523429ea22ef703406a0",
+      "atlas": 0,
+      "rect": {
+        "x": 930,
+        "y": 238,
+        "w": 94,
+        "h": 67
+      },
+      "rotate": 1
+    },
+    {
+      "name": "dec_vectical",
+      "guid": "929c1ef2879303e4e8778eb662c1a34e",
+      "atlas": 0,
+      "rect": {
+        "x": 390,
+        "y": 564,
+        "w": 32,
+        "h": 188
+      },
+      "rotate": 0
+    },
+    {
+      "name": "btn_goto_collection",
+      "guid": "045fe90a7b5953e40b551d8cdf7d6d8d",
+      "atlas": 0,
+      "rect": {
+        "x": 394,
+        "y": 862,
+        "w": 32,
+        "h": 158
+      },
+      "rotate": 1
+    },
+    {
+      "name": "img_home_bless_num_bg",
+      "guid": "9637d1b254a23cd45ad7df2429fb292f",
+      "atlas": 0,
+      "rect": {
+        "x": 995,
+        "y": 489,
+        "w": 27,
+        "h": 158
+      },
+      "rotate": 1
+    },
+    {
+      "name": "img_id_bg",
+      "guid": "7070cbf018303f44291cd8cba86b8b1f",
+      "atlas": 0,
+      "rect": {
+        "x": 994,
+        "y": 0,
+        "w": 29,
+        "h": 137
+      },
+      "rotate": 1
+    },
+    {
+      "name": "img_checkin_received_txt",
+      "guid": "edc6b73ff522c32499c21b8938b38fc5",
+      "atlas": 0,
+      "rect": {
+        "x": 995,
+        "y": 855,
+        "w": 28,
+        "h": 127
+      },
+      "rotate": 1
+    },
+    {
+      "name": "img_bless_text_4_1",
+      "guid": "1ca3061d9f3d7aa4f82758f1c80adc42",
+      "atlas": 0,
+      "rect": {
+        "x": 390,
+        "y": 754,
+        "w": 30,
+        "h": 84
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bless_text_3_1",
+      "guid": "43f1ffe96c6f57a4591c239d61b52bd8",
+      "atlas": 0,
+      "rect": {
+        "x": 994,
+        "y": 139,
+        "w": 30,
+        "h": 84
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_home_deco",
+      "guid": "fb2ffe022ee93144487ea86a139aa0a3",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 1007,
+        "w": 102,
+        "h": 17
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bless_deco",
+      "guid": "5e88b8090d8770d428ffd0b283326c9a",
+      "atlas": 0,
+      "rect": {
+        "x": 1001,
+        "y": 310,
+        "w": 18,
+        "h": 92
+      },
+      "rotate": 1
+    },
+    {
+      "name": "sprite_white",
+      "guid": "d02da295a5f500f4d889b8ca578055aa",
+      "atlas": 0,
+      "rect": {
+        "x": 581,
+        "y": 971,
+        "w": 32,
+        "h": 32
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_switch_ver",
+      "guid": "4c71f487da508e84892c9c52f1762d39",
+      "atlas": 0,
+      "rect": {
+        "x": 963,
+        "y": 957,
+        "w": 31,
+        "h": 29
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon_switch_hor",
+      "guid": "bb25f862055d5944895b57636cfbe8db",
+      "atlas": 0,
+      "rect": {
+        "x": 995,
+        "y": 984,
+        "w": 28,
+        "h": 31
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_dec_text_left",
+      "guid": "b91d8ded0ae01cf43b95500127f01038",
+      "atlas": 0,
+      "rect": {
+        "x": 104,
+        "y": 1007,
+        "w": 101,
+        "h": 8
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_dec_text_right",
+      "guid": "c4808224ee4560345b9bed207997df00",
+      "atlas": 0,
+      "rect": {
+        "x": 207,
+        "y": 1007,
+        "w": 93,
+        "h": 8
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_fes_text_4",
+      "guid": "474bc318f109ac04a9450efb8577fd46",
+      "atlas": 0,
+      "rect": {
+        "x": 1001,
+        "y": 404,
+        "w": 18,
+        "h": 35
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_fes_text_3",
+      "guid": "adee17f5896714d4e9a256837ce3e253",
+      "atlas": 0,
+      "rect": {
+        "x": 963,
+        "y": 988,
+        "w": 18,
+        "h": 35
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_fes_text_2",
+      "guid": "2ea13f7c886ad0e4db3bafdc4f2378fd",
+      "atlas": 0,
+      "rect": {
+        "x": 1001,
+        "y": 441,
+        "w": 18,
+        "h": 35
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_fes_text_1",
+      "guid": "da4e6e6f82a33f648a5dbabb57be7d57",
+      "atlas": 0,
+      "rect": {
+        "x": 1001,
+        "y": 663,
+        "w": 18,
+        "h": 35
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_not_cur_bless",
+      "guid": "071373b6aea60484392fd820ac6da14f",
+      "atlas": 0,
+      "rect": {
+        "x": 908,
+        "y": 942,
+        "w": 45,
+        "h": 8
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_cur_bless",
+      "guid": "1c5ea82a2a07f114a99b201224ad509b",
+      "atlas": 0,
+      "rect": {
+        "x": 310,
+        "y": 948,
+        "w": 45,
+        "h": 8
+      },
+      "rotate": 0
+    },
+    {
+      "name": "scroll_bar",
+      "guid": "b85cb5addec5b9043b51e3f488079a32",
+      "atlas": 0,
+      "rect": {
+        "x": 390,
+        "y": 840,
+        "w": 14,
+        "h": 14
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_dec_small_rhombus",
+      "guid": "d59f0b7a298033246970f3437302834a",
+      "atlas": 0,
+      "rect": {
+        "x": 581,
+        "y": 1005,
+        "w": 14,
+        "h": 14
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bless_3",
+      "guid": "fc95f6ee8e776054f944bea931fe1791",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 332,
+        "h": 63
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bless_2",
+      "guid": "d513154f8db617f4da9f11e3b993b9f8",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 65,
+        "w": 332,
+        "h": 63
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bless_1",
+      "guid": "255029c7390588b4196e3f4f90f79129",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 130,
+        "w": 332,
+        "h": 63
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_dec_center",
+      "guid": "41be410e953b0494da89e986a052985b",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 195,
+        "w": 147,
+        "h": 137
+      },
+      "rotate": 0
+    },
+    {
+      "name": "btn_switch_ver_hor",
+      "guid": "9082c5d5a19cdf745907bd9bba3eb683",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 334,
+        "w": 221,
+        "h": 63
+      },
+      "rotate": 0
+    },
+    {
+      "name": "btn_share",
+      "guid": "a52164b4a9417dc4fb691db78c5f0059",
+      "atlas": 1,
+      "rect": {
+        "x": 149,
+        "y": 195,
+        "w": 221,
+        "h": 63
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_avail_btn",
+      "guid": "b931670e43dc2554d9a7e1644755a206",
+      "atlas": 1,
+      "rect": {
+        "x": 334,
+        "y": 0,
+        "w": 82,
+        "h": 161
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_dec_corner",
+      "guid": "90acc47a26f066f45ab18b0d7505c8f7",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 399,
+        "w": 109,
+        "h": 113
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_player_avatar_bg",
+      "guid": "eaa0da8f41d66b741885560d77b61680",
+      "atlas": 1,
+      "rect": {
+        "x": 223,
+        "y": 334,
+        "w": 107,
+        "h": 107
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_home_bless_bg_black",
+      "guid": "ebdb952488e133144b3789e904f47575",
+      "atlas": 1,
+      "rect": {
+        "x": 372,
+        "y": 195,
+        "w": 54,
+        "h": 129
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_receive_char_avatar_bg",
+      "guid": "fc7b03a78f4dd6141811144a827a94a2",
+      "atlas": 1,
+      "rect": {
+        "x": 372,
+        "y": 326,
+        "w": 82,
+        "h": 83
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bless_text_4_2",
+      "guid": "c43713d0222b85e4f85d6f8942d25273",
+      "atlas": 1,
+      "rect": {
+        "x": 418,
+        "y": 0,
+        "w": 37,
+        "h": 117
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bless_text_3_2",
+      "guid": "319c3208817b85a49af266246cdcf7e2",
+      "atlas": 1,
+      "rect": {
+        "x": 332,
+        "y": 334,
+        "w": 37,
+        "h": 117
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bless_text_2_2",
+      "guid": "6e1f37df92549e646afa313b92a49ace",
+      "atlas": 1,
+      "rect": {
+        "x": 428,
+        "y": 195,
+        "w": 37,
+        "h": 117
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bless_text_1_2",
+      "guid": "31054fc7a28486d41bb0cac8a78c66d2",
+      "atlas": 1,
+      "rect": {
+        "x": 456,
+        "y": 326,
+        "w": 37,
+        "h": 117
+      },
+      "rotate": 0
+    },
+    {
+      "name": "gradient_vert_64",
+      "guid": "f4fea841f34921643a693eaa17113e1a",
+      "atlas": 1,
+      "rect": {
+        "x": 149,
+        "y": 260,
+        "w": 64,
+        "h": 64
+      },
+      "rotate": 0
+    },
+    {
+      "name": "friend_sprite_level",
+      "guid": "369d89203e7ef1444bb30fce3ddcb4c0",
+      "atlas": 1,
+      "rect": {
+        "x": 223,
+        "y": 443,
+        "w": 57,
+        "h": 57
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_diamond_received",
+      "guid": "11eb0a01b2f90994ab130e57e650cc2a",
+      "atlas": 1,
+      "rect": {
+        "x": 372,
+        "y": 411,
+        "w": 53,
+        "h": 54
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bless_circle_deco",
+      "guid": "1e3b39044d51389458af1cbd234c9f17",
+      "atlas": 1,
+      "rect": {
+        "x": 418,
+        "y": 119,
+        "w": 51,
+        "h": 51
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bless_text_2_1",
+      "guid": "2211c99a50107e140b76b47c83c4770f",
+      "atlas": 1,
+      "rect": {
+        "x": 111,
+        "y": 399,
+        "w": 30,
+        "h": 84
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bless_text_1_1",
+      "guid": "28f07298c25cad24aa142e742268ea0b",
+      "atlas": 1,
+      "rect": {
+        "x": 457,
+        "y": 0,
+        "w": 30,
+        "h": 84
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 4959101912745406583
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 2763023313570750815
+      },
+      "size": 1024
+    },
+    {
+      "index": 1,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -5065746680491401533
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -5822339593627610904
+      },
+      "size": 512
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "img_home_title",
+        "guid": "c0ee97adef15d774ea2bd4dcfa773542",
+        "md5": "d44729421e12e6ffe5abbad84b6c346e"
+      },
+      {
+        "name": "img_avail_4",
+        "guid": "961c748ef592aa1488d65d5ded002cc2",
+        "md5": "892d9b7ceebc2ad6db2456e28ce5710a"
+      },
+      {
+        "name": "img_avail_3",
+        "guid": "87361184f33836f44ae4fbbdcc7b09c1",
+        "md5": "452c15a959365622deadf40babbc26f5"
+      },
+      {
+        "name": "img_avail_2",
+        "guid": "ca49a164e5319174eaa6d41a31f236ed",
+        "md5": "cc3d1643d5166ffdbaa67f0ed6b56dc0"
+      },
+      {
+        "name": "img_avail_1",
+        "guid": "95e989429357ef64b94c4513b71a0256",
+        "md5": "286b0c86146ef767d9831bdecf1fc8e6"
+      },
+      {
+        "name": "img_receive_2",
+        "guid": "47422fa94f0204b41b3578a62607c2be",
+        "md5": "868fe7dc38fdb18da7435d7b14554ddf"
+      },
+      {
+        "name": "img_disable_2",
+        "guid": "1f2af1eb67adbc9439d944717baf7cf7",
+        "md5": "d6d04213dbe75b12d7e9208ab3245edd"
+      },
+      {
+        "name": "img_receive_4",
+        "guid": "3a0743f1d6fed024bb426e3d55202e98",
+        "md5": "2346b92d6b934c8abc160db82372f9ad"
+      },
+      {
+        "name": "img_receive_3",
+        "guid": "fadf2acab524e394bb1969a3d7e03276",
+        "md5": "8e4745f02461614ef017bf7e9d4955ed"
+      },
+      {
+        "name": "img_disable_4",
+        "guid": "ab73a64193ffb054eacf56977aad719b",
+        "md5": "fbb5d6ec21a8eb622aee332cb1ab75d5"
+      },
+      {
+        "name": "img_disable_3",
+        "guid": "132234c5732133846aa42fac8f35c2a1",
+        "md5": "431ada0d24bac4ad9326c8583b4ff6cf"
+      },
+      {
+        "name": "img_receive_1",
+        "guid": "463ab4b1ea8dca84c99c58ea0c8ce870",
+        "md5": "5aa310d3d4a1b49e51c69bacf1583294"
+      },
+      {
+        "name": "img_disable_1",
+        "guid": "e06613791a06fd14e8c74d8c243bb3b2",
+        "md5": "50ac3c7d904e8e3a47a68e81d2d9ce23"
+      },
+      {
+        "name": "img_avatar_bg_4",
+        "guid": "911be4d406ffa4a4d9b84c51d8581416",
+        "md5": "513d02107921a7bf3cea9d7956314fb1"
+      },
+      {
+        "name": "img_avatar_bg_3",
+        "guid": "d9a2248149853794f9eca20ce9438548",
+        "md5": "cb5070d1ffacfaeaf761782d64058190"
+      },
+      {
+        "name": "img_avatar_bg_2",
+        "guid": "8a126ed25570f604998b9f4f5aaf5c17",
+        "md5": "676d9b247f35ad3c32a1bcf0a2e4950e"
+      },
+      {
+        "name": "img_avatar_bg_1",
+        "guid": "9e6dcfff9e35aee4e89a9efc5a5c4263",
+        "md5": "cd1c88b16420549b44f1ce2d57b17ae8"
+      },
+      {
+        "name": "img_checkin_unreceived",
+        "guid": "a45b0ed1557d6dd4e84606f73e76bb08",
+        "md5": "5cc6ad2217f05a20f247e40bb0ade101"
+      },
+      {
+        "name": "img_checkin_can_receive",
+        "guid": "2b8b2de55664a5841ace19d232312bc4",
+        "md5": "5387282422cbdf707089793951e4fb73"
+      },
+      {
+        "name": "btn_packet_open",
+        "guid": "1d7298a7c2de1554b80e3e76ef88fdcb",
+        "md5": "e1e592bacdaff90b11f6174139829897"
+      },
+      {
+        "name": "img_diamond",
+        "guid": "1f419d033551f0a4289d343c6e8174c0",
+        "md5": "7405a7e436deb5a27e002c898441c299"
+      },
+      {
+        "name": "img_received_bg",
+        "guid": "219405fbf3768d048801be263c7ca52e",
+        "md5": "28f93ccd88e35299a765855dda502651"
+      },
+      {
+        "name": "img_bless_4",
+        "guid": "de3401ff2d598bb41a66ac9cb223990c",
+        "md5": "8141a50ac4c9a46427a036f620d3a71f"
+      },
+      {
+        "name": "img_logo",
+        "guid": "bb699d8599bf1424490ca17c0d3652cf",
+        "md5": "112059c3a26080360336326edf9cbd1b"
+      },
+      {
+        "name": "btn_select_char",
+        "guid": "837d013939d3ba44d93b67fedb681e5b",
+        "md5": "94add41140196af576fb7366d5608d2b"
+      },
+      {
+        "name": "right_gradient",
+        "guid": "31dd0cb647a0e7e4f87accebe7da5405",
+        "md5": "f90b68215410cfb0150af6bc721b2fa8"
+      },
+      {
+        "name": "img_main_text",
+        "guid": "754c67631de829047866dc34ea5e490e",
+        "md5": "4c050c291ee86d8d2ba6ffd9141b93dc"
+      },
+      {
+        "name": "img_diamond_bg",
+        "guid": "c78d271128996c742a77731763adeccc",
+        "md5": "839074bc21ad29934331fb1847fe4994"
+      },
+      {
+        "name": "img_main_text_bg",
+        "guid": "2c5ed2a416052f74e920503a030ddc24",
+        "md5": "20ffe8dfca40ddae4182f70c852e596b"
+      },
+      {
+        "name": "btn_close",
+        "guid": "66a2b8e4f645d664585ef3837170f0a0",
+        "md5": "edb6d55027f20328aef70760da446e32"
+      },
+      {
+        "name": "img_arrow",
+        "guid": "6f5e3ffb3318523429ea22ef703406a0",
+        "md5": "1e856e5cd60335e3f9c3013cb1787f7c"
+      },
+      {
+        "name": "dec_vectical",
+        "guid": "929c1ef2879303e4e8778eb662c1a34e",
+        "md5": "d62f38943bab77ab1ee89d0ba6e337fe"
+      },
+      {
+        "name": "btn_goto_collection",
+        "guid": "045fe90a7b5953e40b551d8cdf7d6d8d",
+        "md5": "fcbf7b72a688d3de32f0b33f04f9b1a0"
+      },
+      {
+        "name": "img_home_bless_num_bg",
+        "guid": "9637d1b254a23cd45ad7df2429fb292f",
+        "md5": "144ea7fa7e3439d95092ecabfd5a5520"
+      },
+      {
+        "name": "img_id_bg",
+        "guid": "7070cbf018303f44291cd8cba86b8b1f",
+        "md5": "afdfd7c4a1da3cff5fe1f59ff2e78c97"
+      },
+      {
+        "name": "img_checkin_received_txt",
+        "guid": "edc6b73ff522c32499c21b8938b38fc5",
+        "md5": "6eb31cb589251484bd2178b47e8d888d"
+      },
+      {
+        "name": "img_bless_text_4_1",
+        "guid": "1ca3061d9f3d7aa4f82758f1c80adc42",
+        "md5": "a53a3da036f861647c2fbf3dd8545bcb"
+      },
+      {
+        "name": "img_bless_text_3_1",
+        "guid": "43f1ffe96c6f57a4591c239d61b52bd8",
+        "md5": "108ae074ef108250dd84ff819a6d4b15"
+      },
+      {
+        "name": "img_home_deco",
+        "guid": "fb2ffe022ee93144487ea86a139aa0a3",
+        "md5": "6ff75106cbfccb5633ad7c4bcd51a1a2"
+      },
+      {
+        "name": "img_bless_deco",
+        "guid": "5e88b8090d8770d428ffd0b283326c9a",
+        "md5": "d3dac0f6d79b080221cfa8cd03c94506"
+      },
+      {
+        "name": "sprite_white",
+        "guid": "d02da295a5f500f4d889b8ca578055aa",
+        "md5": "2ce5bb41cb46836bf4109504a7582745"
+      },
+      {
+        "name": "icon_switch_ver",
+        "guid": "4c71f487da508e84892c9c52f1762d39",
+        "md5": "a10c078fbba51e45126b1f59c0970495"
+      },
+      {
+        "name": "icon_switch_hor",
+        "guid": "bb25f862055d5944895b57636cfbe8db",
+        "md5": "665df6615b0a0972eb4dca2478c5608d"
+      },
+      {
+        "name": "img_dec_text_left",
+        "guid": "b91d8ded0ae01cf43b95500127f01038",
+        "md5": "72e51dc11d16a0be7fe55841caacb389"
+      },
+      {
+        "name": "img_dec_text_right",
+        "guid": "c4808224ee4560345b9bed207997df00",
+        "md5": "91c945aef142f485c6cbec9e107440a7"
+      },
+      {
+        "name": "img_fes_text_4",
+        "guid": "474bc318f109ac04a9450efb8577fd46",
+        "md5": "87ef706453439c38d81e91e6bb75ad95"
+      },
+      {
+        "name": "img_fes_text_3",
+        "guid": "adee17f5896714d4e9a256837ce3e253",
+        "md5": "b438b748ddf3069dab4d9bc8674b4254"
+      },
+      {
+        "name": "img_fes_text_2",
+        "guid": "2ea13f7c886ad0e4db3bafdc4f2378fd",
+        "md5": "66e3136eb693d06b31a6238ef703af53"
+      },
+      {
+        "name": "img_fes_text_1",
+        "guid": "da4e6e6f82a33f648a5dbabb57be7d57",
+        "md5": "d6f500ff85eb7073b556da3d3f2d2715"
+      },
+      {
+        "name": "img_not_cur_bless",
+        "guid": "071373b6aea60484392fd820ac6da14f",
+        "md5": "948c6154988d0cb2d051b04c6d988c2f"
+      },
+      {
+        "name": "img_cur_bless",
+        "guid": "1c5ea82a2a07f114a99b201224ad509b",
+        "md5": "cd801d4ca5a488fd5928ab6f7559dd26"
+      },
+      {
+        "name": "scroll_bar",
+        "guid": "b85cb5addec5b9043b51e3f488079a32",
+        "md5": "5b26f76a63b79c0186057282b7a44938"
+      },
+      {
+        "name": "img_dec_small_rhombus",
+        "guid": "d59f0b7a298033246970f3437302834a",
+        "md5": "96ec0c36aa652ea8b94c12a6839e594b"
+      },
+      {
+        "name": "img_bless_3",
+        "guid": "fc95f6ee8e776054f944bea931fe1791",
+        "md5": "07d79c345aed1b815ec227ec36fa9b35"
+      },
+      {
+        "name": "img_bless_2",
+        "guid": "d513154f8db617f4da9f11e3b993b9f8",
+        "md5": "8677b55ec30eed93db43dd2f0a76e810"
+      },
+      {
+        "name": "img_bless_1",
+        "guid": "255029c7390588b4196e3f4f90f79129",
+        "md5": "6043cbc1b73ff4f8c1a173c332e572f7"
+      },
+      {
+        "name": "img_dec_center",
+        "guid": "41be410e953b0494da89e986a052985b",
+        "md5": "23f76bdbb1964b58f872dd76ef0911f3"
+      },
+      {
+        "name": "btn_switch_ver_hor",
+        "guid": "9082c5d5a19cdf745907bd9bba3eb683",
+        "md5": "2e89170ea4e4a31231dad4f9d867f047"
+      },
+      {
+        "name": "btn_share",
+        "guid": "a52164b4a9417dc4fb691db78c5f0059",
+        "md5": "af6fbfe7f86366dc0e88ec2470f6f134"
+      },
+      {
+        "name": "img_avail_btn",
+        "guid": "b931670e43dc2554d9a7e1644755a206",
+        "md5": "c9bab937845ba39812892d53f17e3af1"
+      },
+      {
+        "name": "img_dec_corner",
+        "guid": "90acc47a26f066f45ab18b0d7505c8f7",
+        "md5": "1156bc3ee4b7e8d66f44e19aaef16a5d"
+      },
+      {
+        "name": "img_player_avatar_bg",
+        "guid": "eaa0da8f41d66b741885560d77b61680",
+        "md5": "8d982583f31515c532b20083138918eb"
+      },
+      {
+        "name": "img_home_bless_bg_black",
+        "guid": "ebdb952488e133144b3789e904f47575",
+        "md5": "4b9c11d7b9a2ed050f74d1c3b9de2aed"
+      },
+      {
+        "name": "img_receive_char_avatar_bg",
+        "guid": "fc7b03a78f4dd6141811144a827a94a2",
+        "md5": "c4f100688d03d9edcf7eb1f511cc12db"
+      },
+      {
+        "name": "img_bless_text_4_2",
+        "guid": "c43713d0222b85e4f85d6f8942d25273",
+        "md5": "b8a69f933c887731015b20f020abb4e8"
+      },
+      {
+        "name": "img_bless_text_3_2",
+        "guid": "319c3208817b85a49af266246cdcf7e2",
+        "md5": "33eff469aac8b9ff82263a662387f717"
+      },
+      {
+        "name": "img_bless_text_2_2",
+        "guid": "6e1f37df92549e646afa313b92a49ace",
+        "md5": "012f0047ba56d272a41649f5cf2c162c"
+      },
+      {
+        "name": "img_bless_text_1_2",
+        "guid": "31054fc7a28486d41bb0cac8a78c66d2",
+        "md5": "fab49fd21d8d606dd157d004f0389950"
+      },
+      {
+        "name": "gradient_vert_64",
+        "guid": "f4fea841f34921643a693eaa17113e1a",
+        "md5": "10f87c83952ff7420bd6070ea33a926b"
+      },
+      {
+        "name": "friend_sprite_level",
+        "guid": "369d89203e7ef1444bb30fce3ddcb4c0",
+        "md5": "57f3e19627c761f8a65c2eb435a058cf"
+      },
+      {
+        "name": "img_diamond_received",
+        "guid": "11eb0a01b2f90994ab130e57e650cc2a",
+        "md5": "d68a1399d01c1a6e6b8a3ece606d7d44"
+      },
+      {
+        "name": "img_bless_circle_deco",
+        "guid": "1e3b39044d51389458af1cbd234c9f17",
+        "md5": "a65f681ce13166ab43c110b8222c9ef1"
+      },
+      {
+        "name": "img_bless_text_2_1",
+        "guid": "2211c99a50107e140b76b47c83c4770f",
+        "md5": "2a9538bd62ed65dd8c7a18d17dd27c24"
+      },
+      {
+        "name": "img_bless_text_1_1",
+        "guid": "28f07298c25cad24aa142e742268ea0b",
+        "md5": "04d1783af6dae9641e5a388d2c831fb9"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "act1blessing_atlas_hub#0",
+        "guid": "c3bd8844dfb7fb84fb5b21f28b9803b7",
+        "md5": "46cac6261e0298a9c8ddaab9da7b709a"
+      },
+      {
+        "name": "act1blessing_atlas_hub#1",
+        "guid": "a193205ce6ccf8b448daec75e2008bb8",
+        "md5": "c047ea09110749adfe8cad77e3d9390c"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "act1blessing_atlas_hub#0a",
+        "guid": "8ce5c87a96a31cf4ca8c0a618a61e83c",
+        "md5": "450f744e6d96051b8b0c78d20ae3825c"
+      },
+      {
+        "name": "act1blessing_atlas_hub#1a",
+        "guid": "2114605fd174be6469d602e0a7fa9631",
+        "md5": "bbeaf80839859ab431effb6190cfc06b"
+      }
+    ]
+  }
+}

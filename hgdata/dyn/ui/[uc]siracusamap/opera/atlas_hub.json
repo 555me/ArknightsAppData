@@ -1,0 +1,304 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
+  },
+  "m_Name": "atlas_hub",
+  "_sprites": [
+    {
+      "name": "title_img_2",
+      "guid": "f8694cc527a710c418ca02edbd78c4dd",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 118
+      },
+      "rotate": 0
+    },
+    {
+      "name": "title_img",
+      "guid": "80baa74b3dc9b5745a908ec7b506b788",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 120,
+        "w": 640,
+        "h": 118
+      },
+      "rotate": 0
+    },
+    {
+      "name": "bg_img",
+      "guid": "b3a2e473b722d754998167df2494c5be",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 240,
+        "w": 256,
+        "h": 256
+      },
+      "rotate": 0
+    },
+    {
+      "name": "back_img_corner",
+      "guid": "b6aee1d2887d1d64c9a4ce7022af1699",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 498,
+        "w": 287,
+        "h": 110
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_btn",
+      "guid": "427d32a8a88ec9945ad3ae1823a04baa",
+      "atlas": 0,
+      "rect": {
+        "x": 258,
+        "y": 240,
+        "w": 196,
+        "h": 102
+      },
+      "rotate": 0
+    },
+    {
+      "name": "char_back",
+      "guid": "213c60ca08c20cf41af8728567133535",
+      "atlas": 0,
+      "rect": {
+        "x": 258,
+        "y": 344,
+        "w": 131,
+        "h": 131
+      },
+      "rotate": 0
+    },
+    {
+      "name": "favor_btn",
+      "guid": "977e0d22d61484f408f60d88ee703677",
+      "atlas": 0,
+      "rect": {
+        "x": 289,
+        "y": 498,
+        "w": 166,
+        "h": 60
+      },
+      "rotate": 0
+    },
+    {
+      "name": "new_title",
+      "guid": "ec647721fdc16284f9775d70786016f7",
+      "atlas": 0,
+      "rect": {
+        "x": 289,
+        "y": 560,
+        "w": 147,
+        "h": 45
+      },
+      "rotate": 0
+    },
+    {
+      "name": "admire_img",
+      "guid": "1b5d8f878c49adb499ac936e5a935735",
+      "atlas": 0,
+      "rect": {
+        "x": 456,
+        "y": 240,
+        "w": 92,
+        "h": 42
+      },
+      "rotate": 0
+    },
+    {
+      "name": "arrow",
+      "guid": "cdaf894c569726246a48ea5f69514f89",
+      "atlas": 0,
+      "rect": {
+        "x": 456,
+        "y": 284,
+        "w": 51,
+        "h": 78
+      },
+      "rotate": 0
+    },
+    {
+      "name": "reopen_img",
+      "guid": "c1067f77d77f5664f848928b7201f5f5",
+      "atlas": 0,
+      "rect": {
+        "x": 456,
+        "y": 364,
+        "w": 60,
+        "h": 57
+      },
+      "rotate": 0
+    },
+    {
+      "name": "future_icon",
+      "guid": "85c0665b3da248c4c905a96427a75adf",
+      "atlas": 0,
+      "rect": {
+        "x": 456,
+        "y": 423,
+        "w": 50,
+        "h": 60
+      },
+      "rotate": 0
+    },
+    {
+      "name": "num_sprite",
+      "guid": "9eae4a16109196742bc15a9076033836",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 610,
+        "w": 82,
+        "h": 22
+      },
+      "rotate": 0
+    },
+    {
+      "name": "sprite_white",
+      "guid": "442e63dc70399004fb4c51dc9b84a974",
+      "atlas": 0,
+      "rect": {
+        "x": 289,
+        "y": 607,
+        "w": 32,
+        "h": 32
+      },
+      "rotate": 0
+    },
+    {
+      "name": "star_icon",
+      "guid": "d0eee0d02187e23458a122565373ae64",
+      "atlas": 0,
+      "rect": {
+        "x": 258,
+        "y": 477,
+        "w": 19,
+        "h": 18
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -2204720803804060661
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -3333539545189634808
+      },
+      "size": 1024
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "title_img_2",
+        "guid": "f8694cc527a710c418ca02edbd78c4dd",
+        "md5": "f001cec28b9b88c0b2b3c66cee637737"
+      },
+      {
+        "name": "title_img",
+        "guid": "80baa74b3dc9b5745a908ec7b506b788",
+        "md5": "217909495b50d2d3bb3754ecc1b98e31"
+      },
+      {
+        "name": "bg_img",
+        "guid": "b3a2e473b722d754998167df2494c5be",
+        "md5": "4a883a81bea4e3e058b31e7948b5317b"
+      },
+      {
+        "name": "back_img_corner",
+        "guid": "b6aee1d2887d1d64c9a4ce7022af1699",
+        "md5": "35b0d549f9d7f8416f37885f29f626b9"
+      },
+      {
+        "name": "img_btn",
+        "guid": "427d32a8a88ec9945ad3ae1823a04baa",
+        "md5": "67ba66ffcf56339bdf26d086bd2c6235"
+      },
+      {
+        "name": "char_back",
+        "guid": "213c60ca08c20cf41af8728567133535",
+        "md5": "8bccd6fb7dc300c54473c552fc2a5317"
+      },
+      {
+        "name": "favor_btn",
+        "guid": "977e0d22d61484f408f60d88ee703677",
+        "md5": "27f5b89ee1b9b6764ec4f00d5bac942c"
+      },
+      {
+        "name": "new_title",
+        "guid": "ec647721fdc16284f9775d70786016f7",
+        "md5": "3631abdea241e347993b75237e21de18"
+      },
+      {
+        "name": "admire_img",
+        "guid": "1b5d8f878c49adb499ac936e5a935735",
+        "md5": "e5f08ebaa02b559449a375dd14270aa8"
+      },
+      {
+        "name": "arrow",
+        "guid": "cdaf894c569726246a48ea5f69514f89",
+        "md5": "e2857c825a0beee673b836f002379b56"
+      },
+      {
+        "name": "reopen_img",
+        "guid": "c1067f77d77f5664f848928b7201f5f5",
+        "md5": "362a873d08e2e44c7775c412a97325ba"
+      },
+      {
+        "name": "future_icon",
+        "guid": "85c0665b3da248c4c905a96427a75adf",
+        "md5": "5d9945310bb4b0d182fe9da43c33b5be"
+      },
+      {
+        "name": "num_sprite",
+        "guid": "9eae4a16109196742bc15a9076033836",
+        "md5": "5b8488c03f4936a1be00c91af1038019"
+      },
+      {
+        "name": "sprite_white",
+        "guid": "442e63dc70399004fb4c51dc9b84a974",
+        "md5": "2ce5bb41cb46836bf4109504a7582745"
+      },
+      {
+        "name": "star_icon",
+        "guid": "d0eee0d02187e23458a122565373ae64",
+        "md5": "d342af42b44536291f4c7b55d2b959fb"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "atlas_hub#0",
+        "guid": "e20069a66d76e414b8585b20cfe3b3fd",
+        "md5": "820eb3a71b90567f02dfff6ac9f0fa58"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "atlas_hub#0a",
+        "guid": "50cd57546d2d44c40a001a0ff107ea78",
+        "md5": "b13ba46d8d591246822f0176eaa4242f"
+      }
+    ]
+  }
+}

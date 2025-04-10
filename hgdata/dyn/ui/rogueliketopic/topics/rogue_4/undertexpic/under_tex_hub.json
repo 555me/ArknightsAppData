@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "under_tex_hub",
+  "_rootPackingTag": "UI_ROGUELIKE_UNDER_TEX_RL04",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 252,
+    "height": 286
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "fragment",
+    "gold",
+    "hp",
+    "lock_treasure_leave",
+    "population",
+    "recruit_ticket",
+    "relic",
+    "relic_curse",
+    "relic_init",
+    "relic_select",
+    "shield",
+    "trap"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_4/UnderTexPic/FRAGMENT",
+    "UI/RoguelikeTopic/Topics/rogue_4/UnderTexPic/GOLD",
+    "UI/RoguelikeTopic/Topics/rogue_4/UnderTexPic/HP",
+    "UI/RoguelikeTopic/Topics/rogue_4/UnderTexPic/LOCK_TREASURE_LEAVE",
+    "UI/RoguelikeTopic/Topics/rogue_4/UnderTexPic/POPULATION",
+    "UI/RoguelikeTopic/Topics/rogue_4/UnderTexPic/RECRUIT_TICKET",
+    "UI/RoguelikeTopic/Topics/rogue_4/UnderTexPic/RELIC",
+    "UI/RoguelikeTopic/Topics/rogue_4/UnderTexPic/RELIC_CURSE",
+    "UI/RoguelikeTopic/Topics/rogue_4/UnderTexPic/RELIC_INIT",
+    "UI/RoguelikeTopic/Topics/rogue_4/UnderTexPic/RELIC_SELECT",
+    "UI/RoguelikeTopic/Topics/rogue_4/UnderTexPic/SHIELD",
+    "UI/RoguelikeTopic/Topics/rogue_4/UnderTexPic/TRAP"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "sprite_hub",
+  "_rootPackingTag": "UI_ACT29SIGN_ARTS",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 129,
+    "height": 129
+  },
+  "_extraPicSize": [
+    {
+      "width": 175,
+      "height": 166
+    },
+    {
+      "width": 29,
+      "height": 29
+    }
+  ],
+  "_compressType": 0,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "cake_1",
+    "cake_2",
+    "furni_ma_mooncake_g_01",
+    "furni_ma_mooncake_s_01",
+    "num_1",
+    "num_2",
+    "num_3"
+  ],
+  "_values": [
+    "Activity/[UC]act29sign/Arts/cake_1",
+    "Activity/[UC]act29sign/Arts/cake_2",
+    "Activity/[UC]act29sign/Arts/furni_MA_mooncake_G_01",
+    "Activity/[UC]act29sign/Arts/furni_MA_mooncake_S_01",
+    "Activity/[UC]act29sign/Arts/num_1",
+    "Activity/[UC]act29sign/Arts/num_2",
+    "Activity/[UC]act29sign/Arts/num_3"
+  ]
+}

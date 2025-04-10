@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "rarity_icon_hub",
+  "_rootPackingTag": "ACT1VAUTOCHESS_RARITY_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 56,
+    "height": 13
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rarity_0",
+    "rarity_1",
+    "rarity_2",
+    "rarity_3",
+    "rarity_4",
+    "rarity_5"
+  ],
+  "_values": [
+    "Activity/[UC]act1vautochess/Arts/RarityRankIcon/rarity_0",
+    "Activity/[UC]act1vautochess/Arts/RarityRankIcon/rarity_1",
+    "Activity/[UC]act1vautochess/Arts/RarityRankIcon/rarity_2",
+    "Activity/[UC]act1vautochess/Arts/RarityRankIcon/rarity_3",
+    "Activity/[UC]act1vautochess/Arts/RarityRankIcon/rarity_4",
+    "Activity/[UC]act1vautochess/Arts/RarityRankIcon/rarity_5"
+  ]
+}

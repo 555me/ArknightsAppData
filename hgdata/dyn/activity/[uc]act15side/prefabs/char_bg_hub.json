@@ -1,0 +1,195 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4420957637576057513
+  },
+  "m_Name": "char_bg_hub",
+  "_sprites": [
+    {
+      "name": "char_bg_6",
+      "guid": "8c4649d3a2ecfd742ad0bd96805eb4ff",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 968,
+        "h": 906
+      },
+      "rotate": 0
+    },
+    {
+      "name": "char_bg_5",
+      "guid": "7409de4889b57504da6cabf75d416b02",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 630,
+        "h": 909
+      },
+      "rotate": 0
+    },
+    {
+      "name": "char_bg_2",
+      "guid": "02c6664599b5a794a90a084906fb1d00",
+      "atlas": 1,
+      "rect": {
+        "x": 632,
+        "y": 0,
+        "w": 337,
+        "h": 482
+      },
+      "rotate": 0
+    },
+    {
+      "name": "char_bg_4",
+      "guid": "fcf149d3c69f97541acc5c56acdfb184",
+      "atlas": 1,
+      "rect": {
+        "x": 632,
+        "y": 484,
+        "w": 240,
+        "h": 343
+      },
+      "rotate": 0
+    },
+    {
+      "name": "char_bg_1",
+      "guid": "b61ccda081499cc4eba050cf333b16fc",
+      "atlas": 2,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 588,
+        "h": 743
+      },
+      "rotate": 0
+    },
+    {
+      "name": "char_bg_3",
+      "guid": "c387813597add704fa4de1cb207052cb",
+      "atlas": 2,
+      "rect": {
+        "x": 590,
+        "y": 0,
+        "w": 433,
+        "h": 510
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 1664400900990772791
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -6564506346521184060
+      },
+      "size": 1024
+    },
+    {
+      "index": 1,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -3658329323435939370
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 8598992276857525223
+      },
+      "size": 1024
+    },
+    {
+      "index": 2,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -7105758675720372656
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 8094398449291785110
+      },
+      "size": 1024
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "char_bg_6",
+        "guid": "8c4649d3a2ecfd742ad0bd96805eb4ff",
+        "md5": "6d3a4df0bb80fb5ebbb65eb702d0177f"
+      },
+      {
+        "name": "char_bg_5",
+        "guid": "7409de4889b57504da6cabf75d416b02",
+        "md5": "4a1acc8ad02b0037a70a3179d5886c8e"
+      },
+      {
+        "name": "char_bg_2",
+        "guid": "02c6664599b5a794a90a084906fb1d00",
+        "md5": "0effe4ab771a88d0919e7e87eeb329dc"
+      },
+      {
+        "name": "char_bg_4",
+        "guid": "fcf149d3c69f97541acc5c56acdfb184",
+        "md5": "a9922af2e180ecaed1a34e3243f86114"
+      },
+      {
+        "name": "char_bg_1",
+        "guid": "b61ccda081499cc4eba050cf333b16fc",
+        "md5": "3e6e2da5d072367a64a3525b100ccee0"
+      },
+      {
+        "name": "char_bg_3",
+        "guid": "c387813597add704fa4de1cb207052cb",
+        "md5": "e644168487d1fb812d1c7dfef7e90057"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "char_bg_hub#0",
+        "guid": "bb7dde65f5ed45948b3820fcbe4e70b0",
+        "md5": "c14b10711ffd32ea8176515f8f534b13"
+      },
+      {
+        "name": "char_bg_hub#1",
+        "guid": "cff5b7147f03fd945a9e43d0db51bbd5",
+        "md5": "fa2e5418c145e0cc89080568aca0b324"
+      },
+      {
+        "name": "char_bg_hub#2",
+        "guid": "45ede03ff0964234388349e20b7158bc",
+        "md5": "dfbc98e7fe7ffefb6a0d8ddc4fd0a9ae"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "char_bg_hub#0a",
+        "guid": "7ed951107cc3164478b2be880c049434",
+        "md5": "4980e85b284ff5b92cb1591cd0935342"
+      },
+      {
+        "name": "char_bg_hub#1a",
+        "guid": "7c298475be73bad4b89fc9e8f39a51ae",
+        "md5": "0f790e700c740dafd6184502cbc30123"
+      },
+      {
+        "name": "char_bg_hub#2a",
+        "guid": "5eeadff66bd98c7459c56f6c8247d3b5",
+        "md5": "a367bbd2c2ff250fcd708dc6ed4c7495"
+      }
+    ]
+  }
+}

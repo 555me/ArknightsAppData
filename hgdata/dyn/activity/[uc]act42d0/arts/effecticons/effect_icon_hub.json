@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "effect_icon_hub",
+  "_rootPackingTag": "UI_ACT42D0_EFFECT_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 122,
+    "height": 124
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rune01_1",
+    "rune01_2",
+    "rune01_3",
+    "rune02_1",
+    "rune02_2",
+    "rune02_3",
+    "rune03_1",
+    "rune03_2",
+    "rune03_3",
+    "rune04_1",
+    "rune04_2",
+    "rune04_3",
+    "rune05_1",
+    "rune05_2",
+    "rune06_1",
+    "rune06_2",
+    "rune07_1",
+    "rune07_2",
+    "rune08_1",
+    "rune08_2"
+  ],
+  "_values": [
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune01_1",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune01_2",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune01_3",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune02_1",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune02_2",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune02_3",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune03_1",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune03_2",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune03_3",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune04_1",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune04_2",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune04_3",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune05_1",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune05_2",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune06_1",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune06_2",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune07_1",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune07_2",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune08_1",
+    "Activity/[UC]act42D0/Arts/EffectIcons/rune08_2"
+  ]
+}

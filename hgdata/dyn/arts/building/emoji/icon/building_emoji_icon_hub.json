@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "building_emoji_icon_hub",
+  "_rootPackingTag": "BUILDING_UI_EMOJI_PIC",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 120,
+    "height": 100
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "action",
+    "emoji_1",
+    "emoji_2",
+    "emoji_3",
+    "emoji_4",
+    "emoji_5"
+  ],
+  "_values": [
+    "Arts/Building/Emoji/Icon/action",
+    "Arts/Building/Emoji/Icon/emoji_1",
+    "Arts/Building/Emoji/Icon/emoji_2",
+    "Arts/Building/Emoji/Icon/emoji_3",
+    "Arts/Building/Emoji/Icon/emoji_4",
+    "Arts/Building/Emoji/Icon/emoji_5"
+  ]
+}

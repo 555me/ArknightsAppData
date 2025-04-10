@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 741099624361746541
+  },
+  "m_Name": "act34side_09",
+  "_commands": [
+    {
+      "key": "kill_all",
+      "operaNodes": {
+        "SerializedState": "[{\"_isEnableSpawnEnemy\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.SetSpawnEnemyAllowance\"},{\"_effectKey\":\"map_027_chengfangpao_start\",\"_holdByTile\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.PlayEffect\"},{\"_signal\":\"cannon_hit\",\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.PlayAudio\"},{\"_finishCurrentWave\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.KillAllEnemy\"},{\"_isEnableSpawnEnemy\":true,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.SetSpawnEnemyAllowance\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 0.1
+    },
+    {
+      "key": "cannon_fire",
+      "operaNodes": {
+        "SerializedState": "[{\"_effectKey\":\"map_027_chengfangpao_start\",\"_holdByTile\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.PlayEffect\"},{\"_signal\":\"cannon_hit\",\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.PlayAudio\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 0.1
+    }
+  ]
+}

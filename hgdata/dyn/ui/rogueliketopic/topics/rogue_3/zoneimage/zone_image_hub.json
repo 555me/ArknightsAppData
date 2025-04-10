@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "zone_image_hub",
+  "_rootPackingTag": "UI_ROGUELIKE_ZONE_IMAGE_PACK_RL03",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 337,
+    "height": 329
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "zone_1_big",
+    "zone_2_big",
+    "zone_3_big",
+    "zone_4_big",
+    "zone_5_big",
+    "zone_6_big",
+    "zone_7_big",
+    "zone_secret_big"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_3/ZoneImage/zone_1_big",
+    "UI/RoguelikeTopic/Topics/rogue_3/ZoneImage/zone_2_big",
+    "UI/RoguelikeTopic/Topics/rogue_3/ZoneImage/zone_3_big",
+    "UI/RoguelikeTopic/Topics/rogue_3/ZoneImage/zone_4_big",
+    "UI/RoguelikeTopic/Topics/rogue_3/ZoneImage/zone_5_big",
+    "UI/RoguelikeTopic/Topics/rogue_3/ZoneImage/zone_6_big",
+    "UI/RoguelikeTopic/Topics/rogue_3/ZoneImage/zone_7_big",
+    "UI/RoguelikeTopic/Topics/rogue_3/ZoneImage/zone_secret_big"
+  ]
+}

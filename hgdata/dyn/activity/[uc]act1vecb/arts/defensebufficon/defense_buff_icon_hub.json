@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "defense_buff_icon_hub",
+  "_rootPackingTag": "UI_ACT1VECB_DEFENSE_BUFF",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 136,
+    "height": 136
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "act1vecb_buff_icon_1",
+    "act1vecb_buff_icon_2",
+    "act1vecb_buff_icon_3",
+    "act1vecb_buff_icon_4",
+    "act1vecb_buff_icon_5",
+    "act1vecb_buff_icon_6",
+    "act1vecb_buff_icon_7",
+    "act1vecb_buff_icon_8"
+  ],
+  "_values": [
+    "Activity/[UC]act1vecb/Arts/DefenseBuffIcon/act1vecb_buff_icon_1",
+    "Activity/[UC]act1vecb/Arts/DefenseBuffIcon/act1vecb_buff_icon_2",
+    "Activity/[UC]act1vecb/Arts/DefenseBuffIcon/act1vecb_buff_icon_3",
+    "Activity/[UC]act1vecb/Arts/DefenseBuffIcon/act1vecb_buff_icon_4",
+    "Activity/[UC]act1vecb/Arts/DefenseBuffIcon/act1vecb_buff_icon_5",
+    "Activity/[UC]act1vecb/Arts/DefenseBuffIcon/act1vecb_buff_icon_6",
+    "Activity/[UC]act1vecb/Arts/DefenseBuffIcon/act1vecb_buff_icon_7",
+    "Activity/[UC]act1vecb/Arts/DefenseBuffIcon/act1vecb_buff_icon_8"
+  ]
+}

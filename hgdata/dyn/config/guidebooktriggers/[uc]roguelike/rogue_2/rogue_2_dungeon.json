@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "rogue_2_dungeon",
+  "_pageIds": [
+    "[uc]roguelike/dungeon_rogue_2_1",
+    "[uc]roguelike/dungeon_rogue_2_2",
+    "[uc]roguelike/dungeon_rogue_2_3",
+    "[uc]roguelike/dungeon_rogue_2_4",
+    "[uc]roguelike/dungeon_rogue_2_5",
+    "[uc]roguelike/dungeon_rogue_2_6",
+    "[uc]roguelike/dungeon_rogue_2_7",
+    "[uc]roguelike/dungeon_rogue_2_8",
+    "[uc]roguelike/dungeon_rogue_2_9",
+    "[uc]roguelike/dungeon_rogue_2_10"
+  ],
+  "_autoShowTarget": 0,
+  "_subsignal": ""
+}

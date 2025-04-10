@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "special_main_img_hub",
+  "_rootPackingTag": "UI_SPECIAL_GACHA_MAIN_IMAGE",
+  "_cntPerAtlas": 1,
+  "_standardPicSize": {
+    "width": 1024,
+    "height": 1024
+  },
+  "_extraPicSize": [],
+  "_compressType": 11,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 4096000,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "special_54_0_5",
+    "special_59_0_3"
+  ],
+  "_values": [
+    "Arts/UI/[UC]SpecialGachaPool/SPECIAL_54_0_5",
+    "Arts/UI/[UC]SpecialGachaPool/SPECIAL_59_0_3"
+  ]
+}

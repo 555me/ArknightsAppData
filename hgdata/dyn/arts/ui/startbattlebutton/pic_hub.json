@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "pic_hub",
+  "_rootPackingTag": "UI_START_BATTLE_BUTTON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 217,
+    "height": 322
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "bossrush_hard_start",
+    "bossrush_normal_start",
+    "common_4star",
+    "common_4starpredefine",
+    "common_custompredefine",
+    "common_start",
+    "common_training",
+    "high_difficulty",
+    "interlock_start",
+    "tough_btn"
+  ],
+  "_values": [
+    "Arts/UI/StartBattleButton/bossrush_hard_start",
+    "Arts/UI/StartBattleButton/bossrush_normal_start",
+    "Arts/UI/StartBattleButton/common_4star",
+    "Arts/UI/StartBattleButton/common_4starPredefine",
+    "Arts/UI/StartBattleButton/common_customPredefine",
+    "Arts/UI/StartBattleButton/common_start",
+    "Arts/UI/StartBattleButton/common_training",
+    "Arts/UI/StartBattleButton/high_difficulty",
+    "Arts/UI/StartBattleButton/interlock_start",
+    "Arts/UI/StartBattleButton/tough_btn"
+  ]
+}

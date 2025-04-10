@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "shop_season_back_pic_hub",
+  "_rootPackingTag": "UI_CRISIS_V2_SHOP_SEASON_ICON",
+  "_cntPerAtlas": 121,
+  "_standardPicSize": {
+    "width": 111,
+    "height": 128
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "crisis_v2_season_1_1",
+    "crisis_v2_season_2_1",
+    "crisis_v2_season_3_1"
+  ],
+  "_values": [
+    "Arts/UI/[UC]CrisisV2/ShopSeasonBack/crisis_v2_season_1_1",
+    "Arts/UI/[UC]CrisisV2/ShopSeasonBack/crisis_v2_season_2_1",
+    "Arts/UI/[UC]CrisisV2/ShopSeasonBack/crisis_v2_season_3_1"
+  ]
+}

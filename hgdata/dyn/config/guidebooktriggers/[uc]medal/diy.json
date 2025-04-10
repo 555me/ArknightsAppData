@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "diy",
+  "_pageIds": [
+    "[PACK]medal/guide_1",
+    "[PACK]medal/guide_2",
+    "[PACK]medal/guide_3"
+  ],
+  "_autoShowTarget": 0,
+  "_subsignal": ""
+}

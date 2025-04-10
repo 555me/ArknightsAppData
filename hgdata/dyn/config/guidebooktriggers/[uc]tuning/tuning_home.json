@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "tuning_home",
+  "_pageIds": [
+    "[PACK]Tuning/tuning_home_1",
+    "[PACK]Tuning/tuning_home_2",
+    "[PACK]Tuning/tuning_home_3",
+    "[PACK]Tuning/tuning_home_4",
+    "[PACK]Tuning/tuning_home_5",
+    "[PACK]Tuning/tuning_home_6",
+    "[PACK]Tuning/tuning_home_7"
+  ],
+  "_autoShowTarget": 34,
+  "_subsignal": "home"
+}

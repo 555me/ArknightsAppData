@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "npc_and_animal_hub",
+  "_rootPackingTag": "UI_SANDBOX_NPC_ANIMAL_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 93,
+    "height": 93
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "enemy_7007_xbbird",
+    "trap_415_trademan",
+    "trap_432_oldisin",
+    "trap_433_sandsdr",
+    "trap_434_klmantc",
+    "trap_435_trsrhuntr"
+  ],
+  "_values": [
+    "Arts/UI/Sandbox/NpcAndAnimalIcon/enemy_7007_xbbird",
+    "Arts/UI/Sandbox/NpcAndAnimalIcon/trap_415_trademan",
+    "Arts/UI/Sandbox/NpcAndAnimalIcon/trap_432_oldisin",
+    "Arts/UI/Sandbox/NpcAndAnimalIcon/trap_433_sandsdr",
+    "Arts/UI/Sandbox/NpcAndAnimalIcon/trap_434_klmantc",
+    "Arts/UI/Sandbox/NpcAndAnimalIcon/trap_435_trsrhuntr"
+  ]
+}

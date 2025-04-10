@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5461515488609553696
+  },
+  "m_Name": "chess_shop_level_pic_hub",
+  "_rootPackingTag": "ACT1VAUTOCHESS_CHESS_LEVEL_PIC",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 26,
+    "height": 25
+  },
+  "_extraPicSize": [
+    {
+      "width": 150,
+      "height": 595
+    },
+    {
+      "width": 104,
+      "height": 124
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "chess_shop_level_icon_1",
+    "chess_shop_level_icon_2",
+    "chess_shop_level_icon_3",
+    "chess_shop_level_icon_4",
+    "chess_shop_level_icon_5",
+    "chess_shop_level_icon_6",
+    "chess_shop_level_item_detail_1",
+    "chess_shop_level_item_detail_2",
+    "chess_shop_level_item_detail_3",
+    "chess_shop_level_item_detail_4",
+    "chess_shop_level_item_detail_5",
+    "chess_shop_level_item_detail_6",
+    "chess_shop_level_tag_1",
+    "chess_shop_level_tag_2",
+    "chess_shop_level_tag_3",
+    "chess_shop_level_tag_4",
+    "chess_shop_level_tag_5",
+    "chess_shop_level_tag_6"
+  ],
+  "_values": [
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_icon_1",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_icon_2",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_icon_3",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_icon_4",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_icon_5",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_icon_6",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_item_detail_1",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_item_detail_2",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_item_detail_3",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_item_detail_4",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_item_detail_5",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_item_detail_6",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_tag_1",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_tag_2",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_tag_3",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_tag_4",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_tag_5",
+    "Activity/[UC]act1vautochess/Arts/ChessShopLevelPic/chess_shop_level_tag_6"
+  ]
+}

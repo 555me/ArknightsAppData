@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "returnV2_group_image_hub",
+  "_rootPackingTag": "UI_RETURNV2_IMAGE",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 1020,
+    "height": 492
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 1,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "page_040_annihilation",
+    "page_040_apupgrade",
+    "page_040_base",
+    "page_040_diffmission",
+    "page_040_modular",
+    "page_040_normalgacha",
+    "page_040_roguelike",
+    "page_040_roguelike3",
+    "page_040_tower",
+    "page_041_normalgacha",
+    "page_044_normalgacha",
+    "page_047_normalgacha",
+    "page_047_sandbox",
+    "page_050_normalgacha",
+    "page_052_roguelike4",
+    "page_053_normalgacha",
+    "page_056_normalgacha",
+    "page_058_normalgacha",
+    "page_episode_main_12",
+    "page_episode_main_13",
+    "page_episode_main_14",
+    "page_episode_main_15"
+  ],
+  "_values": [
+    "Arts/UI/ReturnV2/Image/page_040_annihilation",
+    "Arts/UI/ReturnV2/Image/page_040_apupgrade",
+    "Arts/UI/ReturnV2/Image/page_040_base",
+    "Arts/UI/ReturnV2/Image/page_040_diffmission",
+    "Arts/UI/ReturnV2/Image/page_040_modular",
+    "Arts/UI/ReturnV2/Image/page_040_normalgacha",
+    "Arts/UI/ReturnV2/Image/page_040_roguelike",
+    "Arts/UI/ReturnV2/Image/page_040_roguelike3",
+    "Arts/UI/ReturnV2/Image/page_040_tower",
+    "Arts/UI/ReturnV2/Image/page_041_normalgacha",
+    "Arts/UI/ReturnV2/Image/page_044_normalgacha",
+    "Arts/UI/ReturnV2/Image/page_047_normalgacha",
+    "Arts/UI/ReturnV2/Image/page_047_sandbox",
+    "Arts/UI/ReturnV2/Image/page_050_normalgacha",
+    "Arts/UI/ReturnV2/Image/page_052_roguelike4",
+    "Arts/UI/ReturnV2/Image/page_053_normalgacha",
+    "Arts/UI/ReturnV2/Image/page_056_normalgacha",
+    "Arts/UI/ReturnV2/Image/page_058_normalgacha",
+    "Arts/UI/ReturnV2/Image/page_episode_main_12",
+    "Arts/UI/ReturnV2/Image/page_episode_main_13",
+    "Arts/UI/ReturnV2/Image/page_episode_main_14",
+    "Arts/UI/ReturnV2/Image/page_episode_main_15"
+  ]
+}
