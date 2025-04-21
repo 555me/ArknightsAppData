@@ -31,6 +31,7 @@
   "_keys": [
     "act1multi",
     "act2mainss",
+    "act33sre",
     "act41side",
     "main_0",
     "main_1",
@@ -52,6 +53,7 @@
   "_values": [
     "Arts/UI/Stage/[UC]HomeEntry/act1multi",
     "Arts/UI/Stage/[UC]HomeEntry/act2mainss",
+    "Arts/UI/Stage/[UC]HomeEntry/act33sre",
     "Arts/UI/Stage/[UC]HomeEntry/act41side",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
