@@ -67,7 +67,8 @@
     "btn_camp_r_24",
     "btn_camp_r_25",
     "btn_camp_r_26",
-    "btn_camp_r_27"
+    "btn_camp_r_27",
+    "btn_camp_r_28"
   ],
   "_values": [
     "Arts/UI/Campaign/CampaignStageBtn/btn_camp_01",
@@ -99,6 +100,7 @@
     "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_24",
     "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_25",
     "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_26",
-    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_27"
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_27",
+    "Arts/UI/Campaign/CampaignStageBtn/btn_camp_r_28"
   ]
 }
