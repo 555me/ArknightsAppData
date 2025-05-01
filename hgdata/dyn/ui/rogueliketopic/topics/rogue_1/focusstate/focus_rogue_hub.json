@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -4420957637576057513
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
   },
   "m_Name": "focus_rogue_hub",
   "_sprites": [
@@ -208,11 +208,11 @@
       "index": 0,
       "texture": {
         "m_FileID": 0,
-        "m_PathID": 8462028289849304773
+        "m_PathID": -2343068018480652273
       },
       "alpha": {
         "m_FileID": 0,
-        "m_PathID": -8711122679900824760
+        "m_PathID": -8634328598891399386
       },
       "size": 1024
     }
@@ -240,7 +240,7 @@
       {
         "name": "img_map_preview_text_1",
         "guid": "165b6774759c6b84da90049b06486185",
-        "md5": "ab1d25b8c7494538cd93cb046ad2b2cd"
+        "md5": "ab3c48206361aca4c2d19bff71551860"
       },
       {
         "name": "img_bkg_bloom",
@@ -307,14 +307,14 @@
       {
         "name": "focus_rogue_hub#0",
         "guid": "7bda478e72b88664bb81a817288f5007",
-        "md5": "9c9abed747c6b6bfbc5a9558f3dc06b7"
+        "md5": "278cb26984079749f6e43facd44fba52"
       }
     ],
     "m_alphas": [
       {
         "name": "focus_rogue_hub#0a",
         "guid": "20808f13f84490c428ea4f27c6c54fb1",
-        "md5": "07cef72d7f5c526d43dc88662a949fe4"
+        "md5": "be9d34a0afbaca413aad809118c0aeb4"
       }
     ]
   }
