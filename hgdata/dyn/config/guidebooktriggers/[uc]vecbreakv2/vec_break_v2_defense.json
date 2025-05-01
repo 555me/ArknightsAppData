@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "vec_break_v2_defense",
+  "_pageIds": [],
+  "_autoShowTarget": 44,
+  "_subsignal": "defense"
+}

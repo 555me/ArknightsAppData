@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "gun_task_entry",
+  "_pageIds": [
+    "[PACK]GunTask/guide_1"
+  ],
+  "_autoShowTarget": 45,
+  "_subsignal": "entry"
+}

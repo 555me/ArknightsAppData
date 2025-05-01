@@ -4523,12 +4523,84 @@
       "atlas": 94
     },
     {
+      "name": "char_437_mizuki_game#6",
+      "atlas": 94
+    },
+    {
+      "name": "char_4136_phonor_boc#9",
+      "atlas": 94
+    },
+    {
       "name": "char_4133_logos_ambiencesynesthesia#6",
       "atlas": 94
     },
     {
       "name": "char_4131_odda_whirlwind#8",
       "atlas": 94
+    },
+    {
+      "name": "char_4064_mlynar_iteration#3",
+      "atlas": 94
+    },
+    {
+      "name": "char_332_archet_sale#14",
+      "atlas": 94
+    },
+    {
+      "name": "char_300_phenxi_boc#9",
+      "atlas": 94
+    },
+    {
+      "name": "char_230_savage_kitchen#3",
+      "atlas": 94
+    },
+    {
+      "name": "char_1035_wisdel_sale#14",
+      "atlas": 94
+    },
+    {
+      "name": "char_497_ctable_epoque#44",
+      "atlas": 95
+    },
+    {
+      "name": "char_4194_rmixer_2",
+      "atlas": 95
+    },
+    {
+      "name": "char_4194_rmixer_1",
+      "atlas": 95
+    },
+    {
+      "name": "char_4193_lemuen_2",
+      "atlas": 95
+    },
+    {
+      "name": "char_4193_lemuen_1",
+      "atlas": 95
+    },
+    {
+      "name": "char_4188_confes_1",
+      "atlas": 95
+    },
+    {
+      "name": "char_4187_graceb_2",
+      "atlas": 95
+    },
+    {
+      "name": "char_4187_graceb_1",
+      "atlas": 95
+    },
+    {
+      "name": "char_124_kroos_sale#14",
+      "atlas": 95
+    },
+    {
+      "name": "char_1041_angel2_2",
+      "atlas": 95
+    },
+    {
+      "name": "char_1041_angel2_1",
+      "atlas": 95
     }
   ],
   "_atlases": [
@@ -4626,7 +4698,8 @@
     "Arts/CharPortraits/portraits#91",
     "Arts/CharPortraits/portraits#92",
     "Arts/CharPortraits/portraits#93",
-    "Arts/CharPortraits/portraits#94"
+    "Arts/CharPortraits/portraits#94",
+    "Arts/CharPortraits/portraits#95"
   ],
   "_inputSpriteDir": "Assets/Torappu/Arts/CharPortraits",
   "_outputAtlasDir": "Assets/Torappu/Arts/CharPortraits/[X]Atlas",

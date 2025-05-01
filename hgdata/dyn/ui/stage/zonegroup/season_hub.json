@@ -11,14 +11,14 @@
   "m_Name": "season_hub",
   "_sprites": [
     {
-      "name": "back_ground",
-      "guid": "a0ce5526756fdb64a916ef3857519717",
+      "name": "bg_incoming",
+      "guid": "7e66e4edc68d86246bec528195d3668c",
       "atlas": 0,
       "rect": {
         "x": 0,
         "y": 0,
-        "w": 512,
-        "h": 512
+        "w": 550,
+        "h": 469
       },
       "rotate": 0
     },
@@ -28,11 +28,23 @@
       "atlas": 0,
       "rect": {
         "x": 0,
-        "y": 514,
+        "y": 471,
         "w": 550,
         "h": 364
       },
       "rotate": 0
+    },
+    {
+      "name": "bg_close_vecb",
+      "guid": "849a2fdb2bf8a5d4e963c6dfe5e6f505",
+      "atlas": 0,
+      "rect": {
+        "x": 552,
+        "y": 0,
+        "w": 342,
+        "h": 529
+      },
+      "rotate": 1
     },
     {
       "name": "shop",
@@ -40,7 +52,7 @@
       "atlas": 0,
       "rect": {
         "x": 0,
-        "y": 880,
+        "y": 837,
         "w": 418,
         "h": 141
       },
@@ -51,8 +63,8 @@
       "guid": "8c2233c5ba181b940837c50260336ee3",
       "atlas": 0,
       "rect": {
-        "x": 514,
-        "y": 0,
+        "x": 552,
+        "y": 531,
         "w": 344,
         "h": 91
       },
@@ -63,8 +75,8 @@
       "guid": "9f7c03a07cd9c9c48bda138d8b6baefd",
       "atlas": 0,
       "rect": {
-        "x": 514,
-        "y": 93,
+        "x": 552,
+        "y": 624,
         "w": 188,
         "h": 175
       },
@@ -75,8 +87,8 @@
       "guid": "96812ebfae7f59b4992eef9e1f4018c5",
       "atlas": 0,
       "rect": {
-        "x": 514,
-        "y": 270,
+        "x": 552,
+        "y": 801,
         "w": 298,
         "h": 63
       },
@@ -87,10 +99,22 @@
       "guid": "7311a319ba0628042821fd860a92f84b",
       "atlas": 0,
       "rect": {
-        "x": 514,
-        "y": 335,
+        "x": 552,
+        "y": 866,
         "w": 298,
         "h": 63
+      },
+      "rotate": 0
+    },
+    {
+      "name": "btn_achv_close",
+      "guid": "abd037b4d69a4fa4b892aaae7a5f0965",
+      "atlas": 0,
+      "rect": {
+        "x": 742,
+        "y": 624,
+        "w": 234,
+        "h": 127
       },
       "rotate": 0
     },
@@ -99,10 +123,22 @@
       "guid": "7f07cb83dcad78143b83546688123e6d",
       "atlas": 0,
       "rect": {
+        "x": 852,
+        "y": 801,
+        "w": 141,
+        "h": 208
+      },
+      "rotate": 1
+    },
+    {
+      "name": "title_close_vecb",
+      "guid": "e05fb1866d0b90b4389966d66bef5c4e",
+      "atlas": 0,
+      "rect": {
         "x": 552,
-        "y": 514,
-        "w": 208,
-        "h": 141
+        "y": 931,
+        "w": 245,
+        "h": 77
       },
       "rotate": 0
     },
@@ -111,22 +147,34 @@
       "guid": "509490328a2aab340a2849c19043ced8",
       "atlas": 0,
       "rect": {
-        "x": 514,
-        "y": 400,
-        "w": 221,
-        "h": 101
+        "x": 896,
+        "y": 0,
+        "w": 101,
+        "h": 221
       },
-      "rotate": 0
+      "rotate": 1
     },
     {
       "name": "not_open_part",
       "guid": "6c69855058cd22b49b24cf8c094bf257",
       "atlas": 0,
       "rect": {
-        "x": 552,
-        "y": 657,
+        "x": 420,
+        "y": 837,
         "w": 128,
         "h": 128
+      },
+      "rotate": 0
+    },
+    {
+      "name": "caption_vec_break",
+      "guid": "3583f2bf2047ae14bbf217b223b0d5b5",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 980,
+        "w": 148,
+        "h": 24
       },
       "rotate": 0
     },
@@ -135,8 +183,8 @@
       "guid": "28702d80aa012d44c8723c427dec34d3",
       "atlas": 0,
       "rect": {
-        "x": 552,
-        "y": 787,
+        "x": 742,
+        "y": 753,
         "w": 147,
         "h": 24
       },
@@ -147,8 +195,8 @@
       "guid": "0c9c1ba658922914f982287b82023f9b",
       "atlas": 0,
       "rect": {
-        "x": 552,
-        "y": 813,
+        "x": 896,
+        "y": 223,
         "w": 99,
         "h": 67
       },
@@ -159,32 +207,20 @@
       "guid": "5e01f81a0b039204eb0103616174dea9",
       "atlas": 0,
       "rect": {
-        "x": 552,
-        "y": 882,
+        "x": 896,
+        "y": 292,
         "w": 64,
         "h": 64
       },
       "rotate": 0
     },
     {
-      "name": "delta_end",
-      "guid": "caeb23c2d3f6ee74ea1679f4e202b8c9",
+      "name": "title_incoming",
+      "guid": "81f42b69fd619d045a89452117312cd9",
       "atlas": 0,
       "rect": {
-        "x": 552,
-        "y": 948,
-        "w": 83,
-        "h": 25
-      },
-      "rotate": 0
-    },
-    {
-      "name": "title_back",
-      "guid": "74358647076840e488a4705a7273bf37",
-      "atlas": 0,
-      "rect": {
-        "x": 552,
-        "y": 975,
+        "x": 420,
+        "y": 967,
         "w": 74,
         "h": 24
       },
@@ -195,8 +231,8 @@
       "guid": "876d1227f5bc81b43bd42ad5ff6251ad",
       "atlas": 0,
       "rect": {
-        "x": 420,
-        "y": 880,
+        "x": 742,
+        "y": 779,
         "w": 76,
         "h": 21
       },
@@ -207,8 +243,8 @@
       "guid": "a492127440469454a8a2c2fb2126c06c",
       "atlas": 0,
       "rect": {
-        "x": 420,
-        "y": 903,
+        "x": 896,
+        "y": 358,
         "w": 45,
         "h": 44
       },
@@ -219,8 +255,8 @@
       "guid": "114a8d756e8dbc74591de6813a7de3a8",
       "atlas": 0,
       "rect": {
-        "x": 420,
-        "y": 949,
+        "x": 896,
+        "y": 404,
         "w": 34,
         "h": 39
       },
@@ -231,8 +267,8 @@
       "guid": "0915e680c0c07804c89a49ae7baf39c0",
       "atlas": 0,
       "rect": {
-        "x": 860,
-        "y": 0,
+        "x": 896,
+        "y": 445,
         "w": 32,
         "h": 37
       },
@@ -243,10 +279,22 @@
       "guid": "736c7c1428b187549af187429572df50",
       "atlas": 0,
       "rect": {
-        "x": 860,
-        "y": 39,
+        "x": 896,
+        "y": 484,
         "w": 33,
         "h": 33
+      },
+      "rotate": 0
+    },
+    {
+      "name": "sprite_white",
+      "guid": "3cf009e1ddc068345bd3326475cc54f5",
+      "atlas": 0,
+      "rect": {
+        "x": 898,
+        "y": 531,
+        "w": 32,
+        "h": 32
       },
       "rotate": 0
     },
@@ -255,8 +303,8 @@
       "guid": "46da6e157816f4549af14e4a73aa9bfd",
       "atlas": 0,
       "rect": {
-        "x": 420,
-        "y": 990,
+        "x": 898,
+        "y": 565,
         "w": 41,
         "h": 23
       },
@@ -267,8 +315,8 @@
       "guid": "7afc8b0008ab6c54aa0306b27d042860",
       "atlas": 0,
       "rect": {
-        "x": 860,
-        "y": 74,
+        "x": 898,
+        "y": 590,
         "w": 34,
         "h": 23
       },
@@ -279,8 +327,8 @@
       "guid": "15e312fa89b454640b48c35c39b4a8e3",
       "atlas": 0,
       "rect": {
-        "x": 860,
-        "y": 99,
+        "x": 799,
+        "y": 931,
         "w": 34,
         "h": 23
       },
@@ -291,8 +339,8 @@
       "guid": "812cdee7ab22b24459b79a1cf00af5c5",
       "atlas": 0,
       "rect": {
-        "x": 860,
-        "y": 124,
+        "x": 799,
+        "y": 956,
         "w": 34,
         "h": 23
       },
@@ -303,8 +351,8 @@
       "guid": "951fb94e69816804cb4b1bf83cca92ff",
       "atlas": 0,
       "rect": {
-        "x": 860,
-        "y": 149,
+        "x": 799,
+        "y": 981,
         "w": 34,
         "h": 23
       },
@@ -315,8 +363,8 @@
       "guid": "38ed89c4369bed840a086916d9102781",
       "atlas": 0,
       "rect": {
-        "x": 860,
-        "y": 174,
+        "x": 150,
+        "y": 980,
         "w": 32,
         "h": 23
       },
@@ -327,8 +375,8 @@
       "guid": "c69574056fa8d7a4ebc35110771992e0",
       "atlas": 0,
       "rect": {
-        "x": 860,
-        "y": 199,
+        "x": 891,
+        "y": 753,
         "w": 32,
         "h": 23
       },
@@ -339,8 +387,8 @@
       "guid": "676a31a31bbcc414aa8039fc47f53c87",
       "atlas": 0,
       "rect": {
-        "x": 860,
-        "y": 224,
+        "x": 978,
+        "y": 624,
         "w": 21,
         "h": 31
       },
@@ -367,14 +415,19 @@
   "_sign": {
     "m_sprites": [
       {
-        "name": "back_ground",
-        "guid": "a0ce5526756fdb64a916ef3857519717",
-        "md5": "6c64a93e822f5d8b2e8ab39b545d8ef4"
+        "name": "bg_incoming",
+        "guid": "7e66e4edc68d86246bec528195d3668c",
+        "md5": "1c92adb1d4e97c644e85332c8034f0ff"
       },
       {
         "name": "back_img",
         "guid": "86fff18923fb2bd419c50eeacdd77a5b",
         "md5": "b7aaf48f9c8e2063a7170e2070f2f0d8"
+      },
+      {
+        "name": "bg_close_vecb",
+        "guid": "849a2fdb2bf8a5d4e963c6dfe5e6f505",
+        "md5": "295f0cf3978003f04034d2ba606bb993"
       },
       {
         "name": "shop",
@@ -402,9 +455,19 @@
         "md5": "d5e7b43a80f59bdf4597d4b0496cf1d5"
       },
       {
+        "name": "btn_achv_close",
+        "guid": "abd037b4d69a4fa4b892aaae7a5f0965",
+        "md5": "e6af417c3ff5baa0228f8de709cad417"
+      },
+      {
         "name": "arch_btn",
         "guid": "7f07cb83dcad78143b83546688123e6d",
         "md5": "96aaf62560f087fde34d1d1a8a1fe96d"
+      },
+      {
+        "name": "title_close_vecb",
+        "guid": "e05fb1866d0b90b4389966d66bef5c4e",
+        "md5": "80fd856c03bc283275177f9ef30031d9"
       },
       {
         "name": "no_medal",
@@ -415,6 +478,11 @@
         "name": "not_open_part",
         "guid": "6c69855058cd22b49b24cf8c094bf257",
         "md5": "9cebd14da32e059a7bd060ddb2c0d2de"
+      },
+      {
+        "name": "caption_vec_break",
+        "guid": "3583f2bf2047ae14bbf217b223b0d5b5",
+        "md5": "338c5fdb8e0f53b252d81b17453e909e"
       },
       {
         "name": "title_stage",
@@ -432,14 +500,9 @@
         "md5": "10f87c83952ff7420bd6070ea33a926b"
       },
       {
-        "name": "delta_end",
-        "guid": "caeb23c2d3f6ee74ea1679f4e202b8c9",
-        "md5": "9be732978a22697cfd5a82dfc4d35022"
-      },
-      {
-        "name": "title_back",
-        "guid": "74358647076840e488a4705a7273bf37",
-        "md5": "f18b049b50fff16d0e2c5bf5cc5f433b"
+        "name": "title_incoming",
+        "guid": "81f42b69fd619d045a89452117312cd9",
+        "md5": "942f3878d2407732bf85d695ee58f2af"
       },
       {
         "name": "coin_back",
@@ -465,6 +528,11 @@
         "name": "shop_icon",
         "guid": "736c7c1428b187549af187429572df50",
         "md5": "aa3072dd75db36575e9a2e87f761229a"
+      },
+      {
+        "name": "sprite_white",
+        "guid": "3cf009e1ddc068345bd3326475cc54f5",
+        "md5": "2ce5bb41cb46836bf4109504a7582745"
       },
       {
         "name": "remain_time",
@@ -511,14 +579,14 @@
       {
         "name": "season_hub#0",
         "guid": "879e6c65671c190488a5cf9e8f68f559",
-        "md5": "b039f5ce6883db94bf72f36be641bdf3"
+        "md5": "b167df6805f620edc66c5b0c0cb13a94"
       }
     ],
     "m_alphas": [
       {
         "name": "season_hub#0a",
         "guid": "431083351bb411b4da2a0ce52ac88794",
-        "md5": "1f66d5034a2d620c2334a40467d34fcf"
+        "md5": "734c07f674aca8c7ecc563d0eacb53b2"
       }
     ]
   }

@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "hub",
+  "_rootPackingTag": "UI_GUN_TASK_GUN_SMALL_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 208,
+    "height": 99
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "gun_61n16",
+    "gun_61n16_white",
+    "gun_61n3",
+    "gun_61n3_white",
+    "gun_pandm",
+    "gun_pandm_white",
+    "gun_patrizion",
+    "gun_patrizion_white"
+  ],
+  "_values": [
+    "UI/[UC]GunTask/Arts/GunSmall/gun_61n16",
+    "UI/[UC]GunTask/Arts/GunSmall/gun_61n16_white",
+    "UI/[UC]GunTask/Arts/GunSmall/gun_61n3",
+    "UI/[UC]GunTask/Arts/GunSmall/gun_61n3_white",
+    "UI/[UC]GunTask/Arts/GunSmall/gun_pandm",
+    "UI/[UC]GunTask/Arts/GunSmall/gun_pandm_white",
+    "UI/[UC]GunTask/Arts/GunSmall/gun_patrizion",
+    "UI/[UC]GunTask/Arts/GunSmall/gun_patrizion_white"
+  ]
+}

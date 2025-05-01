@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "avatar_hub",
+  "_rootPackingTag": "UI_GUN_TASK_AVATAR",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 85,
+    "height": 85
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "61n16_small",
+    "61n3_small",
+    "pandm_small",
+    "patrizion_small"
+  ],
+  "_values": [
+    "UI/[UC]GunTask/Arts/Avatar/61n16_small",
+    "UI/[UC]GunTask/Arts/Avatar/61n3_small",
+    "UI/[UC]GunTask/Arts/Avatar/pandm_small",
+    "UI/[UC]GunTask/Arts/Avatar/patrizion_small"
+  ]
+}
