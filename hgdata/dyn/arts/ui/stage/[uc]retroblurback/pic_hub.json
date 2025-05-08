@@ -51,8 +51,7 @@
     "permanent_sub_1_darknights_memoir",
     "permanent_sub_2_a_walk_in_the_dust",
     "permanent_sub_3_under_tides",
-    "permanent_sub_4_stultifera_navis",
-    "permanent_sub_5_lone_trail"
+    "permanent_sub_4_stultifera_navis"
   ],
   "_values": [
     "Arts/UI/Stage/[UC]RetroBlurBack/permanent_sidestory_10_Near_Light",
@@ -77,7 +76,6 @@
     "Arts/UI/Stage/[UC]RetroBlurBack/permanent_sub_1_Darknights_Memoir",
     "Arts/UI/Stage/[UC]RetroBlurBack/permanent_sub_2_A_Walk_In_The_Dust",
     "Arts/UI/Stage/[UC]RetroBlurBack/permanent_sub_3_Under_Tides",
-    "Arts/UI/Stage/[UC]RetroBlurBack/permanent_sub_4_Stultifera_Navis",
-    "Arts/UI/Stage/[UC]RetroBlurBack/permanent_sub_5_Lone_Trail"
+    "Arts/UI/Stage/[UC]RetroBlurBack/permanent_sub_4_Stultifera_Navis"
   ]
 }
