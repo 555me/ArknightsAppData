@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "squad_buff_icon_hub",
+  "_rootPackingTag": "VEC_BREAK_V2_BUFF",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 180,
+    "height": 180
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "vec_break_v2_relic_01",
+    "vec_break_v2_relic_03",
+    "vec_break_v2_relic_04",
+    "vec_break_v2_relic_05",
+    "vec_break_v2_relic_07",
+    "vec_break_v2_relic_08",
+    "vec_break_v2_relic_09",
+    "vec_break_v2_relic_11"
+  ],
+  "_values": [
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_01",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_03",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_04",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_05",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_07",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_08",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_09",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_11"
+  ]
+}

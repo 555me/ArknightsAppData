@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "offense_boss_icon_hub",
+  "_rootPackingTag": "VEC_BREAK_V2_OFFENSE_BOSS_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 249,
+    "height": 213
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "vecbv2_offense_boss_mcnist"
+  ],
+  "_values": [
+    "Arts/UI/[UC]VecBreakV2/OffenseBossIcon/vecbv2_offense_boss_mcnist"
+  ]
+}

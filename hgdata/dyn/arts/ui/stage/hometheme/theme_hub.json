@@ -38,6 +38,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
+    "act1break",
     "act1enemyduel",
     "act1multi",
     "act2mainss_1",
@@ -69,6 +70,7 @@
     "sandbox_1_entry_display_3"
   ],
   "_values": [
+    "Arts/UI/Stage/HomeTheme/act1break",
     "Arts/UI/Stage/HomeTheme/act1enemyduel",
     "Arts/UI/Stage/HomeTheme/act1multi",
     "Arts/UI/Stage/HomeTheme/act2mainss_1",

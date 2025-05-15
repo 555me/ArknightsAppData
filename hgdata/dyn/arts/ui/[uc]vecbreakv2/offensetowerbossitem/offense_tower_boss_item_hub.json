@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "offense_tower_boss_item_hub",
+  "_rootPackingTag": "VEC_BREAK_V2_OFFENSE_TOWER_BOSS_ITEM",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 89,
+    "height": 105
+  },
+  "_extraPicSize": [
+    {
+      "width": 32,
+      "height": 98
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "enemy_8010_mcnist_deco_1",
+    "enemy_8010_mcnist_deco_2"
+  ],
+  "_values": [
+    "Arts/UI/[UC]VecBreakV2/OffenseTowerBossItem/enemy_8010_mcnist_deco_1",
+    "Arts/UI/[UC]VecBreakV2/OffenseTowerBossItem/enemy_8010_mcnist_deco_2"
+  ]
+}

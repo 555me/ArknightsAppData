@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "boss_icon_hub",
+  "_rootPackingTag": "VEC_BREAK_V2_BOSS_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 212,
+    "height": 248
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "vec_break_defense_enemy_1",
+    "vec_break_defense_enemy_2",
+    "vec_break_defense_enemy_3",
+    "vec_break_defense_enemy_4",
+    "vec_break_defense_enemy_5",
+    "vec_break_defense_enemy_6",
+    "vec_break_defense_enemy_7",
+    "vec_break_defense_enemy_8"
+  ],
+  "_values": [
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_1",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_2",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_3",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_4",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_5",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_6",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_7",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_8"
+  ]
+}

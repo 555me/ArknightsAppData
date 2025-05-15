@@ -30,10 +30,12 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "special_54_0_5",
-    "special_59_0_3"
+    "special_59_0_3",
+    "special_61_0_3"
   ],
   "_values": [
     "Arts/UI/[UC]SpecialGachaPool/SPECIAL_54_0_5",
-    "Arts/UI/[UC]SpecialGachaPool/SPECIAL_59_0_3"
+    "Arts/UI/[UC]SpecialGachaPool/SPECIAL_59_0_3",
+    "Arts/UI/[UC]SpecialGachaPool/SPECIAL_61_0_3"
   ]
 }

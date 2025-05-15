@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "alpha_order_hub",
+  "_rootPackingTag": "VEC_BREAK_V2_ALPHA_ORDER",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 40,
+    "height": 40
+  },
+  "_extraPicSize": [
+    {
+      "width": 70,
+      "height": 70
+    },
+    {
+      "width": 198,
+      "height": 157
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "battle_finish_order_1",
+    "battle_finish_order_2",
+    "battle_finish_order_3",
+    "battle_finish_order_4",
+    "complete_order_1",
+    "complete_order_2",
+    "complete_order_3",
+    "complete_order_4",
+    "complete_raid_order_1",
+    "complete_raid_order_2",
+    "complete_raid_order_3",
+    "complete_raid_order_4",
+    "normal_order_1",
+    "normal_order_2",
+    "normal_order_3",
+    "normal_order_4",
+    "normal_raid_order_1",
+    "normal_raid_order_2",
+    "normal_raid_order_3",
+    "normal_raid_order_4"
+  ],
+  "_values": [
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/battle_finish_order_1",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/battle_finish_order_2",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/battle_finish_order_3",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/battle_finish_order_4",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/complete_order_1",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/complete_order_2",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/complete_order_3",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/complete_order_4",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/complete_raid_order_1",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/complete_raid_order_2",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/complete_raid_order_3",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/complete_raid_order_4",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/normal_order_1",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/normal_order_2",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/normal_order_3",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/normal_order_4",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/normal_raid_order_1",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/normal_raid_order_2",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/normal_raid_order_3",
+    "Activity/[UC]VecBreakV2/DynLoad/StageAlphaOrder/normal_raid_order_4"
+  ]
+}

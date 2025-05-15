@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "offense_tower_number_hub",
+  "_rootPackingTag": "VEC_BREAK_V2_OFFENSE_TOWER_NUMBER",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 61,
+    "height": 46
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "num_1",
+    "num_10",
+    "num_11",
+    "num_12",
+    "num_2",
+    "num_3",
+    "num_4",
+    "num_5",
+    "num_6",
+    "num_7",
+    "num_8",
+    "num_9"
+  ],
+  "_values": [
+    "Activity/[UC]VecBreakV2/DynLoad/OffenseTowerNumber/num_1",
+    "Activity/[UC]VecBreakV2/DynLoad/OffenseTowerNumber/num_10",
+    "Activity/[UC]VecBreakV2/DynLoad/OffenseTowerNumber/num_11",
+    "Activity/[UC]VecBreakV2/DynLoad/OffenseTowerNumber/num_12",
+    "Activity/[UC]VecBreakV2/DynLoad/OffenseTowerNumber/num_2",
+    "Activity/[UC]VecBreakV2/DynLoad/OffenseTowerNumber/num_3",
+    "Activity/[UC]VecBreakV2/DynLoad/OffenseTowerNumber/num_4",
+    "Activity/[UC]VecBreakV2/DynLoad/OffenseTowerNumber/num_5",
+    "Activity/[UC]VecBreakV2/DynLoad/OffenseTowerNumber/num_6",
+    "Activity/[UC]VecBreakV2/DynLoad/OffenseTowerNumber/num_7",
+    "Activity/[UC]VecBreakV2/DynLoad/OffenseTowerNumber/num_8",
+    "Activity/[UC]VecBreakV2/DynLoad/OffenseTowerNumber/num_9"
+  ]
+}
