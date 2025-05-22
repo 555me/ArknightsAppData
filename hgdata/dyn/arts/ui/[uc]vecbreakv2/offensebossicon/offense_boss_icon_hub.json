@@ -29,9 +29,11 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "vecbv2_offense_boss_eltrsm",
     "vecbv2_offense_boss_mcnist"
   ],
   "_values": [
+    "Arts/UI/[UC]VecBreakV2/OffenseBossIcon/vecbv2_offense_boss_eltrsm",
     "Arts/UI/[UC]VecBreakV2/OffenseBossIcon/vecbv2_offense_boss_mcnist"
   ]
 }

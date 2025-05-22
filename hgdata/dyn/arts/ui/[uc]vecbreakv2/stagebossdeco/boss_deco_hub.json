@@ -33,6 +33,16 @@
   },
   "_atlasOutputPath": "",
   "_configName": "",
-  "_keys": [],
-  "_values": []
+  "_keys": [
+    "deco_eltrsm",
+    "deco_eltrsm_tiny",
+    "deco_mcnist",
+    "deco_mcnist_tiny"
+  ],
+  "_values": [
+    "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_eltrsm",
+    "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_eltrsm_tiny",
+    "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_mcnist",
+    "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_mcnist_tiny"
+  ]
 }

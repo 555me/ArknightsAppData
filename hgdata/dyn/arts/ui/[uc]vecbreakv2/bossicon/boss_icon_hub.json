@@ -30,22 +30,38 @@
   "_configName": "",
   "_keys": [
     "vec_break_defense_enemy_1",
+    "vec_break_defense_enemy_10",
+    "vec_break_defense_enemy_11",
+    "vec_break_defense_enemy_12",
+    "vec_break_defense_enemy_13",
+    "vec_break_defense_enemy_14",
+    "vec_break_defense_enemy_15",
+    "vec_break_defense_enemy_16",
     "vec_break_defense_enemy_2",
     "vec_break_defense_enemy_3",
     "vec_break_defense_enemy_4",
     "vec_break_defense_enemy_5",
     "vec_break_defense_enemy_6",
     "vec_break_defense_enemy_7",
-    "vec_break_defense_enemy_8"
+    "vec_break_defense_enemy_8",
+    "vec_break_defense_enemy_9"
   ],
   "_values": [
     "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_1",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_10",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_11",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_12",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_13",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_14",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_15",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_16",
     "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_2",
     "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_3",
     "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_4",
     "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_5",
     "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_6",
     "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_7",
-    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_8"
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_8",
+    "Arts/UI/[UC]VecBreakV2/BossIcon/vec_break_defense_enemy_9"
   ]
 }

@@ -30,22 +30,38 @@
   "_configName": "",
   "_keys": [
     "vec_break_v2_relic_01",
+    "vec_break_v2_relic_02",
     "vec_break_v2_relic_03",
     "vec_break_v2_relic_04",
     "vec_break_v2_relic_05",
+    "vec_break_v2_relic_06",
     "vec_break_v2_relic_07",
     "vec_break_v2_relic_08",
     "vec_break_v2_relic_09",
-    "vec_break_v2_relic_11"
+    "vec_break_v2_relic_10",
+    "vec_break_v2_relic_11",
+    "vec_break_v2_relic_12",
+    "vec_break_v2_relic_13",
+    "vec_break_v2_relic_14",
+    "vec_break_v2_relic_15",
+    "vec_break_v2_relic_16"
   ],
   "_values": [
     "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_01",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_02",
     "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_03",
     "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_04",
     "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_05",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_06",
     "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_07",
     "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_08",
     "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_09",
-    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_11"
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_10",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_11",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_12",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_13",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_14",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_15",
+    "Arts/UI/[UC]VecBreakV2/SquadBuff/vec_break_v2_relic_16"
   ]
 }
