@@ -31,7 +31,9 @@
   "_keys": [
     "capsule",
     "gold",
+    "hp",
     "recruit_ticket",
+    "red_capsule",
     "relic",
     "relic_curse",
     "relic_init",
@@ -41,7 +43,9 @@
   "_values": [
     "UI/RoguelikeTopic/Topics/rogue_1/UnderTexPic/CAPSULE",
     "UI/RoguelikeTopic/Topics/rogue_1/UnderTexPic/GOLD",
+    "UI/RoguelikeTopic/Topics/rogue_1/UnderTexPic/HP",
     "UI/RoguelikeTopic/Topics/rogue_1/UnderTexPic/RECRUIT_TICKET",
+    "UI/RoguelikeTopic/Topics/rogue_1/UnderTexPic/RED_CAPSULE",
     "UI/RoguelikeTopic/Topics/rogue_1/UnderTexPic/RELIC",
     "UI/RoguelikeTopic/Topics/rogue_1/UnderTexPic/RELIC_CURSE",
     "UI/RoguelikeTopic/Topics/rogue_1/UnderTexPic/RELIC_INIT",
