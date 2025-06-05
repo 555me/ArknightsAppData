@@ -29,6 +29,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
+    "storybg_act_or_die",
     "storybg_adventure_that_cannot_waits_for_the_sun",
     "storybg_ancient_forge",
     "storybg_an_obscure_wanderer",
@@ -87,6 +88,7 @@
     "storybg_zwillingsturme_im_herbst"
   ],
   "_values": [
+    "Arts/UI/MixStory/RetroBkgs/storybg_act_or_die",
     "Arts/UI/MixStory/RetroBkgs/storybg_adventure_that_cannot_waits_for_the_sun",
     "Arts/UI/MixStory/RetroBkgs/storybg_ancient_forge",
     "Arts/UI/MixStory/RetroBkgs/storybg_an_obscure_wanderer",

@@ -30,6 +30,7 @@
   "_configName": "",
   "_keys": [
     "title_absolved_will_be_the_seekers",
+    "title_act_or_die",
     "title_adventure_that_cannot_waits_for_the_sun",
     "title_all_quiet_under_the_thunder",
     "title_ancient_forge",
@@ -104,6 +105,7 @@
   ],
   "_values": [
     "Arts/UI/MixStory/Titles/title_absolved_will_be_the_seekers",
+    "Arts/UI/MixStory/Titles/title_act_or_die",
     "Arts/UI/MixStory/Titles/title_adventure_that_cannot_waits_for_the_sun",
     "Arts/UI/MixStory/Titles/title_all_quiet_under_the_thunder",
     "Arts/UI/MixStory/Titles/title_ancient_forge",

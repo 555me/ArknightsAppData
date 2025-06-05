@@ -4575,15 +4575,19 @@
       "atlas": 95
     },
     {
-      "name": "char_4194_rmixer_1",
-      "atlas": 95
-    },
-    {
       "name": "char_4193_lemuen_2",
       "atlas": 95
     },
     {
       "name": "char_4193_lemuen_1",
+      "atlas": 95
+    },
+    {
+      "name": "char_4191_tippi_2",
+      "atlas": 95
+    },
+    {
+      "name": "char_4191_tippi_1",
       "atlas": 95
     },
     {
@@ -4603,12 +4607,44 @@
       "atlas": 95
     },
     {
-      "name": "char_1041_angel2_2",
+      "name": "char_1042_phatm2_2",
       "atlas": 95
     },
     {
-      "name": "char_1041_angel2_1",
+      "name": "char_1042_phatm2_1",
       "atlas": 95
+    },
+    {
+      "name": "char_4198_christ_2",
+      "atlas": 96
+    },
+    {
+      "name": "char_4198_christ_1",
+      "atlas": 96
+    },
+    {
+      "name": "char_4194_rmixer_1",
+      "atlas": 96
+    },
+    {
+      "name": "char_4132_ascln_iteration#4",
+      "atlas": 96
+    },
+    {
+      "name": "char_4079_haini_epoque#45",
+      "atlas": 96
+    },
+    {
+      "name": "char_4066_highmo_epoque#45",
+      "atlas": 96
+    },
+    {
+      "name": "char_1041_angel2_2",
+      "atlas": 96
+    },
+    {
+      "name": "char_1041_angel2_1",
+      "atlas": 96
     }
   ],
   "_atlases": [
@@ -4707,7 +4743,8 @@
     "Arts/CharPortraits/portraits#92",
     "Arts/CharPortraits/portraits#93",
     "Arts/CharPortraits/portraits#94",
-    "Arts/CharPortraits/portraits#95"
+    "Arts/CharPortraits/portraits#95",
+    "Arts/CharPortraits/portraits#96"
   ],
   "_inputSpriteDir": "Assets/Torappu/Arts/CharPortraits",
   "_outputAtlasDir": "Assets/Torappu/Arts/CharPortraits/[X]Atlas",

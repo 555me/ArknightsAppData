@@ -39,6 +39,7 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "kv_absolved_will_be_the_seekers",
+    "kv_act_or_die",
     "kv_adventure_that_cannot_waits_for_the_sun",
     "kv_all_quiet_under_the_thunder",
     "kv_ancient_forge",
@@ -113,6 +114,7 @@
   ],
   "_values": [
     "Arts/UI/MixStory/Kvs/kv_absolved_will_be_the_seekers",
+    "Arts/UI/MixStory/Kvs/kv_act_or_die",
     "Arts/UI/MixStory/Kvs/kv_adventure_that_cannot_waits_for_the_sun",
     "Arts/UI/MixStory/Kvs/kv_all_quiet_under_the_thunder",
     "Arts/UI/MixStory/Kvs/kv_ancient_forge",
