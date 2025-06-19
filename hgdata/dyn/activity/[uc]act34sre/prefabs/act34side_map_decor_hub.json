@@ -1,0 +1,151 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
+  },
+  "m_Name": "act34side_map_decor_hub",
+  "_sprites": [
+    {
+      "name": "shop_entry",
+      "guid": "b1c1947e3039e914c93b9a97371d9c35",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 134
+      },
+      "rotate": 0
+    },
+    {
+      "name": "zone2_selected",
+      "guid": "8576be4484715114e83456a32f1a5df6",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 136,
+        "w": 148,
+        "h": 181
+      },
+      "rotate": 0
+    },
+    {
+      "name": "zone1_selected",
+      "guid": "9c40c383e42faf14eaafb418b985041a",
+      "atlas": 0,
+      "rect": {
+        "x": 150,
+        "y": 136,
+        "w": 148,
+        "h": 181
+      },
+      "rotate": 0
+    },
+    {
+      "name": "zone2_locked",
+      "guid": "59373bb78c38dd14b98050ea6251cfe5",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 319,
+        "w": 148,
+        "h": 180
+      },
+      "rotate": 0
+    },
+    {
+      "name": "zone2",
+      "guid": "c8bfccab29699da4a9eb4853b6394079",
+      "atlas": 0,
+      "rect": {
+        "x": 150,
+        "y": 319,
+        "w": 148,
+        "h": 180
+      },
+      "rotate": 0
+    },
+    {
+      "name": "zone1",
+      "guid": "28090f28a65bb854aa7c12089e9b36cc",
+      "atlas": 0,
+      "rect": {
+        "x": 319,
+        "y": 0,
+        "w": 148,
+        "h": 179
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 1852269813716441599
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 7395216528621055673
+      },
+      "size": 512
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "shop_entry",
+        "guid": "b1c1947e3039e914c93b9a97371d9c35",
+        "md5": "7970683ee33bb77e0c304d9a3595ef75"
+      },
+      {
+        "name": "zone2_selected",
+        "guid": "8576be4484715114e83456a32f1a5df6",
+        "md5": "f82506a7ec985e379a73e951d547bc63"
+      },
+      {
+        "name": "zone1_selected",
+        "guid": "9c40c383e42faf14eaafb418b985041a",
+        "md5": "8dc64287b5ecbd8776fded7b7356e94b"
+      },
+      {
+        "name": "zone2_locked",
+        "guid": "59373bb78c38dd14b98050ea6251cfe5",
+        "md5": "dff26401677a77e88b2a065cbe41aa44"
+      },
+      {
+        "name": "zone2",
+        "guid": "c8bfccab29699da4a9eb4853b6394079",
+        "md5": "29d9bfb020837dda7bd8366618ac42c9"
+      },
+      {
+        "name": "zone1",
+        "guid": "28090f28a65bb854aa7c12089e9b36cc",
+        "md5": "aa82ac8ab52706a5b23a398b463929c9"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "act34side_map_decor_hub#0",
+        "guid": "d898f17b3b2b2404296d2a56bdf08911",
+        "md5": "a6ced92059ad0b8937d5819403762d95"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "act34side_map_decor_hub#0a",
+        "guid": "e6193b6c323e67441a7a651e774486db",
+        "md5": "307efd1d4d032f0bb03cf030cfddfc26"
+      }
+    ]
+  }
+}

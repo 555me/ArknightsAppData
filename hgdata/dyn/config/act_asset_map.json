@@ -15,6 +15,14 @@
         "resPath": "UI/Activity/ActFun/Actfun6/zoneMap/zone_map_act6fun_zone1",
         "activity": "actfun"
       },
+      "act34sre_zone1": {
+        "resPath": "Activity/[UC]act34sre/ZoneMaps/zone_map_act34sre_zone1",
+        "activity": "act34sre"
+      },
+      "act34sre_zone2": {
+        "resPath": "Activity/[UC]act34sre/ZoneMaps/zone_map_act34sre_zone2",
+        "activity": "act34sre"
+      },
       "act43side_zone2": {
         "resPath": "Activity/[UC]act43side/ZoneMaps/zone_map_act43side_zone2",
         "activity": "act43side"
@@ -48,6 +56,14 @@
       }
     },
     "TEMPLATE_SHOP": {
+      "templateshop_shop_act34sre": {
+        "resPath": "Activity/[UC]act34sre/Prefabs/act34sre_template_shop",
+        "activity": "act34sre"
+      },
+      "title_shop_act34sre": {
+        "resPath": "Activity/[UC]act34sre/Prefabs/act34sre_template_shop",
+        "activity": "act34sre"
+      },
       "templateshop_shop_act43side": {
         "resPath": "Activity/[UC]act43side/Prefabs/act43side_template_shop",
         "activity": "act43side"
@@ -75,6 +91,14 @@
     "TEMPLATE_TRAP_VIEW": {},
     "DYNAMIC_PAGE": {},
     "TEMPLATE_MISSION": {
+      "act34sre_custom_mission_res_holder": {
+        "resPath": "Activity/[UC]act34sre/Prefabs/act34sre_mission_view_holder",
+        "activity": "act34sre"
+      },
+      "act34sre_custom_mission_view_holder": {
+        "resPath": "Activity/[UC]act34sre/Prefabs/act34sre_mission_view_holder",
+        "activity": "act34sre"
+      },
       "act43side_custom_mission_res_holder": {
         "resPath": "Activity/[UC]act43side/Prefabs/act43side_mission_view_holder",
         "activity": "act43side"
