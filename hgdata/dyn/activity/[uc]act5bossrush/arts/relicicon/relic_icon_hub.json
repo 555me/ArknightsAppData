@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "relic_icon_hub",
+  "_rootPackingTag": "UI_ACT_5BOSSRUSH_RELIC_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 128,
+    "height": 128
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "act5bossrush_relic_01",
+    "act5bossrush_relic_02",
+    "act5bossrush_relic_03",
+    "act5bossrush_relic_04"
+  ],
+  "_values": [
+    "Activity/[UC]act5BossRush/Arts/RelicIcon/act5bossrush_relic_01",
+    "Activity/[UC]act5BossRush/Arts/RelicIcon/act5bossrush_relic_02",
+    "Activity/[UC]act5BossRush/Arts/RelicIcon/act5bossrush_relic_03",
+    "Activity/[UC]act5BossRush/Arts/RelicIcon/act5bossrush_relic_04"
+  ]
+}

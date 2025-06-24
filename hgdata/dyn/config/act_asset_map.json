@@ -78,6 +78,10 @@
       "act1break": {
         "resPath": "Activity/[UC]act1break/Prefabs/act1break_squad_plugin_view",
         "activity": "act1break"
+      },
+      "act5bossrush": {
+        "resPath": "Activity/[UC]act5BossRush/Prefabs/act5bossrush_squad_plugin_view",
+        "activity": "act5bossrush"
       }
     },
     "HOME_TOPBAR": {},

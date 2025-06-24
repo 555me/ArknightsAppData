@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "map_preview_hub",
+  "_rootPackingTag": "UI_ACT_5BOSSRUSH_MAP_PREVIEW",
+  "_cntPerAtlas": 1,
+  "_standardPicSize": {
+    "width": 512,
+    "height": 512
+  },
+  "_extraPicSize": [],
+  "_compressType": 11,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "map_act5bossrush_group01_01",
+    "map_act5bossrush_group01_02",
+    "map_act5bossrush_group02_01",
+    "map_act5bossrush_group02_02",
+    "map_act5bossrush_group02_03",
+    "map_act5bossrush_group03_01",
+    "map_act5bossrush_group03_02",
+    "map_act5bossrush_group03_03",
+    "map_act5bossrush_group04_01",
+    "map_act5bossrush_group04_02",
+    "map_act5bossrush_group04_03"
+  ],
+  "_values": [
+    "Activity/[UC]act5BossRush/Arts/MapPreviews/map_act5bossrush_group01_01",
+    "Activity/[UC]act5BossRush/Arts/MapPreviews/map_act5bossrush_group01_02",
+    "Activity/[UC]act5BossRush/Arts/MapPreviews/map_act5bossrush_group02_01",
+    "Activity/[UC]act5BossRush/Arts/MapPreviews/map_act5bossrush_group02_02",
+    "Activity/[UC]act5BossRush/Arts/MapPreviews/map_act5bossrush_group02_03",
+    "Activity/[UC]act5BossRush/Arts/MapPreviews/map_act5bossrush_group03_01",
+    "Activity/[UC]act5BossRush/Arts/MapPreviews/map_act5bossrush_group03_02",
+    "Activity/[UC]act5BossRush/Arts/MapPreviews/map_act5bossrush_group03_03",
+    "Activity/[UC]act5BossRush/Arts/MapPreviews/map_act5bossrush_group04_01",
+    "Activity/[UC]act5BossRush/Arts/MapPreviews/map_act5bossrush_group04_02",
+    "Activity/[UC]act5BossRush/Arts/MapPreviews/map_act5bossrush_group04_03"
+  ]
+}
