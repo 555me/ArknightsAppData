@@ -29,9 +29,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
-    "act1break",
-    "act34sre",
-    "act43side",
+    "act19mini",
     "act5bossrush",
     "main_0",
     "main_1",
@@ -51,9 +49,7 @@
     "permanent_main_1_zone1"
   ],
   "_values": [
-    "Arts/UI/Stage/[UC]HomeEntry/act1break",
-    "Arts/UI/Stage/[UC]HomeEntry/act34sre",
-    "Arts/UI/Stage/[UC]HomeEntry/act43side",
+    "Arts/UI/Stage/[UC]HomeEntry/act19mini",
     "Arts/UI/Stage/[UC]HomeEntry/act5bossrush",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",

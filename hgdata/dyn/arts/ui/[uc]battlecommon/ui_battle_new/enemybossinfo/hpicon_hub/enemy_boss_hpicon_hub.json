@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "enemy_boss_hpicon_hub",
+  "_rootPackingTag": "ARTS_BOSS_HP_ICON",
+  "_cntPerAtlas": 9,
+  "_standardPicSize": {
+    "width": 140,
+    "height": 120
+  },
+  "_extraPicSize": [
+    {
+      "width": 258,
+      "height": 238
+    },
+    {
+      "width": 100,
+      "height": 83
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "enemy_1526_sfsui",
+    "enemy_1564_mpprts",
+    "trap_058_gunctrl"
+  ],
+  "_values": [
+    "Arts/UI/[UC]BattleCommon/UI_BATTLE_NEW/EnemyBossInfo/hpicon_hub/enemy_1526_sfsui",
+    "Arts/UI/[UC]BattleCommon/UI_BATTLE_NEW/EnemyBossInfo/hpicon_hub/enemy_1564_mpprts",
+    "Arts/UI/[UC]BattleCommon/UI_BATTLE_NEW/EnemyBossInfo/hpicon_hub/trap_058_gunctrl"
+  ]
+}

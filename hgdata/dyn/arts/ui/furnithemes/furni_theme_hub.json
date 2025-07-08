@@ -140,7 +140,8 @@
     "furni_set_volcaroom",
     "furni_set_warehouse",
     "furni_set_westcoast",
-    "furni_set_wooden"
+    "furni_set_wooden",
+    "furni_set_yanprivateschool"
   ],
   "_values": [
     "Arts/UI/FurniThemes/furniM_set_basicRoom",
@@ -254,6 +255,7 @@
     "Arts/UI/FurniThemes/furni_set_volcaRoom",
     "Arts/UI/FurniThemes/furni_set_warehouse",
     "Arts/UI/FurniThemes/furni_set_westCoast",
-    "Arts/UI/FurniThemes/furni_set_wooden"
+    "Arts/UI/FurniThemes/furni_set_wooden",
+    "Arts/UI/FurniThemes/furni_set_yanPrivateSchool"
   ]
 }

@@ -4615,44 +4615,80 @@
       "atlas": 95
     },
     {
-      "name": "char_497_ctable_epoque#44",
+      "name": "char_4196_reckpr_2",
       "atlas": 96
     },
     {
-      "name": "char_486_takila_shining#2",
+      "name": "char_4196_reckpr_1",
       "atlas": 96
     },
     {
-      "name": "char_437_mizuki_game#6",
-      "atlas": 96
-    },
-    {
-      "name": "char_4137_udflow_epoque#46",
-      "atlas": 96
-    },
-    {
-      "name": "char_4136_phonor_boc#9",
-      "atlas": 96
-    },
-    {
-      "name": "char_4133_logos_ambiencesynesthesia#6",
-      "atlas": 96
-    },
-    {
-      "name": "char_4132_ascln_iteration#4",
-      "atlas": 96
-    },
-    {
-      "name": "char_4131_odda_whirlwind#8",
-      "atlas": 96
-    },
-    {
-      "name": "char_4130_luton_yun#6",
+      "name": "char_4080_lin_summer#19",
       "atlas": 96
     },
     {
       "name": "char_4079_haini_epoque#45",
       "atlas": 96
+    },
+    {
+      "name": "char_4055_bgsnow_yun#7",
+      "atlas": 96
+    },
+    {
+      "name": "char_325_bison_yun#7",
+      "atlas": 96
+    },
+    {
+      "name": "char_150_snakek_yun#7",
+      "atlas": 96
+    },
+    {
+      "name": "char_1043_leizi2_2",
+      "atlas": 96
+    },
+    {
+      "name": "char_1043_leizi2_1",
+      "atlas": 96
+    },
+    {
+      "name": "char_497_ctable_epoque#44",
+      "atlas": 97
+    },
+    {
+      "name": "char_486_takila_shining#2",
+      "atlas": 97
+    },
+    {
+      "name": "char_437_mizuki_game#6",
+      "atlas": 97
+    },
+    {
+      "name": "char_4145_ulpia_epoque#48",
+      "atlas": 97
+    },
+    {
+      "name": "char_4137_udflow_epoque#46",
+      "atlas": 97
+    },
+    {
+      "name": "char_4136_phonor_boc#9",
+      "atlas": 97
+    },
+    {
+      "name": "char_4133_logos_ambiencesynesthesia#6",
+      "atlas": 97
+    },
+    {
+      "name": "char_4132_ascln_iteration#4",
+      "atlas": 97
+    },
+    {
+      "name": "char_4131_odda_whirlwind#8",
+      "atlas": 97
+    },
+    {
+      "name": "char_4130_luton_yun#6",
+      "atlas": 97
     }
   ],
   "_atlases": [
@@ -4752,7 +4788,8 @@
     "Arts/CharPortraits/portraits#93",
     "Arts/CharPortraits/portraits#94",
     "Arts/CharPortraits/portraits#95",
-    "Arts/CharPortraits/portraits#96"
+    "Arts/CharPortraits/portraits#96",
+    "Arts/CharPortraits/portraits#97"
   ],
   "_inputSpriteDir": "Assets/Torappu/Arts/CharPortraits",
   "_outputAtlasDir": "Assets/Torappu/Arts/CharPortraits/[X]Atlas",

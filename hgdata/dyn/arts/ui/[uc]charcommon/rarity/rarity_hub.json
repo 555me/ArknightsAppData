@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "rarity_hub",
+  "_rootPackingTag": "CHAR_COMMON_RARITY_PURE_BLACK",
+  "_cntPerAtlas": 6,
+  "_standardPicSize": {
+    "width": 151,
+    "height": 48
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rarity_0",
+    "rarity_1",
+    "rarity_2",
+    "rarity_3",
+    "rarity_4",
+    "rarity_5"
+  ],
+  "_values": [
+    "Arts/UI/[UC]CharCommon/Rarity/rarity_0",
+    "Arts/UI/[UC]CharCommon/Rarity/rarity_1",
+    "Arts/UI/[UC]CharCommon/Rarity/rarity_2",
+    "Arts/UI/[UC]CharCommon/Rarity/rarity_3",
+    "Arts/UI/[UC]CharCommon/Rarity/rarity_4",
+    "Arts/UI/[UC]CharCommon/Rarity/rarity_5"
+  ]
+}
