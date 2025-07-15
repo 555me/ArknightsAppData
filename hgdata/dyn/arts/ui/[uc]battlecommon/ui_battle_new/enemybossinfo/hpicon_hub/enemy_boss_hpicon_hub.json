@@ -40,11 +40,15 @@
   "_keys": [
     "enemy_1526_sfsui",
     "enemy_1564_mpprts",
+    "enemy_2119_dyshhj",
+    "enemy_2119_dyshhj_2",
     "trap_058_gunctrl"
   ],
   "_values": [
     "Arts/UI/[UC]BattleCommon/UI_BATTLE_NEW/EnemyBossInfo/hpicon_hub/enemy_1526_sfsui",
     "Arts/UI/[UC]BattleCommon/UI_BATTLE_NEW/EnemyBossInfo/hpicon_hub/enemy_1564_mpprts",
+    "Arts/UI/[UC]BattleCommon/UI_BATTLE_NEW/EnemyBossInfo/hpicon_hub/enemy_2119_dyshhj",
+    "Arts/UI/[UC]BattleCommon/UI_BATTLE_NEW/EnemyBossInfo/hpicon_hub/enemy_2119_dyshhj_2",
     "Arts/UI/[UC]BattleCommon/UI_BATTLE_NEW/EnemyBossInfo/hpicon_hub/trap_058_gunctrl"
   ]
 }

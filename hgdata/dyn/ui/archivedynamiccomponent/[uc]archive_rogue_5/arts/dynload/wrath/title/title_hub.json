@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "title_hub",
+  "_rootPackingTag": "UI_ROGUE_5_ARCHIVE_WRATH_TITLE",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 128,
+    "height": 51
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rogue_5_wrath_10_name",
+    "rogue_5_wrath_11_name",
+    "rogue_5_wrath_12_name",
+    "rogue_5_wrath_1_name",
+    "rogue_5_wrath_2_name",
+    "rogue_5_wrath_3_name",
+    "rogue_5_wrath_4_name",
+    "rogue_5_wrath_5_name",
+    "rogue_5_wrath_6_name",
+    "rogue_5_wrath_7_name",
+    "rogue_5_wrath_8_name",
+    "rogue_5_wrath_9_name"
+  ],
+  "_values": [
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Wrath/Title/rogue_5_wrath_10_name",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Wrath/Title/rogue_5_wrath_11_name",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Wrath/Title/rogue_5_wrath_12_name",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Wrath/Title/rogue_5_wrath_1_name",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Wrath/Title/rogue_5_wrath_2_name",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Wrath/Title/rogue_5_wrath_3_name",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Wrath/Title/rogue_5_wrath_4_name",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Wrath/Title/rogue_5_wrath_5_name",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Wrath/Title/rogue_5_wrath_6_name",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Wrath/Title/rogue_5_wrath_7_name",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Wrath/Title/rogue_5_wrath_8_name",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Wrath/Title/rogue_5_wrath_9_name"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "rogue_5_dungeon",
+  "_pageIds": [
+    "[uc]roguelike/dungeon_rogue_5_1",
+    "[uc]roguelike/dungeon_rogue_5_2",
+    "[uc]roguelike/dungeon_rogue_5_3",
+    "[uc]roguelike/dungeon_rogue_5_4",
+    "[uc]roguelike/dungeon_rogue_5_5"
+  ],
+  "_autoShowTarget": 31,
+  "_subsignal": "rogue_5"
+}

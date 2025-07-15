@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "board_background_hub",
+  "_rootPackingTag": "UI_SPECIAL_OPERATOR_BOARD_BG",
+  "_cntPerAtlas": 1,
+  "_standardPicSize": {
+    "width": 1280,
+    "height": 720
+  },
+  "_extraPicSize": [],
+  "_compressType": 11,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "pic_rogue_5"
+  ],
+  "_values": [
+    "Arts/UI/SpecialOperator/BoardBackground/pic_rogue_5"
+  ]
+}

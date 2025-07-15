@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "init_relic_hub",
+  "_rootPackingTag": "UI_ROGUELIKE_INIT_RELIC_ICON_RL05",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 200,
+    "height": 200
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rogue_5_band_1",
+    "rogue_5_band_10",
+    "rogue_5_band_11",
+    "rogue_5_band_12",
+    "rogue_5_band_13",
+    "rogue_5_band_15",
+    "rogue_5_band_17",
+    "rogue_5_band_19",
+    "rogue_5_band_2",
+    "rogue_5_band_3",
+    "rogue_5_band_4",
+    "rogue_5_band_5",
+    "rogue_5_band_6",
+    "rogue_5_band_7",
+    "rogue_5_band_8",
+    "rogue_5_band_9"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_1",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_10",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_11",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_12",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_13",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_15",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_17",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_19",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_2",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_3",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_4",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_5",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_6",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_7",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_8",
+    "UI/RoguelikeTopic/Topics/rogue_5/Init/InitRelicIconPic/rogue_5_band_9"
+  ]
+}

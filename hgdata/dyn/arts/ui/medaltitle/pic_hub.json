@@ -86,6 +86,7 @@
     "medalgrouprogue02",
     "medalgrouprogue03",
     "medalgrouprogue04",
+    "medalgrouprogue05",
     "medalgroupsandbox01"
   ],
   "_values": [
@@ -146,6 +147,7 @@
     "Arts/UI/MedalTitle/medalGroupRogue02",
     "Arts/UI/MedalTitle/medalGroupRogue03",
     "Arts/UI/MedalTitle/medalGroupRogue04",
+    "Arts/UI/MedalTitle/medalGroupRogue05",
     "Arts/UI/MedalTitle/medalGroupSandbox01"
   ]
 }

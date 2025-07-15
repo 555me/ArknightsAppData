@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "hub",
+  "_rootPackingTag": "SPECIAL_OPERATOR_ELTE_ICON",
+  "_cntPerAtlas": 1,
+  "_standardPicSize": {
+    "width": 113,
+    "height": 113
+  },
+  "_extraPicSize": [
+    {
+      "width": 62,
+      "height": 62
+    },
+    {
+      "width": 162,
+      "height": 150
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "elite_0_activated",
+    "elite_0_large",
+    "elite_0_small",
+    "elite_1_activated",
+    "elite_1_large",
+    "elite_1_locked",
+    "elite_1_small",
+    "elite_2_activated",
+    "elite_2_large",
+    "elite_2_locked",
+    "elite_2_small"
+  ],
+  "_values": [
+    "Arts/UI/SpecialOperator/EliteIcon/elite_0_activated",
+    "Arts/UI/SpecialOperator/EliteIcon/elite_0_large",
+    "Arts/UI/SpecialOperator/EliteIcon/elite_0_small",
+    "Arts/UI/SpecialOperator/EliteIcon/elite_1_activated",
+    "Arts/UI/SpecialOperator/EliteIcon/elite_1_large",
+    "Arts/UI/SpecialOperator/EliteIcon/elite_1_locked",
+    "Arts/UI/SpecialOperator/EliteIcon/elite_1_small",
+    "Arts/UI/SpecialOperator/EliteIcon/elite_2_activated",
+    "Arts/UI/SpecialOperator/EliteIcon/elite_2_large",
+    "Arts/UI/SpecialOperator/EliteIcon/elite_2_locked",
+    "Arts/UI/SpecialOperator/EliteIcon/elite_2_small"
+  ]
+}
