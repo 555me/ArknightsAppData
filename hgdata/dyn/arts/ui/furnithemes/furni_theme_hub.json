@@ -30,6 +30,7 @@
   "_configName": "",
   "_keys": [
     "furnim_set_basicroom",
+    "furnim_set_taiko",
     "furni_set_abyssal",
     "furni_set_activity",
     "furni_set_airship",
@@ -145,6 +146,7 @@
   ],
   "_values": [
     "Arts/UI/FurniThemes/furniM_set_basicRoom",
+    "Arts/UI/FurniThemes/furniM_set_taiko",
     "Arts/UI/FurniThemes/furni_set_abyssal",
     "Arts/UI/FurniThemes/furni_set_activity",
     "Arts/UI/FurniThemes/furni_set_Airship",

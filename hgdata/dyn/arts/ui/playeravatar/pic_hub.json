@@ -150,6 +150,8 @@
     "avatar_special_37",
     "avatar_special_38",
     "avatar_special_39",
+    "avatar_special_40",
+    "avatar_special_41",
     "avatar_special_missc"
   ],
   "_values": [
@@ -274,6 +276,8 @@
     "Arts/UI/PlayerAvatar/avatar_special_37",
     "Arts/UI/PlayerAvatar/avatar_special_38",
     "Arts/UI/PlayerAvatar/avatar_special_39",
+    "Arts/UI/PlayerAvatar/avatar_special_40",
+    "Arts/UI/PlayerAvatar/avatar_special_41",
     "Arts/UI/PlayerAvatar/avatar_special_MissC"
   ]
 }
