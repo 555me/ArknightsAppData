@@ -4631,7 +4631,7 @@
       "atlas": 96
     },
     {
-      "name": "char_4133_logos_ambiencesynesthesia#6",
+      "name": "char_4080_lin_summer#19",
       "atlas": 96
     },
     {
@@ -4663,15 +4663,27 @@
       "atlas": 96
     },
     {
-      "name": "char_497_ctable_epoque#44",
+      "name": "char_4203_kichi_2",
       "atlas": 97
     },
     {
-      "name": "char_486_takila_shining#2",
+      "name": "char_4203_kichi_1",
       "atlas": 97
     },
     {
-      "name": "char_437_mizuki_game#6",
+      "name": "char_4202_haruka_2",
+      "atlas": 97
+    },
+    {
+      "name": "char_4202_haruka_1",
+      "atlas": 97
+    },
+    {
+      "name": "char_4199_makiri_2",
+      "atlas": 97
+    },
+    {
+      "name": "char_4199_makiri_1",
       "atlas": 97
     },
     {
@@ -4679,32 +4691,72 @@
       "atlas": 97
     },
     {
-      "name": "char_4145_ulpia_epoque#48",
+      "name": "char_133_mm_summer#20",
       "atlas": 97
+    },
+    {
+      "name": "char_1044_hsgma2_2",
+      "atlas": 97
+    },
+    {
+      "name": "char_1044_hsgma2_1",
+      "atlas": 97
+    },
+    {
+      "name": "char_1039_thorn2_marthe#9",
+      "atlas": 97
+    },
+    {
+      "name": "char_1013_chen2_summer#20",
+      "atlas": 97
+    },
+    {
+      "name": "char_437_mizuki_game#6",
+      "atlas": 98
+    },
+    {
+      "name": "char_4145_ulpia_epoque#48",
+      "atlas": 98
     },
     {
       "name": "char_4137_udflow_epoque#46",
-      "atlas": 97
+      "atlas": 98
     },
     {
       "name": "char_4136_phonor_boc#9",
-      "atlas": 97
+      "atlas": 98
+    },
+    {
+      "name": "char_4133_logos_ambiencesynesthesia#6",
+      "atlas": 98
     },
     {
       "name": "char_4132_ascln_iteration#4",
-      "atlas": 97
+      "atlas": 98
     },
     {
       "name": "char_4131_odda_whirlwind#8",
-      "atlas": 97
+      "atlas": 98
     },
     {
       "name": "char_4130_luton_yun#6",
-      "atlas": 97
+      "atlas": 98
     },
     {
-      "name": "char_4080_lin_summer#19",
-      "atlas": 97
+      "name": "char_4058_pepe_sightseer#2",
+      "atlas": 98
+    },
+    {
+      "name": "char_497_ctable_epoque#44",
+      "atlas": 99
+    },
+    {
+      "name": "char_486_takila_shining#2",
+      "atlas": 99
+    },
+    {
+      "name": "char_450_necras_summer#20",
+      "atlas": 99
     }
   ],
   "_atlases": [
@@ -4805,7 +4857,9 @@
     "Arts/CharPortraits/portraits#94",
     "Arts/CharPortraits/portraits#95",
     "Arts/CharPortraits/portraits#96",
-    "Arts/CharPortraits/portraits#97"
+    "Arts/CharPortraits/portraits#97",
+    "Arts/CharPortraits/portraits#98",
+    "Arts/CharPortraits/portraits#99"
   ],
   "_inputSpriteDir": "Assets/Torappu/Arts/CharPortraits",
   "_outputAtlasDir": "Assets/Torappu/Arts/CharPortraits/[X]Atlas",

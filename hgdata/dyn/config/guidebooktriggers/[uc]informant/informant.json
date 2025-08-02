@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "informant",
+  "_pageIds": [
+    "[PACK]Informant/informant_1",
+    "[PACK]Informant/informant_2",
+    "[PACK]Informant/informant_3",
+    "[PACK]Informant/informant_4"
+  ],
+  "_autoShowTarget": 47,
+  "_subsignal": ""
+}

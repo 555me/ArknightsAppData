@@ -83,12 +83,24 @@
       "rotate": 0
     },
     {
+      "name": "img_item_card_arrow",
+      "guid": "567b8b7738d6d7c409ca276613a00eaf",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 846,
+        "w": 49,
+        "h": 73
+      },
+      "rotate": 0
+    },
+    {
       "name": "btn_icon_confirm",
       "guid": "1ae03acdee79aaf47b163532d1a1371c",
       "atlas": 0,
       "rect": {
         "x": 0,
-        "y": 846,
+        "y": 921,
         "w": 39,
         "h": 39
       },
@@ -100,7 +112,7 @@
       "atlas": 0,
       "rect": {
         "x": 0,
-        "y": 887,
+        "y": 962,
         "w": 37,
         "h": 37
       },
@@ -111,8 +123,8 @@
       "guid": "42db9aeb73e085a4d845ff22a210f911",
       "atlas": 0,
       "rect": {
-        "x": 0,
-        "y": 926,
+        "x": 653,
+        "y": 250,
         "w": 32,
         "h": 32
       },
@@ -169,6 +181,11 @@
         "md5": "ba8318ebe280785cb30af60a8f0ab230"
       },
       {
+        "name": "img_item_card_arrow",
+        "guid": "567b8b7738d6d7c409ca276613a00eaf",
+        "md5": "5e5c207c0a9e8d6cf997cf0da4b3ea47"
+      },
+      {
         "name": "btn_icon_confirm",
         "guid": "1ae03acdee79aaf47b163532d1a1371c",
         "md5": "33fc419ec48a48b5be737499b9f89583"
@@ -188,14 +205,14 @@
       {
         "name": "atlas_hub#0",
         "guid": "2a24422d4cef6ec4284186b28f1fbd8a",
-        "md5": "a0933cc7ef0873bea314f749ea2d1cae"
+        "md5": "b7248f827260600657fa2f9a3bd5c15a"
       }
     ],
     "m_alphas": [
       {
         "name": "atlas_hub#0a",
         "guid": "ec9efebe736282e44b887e1bc2043d20",
-        "md5": "4b48a5854dcead6c74b5bc7ad4e35358"
+        "md5": "527ca50b7549af6aa63fa2ccffcfba7e"
       }
     ]
   }

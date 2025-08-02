@@ -9,5 +9,176 @@
     "m_PathID": -5715306648108635912
   },
   "m_Name": "characterInstConfig",
-  "_slots": []
+  "_slots": [
+    {
+      "inst": {
+        "characterKey": "char_4179_monstr",
+        "level": 80,
+        "phase": 2,
+        "favorBattlePhase": 50,
+        "potentialRank": 5
+      },
+      "skillIndex": 0,
+      "mainSkillLvl": 10,
+      "skinId": "",
+      "tmplId": "",
+      "overrideSkillBlackboard": {},
+      "uniEquipIds": [],
+      "showSpIllust": 0,
+      "masterInfos": []
+    },
+    {
+      "inst": {
+        "characterKey": "char_4179_monstr",
+        "level": 80,
+        "phase": 2,
+        "favorBattlePhase": 50,
+        "potentialRank": 5
+      },
+      "skillIndex": 1,
+      "mainSkillLvl": 10,
+      "skinId": "",
+      "tmplId": "",
+      "overrideSkillBlackboard": {},
+      "uniEquipIds": [],
+      "showSpIllust": 0,
+      "masterInfos": []
+    },
+    {
+      "inst": {
+        "characterKey": "char_4179_monstr",
+        "level": 80,
+        "phase": 2,
+        "favorBattlePhase": 50,
+        "potentialRank": 5
+      },
+      "skillIndex": 2,
+      "mainSkillLvl": 10,
+      "skinId": "",
+      "tmplId": "",
+      "overrideSkillBlackboard": {},
+      "uniEquipIds": [],
+      "showSpIllust": 0,
+      "masterInfos": []
+    },
+    {
+      "inst": {
+        "characterKey": "char_4145_ulpia",
+        "level": 80,
+        "phase": 2,
+        "favorBattlePhase": 50,
+        "potentialRank": 5
+      },
+      "skillIndex": 0,
+      "mainSkillLvl": 10,
+      "skinId": "",
+      "tmplId": "",
+      "overrideSkillBlackboard": {},
+      "uniEquipIds": [],
+      "showSpIllust": 0,
+      "masterInfos": []
+    },
+    {
+      "inst": {
+        "characterKey": "char_4145_ulpia",
+        "level": 80,
+        "phase": 2,
+        "favorBattlePhase": 50,
+        "potentialRank": 5
+      },
+      "skillIndex": 1,
+      "mainSkillLvl": 10,
+      "skinId": "",
+      "tmplId": "",
+      "overrideSkillBlackboard": {},
+      "uniEquipIds": [],
+      "showSpIllust": 0,
+      "masterInfos": []
+    },
+    {
+      "inst": {
+        "characterKey": "char_4145_ulpia",
+        "level": 80,
+        "phase": 2,
+        "favorBattlePhase": 50,
+        "potentialRank": 5
+      },
+      "skillIndex": 2,
+      "mainSkillLvl": 10,
+      "skinId": "",
+      "tmplId": "",
+      "overrideSkillBlackboard": {},
+      "uniEquipIds": [],
+      "showSpIllust": 0,
+      "masterInfos": []
+    },
+    {
+      "inst": {
+        "characterKey": "char_236_rope",
+        "level": 80,
+        "phase": 2,
+        "favorBattlePhase": 50,
+        "potentialRank": 5
+      },
+      "skillIndex": 1,
+      "mainSkillLvl": 10,
+      "skinId": "",
+      "tmplId": "",
+      "overrideSkillBlackboard": {},
+      "uniEquipIds": [],
+      "showSpIllust": 0,
+      "masterInfos": []
+    },
+    {
+      "inst": {
+        "characterKey": "char_400_weedy",
+        "level": 80,
+        "phase": 2,
+        "favorBattlePhase": 50,
+        "potentialRank": 5
+      },
+      "skillIndex": 2,
+      "mainSkillLvl": 10,
+      "skinId": "",
+      "tmplId": "",
+      "overrideSkillBlackboard": {},
+      "uniEquipIds": [],
+      "showSpIllust": 0,
+      "masterInfos": []
+    },
+    {
+      "inst": {
+        "characterKey": "char_2026_yu",
+        "level": 80,
+        "phase": 2,
+        "favorBattlePhase": 50,
+        "potentialRank": 5
+      },
+      "skillIndex": 2,
+      "mainSkillLvl": 10,
+      "skinId": "",
+      "tmplId": "",
+      "overrideSkillBlackboard": {},
+      "uniEquipIds": [],
+      "showSpIllust": 0,
+      "masterInfos": []
+    },
+    {
+      "inst": {
+        "characterKey": "char_249_mlyss",
+        "level": 80,
+        "phase": 2,
+        "favorBattlePhase": 50,
+        "potentialRank": 5
+      },
+      "skillIndex": 2,
+      "mainSkillLvl": 10,
+      "skinId": "",
+      "tmplId": "",
+      "overrideSkillBlackboard": {},
+      "uniEquipIds": [],
+      "showSpIllust": 0,
+      "masterInfos": []
+    }
+  ]
 }

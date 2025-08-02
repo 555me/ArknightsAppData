@@ -29,6 +29,7 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "global_forbidloc_2",
     "g_bhrknf_atk_1",
     "g_bhrknf_hp_1",
     "g_bhrknf_invisible_1",
@@ -385,6 +386,7 @@
     "g_zom_hp_1"
   ],
   "_values": [
+    "Arts/UI/[UC]CrisisV2/RuneIcon/global_forbidloc_2",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_bhrknf_atk_1",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_bhrknf_hp_1",
     "Arts/UI/[UC]CrisisV2/RuneIcon/g_bhrknf_invisible_1",

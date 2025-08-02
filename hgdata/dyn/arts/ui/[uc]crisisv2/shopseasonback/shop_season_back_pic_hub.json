@@ -31,11 +31,13 @@
   "_keys": [
     "crisis_v2_season_1_1",
     "crisis_v2_season_2_1",
-    "crisis_v2_season_3_1"
+    "crisis_v2_season_3_1",
+    "crisis_v2_season_4_1"
   ],
   "_values": [
     "Arts/UI/[UC]CrisisV2/ShopSeasonBack/crisis_v2_season_1_1",
     "Arts/UI/[UC]CrisisV2/ShopSeasonBack/crisis_v2_season_2_1",
-    "Arts/UI/[UC]CrisisV2/ShopSeasonBack/crisis_v2_season_3_1"
+    "Arts/UI/[UC]CrisisV2/ShopSeasonBack/crisis_v2_season_3_1",
+    "Arts/UI/[UC]CrisisV2/ShopSeasonBack/crisis_v2_season_4_1"
   ]
 }

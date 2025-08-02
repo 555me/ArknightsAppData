@@ -45,7 +45,7 @@
     {
       "actionId": "common_bubble_happy",
       "actionArray": {
-        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
         "SerializedObjectReferences": []
       },
       "blackboard": [
@@ -59,7 +59,7 @@
     {
       "actionId": "common_bubble_confuse",
       "actionArray": {
-        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
         "SerializedObjectReferences": []
       },
       "blackboard": [
@@ -73,7 +73,7 @@
     {
       "actionId": "common_bubble_angry",
       "actionArray": {
-        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
         "SerializedObjectReferences": []
       },
       "blackboard": [
@@ -87,7 +87,7 @@
     {
       "actionId": "common_bubble_sad",
       "actionArray": {
-        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
         "SerializedObjectReferences": []
       },
       "blackboard": [
@@ -101,7 +101,7 @@
     {
       "actionId": "common_bubble_surprise",
       "actionArray": {
-        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
         "SerializedObjectReferences": []
       },
       "blackboard": [
@@ -115,7 +115,7 @@
     {
       "actionId": "common_bubble_think",
       "actionArray": {
-        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
         "SerializedObjectReferences": []
       },
       "blackboard": [

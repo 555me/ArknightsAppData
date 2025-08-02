@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "achv_icon_hub",
+  "_rootPackingTag": "VEC_BREAK_V2_ACHV_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 511,
+    "height": 80
+  },
+  "_extraPicSize": [
+    {
+      "width": 167,
+      "height": 45
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "act1break_season_title",
+    "act1break_season_title_mini"
+  ],
+  "_values": [
+    "Arts/UI/[UC]VecBreakV2/Achievement/act1break_season_title",
+    "Arts/UI/[UC]VecBreakV2/Achievement/act1break_season_title_mini"
+  ]
+}
