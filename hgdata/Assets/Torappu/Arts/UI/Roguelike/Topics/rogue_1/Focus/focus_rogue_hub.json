@@ -1,0 +1,321 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
+  },
+  "m_Name": "focus_rogue_hub",
+  "_sprites": [
+    {
+      "name": "img_map_preview_dark_frame",
+      "guid": "f62ccbb9e5fb5664683712a59254f27d",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 483,
+        "h": 344
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_btn_confirm_enter",
+      "guid": "5d331bcdbce630c49a46e95611e880ee",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 346,
+        "w": 502,
+        "h": 208
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bkg",
+      "guid": "4918a7962f706d7419f1951613f5d1d1",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 556,
+        "w": 484,
+        "h": 100
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_map_preview_text_1",
+      "guid": "165b6774759c6b84da90049b06486185",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 658,
+        "w": 551,
+        "h": 20
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_bkg_bloom",
+      "guid": "8fe5a10cc0bd41543ba1175ac955b8d6",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 680,
+        "w": 453,
+        "h": 114
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_title_back",
+      "guid": "29e3e3cf68e8aa441b26ae52001b0745",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 796,
+        "w": 431,
+        "h": 59
+      },
+      "rotate": 0
+    },
+    {
+      "name": "elite_back",
+      "guid": "e86335fa908b9904ebab406eec3a2520",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 857,
+        "w": 410,
+        "h": 65
+      },
+      "rotate": 0
+    },
+    {
+      "name": "left_line",
+      "guid": "bb94fc25503d03e4e8cfef400358c130",
+      "atlas": 0,
+      "rect": {
+        "x": 455,
+        "y": 680,
+        "w": 452,
+        "h": 1
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_btn_confirm",
+      "guid": "ad6029abb03037046993415fb8e3c614",
+      "atlas": 0,
+      "rect": {
+        "x": 455,
+        "y": 683,
+        "w": 146,
+        "h": 142
+      },
+      "rotate": 0
+    },
+    {
+      "name": "capsule_red_point",
+      "guid": "96afc770911a307488ce37207c9adf15",
+      "atlas": 0,
+      "rect": {
+        "x": 485,
+        "y": 0,
+        "w": 156,
+        "h": 128
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_btn_map",
+      "guid": "46bccf3d438ade74681057466b5ce6ec",
+      "atlas": 0,
+      "rect": {
+        "x": 485,
+        "y": 130,
+        "w": 153,
+        "h": 104
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_btn_enemy",
+      "guid": "b6c7228f1ce5dc641a7a3129fda4fc2b",
+      "atlas": 0,
+      "rect": {
+        "x": 485,
+        "y": 236,
+        "w": 153,
+        "h": 101
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_map_preview_text_2",
+      "guid": "5b6e929602caaf34498309eaf85cf5d3",
+      "atlas": 0,
+      "rect": {
+        "x": 455,
+        "y": 827,
+        "w": 205,
+        "h": 13
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_info",
+      "guid": "5851c1e3f2e695241a268015296da105",
+      "atlas": 0,
+      "rect": {
+        "x": 455,
+        "y": 842,
+        "w": 63,
+        "h": 12
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_empty",
+      "guid": "e0e8cedb22864ce4a8f27cead2348ef3",
+      "atlas": 0,
+      "rect": {
+        "x": 455,
+        "y": 856,
+        "w": 31,
+        "h": 9
+      },
+      "rotate": 0
+    },
+    {
+      "name": "sprite_white",
+      "guid": "b64a2bfdfd605c643825d93f8d5a95d7",
+      "atlas": 0,
+      "rect": {
+        "x": 455,
+        "y": 867,
+        "w": 16,
+        "h": 16
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -2343068018480652273
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -8634328598891399386
+      },
+      "size": 1024
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "img_map_preview_dark_frame",
+        "guid": "f62ccbb9e5fb5664683712a59254f27d",
+        "md5": "d58ec68032df0947d301c81c45650a19"
+      },
+      {
+        "name": "img_btn_confirm_enter",
+        "guid": "5d331bcdbce630c49a46e95611e880ee",
+        "md5": "c18fe6951db77248121d18cf803fa9a7"
+      },
+      {
+        "name": "img_bkg",
+        "guid": "4918a7962f706d7419f1951613f5d1d1",
+        "md5": "93b0b202cd5786ea5598c522d7a7fd86"
+      },
+      {
+        "name": "img_map_preview_text_1",
+        "guid": "165b6774759c6b84da90049b06486185",
+        "md5": "ab3c48206361aca4c2d19bff71551860"
+      },
+      {
+        "name": "img_bkg_bloom",
+        "guid": "8fe5a10cc0bd41543ba1175ac955b8d6",
+        "md5": "ab345ff97d59234f77409fb43af27140"
+      },
+      {
+        "name": "img_title_back",
+        "guid": "29e3e3cf68e8aa441b26ae52001b0745",
+        "md5": "1ed942577ced2712fc70e262d429c3be"
+      },
+      {
+        "name": "elite_back",
+        "guid": "e86335fa908b9904ebab406eec3a2520",
+        "md5": "bcccebd1e954a890360541e1b84a2531"
+      },
+      {
+        "name": "left_line",
+        "guid": "bb94fc25503d03e4e8cfef400358c130",
+        "md5": "1f3db7dbfa9715cb4bbec0a2afdddecf"
+      },
+      {
+        "name": "img_btn_confirm",
+        "guid": "ad6029abb03037046993415fb8e3c614",
+        "md5": "08c130f14408abcff0dc11a5b00f0bd5"
+      },
+      {
+        "name": "capsule_red_point",
+        "guid": "96afc770911a307488ce37207c9adf15",
+        "md5": "ccdbdb15a8459abcb3bd12404a290443"
+      },
+      {
+        "name": "img_btn_map",
+        "guid": "46bccf3d438ade74681057466b5ce6ec",
+        "md5": "631165db7dcc0cd4c30ce544c9718d55"
+      },
+      {
+        "name": "img_btn_enemy",
+        "guid": "b6c7228f1ce5dc641a7a3129fda4fc2b",
+        "md5": "5b4cadcf3934de6331e8950a9c044a31"
+      },
+      {
+        "name": "img_map_preview_text_2",
+        "guid": "5b6e929602caaf34498309eaf85cf5d3",
+        "md5": "10fb9df93fcb9ad6286971751d8c1c05"
+      },
+      {
+        "name": "img_info",
+        "guid": "5851c1e3f2e695241a268015296da105",
+        "md5": "998b323781323851a7dbf608580421f9"
+      },
+      {
+        "name": "img_empty",
+        "guid": "e0e8cedb22864ce4a8f27cead2348ef3",
+        "md5": "83d36bcd22a199ef24a0aff970dec359"
+      },
+      {
+        "name": "sprite_white",
+        "guid": "b64a2bfdfd605c643825d93f8d5a95d7",
+        "md5": "7c05855ac0774cdb2608e8c0991b2580"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "focus_rogue_hub#0",
+        "guid": "7bda478e72b88664bb81a817288f5007",
+        "md5": "278cb26984079749f6e43facd44fba52"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "focus_rogue_hub#0a",
+        "guid": "20808f13f84490c428ea4f27c6c54fb1",
+        "md5": "be9d34a0afbaca413aad809118c0aeb4"
+      }
+    ]
+  }
+}

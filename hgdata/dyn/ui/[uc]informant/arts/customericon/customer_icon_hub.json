@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "customer_icon_hub",
+  "_rootPackingTag": "UI_INFORMANT_CUSTOMER_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 126,
+    "height": 161
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "businessmen_icon",
+    "citizenfemale_icon",
+    "citizen_icon",
+    "fansfemale_icon",
+    "fans_icon",
+    "haruka_icon",
+    "hoshiguma_icon",
+    "policeman_icon",
+    "punk_icon",
+    "yakuzafemale_icon",
+    "yakuzaheiress_icon",
+    "yakuza_icon"
+  ],
+  "_values": [
+    "UI/[UC]Informant/Arts/CustomerIcon/businessmen_icon",
+    "UI/[UC]Informant/Arts/CustomerIcon/citizenFemale_icon",
+    "UI/[UC]Informant/Arts/CustomerIcon/citizen_icon",
+    "UI/[UC]Informant/Arts/CustomerIcon/fansFemale_icon",
+    "UI/[UC]Informant/Arts/CustomerIcon/fans_icon",
+    "UI/[UC]Informant/Arts/CustomerIcon/haruka_icon",
+    "UI/[UC]Informant/Arts/CustomerIcon/hoshiguma_icon",
+    "UI/[UC]Informant/Arts/CustomerIcon/policeman_icon",
+    "UI/[UC]Informant/Arts/CustomerIcon/punk_icon",
+    "UI/[UC]Informant/Arts/CustomerIcon/yakuzaFemale_icon",
+    "UI/[UC]Informant/Arts/CustomerIcon/yakuzaheiress_icon",
+    "UI/[UC]Informant/Arts/CustomerIcon/yakuza_icon"
+  ]
+}

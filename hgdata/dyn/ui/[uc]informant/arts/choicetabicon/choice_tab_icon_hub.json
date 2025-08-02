@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "choice_tab_icon_hub",
+  "_rootPackingTag": "UI_INFORMANT_CHOICE_TAB_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 467,
+    "height": 139
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "dialogue_a",
+    "dialogue_b",
+    "dialogue_c",
+    "dialogue_d",
+    "dialogue_e"
+  ],
+  "_values": [
+    "UI/[UC]Informant/Arts/ChoiceTabIcon/dialogue_a",
+    "UI/[UC]Informant/Arts/ChoiceTabIcon/dialogue_b",
+    "UI/[UC]Informant/Arts/ChoiceTabIcon/dialogue_c",
+    "UI/[UC]Informant/Arts/ChoiceTabIcon/dialogue_d",
+    "UI/[UC]Informant/Arts/ChoiceTabIcon/dialogue_e"
+  ]
+}
