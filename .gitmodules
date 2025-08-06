@@ -1,0 +1,3 @@
+[submodule "Prefabs"]
+	path = Prefabs
+	url = https://github.com/555me/ArkBattlePrefabsData.git
