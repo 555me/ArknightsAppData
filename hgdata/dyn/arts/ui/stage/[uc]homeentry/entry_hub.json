@@ -29,7 +29,9 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
+    "act35sre",
     "act44side",
+    "crisis_v2_season_4_1",
     "main_0",
     "main_1",
     "main_10",
@@ -48,7 +50,9 @@
     "permanent_main_1_zone1"
   ],
   "_values": [
+    "Arts/UI/Stage/[UC]HomeEntry/act35sre",
     "Arts/UI/Stage/[UC]HomeEntry/act44side",
+    "Arts/UI/Stage/[UC]HomeEntry/crisis_v2_season_4_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_10",

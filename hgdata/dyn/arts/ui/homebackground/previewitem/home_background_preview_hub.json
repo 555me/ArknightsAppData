@@ -50,6 +50,8 @@
     "bg_siesta_1",
     "bg_sui_1",
     "bg_ursus_1",
+    "bg_volcano_1",
+    "bg_volcano_1_form_2",
     "bg_yan_1"
   ],
   "_values": [
@@ -74,6 +76,8 @@
     "Arts/UI/HomeBackground/PreviewItem/bg_siesta_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_sui_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_ursus_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_volcano_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_volcano_1_form_2",
     "Arts/UI/HomeBackground/PreviewItem/bg_yan_1"
   ]
 }

@@ -39,7 +39,8 @@
     "bg_rogue_4",
     "bg_sandboxv2_1",
     "bg_sanrio_1",
-    "bg_sui_1"
+    "bg_sui_1",
+    "bg_volcano_1"
   ],
   "_values": [
     "Arts/UI/HomeBackground/ItemIcon/bg_dungeon_1",
@@ -52,6 +53,7 @@
     "Arts/UI/HomeBackground/ItemIcon/bg_rogue_4",
     "Arts/UI/HomeBackground/ItemIcon/bg_sandboxv2_1",
     "Arts/UI/HomeBackground/ItemIcon/bg_sanrio_1",
-    "Arts/UI/HomeBackground/ItemIcon/bg_sui_1"
+    "Arts/UI/HomeBackground/ItemIcon/bg_sui_1",
+    "Arts/UI/HomeBackground/ItemIcon/bg_volcano_1"
   ]
 }
