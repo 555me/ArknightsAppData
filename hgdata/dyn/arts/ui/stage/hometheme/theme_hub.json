@@ -38,6 +38,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
+    "act2enemyduel",
     "act35sre",
     "act44side",
     "crisis_v2_season_4_1",
@@ -67,6 +68,7 @@
     "sandbox_1_entry_display_3"
   ],
   "_values": [
+    "Arts/UI/Stage/HomeTheme/act2enemyduel",
     "Arts/UI/Stage/HomeTheme/act35sre",
     "Arts/UI/Stage/HomeTheme/act44side",
     "Arts/UI/Stage/HomeTheme/crisis_v2_season_4_1",

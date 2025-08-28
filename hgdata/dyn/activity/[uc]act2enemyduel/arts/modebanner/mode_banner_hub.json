@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "mode_banner_hub",
+  "_rootPackingTag": "ACTIVITY_ACT2ENEMYDUEL_MODEBANNER",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 1020,
+    "height": 416
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "pic_default_act2enemyduel",
+    "pic_operation_1",
+    "pic_operation_2",
+    "pic_operation_3",
+    "pic_solooperation_1",
+    "pic_solooperation_2",
+    "pic_solooperation_3",
+    "pic_stand_1",
+    "pic_stand_2",
+    "pic_stand_3"
+  ],
+  "_values": [
+    "Activity/[UC]act2enemyDuel/Arts/ModeBanner/pic_default_act2enemyduel",
+    "Activity/[UC]act2enemyDuel/Arts/ModeBanner/pic_operation_1",
+    "Activity/[UC]act2enemyDuel/Arts/ModeBanner/pic_operation_2",
+    "Activity/[UC]act2enemyDuel/Arts/ModeBanner/pic_operation_3",
+    "Activity/[UC]act2enemyDuel/Arts/ModeBanner/pic_soloOperation_1",
+    "Activity/[UC]act2enemyDuel/Arts/ModeBanner/pic_soloOperation_2",
+    "Activity/[UC]act2enemyDuel/Arts/ModeBanner/pic_soloOperation_3",
+    "Activity/[UC]act2enemyDuel/Arts/ModeBanner/pic_stand_1",
+    "Activity/[UC]act2enemyDuel/Arts/ModeBanner/pic_stand_2",
+    "Activity/[UC]act2enemyDuel/Arts/ModeBanner/pic_stand_3"
+  ]
+}

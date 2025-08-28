@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "mode_avatar_hub",
+  "_rootPackingTag": "ACT2ENEMYDUEL_MODE_AVATAR",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 40,
+    "height": 40
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "pic_operation",
+    "pic_solooperation",
+    "pic_stand"
+  ],
+  "_values": [
+    "Activity/[UC]act2enemyDuel/Arts/ModeAvatar/pic_operation",
+    "Activity/[UC]act2enemyDuel/Arts/ModeAvatar/pic_soloOperation",
+    "Activity/[UC]act2enemyDuel/Arts/ModeAvatar/pic_stand"
+  ]
+}

@@ -81,7 +81,8 @@
     "shop_snakek_yun#7",
     "shop_teahouse_2023",
     "shop_thorn2_marthe#9",
-    "shop_ulpia_epoque#48"
+    "shop_ulpia_epoque#48",
+    "shop_vodfox_yun#8"
   ],
   "_values": [
     "Arts/UI/HomeBanners/Shop/shop2",
@@ -136,6 +137,7 @@
     "Arts/UI/HomeBanners/Shop/shop_snakek_yun#7",
     "Arts/UI/HomeBanners/Shop/shop_teaHouse_2023",
     "Arts/UI/HomeBanners/Shop/shop_thorn2_marthe#9",
-    "Arts/UI/HomeBanners/Shop/shop_ulpia_epoque#48"
+    "Arts/UI/HomeBanners/Shop/shop_ulpia_epoque#48",
+    "Arts/UI/HomeBanners/Shop/shop_vodfox_yun#8"
   ]
 }

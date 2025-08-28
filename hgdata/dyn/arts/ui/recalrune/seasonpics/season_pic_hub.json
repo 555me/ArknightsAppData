@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "season_pic_hub",
+  "_rootPackingTag": "UI_RECALRUNE_SEASON_PICS",
+  "_cntPerAtlas": 256,
+  "_standardPicSize": {
+    "width": 288,
+    "height": 539
+  },
+  "_extraPicSize": [
+    {
+      "width": 460,
+      "height": 200
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "level_recalrune_01-01",
+    "level_recalrune_01-02",
+    "level_recalrune_01-03",
+    "level_recalrune_01-04",
+    "recalrune_season_1"
+  ],
+  "_values": [
+    "Arts/UI/RecalRune/SeasonPics/recalRune_season_1/level_recalrune_01-01",
+    "Arts/UI/RecalRune/SeasonPics/recalRune_season_1/level_recalrune_01-02",
+    "Arts/UI/RecalRune/SeasonPics/recalRune_season_1/level_recalrune_01-03",
+    "Arts/UI/RecalRune/SeasonPics/recalRune_season_1/level_recalrune_01-04",
+    "Arts/UI/RecalRune/SeasonPics/recalRune_season_1/recalRune_season_1"
+  ]
+}

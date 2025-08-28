@@ -9,14 +9,233 @@
     "m_PathID": 7812342071550953260
   },
   "m_Name": "recal_rune_entry_hub",
-  "_sprites": [],
-  "_atlases": [],
+  "_sprites": [
+    {
+      "name": "bg",
+      "guid": "96ec667e5e406304b84ea31bd0a0bbc6",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 354,
+        "h": 504
+      },
+      "rotate": 0
+    },
+    {
+      "name": "desc_bg",
+      "guid": "a0edc3e4bd203c04bb3eb86fdd58696b",
+      "atlas": 0,
+      "rect": {
+        "x": 356,
+        "y": 0,
+        "w": 132,
+        "h": 352
+      },
+      "rotate": 1
+    },
+    {
+      "name": "medal_frame",
+      "guid": "00d434271d11a1d4285c7156ee99d78b",
+      "atlas": 0,
+      "rect": {
+        "x": 356,
+        "y": 354,
+        "w": 156,
+        "h": 124
+      },
+      "rotate": 0
+    },
+    {
+      "name": "tip_yellow_bg",
+      "guid": "4761bad847268cf4181132525f2b9f05",
+      "atlas": 0,
+      "rect": {
+        "x": 356,
+        "y": 480,
+        "w": 52,
+        "h": 30
+      },
+      "rotate": 0
+    },
+    {
+      "name": "btn_entry",
+      "guid": "befc47e315fcde641aab863a03d1054c",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 326,
+        "h": 76
+      },
+      "rotate": 0
+    },
+    {
+      "name": "lock_desc_bg",
+      "guid": "c905081775a43c04f98ac7f269c50dd1",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 78,
+        "w": 324,
+        "h": 74
+      },
+      "rotate": 0
+    },
+    {
+      "name": "lock",
+      "guid": "52ef55723bc40314fa918175ae672d94",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 154,
+        "w": 135,
+        "h": 135
+      },
+      "rotate": 0
+    },
+    {
+      "name": "medal_bg",
+      "guid": "4cf71143a86464144bbb0ffc36be9494",
+      "atlas": 1,
+      "rect": {
+        "x": 137,
+        "y": 154,
+        "w": 81,
+        "h": 89
+      },
+      "rotate": 0
+    },
+    {
+      "name": "arrow",
+      "guid": "25dad447191b39d45a5b7e57ad215f97",
+      "atlas": 1,
+      "rect": {
+        "x": 137,
+        "y": 245,
+        "w": 62,
+        "h": 72
+      },
+      "rotate": 0
+    },
+    {
+      "name": "num_bg",
+      "guid": "83210f8686ec1f14291e51531d16e86d",
+      "atlas": 1,
+      "rect": {
+        "x": 220,
+        "y": 154,
+        "w": 72,
+        "h": 50
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 855593777382655149
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 7219645534975330617
+      },
+      "size": 512
+    },
+    {
+      "index": 1,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 1042364165441716706
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -8915909864367428600
+      },
+      "size": 512
+    }
+  ],
   "_workDir": "",
   "_alphaSplit": 1,
   "_maxSize": 1,
   "_sign": {
-    "m_sprites": [],
-    "m_atlases": [],
-    "m_alphas": []
+    "m_sprites": [
+      {
+        "name": "bg",
+        "guid": "96ec667e5e406304b84ea31bd0a0bbc6",
+        "md5": "260a5722aba4c7981eac8f1bf9f1aed1"
+      },
+      {
+        "name": "desc_bg",
+        "guid": "a0edc3e4bd203c04bb3eb86fdd58696b",
+        "md5": "00ae519691cbce0b38b42d3b12927031"
+      },
+      {
+        "name": "medal_frame",
+        "guid": "00d434271d11a1d4285c7156ee99d78b",
+        "md5": "9ff361f20528aef030d79a8e742b4a6d"
+      },
+      {
+        "name": "tip_yellow_bg",
+        "guid": "4761bad847268cf4181132525f2b9f05",
+        "md5": "6bd4b212482524602af7974057fbc4bd"
+      },
+      {
+        "name": "btn_entry",
+        "guid": "befc47e315fcde641aab863a03d1054c",
+        "md5": "83706fa457328877885db86089a61bf5"
+      },
+      {
+        "name": "lock_desc_bg",
+        "guid": "c905081775a43c04f98ac7f269c50dd1",
+        "md5": "a3d09b05d60d0f3a400dd4b1dbd9cec0"
+      },
+      {
+        "name": "lock",
+        "guid": "52ef55723bc40314fa918175ae672d94",
+        "md5": "c4945654c679f58b86ea49ae77921190"
+      },
+      {
+        "name": "medal_bg",
+        "guid": "4cf71143a86464144bbb0ffc36be9494",
+        "md5": "b272361e2eae555a56d97e68ee93b0c2"
+      },
+      {
+        "name": "arrow",
+        "guid": "25dad447191b39d45a5b7e57ad215f97",
+        "md5": "132e72aaf4c856fc21393a9fa368c69e"
+      },
+      {
+        "name": "num_bg",
+        "guid": "83210f8686ec1f14291e51531d16e86d",
+        "md5": "7be0dac0d79848a60a571c24c6213f78"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "recal_rune_entry_hub#0",
+        "guid": "39cac78f44fa5c044a000b5efe155953",
+        "md5": "7daed7d69cf4046d9edef085f463ad44"
+      },
+      {
+        "name": "recal_rune_entry_hub#1",
+        "guid": "453d68d997f519d46acfd0a3a23ffdab",
+        "md5": "c9f2e99c873da87114d190cd16d9d9d3"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "recal_rune_entry_hub#0a",
+        "guid": "0ace05a569e923b46a6b6c1a2ee90196",
+        "md5": "2ebd395317c93bc785fc0db93df2b95f"
+      },
+      {
+        "name": "recal_rune_entry_hub#1a",
+        "guid": "88bb1cf8ab60cff459d05df0cfc99d10",
+        "md5": "330c3f24cbf5948b9929300ff07a9dbb"
+      }
+    ]
   }
 }

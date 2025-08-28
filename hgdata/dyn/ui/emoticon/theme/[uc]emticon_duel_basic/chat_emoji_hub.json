@@ -29,23 +29,31 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "pic_busk",
     "pic_clown",
     "pic_happy",
     "pic_hello",
     "pic_left",
+    "pic_pray",
     "pic_right",
     "pic_sad",
+    "pic_shock",
     "pic_think",
-    "pic_what"
+    "pic_what",
+    "pic_wronged"
   ],
   "_values": [
+    "UI/Emoticon/Theme/[UC]emticon_duel_basic/icon/pic_busk",
     "UI/Emoticon/Theme/[UC]emticon_duel_basic/icon/pic_clown",
     "UI/Emoticon/Theme/[UC]emticon_duel_basic/icon/pic_happy",
     "UI/Emoticon/Theme/[UC]emticon_duel_basic/icon/pic_hello",
     "UI/Emoticon/Theme/[UC]emticon_duel_basic/icon/pic_left",
+    "UI/Emoticon/Theme/[UC]emticon_duel_basic/icon/pic_pray",
     "UI/Emoticon/Theme/[UC]emticon_duel_basic/icon/pic_right",
     "UI/Emoticon/Theme/[UC]emticon_duel_basic/icon/pic_sad",
+    "UI/Emoticon/Theme/[UC]emticon_duel_basic/icon/pic_shock",
     "UI/Emoticon/Theme/[UC]emticon_duel_basic/icon/pic_think",
-    "UI/Emoticon/Theme/[UC]emticon_duel_basic/icon/pic_what"
+    "UI/Emoticon/Theme/[UC]emticon_duel_basic/icon/pic_what",
+    "UI/Emoticon/Theme/[UC]emticon_duel_basic/icon/pic_wronged"
   ]
 }
