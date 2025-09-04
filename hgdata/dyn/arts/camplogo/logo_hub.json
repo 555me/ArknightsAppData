@@ -73,6 +73,7 @@
     "logo_victoria",
     "logo_yan",
     "logo_laios",
+    "logo_mujica",
     "logo_rainbow"
   ],
   "_values": [
@@ -120,6 +121,7 @@
     "Arts/CampLogo/logo_victoria",
     "Arts/CampLogo/logo_yan",
     "Arts/CampLogo/Linkage/logo_laios",
+    "Arts/CampLogo/Linkage/logo_mujica",
     "Arts/CampLogo/Linkage/logo_rainbow"
   ]
 }

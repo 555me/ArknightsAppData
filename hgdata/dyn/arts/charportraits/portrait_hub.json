@@ -4615,6 +4615,14 @@
       "atlas": 95
     },
     {
+      "name": "char_486_takila_shining#2",
+      "atlas": 96
+    },
+    {
+      "name": "char_450_necras_summer#20",
+      "atlas": 96
+    },
+    {
       "name": "char_4196_reckpr_2",
       "atlas": 96
     },
@@ -4628,14 +4636,6 @@
     },
     {
       "name": "char_4195_radian_1",
-      "atlas": 96
-    },
-    {
-      "name": "char_4080_lin_summer#19",
-      "atlas": 96
-    },
-    {
-      "name": "char_4079_haini_epoque#45",
       "atlas": 96
     },
     {
@@ -4663,6 +4663,10 @@
       "atlas": 96
     },
     {
+      "name": "char_497_ctable_epoque#44",
+      "atlas": 97
+    },
+    {
       "name": "char_4203_kichi_2",
       "atlas": 97
     },
@@ -4688,10 +4692,6 @@
     },
     {
       "name": "char_4195_raidian_2",
-      "atlas": 97
-    },
-    {
-      "name": "char_133_mm_summer#20",
       "atlas": 97
     },
     {
@@ -4759,16 +4759,76 @@
       "atlas": 98
     },
     {
-      "name": "char_497_ctable_epoque#44",
+      "name": "char_4186_tmoris_2",
       "atlas": 99
     },
     {
-      "name": "char_486_takila_shining#2",
+      "name": "char_4186_tmoris_1",
       "atlas": 99
     },
     {
-      "name": "char_450_necras_summer#20",
+      "name": "char_4185_amoris_2",
       "atlas": 99
+    },
+    {
+      "name": "char_4185_amoris_1",
+      "atlas": 99
+    },
+    {
+      "name": "char_4184_dolris_2",
+      "atlas": 99
+    },
+    {
+      "name": "char_4184_dolris_1",
+      "atlas": 99
+    },
+    {
+      "name": "char_4183_mortis_2",
+      "atlas": 99
+    },
+    {
+      "name": "char_4183_mortis_1",
+      "atlas": 99
+    },
+    {
+      "name": "char_4182_oblvns_2",
+      "atlas": 99
+    },
+    {
+      "name": "char_4182_oblvns_1",
+      "atlas": 99
+    },
+    {
+      "name": "char_4186_tmoris_avemujica#1",
+      "atlas": 100
+    },
+    {
+      "name": "char_4185_amoris_avemujica#1",
+      "atlas": 100
+    },
+    {
+      "name": "char_4184_dolris_avemujica#1",
+      "atlas": 100
+    },
+    {
+      "name": "char_4183_mortis_avemujica#1",
+      "atlas": 100
+    },
+    {
+      "name": "char_4182_oblvns_avemujica#1",
+      "atlas": 100
+    },
+    {
+      "name": "char_4080_lin_summer#19",
+      "atlas": 100
+    },
+    {
+      "name": "char_4079_haini_epoque#45",
+      "atlas": 100
+    },
+    {
+      "name": "char_133_mm_summer#20",
+      "atlas": 100
     }
   ],
   "_atlases": [
@@ -4871,7 +4931,8 @@
     "Arts/CharPortraits/portraits#96",
     "Arts/CharPortraits/portraits#97",
     "Arts/CharPortraits/portraits#98",
-    "Arts/CharPortraits/portraits#99"
+    "Arts/CharPortraits/portraits#99",
+    "Arts/CharPortraits/portraits#100"
   ],
   "_inputSpriteDir": "Assets/Torappu/Arts/CharPortraits",
   "_outputAtlasDir": "Assets/Torappu/Arts/CharPortraits/[X]Atlas",

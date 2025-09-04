@@ -30,6 +30,8 @@
   "_configName": "",
   "_keys": [
     "tm_arcade_1",
+    "tm_avemujica_1 1",
+    "tm_avemujica_1",
     "tm_dungeon_1",
     "tm_mainline_1",
     "tm_rainbowsix_1",
@@ -44,6 +46,8 @@
   ],
   "_values": [
     "Arts/UI/HomeTheme/PreviewItem/tm_arcade_1",
+    "Arts/UI/HomeTheme/PreviewItem/tm_avemujica_1 1",
+    "Arts/UI/HomeTheme/PreviewItem/tm_avemujica_1",
     "Arts/UI/HomeTheme/PreviewItem/tm_dungeon_1",
     "Arts/UI/HomeTheme/PreviewItem/tm_mainline_1",
     "Arts/UI/HomeTheme/PreviewItem/tm_rainbowsix_1",

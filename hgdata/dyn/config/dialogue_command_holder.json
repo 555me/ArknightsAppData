@@ -13,7 +13,7 @@
     {
       "actionId": "recover_sp_recovery",
       "actionArray": {
-        "SerializedState": "[{\"_buffKey\":\"[dialog] stop_sp_recovery\",\"_loadFromBlackboard\":false,\"_decCntIfStack\":false,\"_updateOverrideMap\":true,\"_targetType\":\"TARGET\",\"_checkBuffSource\":false,\"_sourceType\":\"BUFF_SOURCE\",\"_alsoClearNullSource\":false,\"_finishHostBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FinishBuffsById\"}]",
+        "SerializedState": "[{\"_buffKey\":\"[dialog] stop_sp_recovery\",\"_loadFromBlackboard\":false,\"_decCntIfStack\":false,\"_updateOverrideMap\":true,\"_targetType\":\"TARGET\",\"_checkBuffSource\":false,\"_sourceType\":\"BUFF_SOURCE\",\"_alsoClearNullSource\":false,\"_finishHostBuff\":false,\"_decCntKey\":null,\"_decCnt\":1,\"$type\":\"Torappu.Battle.Action.Nodes+FinishBuffsById\"}]",
         "SerializedObjectReferences": []
       },
       "blackboard": []
@@ -137,7 +137,7 @@
     {
       "actionId": "effect_mantic[hidden][finish]",
       "actionArray": {
-        "SerializedState": "[{\"_buffKey\":\"effect_mantic[hidden]\",\"_loadFromBlackboard\":false,\"_decCntIfStack\":false,\"_updateOverrideMap\":true,\"_targetType\":\"TARGET\",\"_checkBuffSource\":false,\"_sourceType\":\"BUFF_SOURCE\",\"_alsoClearNullSource\":false,\"_finishHostBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FinishBuffsById\"}]",
+        "SerializedState": "[{\"_buffKey\":\"effect_mantic[hidden]\",\"_loadFromBlackboard\":false,\"_decCntIfStack\":false,\"_updateOverrideMap\":true,\"_targetType\":\"TARGET\",\"_checkBuffSource\":false,\"_sourceType\":\"BUFF_SOURCE\",\"_alsoClearNullSource\":false,\"_finishHostBuff\":false,\"_decCntKey\":null,\"_decCnt\":1,\"$type\":\"Torappu.Battle.Action.Nodes+FinishBuffsById\"}]",
         "SerializedObjectReferences": []
       },
       "blackboard": []

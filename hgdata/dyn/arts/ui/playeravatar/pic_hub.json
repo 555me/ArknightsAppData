@@ -64,6 +64,7 @@
     "avatar_activity_le",
     "avatar_activity_mb",
     "avatar_activity_mn",
+    "avatar_activity_mujica",
     "avatar_activity_nl",
     "avatar_activity_of",
     "avatar_activity_oi",
@@ -155,6 +156,12 @@
     "avatar_special_40",
     "avatar_special_41",
     "avatar_special_42",
+    "avatar_special_43",
+    "avatar_special_44",
+    "avatar_special_45",
+    "avatar_special_46",
+    "avatar_special_47",
+    "avatar_special_49",
     "avatar_special_missc"
   ],
   "_values": [
@@ -193,6 +200,7 @@
     "Arts/UI/PlayerAvatar/avatar_activity_LE",
     "Arts/UI/PlayerAvatar/avatar_activity_MB",
     "Arts/UI/PlayerAvatar/avatar_activity_MN",
+    "Arts/UI/PlayerAvatar/avatar_activity_mujica",
     "Arts/UI/PlayerAvatar/avatar_activity_NL",
     "Arts/UI/PlayerAvatar/avatar_activity_OF",
     "Arts/UI/PlayerAvatar/avatar_activity_OI",
@@ -284,6 +292,12 @@
     "Arts/UI/PlayerAvatar/avatar_special_40",
     "Arts/UI/PlayerAvatar/avatar_special_41",
     "Arts/UI/PlayerAvatar/avatar_special_42",
+    "Arts/UI/PlayerAvatar/avatar_special_43",
+    "Arts/UI/PlayerAvatar/avatar_special_44",
+    "Arts/UI/PlayerAvatar/avatar_special_45",
+    "Arts/UI/PlayerAvatar/avatar_special_46",
+    "Arts/UI/PlayerAvatar/avatar_special_47",
+    "Arts/UI/PlayerAvatar/avatar_special_49",
     "Arts/UI/PlayerAvatar/avatar_special_MissC"
   ]
 }

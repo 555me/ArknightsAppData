@@ -30,6 +30,7 @@
   "_configName": "",
   "_keys": [
     "bg_anniversary_1",
+    "bg_avemujica_1",
     "bg_dungeon_1",
     "bg_iberia_1",
     "bg_kalts_1",
@@ -57,6 +58,7 @@
   ],
   "_values": [
     "Arts/UI/HomeBackground/PreviewItem/bg_anniversary_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_avemujica_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_dungeon_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_iberia_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_kalts_1",
