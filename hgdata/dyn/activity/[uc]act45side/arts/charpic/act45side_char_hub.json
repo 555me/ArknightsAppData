@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "act45side_char_hub",
+  "_rootPackingTag": "ACT45SIDE_CHAR_PIC_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 185,
+    "height": 462
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "char_4182_oblvns",
+    "char_4183_mortis",
+    "char_4184_dolris",
+    "char_4185_amoris",
+    "char_4186_tmoris",
+    "tarot_char_4182_oblvns",
+    "tarot_char_4183_mortis",
+    "tarot_char_4184_dolris",
+    "tarot_char_4185_amoris",
+    "tarot_char_4186_tmoris"
+  ],
+  "_values": [
+    "Activity/[UC]act45side/Arts/CharPic/char_4182_oblvns",
+    "Activity/[UC]act45side/Arts/CharPic/char_4183_mortis",
+    "Activity/[UC]act45side/Arts/CharPic/char_4184_dolris",
+    "Activity/[UC]act45side/Arts/CharPic/char_4185_amoris",
+    "Activity/[UC]act45side/Arts/CharPic/char_4186_tmoris",
+    "Activity/[UC]act45side/Arts/CharPic/tarot_char_4182_oblvns",
+    "Activity/[UC]act45side/Arts/CharPic/tarot_char_4183_mortis",
+    "Activity/[UC]act45side/Arts/CharPic/tarot_char_4184_dolris",
+    "Activity/[UC]act45side/Arts/CharPic/tarot_char_4185_amoris",
+    "Activity/[UC]act45side/Arts/CharPic/tarot_char_4186_tmoris"
+  ]
+}
