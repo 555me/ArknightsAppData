@@ -31,6 +31,7 @@
   "_keys": [
     "act2enemyduel",
     "act35sre",
+    "act37sre",
     "act44side",
     "act45side",
     "main_0",
@@ -53,6 +54,7 @@
   "_values": [
     "Arts/UI/Stage/[UC]HomeEntry/act2enemyduel",
     "Arts/UI/Stage/[UC]HomeEntry/act35sre",
+    "Arts/UI/Stage/[UC]HomeEntry/act37sre",
     "Arts/UI/Stage/[UC]HomeEntry/act44side",
     "Arts/UI/Stage/[UC]HomeEntry/act45side",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",

@@ -3,7 +3,7 @@
 明日方舟CN-简中服部分文件数据。
 
 与官方数据同步。<br/>
-![Relative date](https://img.shields.io/date/1757577594?label=Gamedata&nbsp;Updated)
+![Relative date](https://img.shields.io/date/1758268799?label=Gamedata&nbsp;Updated)
 
 # 目前支持的
 - 当前游戏内大部分文本弹窗提示（I18N）
@@ -31,7 +31,7 @@
  游戏更新补丁文件列表（以补丁版本为文件名）
 
 ## Prefabs
- 干员、敌人、装置、召唤物的Prefab数据，由于上游仓库目前为私库，如需访问可以发Issue或在[此Issue](https://github.com/555me/ArknightsAppData/issues/4)下申请。
+ 干员、敌人、装置、召唤物的Prefab数据，由于上游仓库目前为私库，如需访问可以发Issue或在[此Issue](https://github.com/555me/ArknightsAppData/issues/4) 下申请。
 
 ## hot_update_list.json
  补丁资源列表，分别为安装包的资源（带有#0字符）和数据更新资源
