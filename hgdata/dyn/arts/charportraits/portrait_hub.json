@@ -4799,6 +4799,14 @@
       "atlas": 99
     },
     {
+      "name": "char_1011_lava2_whirlwind#9",
+      "atlas": 99
+    },
+    {
+      "name": "char_003_kalts_sale#14",
+      "atlas": 99
+    },
+    {
       "name": "char_487_bobb_kitchen#4",
       "atlas": 100
     },
@@ -4823,11 +4831,19 @@
       "atlas": 100
     },
     {
+      "name": "char_4155_talr_yun#9",
+      "atlas": 100
+    },
+    {
       "name": "char_4080_lin_summer#19",
       "atlas": 100
     },
     {
       "name": "char_4079_haini_epoque#45",
+      "atlas": 100
+    },
+    {
+      "name": "char_4017_puzzle_shining#3",
       "atlas": 100
     },
     {

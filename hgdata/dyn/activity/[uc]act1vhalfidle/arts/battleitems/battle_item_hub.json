@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "battle_item_hub",
+  "_rootPackingTag": "ACTIVITY_ACT1VHALFIDLE",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 41,
+    "height": 41
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "act1vhalfidle_token_point",
+    "asc_cst",
+    "asc_grd",
+    "asc_med",
+    "asc_pio",
+    "asc_snp",
+    "asc_spc",
+    "asc_sup",
+    "asc_tnk",
+    "gacha_normal",
+    "level_exp",
+    "skill_exp",
+    "strategy_point"
+  ],
+  "_values": [
+    "Activity/[UC]act1vhalfidle/Arts/BattleItems/act1vhalfidle_token_point",
+    "Activity/[UC]act1vhalfidle/Arts/BattleItems/asc_cst",
+    "Activity/[UC]act1vhalfidle/Arts/BattleItems/asc_grd",
+    "Activity/[UC]act1vhalfidle/Arts/BattleItems/asc_med",
+    "Activity/[UC]act1vhalfidle/Arts/BattleItems/asc_pio",
+    "Activity/[UC]act1vhalfidle/Arts/BattleItems/asc_snp",
+    "Activity/[UC]act1vhalfidle/Arts/BattleItems/asc_spc",
+    "Activity/[UC]act1vhalfidle/Arts/BattleItems/asc_sup",
+    "Activity/[UC]act1vhalfidle/Arts/BattleItems/asc_tnk",
+    "Activity/[UC]act1vhalfidle/Arts/BattleItems/gacha_normal",
+    "Activity/[UC]act1vhalfidle/Arts/BattleItems/level_exp",
+    "Activity/[UC]act1vhalfidle/Arts/BattleItems/skill_exp",
+    "Activity/[UC]act1vhalfidle/Arts/BattleItems/strategy_point"
+  ]
+}

@@ -38,6 +38,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
+    "act1vhalfidle",
     "act2enemyduel",
     "act35sre",
     "act37sre",
@@ -69,6 +70,7 @@
     "sandbox_1_entry_display_3"
   ],
   "_values": [
+    "Arts/UI/Stage/HomeTheme/act1vhalfidle",
     "Arts/UI/Stage/HomeTheme/act2enemyduel",
     "Arts/UI/Stage/HomeTheme/act35sre",
     "Arts/UI/Stage/HomeTheme/act37sre",
