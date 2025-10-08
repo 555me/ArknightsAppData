@@ -11,7 +11,9 @@
   "m_Name": "multi_v3_entry",
   "_pageIds": [
     "[PACK]MultiV3/entry_1",
-    "[PACK]MultiV3/entry_2"
+    "[PACK]MultiV3/entry_2",
+    "[PACK]MultiV3/team_1",
+    "[PACK]MultiV3/team_2"
   ],
   "_autoShowTarget": 42,
   "_subsignal": "entry"

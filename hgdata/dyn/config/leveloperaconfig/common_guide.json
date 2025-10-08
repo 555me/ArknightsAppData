@@ -29,7 +29,7 @@
     {
       "key": "effect_warning_fullscreen",
       "operaNodes": {
-        "SerializedState": "[{\"_effectKey\":\"mapeff_tutorial_warning_fullScreen_01\",\"_holdEffect\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.PlayScreenEffect\"},{\"_signal\":\"wave_warning\",\"_position\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.GlobalAudio\"}]",
+        "SerializedState": "[{\"_effectKey\":\"mapeff_tutorial_warning_fullScreen_01\",\"_holdEffect\":false,\"_needDelaySetBoolForEffect\":false,\"_time\":1.0,\"_key\":\"End\",\"_flag\":true,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.PlayScreenEffect\"},{\"_signal\":\"wave_warning\",\"_position\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.GlobalAudio\"}]",
         "SerializedObjectReferences": []
       },
       "duration": 0.0

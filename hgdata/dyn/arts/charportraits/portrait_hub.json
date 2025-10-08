@@ -4375,47 +4375,43 @@
       "atlas": 90
     },
     {
+      "name": "char_487_bobb_kitchen#4",
+      "atlas": 91
+    },
+    {
+      "name": "char_4208_wintim_2",
+      "atlas": 91
+    },
+    {
+      "name": "char_4208_wintim_1",
+      "atlas": 91
+    },
+    {
+      "name": "char_4207_branch_2",
+      "atlas": 91
+    },
+    {
+      "name": "char_4207_branch_1",
+      "atlas": 91
+    },
+    {
+      "name": "char_4204_mantra_2",
+      "atlas": 91
+    },
+    {
+      "name": "char_4204_mantra_1",
+      "atlas": 91
+    },
+    {
       "name": "char_4114_harold_snow#7",
       "atlas": 91
     },
     {
-      "name": "char_4107_vrdant_unveiling#3",
+      "name": "char_133_mm_summer#20",
       "atlas": 91
     },
     {
-      "name": "char_4105_almond_epoque#38",
-      "atlas": 91
-    },
-    {
-      "name": "char_4098_vvana_epoque#40",
-      "atlas": 91
-    },
-    {
-      "name": "char_4063_quartz_epoque#39",
-      "atlas": 91
-    },
-    {
-      "name": "char_369_bena_epoque#38",
-      "atlas": 91
-    },
-    {
-      "name": "char_301_cutter_marthe#8",
-      "atlas": 91
-    },
-    {
-      "name": "char_289_gyuki_epoque#40",
-      "atlas": 91
-    },
-    {
-      "name": "char_222_bpipe_epoque#40",
-      "atlas": 91
-    },
-    {
-      "name": "char_2025_shu_nian#11",
-      "atlas": 91
-    },
-    {
-      "name": "char_164_nightm_unveiling#2",
+      "name": "char_1027_greyy2_breaker#1",
       "atlas": 91
     },
     {
@@ -4807,39 +4803,19 @@
       "atlas": 99
     },
     {
-      "name": "char_487_bobb_kitchen#4",
+      "name": "char_4107_vrdant_unveiling#3",
       "atlas": 100
     },
     {
-      "name": "char_4186_tmoris_avemujica#1",
+      "name": "char_4105_almond_epoque#38",
       "atlas": 100
     },
     {
-      "name": "char_4185_amoris_avemujica#1",
+      "name": "char_4098_vvana_epoque#40",
       "atlas": 100
     },
     {
-      "name": "char_4184_dolris_avemujica#1",
-      "atlas": 100
-    },
-    {
-      "name": "char_4183_mortis_avemujica#1",
-      "atlas": 100
-    },
-    {
-      "name": "char_4182_oblvns_avemujica#1",
-      "atlas": 100
-    },
-    {
-      "name": "char_4155_talr_yun#9",
-      "atlas": 100
-    },
-    {
-      "name": "char_4080_lin_summer#19",
-      "atlas": 100
-    },
-    {
-      "name": "char_4079_haini_epoque#45",
+      "name": "char_4063_quartz_epoque#39",
       "atlas": 100
     },
     {
@@ -4847,8 +4823,76 @@
       "atlas": 100
     },
     {
-      "name": "char_133_mm_summer#20",
+      "name": "char_369_bena_epoque#38",
       "atlas": 100
+    },
+    {
+      "name": "char_301_cutter_marthe#8",
+      "atlas": 100
+    },
+    {
+      "name": "char_289_gyuki_epoque#40",
+      "atlas": 100
+    },
+    {
+      "name": "char_222_bpipe_epoque#40",
+      "atlas": 100
+    },
+    {
+      "name": "char_2025_shu_nian#11",
+      "atlas": 100
+    },
+    {
+      "name": "char_445_wscoot_epoque#49",
+      "atlas": 101
+    },
+    {
+      "name": "char_4186_tmoris_avemujica#1",
+      "atlas": 101
+    },
+    {
+      "name": "char_4185_amoris_avemujica#1",
+      "atlas": 101
+    },
+    {
+      "name": "char_4184_dolris_avemujica#1",
+      "atlas": 101
+    },
+    {
+      "name": "char_4183_mortis_avemujica#1",
+      "atlas": 101
+    },
+    {
+      "name": "char_4182_oblvns_avemujica#1",
+      "atlas": 101
+    },
+    {
+      "name": "char_4155_talr_yun#9",
+      "atlas": 101
+    },
+    {
+      "name": "char_4147_mitm_breaker#1",
+      "atlas": 101
+    },
+    {
+      "name": "char_4138_narant_breaker#1",
+      "atlas": 101
+    },
+    {
+      "name": "char_4080_lin_summer#19",
+      "atlas": 101
+    },
+    {
+      "name": "char_4079_haini_epoque#45",
+      "atlas": 101
+    },
+    {
+      "name": "char_164_nightm_unveiling#2",
+      "atlas": 102
+    },
+    {
+      "name": "char_141_nights_breaker#1",
+      "atlas": 102
     }
   ],
   "_atlases": [
@@ -4952,7 +4996,9 @@
     "Arts/CharPortraits/portraits#97",
     "Arts/CharPortraits/portraits#98",
     "Arts/CharPortraits/portraits#99",
-    "Arts/CharPortraits/portraits#100"
+    "Arts/CharPortraits/portraits#100",
+    "Arts/CharPortraits/portraits#101",
+    "Arts/CharPortraits/portraits#102"
   ],
   "_inputSpriteDir": "Assets/Torappu/Arts/CharPortraits",
   "_outputAtlasDir": "Assets/Torappu/Arts/CharPortraits/[X]Atlas",

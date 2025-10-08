@@ -31,6 +31,7 @@
   "_keys": [
     "default_kv_ambiencesynesthesia",
     "default_kv_boc",
+    "default_kv_breaker",
     "default_kv_crossover",
     "default_kv_epoque",
     "default_kv_game",
@@ -70,6 +71,7 @@
     "kv_boc6",
     "kv_boc7",
     "kv_boc8",
+    "kv_breaker1",
     "kv_cambrian1",
     "kv_cambrian2",
     "kv_epoque1",
@@ -127,6 +129,7 @@
   "_values": [
     "UI/KVImg/default_kv_ambienceSynesthesia",
     "UI/KVImg/default_kv_boc",
+    "UI/KVImg/default_kv_breaker",
     "UI/KVImg/default_kv_crossover",
     "UI/KVImg/default_kv_epoque",
     "UI/KVImg/default_kv_game",
@@ -166,6 +169,7 @@
     "UI/KVImg/kv_boc6",
     "UI/KVImg/kv_boc7",
     "UI/KVImg/kv_boc8",
+    "UI/KVImg/kv_breaker1",
     "UI/KVImg/kv_cambrian1",
     "UI/KVImg/kv_cambrian2",
     "UI/KVImg/kv_epoque1",

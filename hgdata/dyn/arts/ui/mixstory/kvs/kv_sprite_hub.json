@@ -38,6 +38,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
+    "kv_abnormal_spectrum",
     "kv_absolved_will_be_the_seekers",
     "kv_act_or_die",
     "kv_adventure_that_cannot_waits_for_the_sun",
@@ -115,6 +116,7 @@
     "kv_zwillingsturme_im_herbst"
   ],
   "_values": [
+    "Arts/UI/MixStory/Kvs/kv_abnormal_spectrum",
     "Arts/UI/MixStory/Kvs/kv_absolved_will_be_the_seekers",
     "Arts/UI/MixStory/Kvs/kv_act_or_die",
     "Arts/UI/MixStory/Kvs/kv_adventure_that_cannot_waits_for_the_sun",

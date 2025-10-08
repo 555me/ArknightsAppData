@@ -29,6 +29,7 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "deco_abnormal_spectrum",
     "deco_absolved_will_be_the_seekers",
     "deco_all_quiet_under_the_thunder",
     "deco_burning_run",
@@ -47,6 +48,7 @@
     "deco_the_whirlpool_that_is_passion"
   ],
   "_values": [
+    "Arts/UI/MixStory/Decos/deco_abnormal_spectrum",
     "Arts/UI/MixStory/Decos/deco_absolved_will_be_the_seekers",
     "Arts/UI/MixStory/Decos/deco_all_quiet_under_the_thunder",
     "Arts/UI/MixStory/Decos/deco_burning_run",

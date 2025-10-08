@@ -30,10 +30,18 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "loading_spst_08-01",
-    "loading_spst_14-01"
+    "loading_spst_14-01",
+    "loading_spst_16-01",
+    "loading_spst_16-02",
+    "loading_spst_16-03",
+    "loading_spst_16-04"
   ],
   "_values": [
     "Arts/UI/Stage/SpecialStory/loading_spst_08-01",
-    "Arts/UI/Stage/SpecialStory/loading_spst_14-01"
+    "Arts/UI/Stage/SpecialStory/loading_spst_14-01",
+    "Arts/UI/Stage/SpecialStory/loading_spst_16-01",
+    "Arts/UI/Stage/SpecialStory/loading_spst_16-02",
+    "Arts/UI/Stage/SpecialStory/loading_spst_16-03",
+    "Arts/UI/Stage/SpecialStory/loading_spst_16-04"
   ]
 }

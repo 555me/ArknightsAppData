@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "logo_sprite_hub",
+  "_rootPackingTag": "MIXSTORY_LOGO_SPRITES",
+  "_cntPerAtlas": 256,
+  "_standardPicSize": {
+    "width": 104,
+    "height": 104
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "storyline_ae",
+    "storyline_ka",
+    "storyline_kj",
+    "storyline_la",
+    "storyline_le",
+    "storyline_ms",
+    "storyline_rh",
+    "storyline_rl",
+    "storyline_si",
+    "storyline_st",
+    "storyline_su",
+    "storyline_ta",
+    "storyline_ts"
+  ],
+  "_values": [
+    "Arts/UI/MixStory/Logos/storyline_Ae",
+    "Arts/UI/MixStory/Logos/storyline_Ka",
+    "Arts/UI/MixStory/Logos/storyline_Kj",
+    "Arts/UI/MixStory/Logos/storyline_La",
+    "Arts/UI/MixStory/Logos/storyline_Le",
+    "Arts/UI/MixStory/Logos/storyline_Ms",
+    "Arts/UI/MixStory/Logos/storyline_Rh",
+    "Arts/UI/MixStory/Logos/storyline_Rl",
+    "Arts/UI/MixStory/Logos/storyline_Si",
+    "Arts/UI/MixStory/Logos/storyline_St",
+    "Arts/UI/MixStory/Logos/storyline_Su",
+    "Arts/UI/MixStory/Logos/storyline_Ta",
+    "Arts/UI/MixStory/Logos/storyline_Ts"
+  ]
+}

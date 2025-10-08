@@ -12,8 +12,8 @@
   "_rootPackingTag": "MIXSTORY_ABBR_SPRITES",
   "_cntPerAtlas": 128,
   "_standardPicSize": {
-    "width": 48,
-    "height": 36
+    "width": 40,
+    "height": 32
   },
   "_extraPicSize": [],
   "_compressType": 10,
@@ -34,7 +34,6 @@
     "storyline_abbr_kj",
     "storyline_abbr_la",
     "storyline_abbr_le",
-    "storyline_abbr_ms",
     "storyline_abbr_rh",
     "storyline_abbr_rl",
     "storyline_abbr_si",
@@ -49,7 +48,6 @@
     "Arts/UI/MixStory/Abbrs/storyline_abbr_Kj",
     "Arts/UI/MixStory/Abbrs/storyline_abbr_La",
     "Arts/UI/MixStory/Abbrs/storyline_abbr_Le",
-    "Arts/UI/MixStory/Abbrs/storyline_abbr_Ms",
     "Arts/UI/MixStory/Abbrs/storyline_abbr_Rh",
     "Arts/UI/MixStory/Abbrs/storyline_abbr_Rl",
     "Arts/UI/MixStory/Abbrs/storyline_abbr_Si",

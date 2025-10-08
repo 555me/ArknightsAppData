@@ -30,6 +30,7 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act2mainss_zone1",
+    "act3mainss_zone1",
     "main_0",
     "main_1",
     "main_10",
@@ -45,10 +46,12 @@
     "main_7",
     "main_8",
     "main_9",
-    "permanent_main_1_zone1"
+    "permanent_main_1_zone1",
+    "permanent_main_2_zone1"
   ],
   "_values": [
     "Arts/UI/HomeBanners/Zone/act2mainss_zone1",
+    "Arts/UI/HomeBanners/Zone/act3mainss_zone1",
     "Arts/UI/HomeBanners/Zone/main_0",
     "Arts/UI/HomeBanners/Zone/main_1",
     "Arts/UI/HomeBanners/Zone/main_10",
@@ -64,6 +67,7 @@
     "Arts/UI/HomeBanners/Zone/main_7",
     "Arts/UI/HomeBanners/Zone/main_8",
     "Arts/UI/HomeBanners/Zone/main_9",
-    "Arts/UI/HomeBanners/Zone/permanent_main_1_zone1"
+    "Arts/UI/HomeBanners/Zone/permanent_main_1_zone1",
+    "Arts/UI/HomeBanners/Zone/permanent_main_2_zone1"
   ]
 }

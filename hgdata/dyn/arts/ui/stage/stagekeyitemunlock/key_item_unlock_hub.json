@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "key_item_unlock_hub",
+  "_rootPackingTag": "UI_KEY_ITEM_UNLOCK_IMG",
+  "_cntPerAtlas": 1,
+  "_standardPicSize": {
+    "width": 772,
+    "height": 444
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "main16_spitem_1_locked",
+    "main16_spitem_1_unlocked",
+    "main16_spitem_2_locked",
+    "main16_spitem_2_unlocked",
+    "main16_spitem_3_locked",
+    "main16_spitem_3_unlocked",
+    "main16_spitem_4_locked",
+    "main16_spitem_4_unlocked"
+  ],
+  "_values": [
+    "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_1_locked",
+    "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_1_unlocked",
+    "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_2_locked",
+    "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_2_unlocked",
+    "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_3_locked",
+    "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_3_unlocked",
+    "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_4_locked",
+    "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_4_unlocked"
+  ]
+}

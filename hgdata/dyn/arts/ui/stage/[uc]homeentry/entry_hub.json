@@ -30,11 +30,7 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act1vhalfidle",
-    "act2enemyduel",
-    "act35sre",
-    "act37sre",
-    "act44side",
-    "act45side",
+    "act3mainss",
     "main_0",
     "main_1",
     "main_10",
@@ -50,15 +46,12 @@
     "main_7",
     "main_8",
     "main_9",
-    "permanent_main_1_zone1"
+    "permanent_main_1_zone1",
+    "permanent_main_2_zone1"
   ],
   "_values": [
     "Arts/UI/Stage/[UC]HomeEntry/act1vhalfidle",
-    "Arts/UI/Stage/[UC]HomeEntry/act2enemyduel",
-    "Arts/UI/Stage/[UC]HomeEntry/act35sre",
-    "Arts/UI/Stage/[UC]HomeEntry/act37sre",
-    "Arts/UI/Stage/[UC]HomeEntry/act44side",
-    "Arts/UI/Stage/[UC]HomeEntry/act45side",
+    "Arts/UI/Stage/[UC]HomeEntry/act3mainss",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_10",
@@ -74,6 +67,7 @@
     "Arts/UI/Stage/[UC]HomeEntry/main_7",
     "Arts/UI/Stage/[UC]HomeEntry/main_8",
     "Arts/UI/Stage/[UC]HomeEntry/main_9",
-    "Arts/UI/Stage/[UC]HomeEntry/permanent_main_1_zone1"
+    "Arts/UI/Stage/[UC]HomeEntry/permanent_main_1_zone1",
+    "Arts/UI/Stage/[UC]HomeEntry/permanent_main_2_zone1"
   ]
 }

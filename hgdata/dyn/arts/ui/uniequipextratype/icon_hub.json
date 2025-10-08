@@ -30,12 +30,14 @@
   "_configName": "",
   "_keys": [
     "a",
+    "b",
     "d",
     "x",
     "y"
   ],
   "_values": [
     "Arts/UI/UniEquipExtraType/a",
+    "Arts/UI/UniEquipExtraType/b",
     "Arts/UI/UniEquipExtraType/d",
     "Arts/UI/UniEquipExtraType/x",
     "Arts/UI/UniEquipExtraType/y"
