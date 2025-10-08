@@ -15,7 +15,12 @@
     "width": 681,
     "height": 383
   },
-  "_extraPicSize": [],
+  "_extraPicSize": [
+    {
+      "width": 684,
+      "height": 384
+    }
+  ],
   "_compressType": 10,
   "_atlasSize": 0,
   "_meshType": 0,
