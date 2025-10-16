@@ -165,6 +165,7 @@
     "avatar_special_47",
     "avatar_special_48",
     "avatar_special_49",
+    "avatar_special_50",
     "avatar_special_missc"
   ],
   "_values": [
@@ -304,6 +305,7 @@
     "Arts/UI/PlayerAvatar/avatar_special_47",
     "Arts/UI/PlayerAvatar/avatar_special_48",
     "Arts/UI/PlayerAvatar/avatar_special_49",
+    "Arts/UI/PlayerAvatar/avatar_special_50",
     "Arts/UI/PlayerAvatar/avatar_special_MissC"
   ]
 }

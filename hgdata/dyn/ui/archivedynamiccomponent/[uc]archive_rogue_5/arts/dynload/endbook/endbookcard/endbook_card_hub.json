@@ -31,11 +31,13 @@
   "_keys": [
     "endbook_card_rogue_5_1",
     "endbook_card_rogue_5_2",
-    "endbook_card_rogue_5_3"
+    "endbook_card_rogue_5_3",
+    "endbook_card_rogue_5_4"
   ],
   "_values": [
     "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Endbook/EndbookCard/endbook_card_rogue_5_1",
     "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Endbook/EndbookCard/endbook_card_rogue_5_2",
-    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Endbook/EndbookCard/endbook_card_rogue_5_3"
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Endbook/EndbookCard/endbook_card_rogue_5_3",
+    "UI/ArchiveDynamicComponent/[UC]archive_rogue_5/Arts/DynLoad/Endbook/EndbookCard/endbook_card_rogue_5_4"
   ]
 }
