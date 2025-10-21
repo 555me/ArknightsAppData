@@ -4411,6 +4411,10 @@
       "atlas": 91
     },
     {
+      "name": "char_1032_excu2_sanrio#2",
+      "atlas": 91
+    },
+    {
       "name": "char_1027_greyy2_breaker#1",
       "atlas": 91
     },
@@ -4827,6 +4831,10 @@
       "atlas": 100
     },
     {
+      "name": "char_349_chiave_race#2",
+      "atlas": 100
+    },
+    {
       "name": "char_301_cutter_marthe#8",
       "atlas": 100
     },
@@ -4840,6 +4848,10 @@
     },
     {
       "name": "char_2025_shu_nian#11",
+      "atlas": 100
+    },
+    {
+      "name": "char_180_amgoat_sanrio#2",
       "atlas": 100
     },
     {
@@ -4884,6 +4896,10 @@
     },
     {
       "name": "char_4079_haini_epoque#45",
+      "atlas": 101
+    },
+    {
+      "name": "char_4042_lumen_sanrio#2",
       "atlas": 101
     },
     {

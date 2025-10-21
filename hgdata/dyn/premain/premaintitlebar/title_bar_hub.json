@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 5461515488609553696
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
   },
   "m_Name": "title_bar_hub",
   "_rootPackingTag": "UI_PREMAIN_TITLE_BAR_HUB",
@@ -29,19 +29,33 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "avemujica",
+    "breaker_1",
     "epoque_39",
     "epoque_42",
+    "iteration_epoque",
     "nian_11",
     "sale_13",
+    "sale_iteration_boc_epoque_game",
+    "sanrio_2",
     "shining_2",
+    "summer_sightseer_marthe",
+    "summer_yun",
     "winter_sale_epoque"
   ],
   "_values": [
+    "Premain/PremainTitleBar/avemujica",
+    "Premain/PremainTitleBar/breaker_1",
     "Premain/PremainTitleBar/epoque_39",
     "Premain/PremainTitleBar/epoque_42",
+    "Premain/PremainTitleBar/iteration_epoque",
     "Premain/PremainTitleBar/nian_11",
     "Premain/PremainTitleBar/sale_13",
+    "Premain/PremainTitleBar/sale_iteration_boc_epoque_game",
+    "Premain/PremainTitleBar/sanrio_2",
     "Premain/PremainTitleBar/shining_2",
+    "Premain/PremainTitleBar/summer_sightseer_marthe",
+    "Premain/PremainTitleBar/summer_yun",
     "Premain/PremainTitleBar/winter_sale_epoque"
   ]
 }

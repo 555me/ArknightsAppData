@@ -40,6 +40,7 @@
   "_keys": [
     "icon_corner_mode_2",
     "icon_corner_mode_3",
+    "icon_corner_mode_4",
     "icon_mode_1",
     "icon_mode_1_color",
     "icon_mode_1_tiny",
@@ -48,11 +49,15 @@
     "icon_mode_2_tiny",
     "icon_mode_3",
     "icon_mode_3_color",
-    "icon_mode_3_tiny"
+    "icon_mode_3_tiny",
+    "icon_mode_4",
+    "icon_mode_4_color",
+    "icon_mode_4_tiny"
   ],
   "_values": [
     "Arts/UI/[UC]MultiV3/MapMode/icon_corner_mode_2",
     "Arts/UI/[UC]MultiV3/MapMode/icon_corner_mode_3",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_corner_mode_4",
     "Arts/UI/[UC]MultiV3/MapMode/icon_mode_1",
     "Arts/UI/[UC]MultiV3/MapMode/icon_mode_1_color",
     "Arts/UI/[UC]MultiV3/MapMode/icon_mode_1_tiny",
@@ -61,6 +66,9 @@
     "Arts/UI/[UC]MultiV3/MapMode/icon_mode_2_tiny",
     "Arts/UI/[UC]MultiV3/MapMode/icon_mode_3",
     "Arts/UI/[UC]MultiV3/MapMode/icon_mode_3_color",
-    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_3_tiny"
+    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_3_tiny",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_4",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_4_color",
+    "Arts/UI/[UC]MultiV3/MapMode/icon_mode_4_tiny"
   ]
 }
