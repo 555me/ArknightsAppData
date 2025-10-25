@@ -34,7 +34,13 @@
     "map_11_3",
     "map_11_4",
     "map_11_5",
-    "map_11_6"
+    "map_11_6",
+    "map_12_1",
+    "map_12_2",
+    "map_12_3",
+    "map_12_4",
+    "map_12_5",
+    "map_12_6"
   ],
   "_values": [
     "Arts/UI/Campaign/WorldMapPiece/map_11_1",
@@ -42,6 +48,12 @@
     "Arts/UI/Campaign/WorldMapPiece/map_11_3",
     "Arts/UI/Campaign/WorldMapPiece/map_11_4",
     "Arts/UI/Campaign/WorldMapPiece/map_11_5",
-    "Arts/UI/Campaign/WorldMapPiece/map_11_6"
+    "Arts/UI/Campaign/WorldMapPiece/map_11_6",
+    "Arts/UI/Campaign/WorldMapPiece/map_12_1",
+    "Arts/UI/Campaign/WorldMapPiece/map_12_2",
+    "Arts/UI/Campaign/WorldMapPiece/map_12_3",
+    "Arts/UI/Campaign/WorldMapPiece/map_12_4",
+    "Arts/UI/Campaign/WorldMapPiece/map_12_5",
+    "Arts/UI/Campaign/WorldMapPiece/map_12_6"
   ]
 }
