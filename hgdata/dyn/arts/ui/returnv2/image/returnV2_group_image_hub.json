@@ -38,7 +38,7 @@
     "page_063_diffmission",
     "page_063_roguelike5",
     "page_064_normalgacha",
-    "page_episode_main_15",
+    "page_067_normalgacha",
     "page_episode_main_16"
   ],
   "_values": [
@@ -51,7 +51,7 @@
     "Arts/UI/ReturnV2/Image/page_063_diffmission",
     "Arts/UI/ReturnV2/Image/page_063_roguelike5",
     "Arts/UI/ReturnV2/Image/page_064_normalgacha",
-    "Arts/UI/ReturnV2/Image/page_episode_main_15",
+    "Arts/UI/ReturnV2/Image/page_067_normalgacha",
     "Arts/UI/ReturnV2/Image/page_episode_main_16"
   ]
 }

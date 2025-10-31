@@ -38,11 +38,11 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
-    "act1vhalfidle",
     "act2multi",
     "act3mainss_1",
     "act3mainss_2",
     "act3mainss_3",
+    "act46side",
     "main_10",
     "main_11",
     "main_12",
@@ -70,11 +70,11 @@
     "sandbox_1_entry_display_3"
   ],
   "_values": [
-    "Arts/UI/Stage/HomeTheme/act1vhalfidle",
     "Arts/UI/Stage/HomeTheme/act2multi",
     "Arts/UI/Stage/HomeTheme/act3mainss_1",
     "Arts/UI/Stage/HomeTheme/act3mainss_2",
     "Arts/UI/Stage/HomeTheme/act3mainss_3",
+    "Arts/UI/Stage/HomeTheme/act46side",
     "Arts/UI/Stage/HomeTheme/main_10",
     "Arts/UI/Stage/HomeTheme/main_11",
     "Arts/UI/Stage/HomeTheme/main_12",

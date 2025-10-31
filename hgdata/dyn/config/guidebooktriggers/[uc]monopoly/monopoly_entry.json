@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "monopoly_entry",
+  "_pageIds": [
+    "[PACK]Monopoly/monopoly_entry_1",
+    "[PACK]Monopoly/monopoly_entry_2",
+    "[PACK]Monopoly/monopoly_entry_3",
+    "[PACK]Monopoly/monopoly_entry_4"
+  ],
+  "_autoShowTarget": 49,
+  "_subsignal": "monopoly_entry"
+}

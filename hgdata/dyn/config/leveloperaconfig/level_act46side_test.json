@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 741099624361746541
+  },
+  "m_Name": "level_act46side_test",
+  "_commands": [
+    {
+      "key": "init",
+      "operaNodes": {
+        "SerializedState": "[{\"_min\":{\"row\":0,\"col\":11},\"_max\":{\"row\":8,\"col\":14},\"_buildableType\":\"NONE\",\"_restoreOptions\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 0.0
+    },
+    {
+      "key": "move_camera_1",
+      "operaNodes": {
+        "SerializedState": "[{\"_offset\":{\"x\":20.0,\"y\":0.0,\"z\":0.0},\"_preDelay\":3.0,\"$type\":\"Torappu.Battle.Opera.MoveCamera\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":8,\"col\":3},\"_buildableType\":\"NONE\",\"_restoreOptions\":false,\"_preDelay\":3.2,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":8,\"col\":3},\"_buff\":{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"act24side_clean_area\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"enemy_mhrors_clean_area\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"IMMEDIATELY\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[{\"key\":\"respawn_time\",\"value\":-1.0,\"valueStr\":null}]},\"_preDelay\":3.2,\"$type\":\"Torappu.Battle.Opera.CreateBuffInArea\"},{\"_min\":{\"row\":0,\"col\":11},\"_max\":{\"row\":8,\"col\":14},\"_buildableType\":\"NONE\",\"_restoreOptions\":true,\"_preDelay\":3.2,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 5.0
+    },
+    {
+      "key": "move_camera_2",
+      "operaNodes": {
+        "SerializedState": "[{\"_offset\":{\"x\":-10.0,\"y\":0.0,\"z\":0.0},\"_preDelay\":3.0,\"$type\":\"Torappu.Battle.Opera.MoveCamera\"},{\"_min\":{\"row\":0,\"col\":13},\"_max\":{\"row\":10,\"col\":26},\"_buildableType\":\"NONE\",\"_restoreOptions\":true,\"_preDelay\":3.2,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":10,\"col\":13},\"_buff\":{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"act24side_clean_area\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"enemy_mhrors_clean_area\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"IMMEDIATELY\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[{\"key\":\"respawn_time\",\"value\":-1.0,\"valueStr\":null}]},\"_preDelay\":3.2,\"$type\":\"Torappu.Battle.Opera.CreateBuffInArea\"},{\"_min\":{\"row\":0,\"col\":13},\"_max\":{\"row\":10,\"col\":26},\"_buff\":{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"act24side_clean_mhrors_invincible\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"enemy_mhrors_finish_invincible\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"IMMEDIATELY\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[]},\"_preDelay\":3.2,\"$type\":\"Torappu.Battle.Opera.CreateBuffInArea\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":10,\"col\":13},\"_buildableType\":\"NONE\",\"_restoreOptions\":false,\"_preDelay\":3.2,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 5.0
+    }
+  ]
+}
