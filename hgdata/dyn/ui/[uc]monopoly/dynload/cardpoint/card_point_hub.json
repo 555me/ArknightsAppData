@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "card_point_hub",
+  "_rootPackingTag": "UI_MONOPOLY_CARD_POINT_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 70,
+    "height": 70
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "num_icon_1",
+    "num_icon_2",
+    "num_icon_3",
+    "num_icon_4",
+    "num_icon_5"
+  ],
+  "_values": [
+    "UI/[UC]Monopoly/DynLoad/CardPoint/num_icon_1",
+    "UI/[UC]Monopoly/DynLoad/CardPoint/num_icon_2",
+    "UI/[UC]Monopoly/DynLoad/CardPoint/num_icon_3",
+    "UI/[UC]Monopoly/DynLoad/CardPoint/num_icon_4",
+    "UI/[UC]Monopoly/DynLoad/CardPoint/num_icon_5"
+  ]
+}

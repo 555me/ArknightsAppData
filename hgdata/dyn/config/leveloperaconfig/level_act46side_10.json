@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 741099624361746541
+  },
+  "m_Name": "level_act46side_10",
+  "_commands": [
+    {
+      "key": "init",
+      "operaNodes": {
+        "SerializedState": "[{\"_min\":{\"row\":0,\"col\":13},\"_max\":{\"row\":8,\"col\":20},\"_buildableType\":\"NONE\",\"_restoreOptions\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"},{\"_effectKey\":\"map_V067_mask_01\",\"_pos\":{\"x\":12.5,\"y\":-0.5,\"z\":0.0},\"_isClean\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.Act46SideCreateOrCleanMapEffect\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 3.0
+    },
+    {
+      "key": "move_camera_1",
+      "operaNodes": {
+        "SerializedState": "[{\"_offset\":{\"x\":12.5,\"y\":0.0,\"z\":0.0},\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.MoveCamera\"},{\"_min\":{\"row\":0,\"col\":8},\"_max\":{\"row\":8,\"col\":20},\"_buildableType\":\"NONE\",\"_restoreOptions\":true,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"},{\"_effectKey\":null,\"_pos\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"_isClean\":true,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.Act46SideCreateOrCleanMapEffect\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":8,\"col\":7},\"_buff\":{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"env_act46side[clean]\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"env_act46side[clean]\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"LIMITED\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[{\"key\":\"respawn_time\",\"value\":-1.0,\"valueStr\":null}]},\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.CreateBuffInArea\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":8,\"col\":7},\"_buildableType\":\"NONE\",\"_restoreOptions\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"},{\"_effectKey\":\"map_V067_mask_02\",\"_pos\":{\"x\":7.5,\"y\":-0.5,\"z\":0.0},\"_isClean\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.Act46SideCreateOrCleanMapEffect\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 5.0
+    },
+    {
+      "key": "move_camera_2",
+      "operaNodes": {
+        "SerializedState": "[{\"_offset\":{\"x\":10.5,\"y\":0.0,\"z\":0.0},\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.MoveCamera\"},{\"_min\":{\"row\":0,\"col\":4},\"_max\":{\"row\":8,\"col\":16},\"_buildableType\":\"NONE\",\"_restoreOptions\":true,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"},{\"_effectKey\":null,\"_pos\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"_isClean\":true,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.Act46SideCreateOrCleanMapEffect\"},{\"_min\":{\"row\":0,\"col\":17},\"_max\":{\"row\":8,\"col\":20},\"_buff\":{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"env_act46side[clean]\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"env_act46side[clean]\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"LIMITED\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[{\"key\":\"respawn_time\",\"value\":-1.0,\"valueStr\":null}]},\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.CreateBuffInArea\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":8,\"col\":3},\"_buff\":{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"env_act46side[clean]\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"env_act46side[clean]\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"LIMITED\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[{\"key\":\"respawn_time\",\"value\":-1.0,\"valueStr\":null}]},\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.CreateBuffInArea\"},{\"_min\":{\"row\":0,\"col\":0},\"_max\":{\"row\":8,\"col\":3},\"_buildableType\":\"NONE\",\"_restoreOptions\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"},{\"_min\":{\"row\":0,\"col\":17},\"_max\":{\"row\":8,\"col\":20},\"_buildableType\":\"NONE\",\"_restoreOptions\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.RewriteTileOptionsInArea\"},{\"_effectKey\":\"map_V067_mask_01\",\"_pos\":{\"x\":16.5,\"y\":-0.5,\"z\":0.0},\"_isClean\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.Act46SideCreateOrCleanMapEffect\"},{\"_effectKey\":\"map_V067_mask_02\",\"_pos\":{\"x\":3.5,\"y\":-0.5,\"z\":0.0},\"_isClean\":false,\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.Act46SideCreateOrCleanMapEffect\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 5.0
+    }
+  ]
+}

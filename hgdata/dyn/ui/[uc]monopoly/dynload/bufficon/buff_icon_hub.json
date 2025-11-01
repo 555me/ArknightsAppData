@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "buff_icon_hub",
+  "_rootPackingTag": "ACT46SIDE_BUFF_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 42,
+    "height": 42
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "station_rebuild_buff_1",
+    "station_rebuild_buff_2",
+    "station_rebuild_buff_3",
+    "station_rebuild_buff_4",
+    "station_rebuild_buff_5",
+    "station_rebuild_buff_6"
+  ],
+  "_values": [
+    "UI/[UC]Monopoly/DynLoad/BuffIcon/station_rebuild_buff_1",
+    "UI/[UC]Monopoly/DynLoad/BuffIcon/station_rebuild_buff_2",
+    "UI/[UC]Monopoly/DynLoad/BuffIcon/station_rebuild_buff_3",
+    "UI/[UC]Monopoly/DynLoad/BuffIcon/station_rebuild_buff_4",
+    "UI/[UC]Monopoly/DynLoad/BuffIcon/station_rebuild_buff_5",
+    "UI/[UC]Monopoly/DynLoad/BuffIcon/station_rebuild_buff_6"
+  ]
+}

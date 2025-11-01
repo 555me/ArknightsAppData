@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "settle_avatar_hub",
+  "_rootPackingTag": "ACT46SIDE_SETTLE_AVATAR_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 176,
+    "height": 169
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rebuild_gnosis",
+    "rebuild_halo",
+    "rebuild_halo_smile",
+    "rebuild_juana",
+    "rebuild_mlyss",
+    "rebuild_slbell",
+    "rebuild_slbell_smile",
+    "rebuild_svrash2",
+    "rebuild_svrash2_smile",
+    "rebuild_yucatan"
+  ],
+  "_values": [
+    "UI/[UC]Monopoly/DynLoad/SettleAvatar/rebuild_gnosis",
+    "UI/[UC]Monopoly/DynLoad/SettleAvatar/rebuild_halo",
+    "UI/[UC]Monopoly/DynLoad/SettleAvatar/rebuild_halo_smile",
+    "UI/[UC]Monopoly/DynLoad/SettleAvatar/rebuild_juana",
+    "UI/[UC]Monopoly/DynLoad/SettleAvatar/rebuild_mlyss",
+    "UI/[UC]Monopoly/DynLoad/SettleAvatar/rebuild_slbell",
+    "UI/[UC]Monopoly/DynLoad/SettleAvatar/rebuild_slbell_smile",
+    "UI/[UC]Monopoly/DynLoad/SettleAvatar/rebuild_svrash2",
+    "UI/[UC]Monopoly/DynLoad/SettleAvatar/rebuild_svrash2_smile",
+    "UI/[UC]Monopoly/DynLoad/SettleAvatar/rebuild_yucatan"
+  ]
+}
