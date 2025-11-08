@@ -1,0 +1,285 @@
+{
+    "downloadType": 0,
+    "downloadData": {
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/f42783a3be50b48ee4832fd9ea5660a5.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/f42783a3be50b48ee4832fd9ea5660a5.dat",
+            "size": 2962647,
+            "fileId": 1,
+            "fileName": "51905fed-4e8b-4b41-93e8-7880021e01a8",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_c7dab07f548a086bcfbd8bdc6fa7fc01.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_c7dab07f548a086bcfbd8bdc6fa7fc01.dat",
+            "size": 1080865,
+            "fileId": 1996,
+            "fileName": "3d4b58af-daa0-4ce2-9664-7d5853a06cda",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/skinpack_char_017_huang.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/skinpack_char_017_huang.dat",
+            "size": 4579474,
+            "fileId": 2243,
+            "fileName": "2ce676fc-7f91-49c4-a49d-6b14d7db5fc0",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_99c84424c379d84dce0d363f3a492903.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_99c84424c379d84dce0d363f3a492903.dat",
+            "size": 3488204,
+            "fileId": 8265,
+            "fileName": "df474552-4ba3-4f5e-8dd5-74c8e3aab2b9",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex08_level_act46side_ex08.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex08_level_act46side_ex08.dat",
+            "size": 2614490,
+            "fileId": 9003,
+            "fileName": "8e595801-cbed-493e-8517-8f3af58ad7d7",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/audio_sound_beta_2_music_act46side_m_bat2_act46side.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/audio_sound_beta_2_music_act46side_m_bat2_act46side.dat",
+            "size": 2388965,
+            "fileId": 6035,
+            "fileName": "1e754340-a7e1-4a28-a444-7ce240c2579d",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex03_level_act46side_ex03.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex03_level_act46side_ex03.dat",
+            "size": 1652494,
+            "fileId": 8993,
+            "fileName": "8935728d-facc-4aa3-b074-023f7aaee6a5",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_879bf4b5d685cfc19d0f737101a953c6.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_879bf4b5d685cfc19d0f737101a953c6.dat",
+            "size": 1323698,
+            "fileId": 1931,
+            "fileName": "360d3a0f-3705-4e4a-963b-1109d646bc68",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex04_level_act46side_ex04.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex04_level_act46side_ex04.dat",
+            "size": 1230668,
+            "fileId": 8995,
+            "fileName": "1227d351-f858-4cdf-ac46-69195d5290bf",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex02_level_act46side_ex02.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex02_level_act46side_ex02.dat",
+            "size": 1135517,
+            "fileId": 8991,
+            "fileName": "af938422-9bec-49c4-9b0d-c6b48bafa068",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex06_level_act46side_ex06.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex06_level_act46side_ex06.dat",
+            "size": 1120883,
+            "fileId": 8999,
+            "fileName": "59ca3110-da1a-4996-8208-2214b52a9310",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/config_buff_template_holder.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/config_buff_template_holder.dat",
+            "size": 1106722,
+            "fileId": 34,
+            "fileName": "5938d235-ba7c-4992-af91-868cfb21b4df",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_686a6adb7b40ea0ac5777013e1eadc3f.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_686a6adb7b40ea0ac5777013e1eadc3f.dat",
+            "size": 939431,
+            "fileId": 1938,
+            "fileName": "fa53cdf8-a69a-4383-865a-247d93117cb8",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex08_level_act46side_ex08_lightingdata.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex08_level_act46side_ex08_lightingdata.dat",
+            "size": 833048,
+            "fileId": 10925,
+            "fileName": "1a072c65-57c9-4169-b2f9-c583a2f2ab54",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_c63cffff958874805df6dc496203ae00.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_c63cffff958874805df6dc496203ae00.dat",
+            "size": 824306,
+            "fileId": 1984,
+            "fileName": "11291d8a-3148-4f71-8c1e-d55dc0336955",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex06_level_act46side_ex06_lightingdata.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex06_level_act46side_ex06_lightingdata.dat",
+            "size": 818966,
+            "fileId": 10923,
+            "fileName": "5a85ff2a-e35f-4da4-ad12-7a5b85b3fcf3",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex03_level_act46side_ex03_lightingdata.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex03_level_act46side_ex03_lightingdata.dat",
+            "size": 808371,
+            "fileId": 10920,
+            "fileName": "4572690d-0e44-4ab7-8db6-5791ffb27672",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex02_level_act46side_ex02_lightingdata.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex02_level_act46side_ex02_lightingdata.dat",
+            "size": 768669,
+            "fileId": 10919,
+            "fileName": "f2dc5695-50e0-471a-bf3f-4a903b2a7025",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex04_level_act46side_ex04_lightingdata.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex04_level_act46side_ex04_lightingdata.dat",
+            "size": 754202,
+            "fileId": 10921,
+            "fileName": "0c897dc3-d418-4a5c-b8b8-22f07d2396f0",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex01_level_act46side_ex01.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex01_level_act46side_ex01.dat",
+            "size": 744111,
+            "fileId": 8989,
+            "fileName": "885cf196-cfcc-42f6-a8ea-733ddf0b169a",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex01_level_act46side_ex01_lightingdata.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex01_level_act46side_ex01_lightingdata.dat",
+            "size": 654261,
+            "fileId": 10918,
+            "fileName": "ff6896d2-a56a-418d-9d01-74ce45cba4ec",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/arts_ui_stage_mappreview_h2_act46side_a_0.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/arts_ui_stage_mappreview_h2_act46side_a_0.dat",
+            "size": 587271,
+            "fileId": 5487,
+            "fileName": "77507512-03b6-4671-b620-00f853fd9e09",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex05_level_act46side_ex05_lightingdata.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex05_level_act46side_ex05_lightingdata.dat",
+            "size": 552479,
+            "fileId": 10922,
+            "fileName": "30ae1170-fb23-493f-9cd9-2d1c7c39fa43",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex05_level_act46side_ex05.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex05_level_act46side_ex05.dat",
+            "size": 513753,
+            "fileId": 8997,
+            "fileName": "13e4f14f-6db6-4466-bf2b-3bd3baf128bb",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex07_level_act46side_ex07.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex07_level_act46side_ex07.dat",
+            "size": 436346,
+            "fileId": 9001,
+            "fileName": "e6b357e3-5080-4efd-8a1d-87cc64651820",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/activity_[uc]act56sign.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/activity_[uc]act56sign.dat",
+            "size": 421196,
+            "fileId": 52,
+            "fileName": "b20ea67f-2d89-46b9-9a85-c4a2e1c7749a",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex07_level_act46side_ex07_lightingdata.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex07_level_act46side_ex07_lightingdata.dat",
+            "size": 329699,
+            "fileId": 10924,
+            "fileName": "a7c92052-bca2-430a-87ab-fd1241d69c87",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/shaders_other.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/shaders_other.dat",
+            "size": 56505,
+            "fileId": 2,
+            "fileName": "0eba3818-41f9-49e8-93e8-1b83bed432dc",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_4bb05c9d575415b63a26fb415f0df048.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_4bb05c9d575415b63a26fb415f0df048.dat",
+            "size": 52998,
+            "fileId": 1956,
+            "fileName": "cd82d52c-507e-4782-9d51-1c5460fa2e12",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_f24670d4b2197d30d7e29055167bbdd5.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_f24670d4b2197d30d7e29055167bbdd5.dat",
+            "size": 43697,
+            "fileId": 1959,
+            "fileName": "bfb1f362-8c91-4147-b931-a44fd873862c",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_a2eedd53f420ee4075313140dd84a2f1.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_a2eedd53f420ee4075313140dd84a2f1.dat",
+            "size": 20336,
+            "fileId": 1960,
+            "fileName": "4339bbef-7fa3-45fc-8e04-64bc40c72e77",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex06_level_act46side_ex06_lighting_settings.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex06_level_act46side_ex06_lighting_settings.dat",
+            "size": 1666,
+            "fileId": 9000,
+            "fileName": "d42b4dc5-857e-4f22-9f2f-074735eda848",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex02_level_act46side_ex02_lighting_settings.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex02_level_act46side_ex02_lighting_settings.dat",
+            "size": 1665,
+            "fileId": 8992,
+            "fileName": "438d37e7-d33c-4609-bcdd-f690f0965a84",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex03_level_act46side_ex03_lighting_settings.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex03_level_act46side_ex03_lighting_settings.dat",
+            "size": 1663,
+            "fileId": 8994,
+            "fileName": "b5230502-e295-4a40-a377-11820892543a",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex07_level_act46side_ex07_lighting_settings.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex07_level_act46side_ex07_lighting_settings.dat",
+            "size": 1663,
+            "fileId": 9002,
+            "fileName": "ba0dea1d-1778-41a6-8b51-561ebd558daa",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex04_level_act46side_ex04_lighting_settings.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex04_level_act46side_ex04_lighting_settings.dat",
+            "size": 1644,
+            "fileId": 8996,
+            "fileName": "1792d045-8863-44c8-9c20-dc3a22bb618e",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex08_level_act46side_ex08_lighting_settings.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex08_level_act46side_ex08_lighting_settings.dat",
+            "size": 1642,
+            "fileId": 9004,
+            "fileName": "2880e63c-24e2-4aa8-8892-35817d3b5f63",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex05_level_act46side_ex05_lighting_settings.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex05_level_act46side_ex05_lighting_settings.dat",
+            "size": 1641,
+            "fileId": 8998,
+            "fileName": "ff6cb619-9034-4917-a41e-d34247ac87dd",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex01_level_act46side_ex01_lighting_settings.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/scenes_activities_act46side_level_act46side_ex01_level_act46side_ex01_lighting_settings.dat",
+            "size": 1639,
+            "fileId": 8990,
+            "fileName": "fc5e0d56-e838-4b59-a920-17ede790387b",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_31a6e94741f410cde349af8ce76e9f64.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-06-11-20-46_949905/anon_31a6e94741f410cde349af8ce76e9f64.dat",
+            "size": 1414,
+            "fileId": 1955,
+            "fileName": "fc4a51f1-cd21-495e-b559-963c51a8aa99",
+            "path": ""
+        }
+    }
+}
