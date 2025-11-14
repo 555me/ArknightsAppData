@@ -35,8 +35,10 @@
   "_configName": "",
   "_keys": [
     "pic_bye",
+    "pic_bye_battle",
     "pic_coming",
     "pic_distrust",
+    "pic_distrust_battle",
     "pic_exchange",
     "pic_hello",
     "pic_hurry",
@@ -48,12 +50,15 @@
     "pic_thanks",
     "pic_thanks_battle",
     "pic_ufirst",
-    "pic_very_soon"
+    "pic_very_soon",
+    "pic_very_soon_battle"
   ],
   "_values": [
     "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_bye",
+    "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_bye_battle",
     "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_coming",
     "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_distrust",
+    "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_distrust_battle",
     "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_exchange",
     "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_hello",
     "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_hurry",
@@ -65,6 +70,7 @@
     "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_thanks",
     "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_thanks_battle",
     "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_ufirst",
-    "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_very_soon"
+    "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_very_soon",
+    "UI/Emoticon/Theme/[UC]emoticon_originium_slug/icon/pic_very_soon_battle"
   ]
 }

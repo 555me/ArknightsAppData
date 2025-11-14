@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "title_icon_hub",
+  "_rootPackingTag": "UI_AUTO_CHESS_TITLE_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 72,
+    "height": 72
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "comment_icon_1",
+    "comment_icon_2",
+    "comment_icon_3",
+    "comment_icon_4",
+    "comment_icon_5",
+    "comment_icon_6"
+  ],
+  "_values": [
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/TitleIcon/comment_icon_1",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/TitleIcon/comment_icon_2",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/TitleIcon/comment_icon_3",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/TitleIcon/comment_icon_4",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/TitleIcon/comment_icon_5",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/TitleIcon/comment_icon_6"
+  ]
+}

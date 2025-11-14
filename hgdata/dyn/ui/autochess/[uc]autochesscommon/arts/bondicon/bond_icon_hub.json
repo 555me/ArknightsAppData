@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "bond_icon_hub",
+  "_rootPackingTag": "UI_AUTO_CHESS_BOND_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 128,
+    "height": 128
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "icon_deputship",
+    "icon_egirship",
+    "icon_emptyship",
+    "icon_indomship",
+    "icon_investship",
+    "icon_kjeragship",
+    "icon_lateranoship",
+    "icon_maniship",
+    "icon_miraship",
+    "icon_preciship",
+    "icon_raidship",
+    "icon_sargonship",
+    "icon_skillfulship",
+    "icon_steadship",
+    "icon_swiftship",
+    "icon_victoriaship",
+    "icon_visiship",
+    "icon_yanship"
+  ],
+  "_values": [
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_deputShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_egirShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_emptyShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_indomShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_investShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_kjeragShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_lateranoShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_maniShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_miraShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_preciShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_raidShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_sargonShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_skillfulShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_steadShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_swiftShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_victoriaShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_visiShip",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BondIcon/icon_yanShip"
+  ]
+}

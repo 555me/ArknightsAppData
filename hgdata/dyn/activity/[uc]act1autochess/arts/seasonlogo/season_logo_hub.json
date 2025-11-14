@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "season_logo_hub",
+  "_rootPackingTag": "UI_ACT1AUTOCHESS_SEASON_LOGO",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 200,
+    "height": 200
+  },
+  "_extraPicSize": [
+    {
+      "width": 150,
+      "height": 150
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "season_logo_settle_game"
+  ],
+  "_values": [
+    "Activity/[UC]act1autochess/Arts/SeasonLogo/season_logo_settle_game"
+  ]
+}

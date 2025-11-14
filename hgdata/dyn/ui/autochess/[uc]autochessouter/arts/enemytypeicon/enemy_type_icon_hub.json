@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "enemy_type_icon_hub",
+  "_rootPackingTag": "UI_AUTO_CHESS_ENEMY_TYPE_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 128,
+    "height": 128
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "dot_icon",
+    "element_icon",
+    "fly_icon",
+    "invisible_icon",
+    "reflection_icon",
+    "special_icon",
+    "times_icon"
+  ],
+  "_values": [
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/dot_icon",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/element_icon",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/fly_icon",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/invisible_icon",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/reflection_icon",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/special_icon",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/times_icon"
+  ]
+}

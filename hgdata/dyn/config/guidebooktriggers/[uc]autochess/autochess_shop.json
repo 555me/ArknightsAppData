@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "autochess_shop",
+  "_pageIds": [
+    "[PACK]AutoChess/autochess_shop_1",
+    "[PACK]AutoChess/autochess_shop_2",
+    "[PACK]AutoChess/autochess_shop_3",
+    "[PACK]AutoChess/autochess_shop_4",
+    "[PACK]AutoChess/autochess_shop_5",
+    "[PACK]AutoChess/autochess_shop_6"
+  ],
+  "_autoShowTarget": 50,
+  "_subsignal": "shop"
+}

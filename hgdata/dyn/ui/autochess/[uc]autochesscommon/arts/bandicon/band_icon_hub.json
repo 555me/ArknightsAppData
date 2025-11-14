@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "band_icon_hub",
+  "_rootPackingTag": "UI_AUTO_CHESS_BAND_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 180,
+    "height": 180
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "icon_amiya",
+    "icon_bldsk",
+    "icon_clementia",
+    "icon_duyaoy",
+    "icon_emperor",
+    "icon_ermengard",
+    "icon_harold",
+    "icon_humus",
+    "icon_justin",
+    "icon_kirara",
+    "icon_lmlee",
+    "icon_mberry",
+    "icon_orchid",
+    "icon_paganini",
+    "icon_pepe",
+    "icon_quintus",
+    "icon_sarkazb",
+    "icon_sciurus",
+    "icon_yu",
+    "icon_zumama"
+  ],
+  "_values": [
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_amiya",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_bldsk",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_clementia",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_duyaoy",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_emperor",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_ermengard",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_harold",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_humus",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_justin",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_kirara",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_lmlee",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_mberry",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_orchid",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_paganini",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_pepe",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_quintus",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_sarkazb",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_sciurus",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_yu",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/BandIcon/icon_zumama"
+  ]
+}

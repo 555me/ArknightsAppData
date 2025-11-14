@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "bond_board_icon_hub",
+  "_rootPackingTag": "UI_AUTO_CHESS_BOND_BOARD_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 77,
+    "height": 77
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "1_1",
+    "2_1",
+    "2_2",
+    "3_1",
+    "3_2",
+    "3_3",
+    "4_1",
+    "4_2",
+    "4_3",
+    "4_4"
+  ],
+  "_values": [
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/1_1",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/2_1",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/2_2",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/3_1",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/3_2",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/3_3",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/4_1",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/4_2",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/4_3",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/4_4"
+  ]
+}

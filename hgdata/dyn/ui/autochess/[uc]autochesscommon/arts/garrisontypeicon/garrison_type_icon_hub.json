@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "garrison_type_icon_hub",
+  "_rootPackingTag": "UI_AUTO_CHESS_GARRSION_TYPE_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 95,
+    "height": 95
+  },
+  "_extraPicSize": [
+    {
+      "width": 32,
+      "height": 32
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "icon_battle",
+    "icon_bond",
+    "icon_gold",
+    "icon_support",
+    "s_icon_battle",
+    "s_icon_bond",
+    "s_icon_gold",
+    "s_icon_support"
+  ],
+  "_values": [
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/GarrisonTypeIcon/icon_battle",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/GarrisonTypeIcon/icon_bond",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/GarrisonTypeIcon/icon_gold",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/GarrisonTypeIcon/icon_support",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/GarrisonTypeIcon/s_icon_battle",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/GarrisonTypeIcon/s_icon_bond",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/GarrisonTypeIcon/s_icon_gold",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/GarrisonTypeIcon/s_icon_support"
+  ]
+}

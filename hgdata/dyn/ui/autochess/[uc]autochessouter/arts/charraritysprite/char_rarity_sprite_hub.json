@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "char_rarity_sprite_hub",
+  "_rootPackingTag": "UI_AUTO_CHESS_RARITY_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 56,
+    "height": 13
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rarity_0",
+    "rarity_1",
+    "rarity_2",
+    "rarity_3",
+    "rarity_4",
+    "rarity_5"
+  ],
+  "_values": [
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharRaritySprite/rarity_0",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharRaritySprite/rarity_1",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharRaritySprite/rarity_2",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharRaritySprite/rarity_3",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharRaritySprite/rarity_4",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharRaritySprite/rarity_5"
+  ]
+}

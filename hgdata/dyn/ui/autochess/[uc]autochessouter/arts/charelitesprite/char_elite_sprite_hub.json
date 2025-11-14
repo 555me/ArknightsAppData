@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "char_elite_sprite_hub",
+  "_rootPackingTag": "UI_AUTO_CHESS_ELITE_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 39,
+    "height": 49
+  },
+  "_extraPicSize": [
+    {
+      "width": 40,
+      "height": 30
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "char_elite_base_0",
+    "char_elite_base_1",
+    "char_elite_base_2",
+    "char_elite_detail_0",
+    "char_elite_detail_1",
+    "char_elite_detail_2",
+    "char_elite_gold_0",
+    "char_elite_gold_1",
+    "char_elite_gold_2"
+  ],
+  "_values": [
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharEliteSprite/char_elite_base_0",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharEliteSprite/char_elite_base_1",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharEliteSprite/char_elite_base_2",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharEliteSprite/char_elite_detail_0",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharEliteSprite/char_elite_detail_1",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharEliteSprite/char_elite_detail_2",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharEliteSprite/char_elite_gold_0",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharEliteSprite/char_elite_gold_1",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/CharEliteSprite/char_elite_gold_2"
+  ]
+}

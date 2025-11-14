@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "buff_icon_hub",
+  "_rootPackingTag": "UI_AUTO_CHESS_BUFF_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 120,
+    "height": 120
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "icon_boss_debuff",
+    "icon_enemy_debuff",
+    "icon_player_buff",
+    "icon_stage_buff",
+    "icon_team_buff"
+  ],
+  "_values": [
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BuffIcon/icon_boss_debuff",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BuffIcon/icon_enemy_debuff",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BuffIcon/icon_player_buff",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BuffIcon/icon_stage_buff",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BuffIcon/icon_team_buff"
+  ]
+}

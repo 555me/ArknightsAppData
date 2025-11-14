@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "autochess_home",
+  "_pageIds": [
+    "[PACK]AutoChess/autochess_home_1",
+    "[PACK]AutoChess/autochess_home_2",
+    "[PACK]AutoChess/autochess_home_3",
+    "[PACK]AutoChess/autochess_home_4",
+    "[PACK]AutoChess/autochess_home_5",
+    "[PACK]AutoChess/autochess_home_6",
+    "[PACK]AutoChess/autochess_home_7",
+    "[PACK]AutoChess/autochess_home_8",
+    "[PACK]AutoChess/autochess_home_9"
+  ],
+  "_autoShowTarget": 50,
+  "_subsignal": "home"
+}

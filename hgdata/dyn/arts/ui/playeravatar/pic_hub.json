@@ -30,6 +30,7 @@
   "_configName": "",
   "_keys": [
     "avatar_activity_ac",
+    "avatar_activity_ac_1",
     "avatar_activity_af",
     "avatar_activity_arc1",
     "avatar_activity_aw",
@@ -99,6 +100,7 @@
     "avatar_activity_wr",
     "avatar_activity_xb1_1",
     "avatar_activity_xb1_2",
+    "avatar_activity_zt",
     "avatar_def_01",
     "avatar_def_02",
     "avatar_def_03",
@@ -179,6 +181,7 @@
   ],
   "_values": [
     "Arts/UI/PlayerAvatar/avatar_activity_AC",
+    "Arts/UI/PlayerAvatar/avatar_activity_AC_1",
     "Arts/UI/PlayerAvatar/avatar_activity_AF",
     "Arts/UI/PlayerAvatar/avatar_activity_ARC1",
     "Arts/UI/PlayerAvatar/avatar_activity_AW",
@@ -248,6 +251,7 @@
     "Arts/UI/PlayerAvatar/avatar_activity_WR",
     "Arts/UI/PlayerAvatar/avatar_activity_XB1_1",
     "Arts/UI/PlayerAvatar/avatar_activity_XB1_2",
+    "Arts/UI/PlayerAvatar/avatar_activity_ZT",
     "Arts/UI/PlayerAvatar/avatar_def_01",
     "Arts/UI/PlayerAvatar/avatar_def_02",
     "Arts/UI/PlayerAvatar/avatar_def_03",
