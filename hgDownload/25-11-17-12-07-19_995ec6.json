@@ -1,0 +1,54 @@
+{
+    "downloadType": 0,
+    "downloadData": {
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/1dbfe7e0ce159cc1fb800b0a0aa1a565.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/1dbfe7e0ce159cc1fb800b0a0aa1a565.dat",
+            "size": 2987293,
+            "fileId": 1,
+            "fileName": "8271c5b6-d437-4e8e-8553-d914a6e9d73f",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/anon_9bc1bab703656565130097b33ef18349.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/anon_9bc1bab703656565130097b33ef18349.dat",
+            "size": 1082346,
+            "fileId": 1996,
+            "fileName": "edf4c295-ef33-4eb2-a4bf-d112df11e543",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/anon_2452ed9be46e10520f72f7d8d46cd1fb.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/anon_2452ed9be46e10520f72f7d8d46cd1fb.dat",
+            "size": 1053809,
+            "fileId": 1938,
+            "fileName": "05c9c20e-253b-481a-b668-3712b6cac2d5",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/anon_c0beac7608657d267cf8ef3014f6b905.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/anon_c0beac7608657d267cf8ef3014f6b905.dat",
+            "size": 527303,
+            "fileId": 1981,
+            "fileName": "540c5e02-5c60-44c0-a618-eacfd0f67078",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/arts_dynavatars_0.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/arts_dynavatars_0.dat",
+            "size": 295881,
+            "fileId": 3003,
+            "fileName": "03a72d1c-6af9-44cc-80b3-fcb7bb53d816",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/shaders_other.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/shaders_other.dat",
+            "size": 56572,
+            "fileId": 2,
+            "fileName": "d21cd366-f756-403d-bd19-3e6ffa181d53",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/anon_e8fd82f4def63e59fd9b1d50525f5e6f.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-11-17-12-07-19_995ec6/anon_e8fd82f4def63e59fd9b1d50525f5e6f.dat",
+            "size": 1414,
+            "fileId": 1955,
+            "fileName": "0764c3fe-6112-4433-b2a2-4ec3af2cfba4",
+            "path": ""
+        }
+    }
+}
