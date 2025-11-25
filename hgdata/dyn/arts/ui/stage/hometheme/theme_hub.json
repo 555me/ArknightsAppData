@@ -40,6 +40,7 @@
   "_keys": [
     "act1autochess",
     "act2multi",
+    "act38sre",
     "act3mainss_1",
     "act3mainss_2",
     "act3mainss_3",
@@ -73,6 +74,7 @@
   "_values": [
     "Arts/UI/Stage/HomeTheme/act1autochess",
     "Arts/UI/Stage/HomeTheme/act2multi",
+    "Arts/UI/Stage/HomeTheme/act38sre",
     "Arts/UI/Stage/HomeTheme/act3mainss_1",
     "Arts/UI/Stage/HomeTheme/act3mainss_2",
     "Arts/UI/Stage/HomeTheme/act3mainss_3",
