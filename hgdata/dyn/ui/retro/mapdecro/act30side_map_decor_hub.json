@@ -5,8 +5,8 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -4420957637576057513
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
   },
   "m_Name": "act30side_map_decor_hub",
   "_sprites": [
@@ -88,11 +88,11 @@
       "index": 0,
       "texture": {
         "m_FileID": 0,
-        "m_PathID": -5328186287204097409
+        "m_PathID": -1879422717481930963
       },
       "alpha": {
         "m_FileID": 0,
-        "m_PathID": 908177164611419766
+        "m_PathID": -4209192149753753145
       },
       "size": 1024
     }

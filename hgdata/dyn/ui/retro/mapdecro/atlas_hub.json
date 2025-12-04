@@ -1,0 +1,185 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
+  },
+  "m_Name": "atlas_hub",
+  "_sprites": [
+    {
+      "name": "car",
+      "guid": "3be0530a833986a4584014a97814cbd3",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 276,
+        "h": 136
+      },
+      "rotate": 0
+    },
+    {
+      "name": "select_icon_2",
+      "guid": "1ad958bf49112e24284700e20d9a3e7d",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 138,
+        "w": 153,
+        "h": 147
+      },
+      "rotate": 0
+    },
+    {
+      "name": "select_icon_1",
+      "guid": "b6c55d1e9d39d5f4fb7456fffce1687b",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 287,
+        "w": 153,
+        "h": 147
+      },
+      "rotate": 0
+    },
+    {
+      "name": "zone_3_locked",
+      "guid": "824d2cae89042b849b21953bf98281e4",
+      "atlas": 0,
+      "rect": {
+        "x": 278,
+        "y": 0,
+        "w": 135,
+        "h": 121
+      },
+      "rotate": 0
+    },
+    {
+      "name": "zone_3",
+      "guid": "f99ab48bd02b4ca43a37be8cab417caa",
+      "atlas": 0,
+      "rect": {
+        "x": 278,
+        "y": 123,
+        "w": 135,
+        "h": 121
+      },
+      "rotate": 0
+    },
+    {
+      "name": "zone_2_locked",
+      "guid": "798022f337c5caf4b94e137b14c5a305",
+      "atlas": 0,
+      "rect": {
+        "x": 278,
+        "y": 246,
+        "w": 135,
+        "h": 121
+      },
+      "rotate": 0
+    },
+    {
+      "name": "zone_2",
+      "guid": "91052da9fb6068d458f3fe2fa9646fcb",
+      "atlas": 0,
+      "rect": {
+        "x": 278,
+        "y": 369,
+        "w": 135,
+        "h": 121
+      },
+      "rotate": 0
+    },
+    {
+      "name": "zone_1",
+      "guid": "4ba6e86271a5a8f41ab6d3153d41e315",
+      "atlas": 0,
+      "rect": {
+        "x": 155,
+        "y": 138,
+        "w": 121,
+        "h": 135
+      },
+      "rotate": 1
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 1081626212358094403
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 5314410318069717538
+      },
+      "size": 512
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 1,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "car",
+        "guid": "3be0530a833986a4584014a97814cbd3",
+        "md5": "b61b174d2a263f2b0d7d362114bd30b5"
+      },
+      {
+        "name": "select_icon_2",
+        "guid": "1ad958bf49112e24284700e20d9a3e7d",
+        "md5": "61b0bef8cd0bc2db1b5f34ccd8bc643a"
+      },
+      {
+        "name": "select_icon_1",
+        "guid": "b6c55d1e9d39d5f4fb7456fffce1687b",
+        "md5": "4de5816b5571952912bc1c767ad62643"
+      },
+      {
+        "name": "zone_3_locked",
+        "guid": "824d2cae89042b849b21953bf98281e4",
+        "md5": "8ff26f0f3d79e488b1c2a5be93c0afdc"
+      },
+      {
+        "name": "zone_3",
+        "guid": "f99ab48bd02b4ca43a37be8cab417caa",
+        "md5": "1280641f95a0bb93875baf81a42107ce"
+      },
+      {
+        "name": "zone_2_locked",
+        "guid": "798022f337c5caf4b94e137b14c5a305",
+        "md5": "5c1721731e679510ff8f3f268d76694c"
+      },
+      {
+        "name": "zone_2",
+        "guid": "91052da9fb6068d458f3fe2fa9646fcb",
+        "md5": "52b1167cdf0077ff5ed2eaab7d577815"
+      },
+      {
+        "name": "zone_1",
+        "guid": "4ba6e86271a5a8f41ab6d3153d41e315",
+        "md5": "fbf6b18ce993615e58d826c50c27e679"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "atlas_hub#0",
+        "guid": "7e22e672722c6ec4e8e732ae9ed9bde4",
+        "md5": "d03c5c9ab4a308988011e5078029762e"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "atlas_hub#0a",
+        "guid": "058572795671b914e845102138fa5304",
+        "md5": "a530b9016ee3f258d05c73093790b36f"
+      }
+    ]
+  }
+}
