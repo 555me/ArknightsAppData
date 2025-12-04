@@ -85,6 +85,7 @@
     "hok-x",
     "hok-y",
     "hun-x",
+    "hun-y",
     "inc-x",
     "ins-x",
     "ins-y",
@@ -150,7 +151,8 @@
     "uny-y",
     "wah-x",
     "wah-y",
-    "wdm-x"
+    "wdm-x",
+    "xah-x"
   ],
   "_values": [
     "Arts/UI/UniEquipDirection/aft-d",
@@ -209,6 +211,7 @@
     "Arts/UI/UniEquipDirection/hok-x",
     "Arts/UI/UniEquipDirection/hok-y",
     "Arts/UI/UniEquipDirection/hun-x",
+    "Arts/UI/UniEquipDirection/hun-y",
     "Arts/UI/UniEquipDirection/inc-x",
     "Arts/UI/UniEquipDirection/ins-x",
     "Arts/UI/UniEquipDirection/ins-y",
@@ -274,6 +277,7 @@
     "Arts/UI/UniEquipDirection/uny-y",
     "Arts/UI/UniEquipDirection/wah-x",
     "Arts/UI/UniEquipDirection/wah-y",
-    "Arts/UI/UniEquipDirection/wdm-x"
+    "Arts/UI/UniEquipDirection/wdm-x",
+    "Arts/UI/UniEquipDirection/xah-x"
   ]
 }

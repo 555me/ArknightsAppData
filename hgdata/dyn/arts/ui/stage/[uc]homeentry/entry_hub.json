@@ -30,10 +30,8 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act1autochess",
-    "act2multi",
     "act38sre",
-    "act3mainss",
-    "act46side",
+    "act47side",
     "main_0",
     "main_1",
     "main_10",
@@ -54,10 +52,8 @@
   ],
   "_values": [
     "Arts/UI/Stage/[UC]HomeEntry/act1autochess",
-    "Arts/UI/Stage/[UC]HomeEntry/act2multi",
     "Arts/UI/Stage/[UC]HomeEntry/act38sre",
-    "Arts/UI/Stage/[UC]HomeEntry/act3mainss",
-    "Arts/UI/Stage/[UC]HomeEntry/act46side",
+    "Arts/UI/Stage/[UC]HomeEntry/act47side",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_10",
