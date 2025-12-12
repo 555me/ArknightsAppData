@@ -48,6 +48,7 @@
     "bkg_tower_n_17",
     "bkg_tower_n_18",
     "bkg_tower_n_19",
+    "bkg_tower_n_20",
     "bkg_tower_tr"
   ],
   "_values": [
@@ -70,6 +71,7 @@
     "Arts/UI/[UC]ClimbTower/TowerBkg/bkg_tower_n_17",
     "Arts/UI/[UC]ClimbTower/TowerBkg/bkg_tower_n_18",
     "Arts/UI/[UC]ClimbTower/TowerBkg/bkg_tower_n_19",
+    "Arts/UI/[UC]ClimbTower/TowerBkg/bkg_tower_n_20",
     "Arts/UI/[UC]ClimbTower/TowerBkg/bkg_tower_tr"
   ]
 }

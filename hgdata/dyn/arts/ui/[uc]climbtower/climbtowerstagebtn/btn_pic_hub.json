@@ -47,7 +47,8 @@
     "btn_tower_n_16",
     "btn_tower_n_17",
     "btn_tower_n_18",
-    "btn_tower_n_19"
+    "btn_tower_n_19",
+    "btn_tower_n_20"
   ],
   "_values": [
     "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_01",
@@ -68,6 +69,7 @@
     "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_16",
     "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_17",
     "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_18",
-    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_19"
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_19",
+    "Arts/UI/[UC]ClimbTower/ClimbTowerStageBtn/btn_tower_n_20"
   ]
 }

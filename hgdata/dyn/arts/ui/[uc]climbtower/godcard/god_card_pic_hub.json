@@ -51,6 +51,7 @@
     "card_tower_17",
     "card_tower_18",
     "card_tower_19",
+    "card_tower_20",
     "subcard_01_01",
     "subcard_01_02",
     "subcard_02_01",
@@ -94,7 +95,9 @@
     "subtowercard_18_01",
     "subtowercard_18_02",
     "subtowercard_19_01",
-    "subtowercard_19_02"
+    "subtowercard_19_02",
+    "subtowercard_20_01",
+    "subtowercard_20_02"
   ],
   "_values": [
     "Arts/UI/[UC]ClimbTower/GodCard/card_01",
@@ -119,6 +122,7 @@
     "Arts/UI/[UC]ClimbTower/GodCard/card_tower_17",
     "Arts/UI/[UC]ClimbTower/GodCard/card_tower_18",
     "Arts/UI/[UC]ClimbTower/GodCard/card_tower_19",
+    "Arts/UI/[UC]ClimbTower/GodCard/card_tower_20",
     "Arts/UI/[UC]ClimbTower/GodCard/subcard_01_01",
     "Arts/UI/[UC]ClimbTower/GodCard/subcard_01_02",
     "Arts/UI/[UC]ClimbTower/GodCard/subcard_02_01",
@@ -162,6 +166,8 @@
     "Arts/UI/[UC]ClimbTower/GodCard/subtowercard_18_01",
     "Arts/UI/[UC]ClimbTower/GodCard/subtowercard_18_02",
     "Arts/UI/[UC]ClimbTower/GodCard/subtowercard_19_01",
-    "Arts/UI/[UC]ClimbTower/GodCard/subtowercard_19_02"
+    "Arts/UI/[UC]ClimbTower/GodCard/subtowercard_19_02",
+    "Arts/UI/[UC]ClimbTower/GodCard/subtowercard_20_01",
+    "Arts/UI/[UC]ClimbTower/GodCard/subtowercard_20_02"
   ]
 }

@@ -31,6 +31,7 @@
   "_keys": [
     "act1autochess",
     "act38sre",
+    "act39sre",
     "act47side",
     "main_0",
     "main_1",
@@ -53,6 +54,7 @@
   "_values": [
     "Arts/UI/Stage/[UC]HomeEntry/act1autochess",
     "Arts/UI/Stage/[UC]HomeEntry/act38sre",
+    "Arts/UI/Stage/[UC]HomeEntry/act39sre",
     "Arts/UI/Stage/[UC]HomeEntry/act47side",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
