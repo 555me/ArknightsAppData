@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "team_icon_hub",
+  "_rootPackingTag": "UI_ACT_6BOSSRUSH_TEAM_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 57,
+    "height": 67
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "img_team_icon_01",
+    "img_team_icon_02",
+    "img_team_icon_03"
+  ],
+  "_values": [
+    "Activity/[UC]act6BossRush/Arts/TeamIcon/img_team_icon_01",
+    "Activity/[UC]act6BossRush/Arts/TeamIcon/img_team_icon_02",
+    "Activity/[UC]act6BossRush/Arts/TeamIcon/img_team_icon_03"
+  ]
+}

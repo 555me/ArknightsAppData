@@ -30,6 +30,7 @@
   "_configName": "",
   "_keys": [
     "avatar_special_amiya",
+    "avatar_special_amiya_2025",
     "icon_rhodes_island",
     "mail_avatar_penguin_logistics",
     "mail_choearth_amiya",
@@ -38,6 +39,7 @@
   ],
   "_values": [
     "Arts/UI/[UC]MailSender/avatar_special_amiya",
+    "Arts/UI/[UC]MailSender/avatar_special_amiya_2025",
     "Arts/UI/[UC]MailSender/icon_rhodes_island",
     "Arts/UI/[UC]MailSender/mail_avatar_penguin_logistics",
     "Arts/UI/[UC]MailSender/mail_choearth_amiya",

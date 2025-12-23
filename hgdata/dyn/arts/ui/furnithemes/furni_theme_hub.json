@@ -29,6 +29,7 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "furnim_set_amiya",
     "furnim_set_basicroom",
     "furnim_set_taiko",
     "furni_set_abyssal",
@@ -154,6 +155,7 @@
     "furni_set_yanprivateschool"
   ],
   "_values": [
+    "Arts/UI/FurniThemes/furniM_set_amiya",
     "Arts/UI/FurniThemes/furniM_set_basicRoom",
     "Arts/UI/FurniThemes/furniM_set_taiko",
     "Arts/UI/FurniThemes/furni_set_abyssal",

@@ -121,6 +121,7 @@
     "avatar_dyn_01",
     "avatar_dyn_02",
     "avatar_dyn_03",
+    "avatar_dyn_04",
     "avatar_special_01",
     "avatar_special_02",
     "avatar_special_03",
@@ -179,6 +180,7 @@
     "avatar_special_56",
     "avatar_special_57",
     "avatar_special_58",
+    "avatar_special_60",
     "avatar_special_missc"
   ],
   "_values": [
@@ -274,6 +276,7 @@
     "Arts/UI/PlayerAvatar/avatar_dyn_01",
     "Arts/UI/PlayerAvatar/avatar_dyn_02",
     "Arts/UI/PlayerAvatar/avatar_dyn_03",
+    "Arts/UI/PlayerAvatar/avatar_dyn_04",
     "Arts/UI/PlayerAvatar/avatar_special_01",
     "Arts/UI/PlayerAvatar/avatar_special_02",
     "Arts/UI/PlayerAvatar/avatar_special_03",
@@ -332,6 +335,7 @@
     "Arts/UI/PlayerAvatar/avatar_special_56",
     "Arts/UI/PlayerAvatar/avatar_special_57",
     "Arts/UI/PlayerAvatar/avatar_special_58",
+    "Arts/UI/PlayerAvatar/avatar_special_60",
     "Arts/UI/PlayerAvatar/avatar_special_MissC"
   ]
 }
