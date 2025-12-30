@@ -1,0 +1,75 @@
+{
+    "downloadType": 0,
+    "downloadData": {
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/16b410e67450b09f142ff824b1014ce4.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/16b410e67450b09f142ff824b1014ce4.dat",
+            "size": 3021828,
+            "fileId": 1,
+            "fileName": "c4afe3d8-d786-46b1-95ca-d8e72a25e791",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/arts_dynchars_char_1001_amiya2_sale__16.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/arts_dynchars_char_1001_amiya2_sale__16.dat",
+            "size": 9626901,
+            "fileId": 3037,
+            "fileName": "94b54665-b7e8-481c-88e2-a4111dff25f6",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/anon_d2e79f74d546fd451b0b166d249e22f8.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/anon_d2e79f74d546fd451b0b166d249e22f8.dat",
+            "size": 3095146,
+            "fileId": 8326,
+            "fileName": "4cf69f2b-625a-47e4-bec1-7701143ada66",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/arts_ui_item_icons_6.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/arts_ui_item_icons_6.dat",
+            "size": 2916389,
+            "fileId": 3166,
+            "fileName": "f5470c74-5698-4bdf-af86-d67e79f7d2a4",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/activity_[uc]act6bossrush.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/activity_[uc]act6bossrush.dat",
+            "size": 2456359,
+            "fileId": 2246,
+            "fileName": "daddc927-9757-4fac-9dad-1712bb4eb880",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/spritepack_ui_gp_shop_dyn_13.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/spritepack_ui_gp_shop_dyn_13.dat",
+            "size": 1173156,
+            "fileId": 5255,
+            "fileName": "6cedd66f-bf43-4542-b3cc-f3e62e73dc8d",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/anon_0c63a75936b7257c24eaebcd29355bef.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/anon_0c63a75936b7257c24eaebcd29355bef.dat",
+            "size": 837795,
+            "fileId": 2005,
+            "fileName": "bae13c69-2377-486b-a25e-ca3e90bbede9",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/arts_shop_recommendshopgroup_tag_924.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/arts_shop_recommendshopgroup_tag_924.dat",
+            "size": 801970,
+            "fileId": 3327,
+            "fileName": "6b1f92d3-a966-4217-aa8e-d7cacb6833bf",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/arts_ui_hometheme_common.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/arts_ui_hometheme_common.dat",
+            "size": 634904,
+            "fileId": 3350,
+            "fileName": "2600409b-fc2a-4aa0-9f7c-7466e076eb5f",
+            "path": ""
+        },
+        "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/anon_ebf18fbaaa467fd40d6692098b14f0c0.dat": {
+            "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/25-12-30-07-42-27_86bc9a/anon_ebf18fbaaa467fd40d6692098b14f0c0.dat",
+            "size": 1419,
+            "fileId": 1976,
+            "fileName": "d3090f20-366a-4c3b-908f-aa6f47480b6e",
+            "path": ""
+        }
+    }
+}
