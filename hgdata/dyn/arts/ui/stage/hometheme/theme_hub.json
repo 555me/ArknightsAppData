@@ -38,10 +38,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
-    "act1autochess",
-    "act38sre",
-    "act39sre",
-    "act47side",
+    "act48side",
     "act6bossrush",
     "main_10",
     "main_11",
@@ -70,10 +67,7 @@
     "sandbox_1_entry_display_3"
   ],
   "_values": [
-    "Arts/UI/Stage/HomeTheme/act1autochess",
-    "Arts/UI/Stage/HomeTheme/act38sre",
-    "Arts/UI/Stage/HomeTheme/act39sre",
-    "Arts/UI/Stage/HomeTheme/act47side",
+    "Arts/UI/Stage/HomeTheme/act48side",
     "Arts/UI/Stage/HomeTheme/act6bossrush",
     "Arts/UI/Stage/HomeTheme/main_10",
     "Arts/UI/Stage/HomeTheme/main_11",
