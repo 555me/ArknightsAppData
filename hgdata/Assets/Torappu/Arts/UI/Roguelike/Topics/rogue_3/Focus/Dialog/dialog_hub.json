@@ -1,0 +1,168 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
+  },
+  "m_Name": "dialog_hub",
+  "_sprites": [
+    {
+      "name": "back_mask",
+      "guid": "db7210e78ddb7b544aa54937904d9585",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 83
+      },
+      "rotate": 0
+    },
+    {
+      "name": "common_part",
+      "guid": "8351159f9e0d5c042a69a86198c7f156",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 85,
+        "w": 236,
+        "h": 44
+      },
+      "rotate": 0
+    },
+    {
+      "name": "max_part",
+      "guid": "dabecd64402332941ace0bb5800b37f9",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 131,
+        "w": 218,
+        "h": 41
+      },
+      "rotate": 0
+    },
+    {
+      "name": "min_part",
+      "guid": "e7fcef9214be9f14f947fe6fb25b5b2f",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 174,
+        "w": 212,
+        "h": 43
+      },
+      "rotate": 0
+    },
+    {
+      "name": "text_back",
+      "guid": "54591213e20f2b54692f73b0cdb57977",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 219,
+        "w": 84,
+        "h": 39
+      },
+      "rotate": 0
+    },
+    {
+      "name": "green_back",
+      "guid": "66fd924af8989ba4a8063da77bd3b769",
+      "atlas": 0,
+      "rect": {
+        "x": 86,
+        "y": 219,
+        "w": 60,
+        "h": 28
+      },
+      "rotate": 0
+    },
+    {
+      "name": "icon",
+      "guid": "4d1c3402698a06c4a93e9af5545d2b96",
+      "atlas": 0,
+      "rect": {
+        "x": 238,
+        "y": 85,
+        "w": 21,
+        "h": 21
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 7717884951270878511
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 6760275184758049149
+      },
+      "size": 512
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "back_mask",
+        "guid": "db7210e78ddb7b544aa54937904d9585",
+        "md5": "92676787630c5f9c700842503797bd5e"
+      },
+      {
+        "name": "common_part",
+        "guid": "8351159f9e0d5c042a69a86198c7f156",
+        "md5": "3f2d853cdab216abf3519bab584a3fa8"
+      },
+      {
+        "name": "max_part",
+        "guid": "dabecd64402332941ace0bb5800b37f9",
+        "md5": "5aa0614b8679d586d9d320b53cd0d9d8"
+      },
+      {
+        "name": "min_part",
+        "guid": "e7fcef9214be9f14f947fe6fb25b5b2f",
+        "md5": "7e0e160d19a3aa1684bc54727872d5f4"
+      },
+      {
+        "name": "text_back",
+        "guid": "54591213e20f2b54692f73b0cdb57977",
+        "md5": "f530378f5ef06f3cd2ba6e228665cc20"
+      },
+      {
+        "name": "green_back",
+        "guid": "66fd924af8989ba4a8063da77bd3b769",
+        "md5": "d4acfa3093103c2416144af92a5071a7"
+      },
+      {
+        "name": "icon",
+        "guid": "4d1c3402698a06c4a93e9af5545d2b96",
+        "md5": "3106ded5f853f15559b2dff0bc135284"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "dialog_hub#0",
+        "guid": "d8c8348083a47194d8a5d5a346181373",
+        "md5": "256ca0abd4271642f5d6b47181121dc0"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "dialog_hub#0a",
+        "guid": "4915ec5053d49d64dbb52e1101173bf1",
+        "md5": "3298b5d84dfb5df4d4cbd1000d219aca"
+      }
+    ]
+  }
+}

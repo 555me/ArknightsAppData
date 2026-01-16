@@ -35,6 +35,7 @@
     "epoque_42",
     "iteration_epoque",
     "nian_11",
+    "rilakkuma",
     "sale_13",
     "sale_16",
     "sale_epoque",
@@ -44,6 +45,7 @@
     "snow",
     "summer_sightseer_marthe",
     "summer_yun",
+    "winter",
     "winter_sale_epoque"
   ],
   "_values": [
@@ -53,6 +55,7 @@
     "Premain/PremainTitleBar/epoque_42",
     "Premain/PremainTitleBar/iteration_epoque",
     "Premain/PremainTitleBar/nian_11",
+    "Premain/PremainTitleBar/rilakkuma",
     "Premain/PremainTitleBar/sale_13",
     "Premain/PremainTitleBar/sale_16",
     "Premain/PremainTitleBar/sale_epoque",
@@ -62,6 +65,7 @@
     "Premain/PremainTitleBar/snow",
     "Premain/PremainTitleBar/summer_sightseer_marthe",
     "Premain/PremainTitleBar/summer_yun",
+    "Premain/PremainTitleBar/winter",
     "Premain/PremainTitleBar/winter_sale_epoque"
   ]
 }
