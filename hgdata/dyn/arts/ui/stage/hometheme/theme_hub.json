@@ -38,6 +38,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
+    "act40sre",
     "act48side",
     "act6bossrush",
     "main_10",
@@ -62,11 +63,13 @@
     "rogue_4_entry_display_4",
     "rogue_5_entry_display_1",
     "rogue_5_entry_display_2",
+    "rogue_5_entry_display_3",
     "sandbox_1_entry_display_1",
     "sandbox_1_entry_display_2",
     "sandbox_1_entry_display_3"
   ],
   "_values": [
+    "Arts/UI/Stage/HomeTheme/act40sre",
     "Arts/UI/Stage/HomeTheme/act48side",
     "Arts/UI/Stage/HomeTheme/act6bossrush",
     "Arts/UI/Stage/HomeTheme/main_10",
@@ -91,6 +94,7 @@
     "Arts/UI/Stage/HomeTheme/rogue_4_entry_display_4",
     "Arts/UI/Stage/HomeTheme/rogue_5_entry_display_1",
     "Arts/UI/Stage/HomeTheme/rogue_5_entry_display_2",
+    "Arts/UI/Stage/HomeTheme/rogue_5_entry_display_3",
     "Arts/UI/Stage/HomeTheme/sandbox_1_entry_display_1",
     "Arts/UI/Stage/HomeTheme/sandbox_1_entry_display_2",
     "Arts/UI/Stage/HomeTheme/sandbox_1_entry_display_3"

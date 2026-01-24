@@ -36,6 +36,7 @@
     "bg_zone_5",
     "bg_zone_6",
     "bg_zone_7",
+    "bg_zone_8",
     "bg_zone_sky_1",
     "bg_zone_sky_2"
   ],
@@ -47,6 +48,7 @@
     "UI/RoguelikeTopic/Topics/rogue_5/Transition/BG/bg_zone_5",
     "UI/RoguelikeTopic/Topics/rogue_5/Transition/BG/bg_zone_6",
     "UI/RoguelikeTopic/Topics/rogue_5/Transition/BG/bg_zone_7",
+    "UI/RoguelikeTopic/Topics/rogue_5/Transition/BG/bg_zone_8",
     "UI/RoguelikeTopic/Topics/rogue_5/Transition/BG/bg_zone_sky_1",
     "UI/RoguelikeTopic/Topics/rogue_5/Transition/BG/bg_zone_sky_2"
   ]
