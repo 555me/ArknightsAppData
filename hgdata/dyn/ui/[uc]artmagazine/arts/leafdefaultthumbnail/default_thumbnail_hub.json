@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "default_thumbnail_hub",
+  "_rootPackingTag": "UI_ART_MAGAZINE_LEAF_DEFAULT_THUMBNAIL",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 304,
+    "height": 171
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "leaf_default",
+    "leaf_default2",
+    "leaf_rogue1",
+    "leaf_rogue2",
+    "leaf_rogue3",
+    "leaf_rogue4",
+    "leaf_rogue5",
+    "leaf_sandbox1"
+  ],
+  "_values": [
+    "UI/[UC]ArtMagazine/Arts/LeafDefaultThumbnail/leaf_default",
+    "UI/[UC]ArtMagazine/Arts/LeafDefaultThumbnail/leaf_default2",
+    "UI/[UC]ArtMagazine/Arts/LeafDefaultThumbnail/leaf_rogue1",
+    "UI/[UC]ArtMagazine/Arts/LeafDefaultThumbnail/leaf_rogue2",
+    "UI/[UC]ArtMagazine/Arts/LeafDefaultThumbnail/leaf_rogue3",
+    "UI/[UC]ArtMagazine/Arts/LeafDefaultThumbnail/leaf_rogue4",
+    "UI/[UC]ArtMagazine/Arts/LeafDefaultThumbnail/leaf_rogue5",
+    "UI/[UC]ArtMagazine/Arts/LeafDefaultThumbnail/leaf_sandbox1"
+  ]
+}

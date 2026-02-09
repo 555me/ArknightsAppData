@@ -38,6 +38,7 @@
     "page_063_diffmission_icon",
     "page_063_roguelike5_icon",
     "page_067_normalgacha_icon",
+    "page_070_normalgacha_icon",
     "page_episode_main_16_icon"
   ],
   "_values": [
@@ -50,6 +51,7 @@
     "Arts/UI/ReturnV2/Icon/page_063_diffmission_icon",
     "Arts/UI/ReturnV2/Icon/page_063_roguelike5_icon",
     "Arts/UI/ReturnV2/Icon/page_067_normalgacha_icon",
+    "Arts/UI/ReturnV2/Icon/page_070_normalgacha_icon",
     "Arts/UI/ReturnV2/Icon/page_episode_main_16_icon"
   ]
 }

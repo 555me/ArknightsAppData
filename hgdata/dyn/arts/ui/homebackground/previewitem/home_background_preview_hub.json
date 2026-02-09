@@ -37,6 +37,7 @@
     "bg_kazimierz_1",
     "bg_laterano_1",
     "bg_lonetrail_1",
+    "bg_lonetrail_1_all",
     "bg_lonetrail_1_form_2",
     "bg_main_victoria_1",
     "bg_rainbowsix_1",
@@ -56,6 +57,7 @@
     "bg_sui_1",
     "bg_ursus_1",
     "bg_volcano_1",
+    "bg_volcano_1_all",
     "bg_volcano_1_form_2",
     "bg_yan_1"
   ],
@@ -68,6 +70,7 @@
     "Arts/UI/HomeBackground/PreviewItem/bg_kazimierz_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_laterano_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_lonetrail_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_lonetrail_1_all",
     "Arts/UI/HomeBackground/PreviewItem/bg_lonetrail_1_form_2",
     "Arts/UI/HomeBackground/PreviewItem/bg_main_victoria_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_rainbowsix_1",
@@ -87,6 +90,7 @@
     "Arts/UI/HomeBackground/PreviewItem/bg_sui_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_ursus_1",
     "Arts/UI/HomeBackground/PreviewItem/bg_volcano_1",
+    "Arts/UI/HomeBackground/PreviewItem/bg_volcano_1_all",
     "Arts/UI/HomeBackground/PreviewItem/bg_volcano_1_form_2",
     "Arts/UI/HomeBackground/PreviewItem/bg_yan_1"
   ]

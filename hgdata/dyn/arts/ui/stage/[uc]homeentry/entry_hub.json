@@ -30,8 +30,7 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act40sre",
-    "act48side",
-    "act6bossrush",
+    "act49side",
     "main_0",
     "main_1",
     "main_10",
@@ -52,8 +51,7 @@
   ],
   "_values": [
     "Arts/UI/Stage/[UC]HomeEntry/act40sre",
-    "Arts/UI/Stage/[UC]HomeEntry/act48side",
-    "Arts/UI/Stage/[UC]HomeEntry/act6bossrush",
+    "Arts/UI/Stage/[UC]HomeEntry/act49side",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_10",

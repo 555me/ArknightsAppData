@@ -98,7 +98,8 @@
     "sub_traper_icon",
     "sub_underminer_icon",
     "sub_unyield_icon",
-    "sub_wandermedic_icon"
+    "sub_wandermedic_icon",
+    "sub_watchman_icon"
   ],
   "_values": [
     "Arts/UI/SubProfessionIcon/sub_agent_icon",
@@ -170,6 +171,7 @@
     "Arts/UI/SubProfessionIcon/sub_traper_icon",
     "Arts/UI/SubProfessionIcon/sub_underminer_icon",
     "Arts/UI/SubProfessionIcon/sub_unyield_icon",
-    "Arts/UI/SubProfessionIcon/sub_wandermedic_icon"
+    "Arts/UI/SubProfessionIcon/sub_wandermedic_icon",
+    "Arts/UI/SubProfessionIcon/sub_watchman_icon"
   ]
 }

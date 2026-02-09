@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "art_magazine_diy_sticker_hub",
+  "_rootPackingTag": "UI_ART_MAGAZINE_DIY_ITEM_STICKER",
+  "_cntPerAtlas": 64,
+  "_standardPicSize": {
+    "width": 256,
+    "height": 256
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTagNoSizeLimit",
+  "_keys": [
+    "sticker_def2_1",
+    "sticker_def_1",
+    "sticker_def_2",
+    "sticker_rog_1_1",
+    "sticker_rog_1_2",
+    "sticker_rog_2_1",
+    "sticker_rog_2_2",
+    "sticker_rog_3_1",
+    "sticker_rog_3_2",
+    "sticker_rog_3_3",
+    "sticker_rog_4_1",
+    "sticker_rog_4_2",
+    "sticker_rog_5_1",
+    "sticker_rog_5_2",
+    "sticker_sand_1_1",
+    "sticker_sand_1_2",
+    "sticker_sand_1_3",
+    "sticker_sand_1_4",
+    "sticker_sand_1_5"
+  ],
+  "_values": [
+    "Arts/UI/ArtMagazineSticker/sticker_def2_1",
+    "Arts/UI/ArtMagazineSticker/sticker_def_1",
+    "Arts/UI/ArtMagazineSticker/sticker_def_2",
+    "Arts/UI/ArtMagazineSticker/sticker_rog_1_1",
+    "Arts/UI/ArtMagazineSticker/sticker_rog_1_2",
+    "Arts/UI/ArtMagazineSticker/sticker_rog_2_1",
+    "Arts/UI/ArtMagazineSticker/sticker_rog_2_2",
+    "Arts/UI/ArtMagazineSticker/sticker_rog_3_1",
+    "Arts/UI/ArtMagazineSticker/sticker_rog_3_2",
+    "Arts/UI/ArtMagazineSticker/sticker_rog_3_3",
+    "Arts/UI/ArtMagazineSticker/sticker_rog_4_1",
+    "Arts/UI/ArtMagazineSticker/sticker_rog_4_2",
+    "Arts/UI/ArtMagazineSticker/sticker_rog_5_1",
+    "Arts/UI/ArtMagazineSticker/sticker_rog_5_2",
+    "Arts/UI/ArtMagazineSticker/sticker_sand_1_1",
+    "Arts/UI/ArtMagazineSticker/sticker_sand_1_2",
+    "Arts/UI/ArtMagazineSticker/sticker_sand_1_3",
+    "Arts/UI/ArtMagazineSticker/sticker_sand_1_4",
+    "Arts/UI/ArtMagazineSticker/sticker_sand_1_5"
+  ]
+}

@@ -17,8 +17,8 @@
   },
   "_extraPicSize": [
     {
-      "width": 167,
-      "height": 45
+      "width": 178,
+      "height": 70
     }
   ],
   "_compressType": 10,
@@ -38,7 +38,7 @@
     "act1break_season_title_mini"
   ],
   "_values": [
-    "Arts/UI/[UC]VecBreakV2/Achievement/act1break_season_title",
-    "Arts/UI/[UC]VecBreakV2/Achievement/act1break_season_title_mini"
+    "Arts/UI/[UC]VecBreakV2/Achievement/act1break/act1break_season_title",
+    "Arts/UI/[UC]VecBreakV2/Achievement/act1break/act1break_season_title_mini"
   ]
 }

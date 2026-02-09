@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "pic_hub",
+  "_rootPackingTag": "STORY_READ_TIPS_PLOT_PIC_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 1245,
+    "height": 366
+  },
+  "_extraPicSize": [],
+  "_compressType": 0,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "act49side"
+  ],
+  "_values": [
+    "Arts/UI/StoryReadTips/Hubs/act49side"
+  ]
+}

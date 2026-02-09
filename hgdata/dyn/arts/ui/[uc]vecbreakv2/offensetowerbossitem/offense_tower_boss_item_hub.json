@@ -12,13 +12,13 @@
   "_rootPackingTag": "VEC_BREAK_V2_OFFENSE_TOWER_BOSS_ITEM",
   "_cntPerAtlas": -1,
   "_standardPicSize": {
-    "width": 89,
-    "height": 105
+    "width": 124,
+    "height": 135
   },
   "_extraPicSize": [
     {
-      "width": 32,
-      "height": 98
+      "width": 42,
+      "height": 112
     }
   ],
   "_compressType": 10,

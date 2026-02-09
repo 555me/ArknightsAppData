@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "icon_hub",
+  "_rootPackingTag": "UI_ART_MAGAZINE_DECOR_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 50,
+    "height": 50
+  },
+  "_extraPicSize": [
+    {
+      "width": 26,
+      "height": 26
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "icon_m_avatar",
+    "icon_m_background",
+    "icon_m_namecard",
+    "icon_m_sticker",
+    "icon_m_theme",
+    "icon_s_avatar",
+    "icon_s_background",
+    "icon_s_namecard",
+    "icon_s_skin",
+    "icon_s_sticker",
+    "icon_s_theme"
+  ],
+  "_values": [
+    "UI/[UC]ArtMagazine/Arts/DecorIcon/icon_m_avatar",
+    "UI/[UC]ArtMagazine/Arts/DecorIcon/icon_m_background",
+    "UI/[UC]ArtMagazine/Arts/DecorIcon/icon_m_namecard",
+    "UI/[UC]ArtMagazine/Arts/DecorIcon/icon_m_sticker",
+    "UI/[UC]ArtMagazine/Arts/DecorIcon/icon_m_theme",
+    "UI/[UC]ArtMagazine/Arts/DecorIcon/icon_s_avatar",
+    "UI/[UC]ArtMagazine/Arts/DecorIcon/icon_s_background",
+    "UI/[UC]ArtMagazine/Arts/DecorIcon/icon_s_namecard",
+    "UI/[UC]ArtMagazine/Arts/DecorIcon/icon_s_skin",
+    "UI/[UC]ArtMagazine/Arts/DecorIcon/icon_s_sticker",
+    "UI/[UC]ArtMagazine/Arts/DecorIcon/icon_s_theme"
+  ]
+}

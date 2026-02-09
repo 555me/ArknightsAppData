@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "collect_type_filter_icon_hub",
+  "_rootPackingTag": "ART_GALLERY_COLLECT_TYPE_FILTER_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 70,
+    "height": 70
+  },
+  "_extraPicSize": [
+    {
+      "width": 177,
+      "height": 177
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "settype_all",
+    "settype_all_unselect",
+    "settype_rogue",
+    "settype_rogue_unselect",
+    "settype_sandbox",
+    "settype_sandbox_unselect"
+  ],
+  "_values": [
+    "Arts/UI/ArtGallery/CollectTypeFilterIcon/setType_all",
+    "Arts/UI/ArtGallery/CollectTypeFilterIcon/setType_all_unselect",
+    "Arts/UI/ArtGallery/CollectTypeFilterIcon/setType_rogue",
+    "Arts/UI/ArtGallery/CollectTypeFilterIcon/setType_rogue_unselect",
+    "Arts/UI/ArtGallery/CollectTypeFilterIcon/setType_sandbox",
+    "Arts/UI/ArtGallery/CollectTypeFilterIcon/setType_sandbox_unselect"
+  ]
+}

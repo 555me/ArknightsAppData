@@ -115,6 +115,7 @@
     "furni_set_prison",
     "furni_set_r6",
     "furni_set_reception",
+    "furni_set_receptionroom",
     "furni_set_restaurant",
     "furni_set_rhinelab",
     "furni_set_rhodeskitchen",
@@ -153,7 +154,8 @@
     "furni_set_westcoast",
     "furni_set_winterhouse",
     "furni_set_wooden",
-    "furni_set_yanprivateschool"
+    "furni_set_yanprivateschool",
+    "furni_set_yukitchen"
   ],
   "_values": [
     "Arts/UI/FurniThemes/furniM_set_amiya",
@@ -242,6 +244,7 @@
     "Arts/UI/FurniThemes/furni_set_prison",
     "Arts/UI/FurniThemes/furni_set_R6",
     "Arts/UI/FurniThemes/furni_set_reception",
+    "Arts/UI/FurniThemes/furni_set_receptionRoom",
     "Arts/UI/FurniThemes/furni_set_restaurant",
     "Arts/UI/FurniThemes/furni_set_rhineLab",
     "Arts/UI/FurniThemes/furni_set_rhodesKitchen",
@@ -280,6 +283,7 @@
     "Arts/UI/FurniThemes/furni_set_westCoast",
     "Arts/UI/FurniThemes/furni_set_winterHouse",
     "Arts/UI/FurniThemes/furni_set_wooden",
-    "Arts/UI/FurniThemes/furni_set_yanPrivateSchool"
+    "Arts/UI/FurniThemes/furni_set_yanPrivateSchool",
+    "Arts/UI/FurniThemes/furni_set_YuKitchen"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "art_gallery_entry",
+  "_pageIds": [
+    "[PACK]ArtGallery/art_gallery_entry_1",
+    "[PACK]ArtGallery/art_gallery_entry_2",
+    "[PACK]ArtGallery/art_gallery_entry_3",
+    "[PACK]ArtGallery/art_gallery_entry_4",
+    "[PACK]ArtGallery/art_gallery_entry_5"
+  ],
+  "_autoShowTarget": 51,
+  "_subsignal": ""
+}
