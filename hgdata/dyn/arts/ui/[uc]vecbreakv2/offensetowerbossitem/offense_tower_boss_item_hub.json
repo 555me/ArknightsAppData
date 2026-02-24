@@ -35,10 +35,14 @@
   "_configName": "",
   "_keys": [
     "enemy_8010_mcnist_deco_1",
-    "enemy_8010_mcnist_deco_2"
+    "enemy_8010_mcnist_deco_2",
+    "enemy_8016_misery_deco_1",
+    "enemy_8016_misery_deco_2"
   ],
   "_values": [
     "Arts/UI/[UC]VecBreakV2/OffenseTowerBossItem/enemy_8010_mcnist_deco_1",
-    "Arts/UI/[UC]VecBreakV2/OffenseTowerBossItem/enemy_8010_mcnist_deco_2"
+    "Arts/UI/[UC]VecBreakV2/OffenseTowerBossItem/enemy_8010_mcnist_deco_2",
+    "Arts/UI/[UC]VecBreakV2/OffenseTowerBossItem/enemy_8016_misery_deco_1",
+    "Arts/UI/[UC]VecBreakV2/OffenseTowerBossItem/enemy_8016_misery_deco_2"
   ]
 }

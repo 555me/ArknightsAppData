@@ -38,6 +38,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
+    "act2break",
     "act40sre",
     "act49side",
     "main_10",
@@ -68,6 +69,7 @@
     "sandbox_1_entry_display_3"
   ],
   "_values": [
+    "Arts/UI/Stage/HomeTheme/act2break",
     "Arts/UI/Stage/HomeTheme/act40sre",
     "Arts/UI/Stage/HomeTheme/act49side",
     "Arts/UI/Stage/HomeTheme/main_10",

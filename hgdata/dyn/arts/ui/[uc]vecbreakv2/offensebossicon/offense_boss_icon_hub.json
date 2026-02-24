@@ -30,10 +30,12 @@
   "_configName": "",
   "_keys": [
     "vecbv2_offense_boss_eltrsm",
-    "vecbv2_offense_boss_mcnist"
+    "vecbv2_offense_boss_mcnist",
+    "vecbv2_offense_boss_misery"
   ],
   "_values": [
     "Arts/UI/[UC]VecBreakV2/OffenseBossIcon/vecbv2_offense_boss_eltrsm",
-    "Arts/UI/[UC]VecBreakV2/OffenseBossIcon/vecbv2_offense_boss_mcnist"
+    "Arts/UI/[UC]VecBreakV2/OffenseBossIcon/vecbv2_offense_boss_mcnist",
+    "Arts/UI/[UC]VecBreakV2/OffenseBossIcon/vecbv2_offense_boss_misery"
   ]
 }

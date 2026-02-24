@@ -35,10 +35,14 @@
   "_configName": "",
   "_keys": [
     "act1break_season_title",
-    "act1break_season_title_mini"
+    "act1break_season_title_mini",
+    "act2break_season_title",
+    "act2break_season_title_mini"
   ],
   "_values": [
     "Arts/UI/[UC]VecBreakV2/Achievement/act1break/act1break_season_title",
-    "Arts/UI/[UC]VecBreakV2/Achievement/act1break/act1break_season_title_mini"
+    "Arts/UI/[UC]VecBreakV2/Achievement/act1break/act1break_season_title_mini",
+    "Arts/UI/[UC]VecBreakV2/Achievement/act2break/act2break_season_title",
+    "Arts/UI/[UC]VecBreakV2/Achievement/act2break/act2break_season_title_mini"
   ]
 }
