@@ -37,12 +37,16 @@
     "deco_eltrsm",
     "deco_eltrsm_tiny",
     "deco_mcnist",
-    "deco_mcnist_tiny"
+    "deco_mcnist_tiny",
+    "deco_misery",
+    "deco_misery_tiny"
   ],
   "_values": [
     "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_eltrsm",
     "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_eltrsm_tiny",
     "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_mcnist",
-    "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_mcnist_tiny"
+    "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_mcnist_tiny",
+    "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_misery",
+    "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_misery_tiny"
   ]
 }
