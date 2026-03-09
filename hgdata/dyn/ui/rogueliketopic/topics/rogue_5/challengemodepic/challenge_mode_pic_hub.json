@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "challenge_mode_pic_hub",
+  "_rootPackingTag": "UI_ROGUELIKE_TOPIC_CHALLENGE_THUMBNAIL_RL05",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 486,
+    "height": 288
+  },
+  "_extraPicSize": [],
+  "_compressType": 11,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rogue_5_challenge_01",
+    "rogue_5_challenge_02",
+    "rogue_5_challenge_03",
+    "rogue_5_challenge_04",
+    "rogue_5_challenge_05",
+    "rogue_5_challenge_06",
+    "rogue_5_challenge_07",
+    "rogue_5_challenge_08",
+    "rogue_5_challenge_09",
+    "rogue_5_challenge_10"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_5/ChallengeModePic/rogue_5_challenge_01",
+    "UI/RoguelikeTopic/Topics/rogue_5/ChallengeModePic/rogue_5_challenge_02",
+    "UI/RoguelikeTopic/Topics/rogue_5/ChallengeModePic/rogue_5_challenge_03",
+    "UI/RoguelikeTopic/Topics/rogue_5/ChallengeModePic/rogue_5_challenge_04",
+    "UI/RoguelikeTopic/Topics/rogue_5/ChallengeModePic/rogue_5_challenge_05",
+    "UI/RoguelikeTopic/Topics/rogue_5/ChallengeModePic/rogue_5_challenge_06",
+    "UI/RoguelikeTopic/Topics/rogue_5/ChallengeModePic/rogue_5_challenge_07",
+    "UI/RoguelikeTopic/Topics/rogue_5/ChallengeModePic/rogue_5_challenge_08",
+    "UI/RoguelikeTopic/Topics/rogue_5/ChallengeModePic/rogue_5_challenge_09",
+    "UI/RoguelikeTopic/Topics/rogue_5/ChallengeModePic/rogue_5_challenge_10"
+  ]
+}

@@ -15,7 +15,12 @@
     "width": 35,
     "height": 35
   },
-  "_extraPicSize": [],
+  "_extraPicSize": [
+    {
+      "width": 40,
+      "height": 34
+    }
+  ],
   "_compressType": 10,
   "_atlasSize": 0,
   "_meshType": 0,
@@ -29,12 +34,14 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "mode_abyss_icon",
     "mode_funny_icon",
     "mode_hard_icon",
     "mode_normal_icon",
     "mode_training_icon"
   ],
   "_values": [
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ModeIcon/mode_abyss_icon",
     "UI/AutoChess/[UC]AutoChessCommon/Arts/ModeIcon/mode_funny_icon",
     "UI/AutoChess/[UC]AutoChessCommon/Arts/ModeIcon/mode_hard_icon",
     "UI/AutoChess/[UC]AutoChessCommon/Arts/ModeIcon/mode_normal_icon",
