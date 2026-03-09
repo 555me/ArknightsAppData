@@ -27,7 +27,7 @@
     "rules": []
   },
   "_atlasOutputPath": "",
-  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTagAutoAlign",
   "_keys": [
     "default_kv_ambiencesynesthesia",
     "default_kv_boc",
@@ -94,6 +94,7 @@
     "kv_epoque9",
     "kv_game1",
     "kv_game2",
+    "kv_game3",
     "kv_ghost1",
     "kv_icefield1",
     "kv_icefield2",
@@ -196,6 +197,7 @@
     "UI/KVImg/kv_epoque9",
     "UI/KVImg/kv_game1",
     "UI/KVImg/kv_game2",
+    "UI/KVImg/kv_game3",
     "UI/KVImg/kv_ghost1",
     "UI/KVImg/kv_icefield1",
     "UI/KVImg/kv_icefield2",

@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "gift_package_pic_hub",
+  "_rootPackingTag": "UI_RETURNING_GIFT_PACKAGE_PIC",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 1022,
+    "height": 488
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "return_pic_condition_1",
+    "return_pic_condition_2",
+    "return_pic_condition_4",
+    "return_pic_condition_5"
+  ],
+  "_values": [
+    "Arts/UI/[UC]Return/GiftPackagePic/return_pic_Condition_1",
+    "Arts/UI/[UC]Return/GiftPackagePic/return_pic_Condition_2",
+    "Arts/UI/[UC]Return/GiftPackagePic/return_pic_Condition_4",
+    "Arts/UI/[UC]Return/GiftPackagePic/return_pic_Condition_5"
+  ]
+}

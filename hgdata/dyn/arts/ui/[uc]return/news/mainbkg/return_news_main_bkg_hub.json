@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "return_news_main_bkg_hub",
+  "_rootPackingTag": "UI_OPERATION_RETURN_NEWS_MAIN_BKG_HUB",
+  "_cntPerAtlas": 16,
+  "_standardPicSize": {
+    "width": 1660,
+    "height": 936
+  },
+  "_extraPicSize": [
+    {
+      "width": 1660,
+      "height": 934
+    }
+  ],
+  "_compressType": 11,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 5121440,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
+  "_keys": [
+    "return_page_main_16",
+    "return_page_rogue_5",
+    "return_page_sandbox_1"
+  ],
+  "_values": [
+    "Arts/UI/[UC]Return/News/MainBkg/return_page_main_16",
+    "Arts/UI/[UC]Return/News/MainBkg/return_page_rogue_5",
+    "Arts/UI/[UC]Return/News/MainBkg/return_page_sandbox_1"
+  ]
+}

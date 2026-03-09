@@ -78,6 +78,7 @@
     "fun-x",
     "fun-y",
     "gee-x",
+    "gee-y",
     "gua-x",
     "gua-y",
     "ham-x",
@@ -138,6 +139,7 @@
     "spc-x",
     "spc-y",
     "spt-x",
+    "spt-y",
     "sum-x",
     "sum-y",
     "swo-x",
@@ -154,6 +156,7 @@
     "wah-x",
     "wah-y",
     "wdm-x",
+    "wdm-y",
     "xah-x"
   ],
   "_values": [
@@ -206,6 +209,7 @@
     "Arts/UI/UniEquipDirection/fun-x",
     "Arts/UI/UniEquipDirection/fun-y",
     "Arts/UI/UniEquipDirection/gee-x",
+    "Arts/UI/UniEquipDirection/gee-y",
     "Arts/UI/UniEquipDirection/gua-x",
     "Arts/UI/UniEquipDirection/gua-y",
     "Arts/UI/UniEquipDirection/ham-x",
@@ -266,6 +270,7 @@
     "Arts/UI/UniEquipDirection/spc-x",
     "Arts/UI/UniEquipDirection/spc-y",
     "Arts/UI/UniEquipDirection/spt-x",
+    "Arts/UI/UniEquipDirection/spt-y",
     "Arts/UI/UniEquipDirection/sum-x",
     "Arts/UI/UniEquipDirection/sum-y",
     "Arts/UI/UniEquipDirection/swo-x",
@@ -282,6 +287,7 @@
     "Arts/UI/UniEquipDirection/wah-x",
     "Arts/UI/UniEquipDirection/wah-y",
     "Arts/UI/UniEquipDirection/wdm-x",
+    "Arts/UI/UniEquipDirection/wdm-y",
     "Arts/UI/UniEquipDirection/xah-x"
   ]
 }

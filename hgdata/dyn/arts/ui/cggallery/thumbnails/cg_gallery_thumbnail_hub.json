@@ -29,6 +29,8 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
+    "071_mini01",
+    "071_mini02",
     "20_i00",
     "20_i01",
     "20_i02_1",
@@ -1118,6 +1120,8 @@
     "pic_sandbox_1_5"
   ],
   "_values": [
+    "Arts/UI/CGGallery/Thumbnails/071_mini01",
+    "Arts/UI/CGGallery/Thumbnails/071_mini02",
     "Arts/UI/CGGallery/Thumbnails/20_I00",
     "Arts/UI/CGGallery/Thumbnails/20_I01",
     "Arts/UI/CGGallery/Thumbnails/20_I02_1",
