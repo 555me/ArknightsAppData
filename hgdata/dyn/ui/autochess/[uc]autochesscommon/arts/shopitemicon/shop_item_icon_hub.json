@@ -74,7 +74,20 @@
     "trap_1108_acdisney",
     "trap_1109_acarm109",
     "trap_1110_accopy",
-    "trap_1111_acchal"
+    "trap_1111_acchal",
+    "trap_1113_acarm113",
+    "trap_1114_acarm114",
+    "trap_1115_acarm115",
+    "trap_1116_acarm116",
+    "trap_1117_acarm117",
+    "trap_1118_acarm118",
+    "trap_1119_acarm119",
+    "trap_1120_acarm120",
+    "trap_1121_acarm121",
+    "trap_1122_acarm122",
+    "trap_1123_acarm123",
+    "trap_1124_acarm124",
+    "trap_1125_acarm125"
   ],
   "_values": [
     "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1040_acarm040",
@@ -122,6 +135,19 @@
     "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1108_acdisney",
     "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1109_acarm109",
     "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1110_accopy",
-    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1111_acchal"
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1111_acchal",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1113_acarm113",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1114_acarm114",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1115_acarm115",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1116_acarm116",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1117_acarm117",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1118_acarm118",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1119_acarm119",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1120_acarm120",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1121_acarm121",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1122_acarm122",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1123_acarm123",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1124_acarm124",
+    "UI/AutoChess/[UC]AutoChessCommon/Arts/ShopItemIcon/trap_1125_acarm125"
   ]
 }

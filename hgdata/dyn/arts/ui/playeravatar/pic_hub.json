@@ -31,6 +31,7 @@
   "_keys": [
     "avatar_activity_ac",
     "avatar_activity_ac_1",
+    "avatar_activity_ac_2",
     "avatar_activity_af",
     "avatar_activity_arc1",
     "avatar_activity_aw",
@@ -196,6 +197,7 @@
   "_values": [
     "Arts/UI/PlayerAvatar/avatar_activity_AC",
     "Arts/UI/PlayerAvatar/avatar_activity_AC_1",
+    "Arts/UI/PlayerAvatar/avatar_activity_AC_2",
     "Arts/UI/PlayerAvatar/avatar_activity_AF",
     "Arts/UI/PlayerAvatar/avatar_activity_ARC1",
     "Arts/UI/PlayerAvatar/avatar_activity_AW",
