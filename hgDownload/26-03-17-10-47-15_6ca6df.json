@@ -1,0 +1,33 @@
+{
+  "downloadType": 0,
+  "downloadData": {
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-03-17-10-47-15_6ca6df/908bb45f12cdaf5742107b9d131f0ebb.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-03-17-10-47-15_6ca6df/908bb45f12cdaf5742107b9d131f0ebb.dat",
+      "size": 3165428,
+      "fileId": 1,
+      "fileName": "198a6d76-544b-4dfe-b544-bf068d7358ce",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-03-17-10-47-15_6ca6df/anon_4a2061a869c31c156f4e9855490d1d8c.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-03-17-10-47-15_6ca6df/anon_4a2061a869c31c156f4e9855490d1d8c.dat",
+      "size": 1520253,
+      "fileId": 2013,
+      "fileName": "d1f9413a-fc0f-4a62-a422-9ece8fb3a5b8",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-03-17-10-47-15_6ca6df/battle_prefabs_effects_heyak.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-03-17-10-47-15_6ca6df/battle_prefabs_effects_heyak.dat",
+      "size": 1370326,
+      "fileId": 4439,
+      "fileName": "2f3fc35e-987f-45ec-bc1d-9471f4e34285",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-03-17-10-47-15_6ca6df/config_buff_template_holder.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-03-17-10-47-15_6ca6df/config_buff_template_holder.dat",
+      "size": 1283418,
+      "fileId": 34,
+      "fileName": "efec2ee3-d2a8-458f-9801-b652b50e7262",
+      "path": ""
+    }
+  }
+}
