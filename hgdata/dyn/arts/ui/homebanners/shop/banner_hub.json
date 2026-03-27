@@ -30,6 +30,7 @@
   "_configName": "",
   "_keys": [
     "shop2",
+    "shop_brigid_epoque#53",
     "shop_condition_1",
     "shop_condition_2",
     "shop_condition_3",
@@ -90,6 +91,7 @@
   ],
   "_values": [
     "Arts/UI/HomeBanners/Shop/shop2",
+    "Arts/UI/HomeBanners/Shop/shop_brigid_epoque#53",
     "Arts/UI/HomeBanners/Shop/shop_Condition_1",
     "Arts/UI/HomeBanners/Shop/shop_Condition_2",
     "Arts/UI/HomeBanners/Shop/shop_Condition_3",
