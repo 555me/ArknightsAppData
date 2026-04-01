@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "act7fun_news_char_icon_hub",
+  "_rootPackingTag": "ACT7FUN_NEWS_CHAR_ICON_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 120,
+    "height": 120
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "char_002_amiya",
+    "char_003_kalts",
+    "char_102_texas",
+    "char_1035_wisdel",
+    "char_103_angel",
+    "char_172_svrash",
+    "char_doctor"
+  ],
+  "_values": [
+    "Activity/[UC]ActFun/Arts/Act7funNewsCharIcon/char_002_amiya",
+    "Activity/[UC]ActFun/Arts/Act7funNewsCharIcon/char_003_kalts",
+    "Activity/[UC]ActFun/Arts/Act7funNewsCharIcon/char_102_texas",
+    "Activity/[UC]ActFun/Arts/Act7funNewsCharIcon/char_1035_wisdel",
+    "Activity/[UC]ActFun/Arts/Act7funNewsCharIcon/char_103_angel",
+    "Activity/[UC]ActFun/Arts/Act7funNewsCharIcon/char_172_svrash",
+    "Activity/[UC]ActFun/Arts/Act7funNewsCharIcon/char_doctor"
+  ]
+}
