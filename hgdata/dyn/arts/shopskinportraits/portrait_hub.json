@@ -244,6 +244,7 @@
     "char_345_folnic_wild#4",
     "char_346_aosta_game#2",
     "char_349_chiave_race#2",
+    "char_350_surtr_ambiencesynesthesia#6",
     "char_350_surtr_it#1",
     "char_350_surtr_summer#9",
     "char_358_lisa_epoque#22",
@@ -358,6 +359,7 @@
     "char_4140_lasher_sightseer#3",
     "char_4141_marcil_dungeon#1",
     "char_4145_ulpia_epoque#48",
+    "char_4146_nymph_ambiencesynesthesia#6",
     "char_4146_nymph_epoque#42",
     "char_4147_mitm_breaker#1",
     "char_4148_philae_nian#12",
@@ -420,7 +422,10 @@
     "char_497_ctable_epoque#44",
     "char_497_ctable_nian#9",
     "char_498_inside_kitchen#2",
-    "char_499_kaitou_epoque#37"
+    "char_499_kaitou_epoque#37",
+    "sp_char_003_kalts_sale#14",
+    "sp_char_1001_amiya2_sale#16",
+    "sp_char_124_kroos_sale#14"
   ],
   "_values": [
     "Arts/ShopSkinPortraits/char_003_kalts_boc#6",
@@ -638,6 +643,7 @@
     "Arts/ShopSkinPortraits/char_345_folnic_wild#4",
     "Arts/ShopSkinPortraits/char_346_aosta_game#2",
     "Arts/ShopSkinPortraits/char_349_chiave_race#2",
+    "Arts/ShopSkinPortraits/char_350_surtr_ambienceSynesthesia#6",
     "Arts/ShopSkinPortraits/char_350_surtr_it#1",
     "Arts/ShopSkinPortraits/char_350_surtr_summer#9",
     "Arts/ShopSkinPortraits/char_358_lisa_epoque#22",
@@ -752,6 +758,7 @@
     "Arts/ShopSkinPortraits/char_4140_lasher_sightseer#3",
     "Arts/ShopSkinPortraits/char_4141_marcil_dungeon#1",
     "Arts/ShopSkinPortraits/char_4145_ulpia_epoque#48",
+    "Arts/ShopSkinPortraits/char_4146_nymph_ambienceSynesthesia#6",
     "Arts/ShopSkinPortraits/char_4146_nymph_epoque#42",
     "Arts/ShopSkinPortraits/char_4147_mitm_breaker#1",
     "Arts/ShopSkinPortraits/char_4148_philae_nian#12",
@@ -814,6 +821,9 @@
     "Arts/ShopSkinPortraits/char_497_ctable_epoque#44",
     "Arts/ShopSkinPortraits/char_497_ctable_nian#9",
     "Arts/ShopSkinPortraits/char_498_inside_kitchen#2",
-    "Arts/ShopSkinPortraits/char_499_kaitou_epoque#37"
+    "Arts/ShopSkinPortraits/char_499_kaitou_epoque#37",
+    "Arts/ShopSkinPortraits/sp_char_003_kalts_sale#14",
+    "Arts/ShopSkinPortraits/sp_char_1001_amiya2_sale#16",
+    "Arts/ShopSkinPortraits/sp_char_124_kroos_sale#14"
   ]
 }

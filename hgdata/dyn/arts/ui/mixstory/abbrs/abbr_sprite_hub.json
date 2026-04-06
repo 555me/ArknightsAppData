@@ -40,7 +40,8 @@
     "storyline_abbr_st",
     "storyline_abbr_su",
     "storyline_abbr_ta",
-    "storyline_abbr_ts"
+    "storyline_abbr_ts",
+    "storyline_abbr_ur"
   ],
   "_values": [
     "Arts/UI/MixStory/Abbrs/storyline_abbr_Ae",
@@ -54,6 +55,7 @@
     "Arts/UI/MixStory/Abbrs/storyline_abbr_St",
     "Arts/UI/MixStory/Abbrs/storyline_abbr_Su",
     "Arts/UI/MixStory/Abbrs/storyline_abbr_Ta",
-    "Arts/UI/MixStory/Abbrs/storyline_abbr_Ts"
+    "Arts/UI/MixStory/Abbrs/storyline_abbr_Ts",
+    "Arts/UI/MixStory/Abbrs/storyline_abbr_Ur"
   ]
 }

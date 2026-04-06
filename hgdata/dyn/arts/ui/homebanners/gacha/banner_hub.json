@@ -33,31 +33,27 @@
     "picboot_0_1_2",
     "picboot_0_1_3",
     "picclassic_attain_57_0_2",
-    "picdouble_70_0_4",
-    "picdouble_71_0_2",
     "picdouble_71_0_4",
+    "picdouble_72_0_2",
     "picnorm_58_0_5",
     "picnorm_58_0_7",
     "picnorm_58_0_8",
-    "picnorm_71_0_3",
     "picreturn_71_0_1",
-    "picsingle_71_0_1",
-    "picsingle_71_0_5"
+    "picsingle_71_0_5",
+    "picsingle_72_0_1"
   ],
   "_values": [
     "Arts/UI/HomeBanners/Gacha/picBoot_0_1_1",
     "Arts/UI/HomeBanners/Gacha/picBoot_0_1_2",
     "Arts/UI/HomeBanners/Gacha/picBoot_0_1_3",
     "Arts/UI/HomeBanners/Gacha/picClassic_Attain_57_0_2",
-    "Arts/UI/HomeBanners/Gacha/picDouble_70_0_4",
-    "Arts/UI/HomeBanners/Gacha/picDouble_71_0_2",
     "Arts/UI/HomeBanners/Gacha/picDouble_71_0_4",
+    "Arts/UI/HomeBanners/Gacha/picDouble_72_0_2",
     "Arts/UI/HomeBanners/Gacha/picNORM_58_0_5",
     "Arts/UI/HomeBanners/Gacha/picNORM_58_0_7",
     "Arts/UI/HomeBanners/Gacha/picNORM_58_0_8",
-    "Arts/UI/HomeBanners/Gacha/picNorm_71_0_3",
     "Arts/UI/HomeBanners/Gacha/picReturn_71_0_1",
-    "Arts/UI/HomeBanners/Gacha/picSingle_71_0_1",
-    "Arts/UI/HomeBanners/Gacha/picSingle_71_0_5"
+    "Arts/UI/HomeBanners/Gacha/picSingle_71_0_5",
+    "Arts/UI/HomeBanners/Gacha/picSingle_72_0_1"
   ]
 }

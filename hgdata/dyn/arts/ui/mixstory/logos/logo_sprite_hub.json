@@ -41,7 +41,8 @@
     "storyline_st",
     "storyline_su",
     "storyline_ta",
-    "storyline_ts"
+    "storyline_ts",
+    "storyline_ur"
   ],
   "_values": [
     "Arts/UI/MixStory/Logos/storyline_Ae",
@@ -56,6 +57,7 @@
     "Arts/UI/MixStory/Logos/storyline_St",
     "Arts/UI/MixStory/Logos/storyline_Su",
     "Arts/UI/MixStory/Logos/storyline_Ta",
-    "Arts/UI/MixStory/Logos/storyline_Ts"
+    "Arts/UI/MixStory/Logos/storyline_Ts",
+    "Arts/UI/MixStory/Logos/storyline_Ur"
   ]
 }
