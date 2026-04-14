@@ -1,0 +1,26 @@
+{
+  "downloadType": 0,
+  "downloadData": {
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-04-14-11-12-01_cf554f/1eabdeaf8b51cedfad4c0dcb5601259e.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-04-14-11-12-01_cf554f/1eabdeaf8b51cedfad4c0dcb5601259e.dat",
+      "size": 3194389,
+      "fileId": 1,
+      "fileName": "01943532-5cd5-42f7-8e0a-38a89a62997b",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-04-14-11-12-01_cf554f/anon_00cf70e3bcd1b8d56fd85131a9dfc10e.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-04-14-11-12-01_cf554f/anon_00cf70e3bcd1b8d56fd85131a9dfc10e.dat",
+      "size": 1555849,
+      "fileId": 2063,
+      "fileName": "46a5e728-5b73-4c9b-8970-e418797d78e1",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-04-14-11-12-01_cf554f/config_buff_template_holder.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-04-14-11-12-01_cf554f/config_buff_template_holder.dat",
+      "size": 1311162,
+      "fileId": 34,
+      "fileName": "1c7cdde6-aefb-4a1f-96de-8949b75e9ff1",
+      "path": ""
+    }
+  }
+}
