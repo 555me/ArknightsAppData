@@ -29,10 +29,8 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
-    "act2autochess",
     "act3enemyduel",
-    "act41sre",
-    "act51side",
+    "act4mainss",
     "main_0",
     "main_1",
     "main_10",
@@ -49,13 +47,12 @@
     "main_8",
     "main_9",
     "permanent_main_1_zone1",
-    "permanent_main_2_zone1"
+    "permanent_main_2_zone1",
+    "permanent_main_3_zone1"
   ],
   "_values": [
-    "Arts/UI/Stage/[UC]HomeEntry/act2autochess",
     "Arts/UI/Stage/[UC]HomeEntry/act3enemyduel",
-    "Arts/UI/Stage/[UC]HomeEntry/act41sre",
-    "Arts/UI/Stage/[UC]HomeEntry/act51side",
+    "Arts/UI/Stage/[UC]HomeEntry/act4mainss",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_10",
@@ -72,6 +69,7 @@
     "Arts/UI/Stage/[UC]HomeEntry/main_8",
     "Arts/UI/Stage/[UC]HomeEntry/main_9",
     "Arts/UI/Stage/[UC]HomeEntry/permanent_main_1_zone1",
-    "Arts/UI/Stage/[UC]HomeEntry/permanent_main_2_zone1"
+    "Arts/UI/Stage/[UC]HomeEntry/permanent_main_2_zone1",
+    "Arts/UI/Stage/[UC]HomeEntry/permanent_main_3_zone1"
   ]
 }

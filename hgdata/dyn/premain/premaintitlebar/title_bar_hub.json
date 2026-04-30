@@ -12,10 +12,15 @@
   "_rootPackingTag": "UI_PREMAIN_TITLE_BAR_HUB",
   "_cntPerAtlas": 16,
   "_standardPicSize": {
-    "width": 684,
-    "height": 207
+    "width": 1028,
+    "height": 312
   },
-  "_extraPicSize": [],
+  "_extraPicSize": [
+    {
+      "width": 684,
+      "height": 208
+    }
+  ],
   "_compressType": 10,
   "_atlasSize": 0,
   "_meshType": 0,
@@ -27,14 +32,17 @@
     "rules": []
   },
   "_atlasOutputPath": "",
-  "_configName": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTagMobileResize",
   "_keys": [
     "avemujica",
     "breaker_1",
     "epoque_39",
     "epoque_42",
+    "game_8",
+    "iteration_boc",
     "iteration_epoque",
     "nian_11",
+    "nian_12",
     "rilakkuma",
     "sale_13",
     "sale_16",
@@ -53,8 +61,11 @@
     "Premain/PremainTitleBar/breaker_1",
     "Premain/PremainTitleBar/epoque_39",
     "Premain/PremainTitleBar/epoque_42",
+    "Premain/PremainTitleBar/game_8",
+    "Premain/PremainTitleBar/iteration_boc",
     "Premain/PremainTitleBar/iteration_epoque",
     "Premain/PremainTitleBar/nian_11",
+    "Premain/PremainTitleBar/nian_12",
     "Premain/PremainTitleBar/rilakkuma",
     "Premain/PremainTitleBar/sale_13",
     "Premain/PremainTitleBar/sale_16",

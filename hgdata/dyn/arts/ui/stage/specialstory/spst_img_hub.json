@@ -34,7 +34,8 @@
     "loading_spst_16-01",
     "loading_spst_16-02",
     "loading_spst_16-03",
-    "loading_spst_16-04"
+    "loading_spst_16-04",
+    "loading_spst_17-01"
   ],
   "_values": [
     "Arts/UI/Stage/SpecialStory/loading_spst_08-01",
@@ -42,6 +43,7 @@
     "Arts/UI/Stage/SpecialStory/loading_spst_16-01",
     "Arts/UI/Stage/SpecialStory/loading_spst_16-02",
     "Arts/UI/Stage/SpecialStory/loading_spst_16-03",
-    "Arts/UI/Stage/SpecialStory/loading_spst_16-04"
+    "Arts/UI/Stage/SpecialStory/loading_spst_16-04",
+    "Arts/UI/Stage/SpecialStory/loading_spst_17-01"
   ]
 }

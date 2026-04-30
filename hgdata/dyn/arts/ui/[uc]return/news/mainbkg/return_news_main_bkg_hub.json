@@ -35,11 +35,13 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "return_page_main_16",
+    "return_page_main_17",
     "return_page_rogue_5",
     "return_page_sandbox_1"
   ],
   "_values": [
     "Arts/UI/[UC]Return/News/MainBkg/return_page_main_16",
+    "Arts/UI/[UC]Return/News/MainBkg/return_page_main_17",
     "Arts/UI/[UC]Return/News/MainBkg/return_page_rogue_5",
     "Arts/UI/[UC]Return/News/MainBkg/return_page_sandbox_1"
   ]

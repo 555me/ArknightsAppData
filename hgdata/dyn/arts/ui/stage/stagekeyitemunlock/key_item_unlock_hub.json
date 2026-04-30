@@ -36,7 +36,9 @@
     "main16_spitem_3_locked",
     "main16_spitem_3_unlocked",
     "main16_spitem_4_locked",
-    "main16_spitem_4_unlocked"
+    "main16_spitem_4_unlocked",
+    "main17_spitem_1_locked",
+    "main17_spitem_1_unlocked"
   ],
   "_values": [
     "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_1_locked",
@@ -46,6 +48,8 @@
     "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_3_locked",
     "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_3_unlocked",
     "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_4_locked",
-    "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_4_unlocked"
+    "Arts/UI/Stage/StageKeyItemUnlock/main16_spitem_4_unlocked",
+    "Arts/UI/Stage/StageKeyItemUnlock/main17_spitem_1_locked",
+    "Arts/UI/Stage/StageKeyItemUnlock/main17_spitem_1_unlocked"
   ]
 }

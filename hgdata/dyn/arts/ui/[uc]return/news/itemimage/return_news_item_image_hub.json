@@ -30,11 +30,13 @@
   "_configName": "",
   "_keys": [
     "return_page_main_16_icon",
+    "return_page_main_17_icon",
     "return_page_rogue_5_icon",
     "return_page_sandbox_1_icon"
   ],
   "_values": [
     "Arts/UI/[UC]Return/News/ItemImage/return_page_main_16_icon",
+    "Arts/UI/[UC]Return/News/ItemImage/return_page_main_17_icon",
     "Arts/UI/[UC]Return/News/ItemImage/return_page_rogue_5_icon",
     "Arts/UI/[UC]Return/News/ItemImage/return_page_sandbox_1_icon"
   ]
