@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "confirm_dialog_icon_hub",
+  "_rootPackingTag": "UI_SANDBOX_PERM_CONFIRM_DLG_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 129,
+    "height": 132
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "confirm_icon_1",
+    "confirm_icon_2",
+    "confirm_icon_3",
+    "confirm_icon_4",
+    "confirm_icon_5",
+    "confirm_icon_6"
+  ],
+  "_values": [
+    "UI/SandboxPerm/[UC]Common/ConfirmDlgIcon/confirm_icon_1",
+    "UI/SandboxPerm/[UC]Common/ConfirmDlgIcon/confirm_icon_2",
+    "UI/SandboxPerm/[UC]Common/ConfirmDlgIcon/confirm_icon_3",
+    "UI/SandboxPerm/[UC]Common/ConfirmDlgIcon/confirm_icon_4",
+    "UI/SandboxPerm/[UC]Common/ConfirmDlgIcon/confirm_icon_5",
+    "UI/SandboxPerm/[UC]Common/ConfirmDlgIcon/confirm_icon_6"
+  ]
+}

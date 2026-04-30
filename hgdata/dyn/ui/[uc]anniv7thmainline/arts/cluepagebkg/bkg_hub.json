@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "bkg_hub",
+  "_rootPackingTag": "ANNIV7TH_MAINLINE_CLUE_PAGE_BKG",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 1020,
+    "height": 960
+  },
+  "_extraPicSize": [],
+  "_compressType": 13,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 3145728,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "clueset_1",
+    "clueset_2",
+    "clueset_3",
+    "clueset_4"
+  ],
+  "_values": [
+    "UI/[UC]Anniv7thMainline/Arts/CluePageBkg/clueSet_1",
+    "UI/[UC]Anniv7thMainline/Arts/CluePageBkg/clueSet_2",
+    "UI/[UC]Anniv7thMainline/Arts/CluePageBkg/clueSet_3",
+    "UI/[UC]Anniv7thMainline/Arts/CluePageBkg/clueSet_4"
+  ]
+}

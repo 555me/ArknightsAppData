@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "character_hub",
+  "_rootPackingTag": "ANNIV7TH_MAINLINE_CLUE_CHAR",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 510,
+    "height": 510
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "clue_amiya",
+    "clue_bldsk",
+    "clue_cetsyr",
+    "clue_chen",
+    "clue_closur",
+    "clue_crosly",
+    "clue_folnic",
+    "clue_heidi",
+    "clue_helage",
+    "clue_logos",
+    "clue_mantra",
+    "clue_monstr",
+    "clue_pasngr",
+    "clue_pith",
+    "clue_raidian",
+    "clue_siege",
+    "clue_sunbr",
+    "clue_wintim",
+    "clue_wisdel"
+  ],
+  "_values": [
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_amiya",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_bldsk",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_cetsyr",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_chen",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_closur",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_crosly",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_folnic",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_heidi",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_helage",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_logos",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_mantra",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_monstr",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_pasngr",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_pith",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_raidian",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_siege",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_sunbr",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_wintim",
+    "UI/[UC]Anniv7thMainline/Arts/ClueChar/clue_wisdel"
+  ]
+}

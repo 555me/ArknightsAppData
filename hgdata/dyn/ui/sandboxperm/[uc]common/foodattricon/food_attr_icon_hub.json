@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "food_attr_icon_hub",
+  "_rootPackingTag": "UI_SANDBOX_V2_FOOD_ATTRIBUTE_SPRITES",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 36,
+    "height": 36
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "attack_main",
+    "attack_sub",
+    "cooldown_main",
+    "cooldown_sub",
+    "cost_main",
+    "cost_sub",
+    "enhanced_sub",
+    "function_main",
+    "skill_point_main",
+    "special_main",
+    "special_sub",
+    "survive_main",
+    "survive_sub"
+  ],
+  "_values": [
+    "UI/SandboxPerm/[UC]Common/FoodAttrIcon/attack_main",
+    "UI/SandboxPerm/[UC]Common/FoodAttrIcon/attack_sub",
+    "UI/SandboxPerm/[UC]Common/FoodAttrIcon/cooldown_main",
+    "UI/SandboxPerm/[UC]Common/FoodAttrIcon/cooldown_sub",
+    "UI/SandboxPerm/[UC]Common/FoodAttrIcon/cost_main",
+    "UI/SandboxPerm/[UC]Common/FoodAttrIcon/cost_sub",
+    "UI/SandboxPerm/[UC]Common/FoodAttrIcon/enhanced_sub",
+    "UI/SandboxPerm/[UC]Common/FoodAttrIcon/function_main",
+    "UI/SandboxPerm/[UC]Common/FoodAttrIcon/skill_point_main",
+    "UI/SandboxPerm/[UC]Common/FoodAttrIcon/special_main",
+    "UI/SandboxPerm/[UC]Common/FoodAttrIcon/special_sub",
+    "UI/SandboxPerm/[UC]Common/FoodAttrIcon/survive_main",
+    "UI/SandboxPerm/[UC]Common/FoodAttrIcon/survive_sub"
+  ]
+}
