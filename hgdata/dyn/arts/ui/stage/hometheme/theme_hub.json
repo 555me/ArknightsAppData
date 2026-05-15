@@ -69,7 +69,8 @@
     "rogue_5_entry_display_4",
     "sandbox_1_entry_display_1",
     "sandbox_1_entry_display_2",
-    "sandbox_1_entry_display_3"
+    "sandbox_1_entry_display_3",
+    "sandbox_2_entry_display_1"
   ],
   "_values": [
     "Arts/UI/Stage/HomeTheme/act3enemyduel",
@@ -103,6 +104,7 @@
     "Arts/UI/Stage/HomeTheme/rogue_5_entry_display_4",
     "Arts/UI/Stage/HomeTheme/sandbox_1_entry_display_1",
     "Arts/UI/Stage/HomeTheme/sandbox_1_entry_display_2",
-    "Arts/UI/Stage/HomeTheme/sandbox_1_entry_display_3"
+    "Arts/UI/Stage/HomeTheme/sandbox_1_entry_display_3",
+    "Arts/UI/Stage/HomeTheme/sandbox_2_entry_display_1"
   ]
 }

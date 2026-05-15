@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "archive_npc_icon_hub",
+  "_rootPackingTag": "UI_SANDBOX_V3_ARCHIVE_NPC_ICON_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 112,
+    "height": 112
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "img_npc_009_amiya3",
+    "img_npc_1011_lava2",
+    "img_npc_1021_kroos2",
+    "img_npc_154_morgan",
+    "img_npc_155_tiger",
+    "img_npc_157_dagda",
+    "img_npc_171_bldsk",
+    "img_npc_278_orchid",
+    "img_npc_281_popka",
+    "img_npc_325_bison",
+    "img_npc_376_therex",
+    "img_npc_385_finlpp",
+    "img_npc_4081_warmy",
+    "img_npc_4133_logos",
+    "img_npc_4179_monstr",
+    "img_npc_4228_closur",
+    "img_npc_508_aguard",
+    "img_npc_511_asnipe",
+    "img_npc_610_acfend",
+    "img_npc_614_acsupo"
+  ],
+  "_values": [
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_009_amiya3",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_1011_lava2",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_1021_kroos2",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_154_morgan",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_155_tiger",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_157_dagda",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_171_bldsk",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_278_orchid",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_281_popka",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_325_bison",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_376_therex",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_385_finlpp",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_4081_warmy",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_4133_logos",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_4179_monstr",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_4228_closur",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_508_aguard",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_511_asnipe",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_610_acfend",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/ArchiveNpcIcon/img_npc_614_acsupo"
+  ]
+}

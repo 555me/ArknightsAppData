@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "defend_misc_hub",
+  "_rootPackingTag": "UI_SANDBOXV3_DEFEND_MISC",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 50,
+    "height": 50
+  },
+  "_extraPicSize": [
+    {
+      "width": 246,
+      "height": 7
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 2,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "zone_mine",
+    "zone_mine_title",
+    "zone_plate",
+    "zone_plate_title",
+    "zone_swamp",
+    "zone_swamp_title",
+    "zone_valle",
+    "zone_valle_title"
+  ],
+  "_values": [
+    "UI/SandboxV3/Topics/[UC]sandbox_2/DefendMisc/zone_mine",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/DefendMisc/zone_mine_title",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/DefendMisc/zone_plate",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/DefendMisc/zone_plate_title",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/DefendMisc/zone_swamp",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/DefendMisc/zone_swamp_title",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/DefendMisc/zone_valle",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/DefendMisc/zone_valle_title"
+  ]
+}

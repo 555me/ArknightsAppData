@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "misc_hub",
+  "_rootPackingTag": "UI_SANDBOXV3_DUNGEON_MISC",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 90,
+    "height": 90
+  },
+  "_extraPicSize": [
+    {
+      "width": 34,
+      "height": 34
+    },
+    {
+      "width": 140,
+      "height": 140
+    },
+    {
+      "width": 637,
+      "height": 840
+    },
+    {
+      "width": 65,
+      "height": 65
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "sandbox_2_mode_normal_hud",
+    "sandbox_2_mode_normal_preview",
+    "sandbox_2_mode_normal_preview_bg",
+    "sandbox_2_mode_normal_switch",
+    "sandbox_2_mode_safe_hud",
+    "sandbox_2_mode_safe_preview",
+    "sandbox_2_mode_safe_preview_bg",
+    "sandbox_2_mode_safe_switch",
+    "z_2_1_unlock",
+    "z_2_2_unlock",
+    "z_2_3_unlock",
+    "z_2_4_unlock"
+  ],
+  "_values": [
+    "UI/SandboxV3/Topics/[UC]sandbox_2/Dungeon/Misc/sandbox_2_mode_normal_hud",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/Dungeon/Misc/sandbox_2_mode_normal_preview",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/Dungeon/Misc/sandbox_2_mode_normal_preview_bg",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/Dungeon/Misc/sandbox_2_mode_normal_switch",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/Dungeon/Misc/sandbox_2_mode_safe_hud",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/Dungeon/Misc/sandbox_2_mode_safe_preview",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/Dungeon/Misc/sandbox_2_mode_safe_preview_bg",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/Dungeon/Misc/sandbox_2_mode_safe_switch",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/Dungeon/Misc/z_2_1_unlock",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/Dungeon/Misc/z_2_2_unlock",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/Dungeon/Misc/z_2_3_unlock",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/Dungeon/Misc/z_2_4_unlock"
+  ]
+}

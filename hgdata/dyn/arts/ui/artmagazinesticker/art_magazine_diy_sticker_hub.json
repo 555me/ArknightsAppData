@@ -47,7 +47,9 @@
     "sticker_sand_1_2",
     "sticker_sand_1_3",
     "sticker_sand_1_4",
-    "sticker_sand_1_5"
+    "sticker_sand_1_5",
+    "sticker_sand_2_1",
+    "sticker_sand_2_2"
   ],
   "_values": [
     "Arts/UI/ArtMagazineSticker/sticker_def2_1",
@@ -68,6 +70,8 @@
     "Arts/UI/ArtMagazineSticker/sticker_sand_1_2",
     "Arts/UI/ArtMagazineSticker/sticker_sand_1_3",
     "Arts/UI/ArtMagazineSticker/sticker_sand_1_4",
-    "Arts/UI/ArtMagazineSticker/sticker_sand_1_5"
+    "Arts/UI/ArtMagazineSticker/sticker_sand_1_5",
+    "Arts/UI/ArtMagazineSticker/sticker_sand_2_1",
+    "Arts/UI/ArtMagazineSticker/sticker_sand_2_2"
   ]
 }

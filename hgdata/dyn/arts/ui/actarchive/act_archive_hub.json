@@ -186,7 +186,16 @@
     "music_sandbox_v2_6",
     "music_sandbox_v2_7",
     "music_sandbox_v2_8",
-    "music_sandbox_v2_9"
+    "music_sandbox_v2_9",
+    "music_sandbox_v3_1",
+    "music_sandbox_v3_2",
+    "music_sandbox_v3_3",
+    "music_sandbox_v3_4",
+    "music_sandbox_v3_5",
+    "music_sandbox_v3_6",
+    "music_sandbox_v3_7",
+    "music_sandbox_v3_8",
+    "music_sandbox_v3_9"
   ],
   "_values": [
     "Arts/UI/ActArchive/act13side/act13side_central_journal_logo",
@@ -317,6 +326,15 @@
     "Arts/UI/ActArchive/sandbox_1/music_sandbox_v2_6",
     "Arts/UI/ActArchive/sandbox_1/music_sandbox_v2_7",
     "Arts/UI/ActArchive/sandbox_1/music_sandbox_v2_8",
-    "Arts/UI/ActArchive/sandbox_1/music_sandbox_v2_9"
+    "Arts/UI/ActArchive/sandbox_1/music_sandbox_v2_9",
+    "Arts/UI/ActArchive/sandbox_2/music_sandbox_v3_1",
+    "Arts/UI/ActArchive/sandbox_2/music_sandbox_v3_2",
+    "Arts/UI/ActArchive/sandbox_2/music_sandbox_v3_3",
+    "Arts/UI/ActArchive/sandbox_2/music_sandbox_v3_4",
+    "Arts/UI/ActArchive/sandbox_2/music_sandbox_v3_5",
+    "Arts/UI/ActArchive/sandbox_2/music_sandbox_v3_6",
+    "Arts/UI/ActArchive/sandbox_2/music_sandbox_v3_7",
+    "Arts/UI/ActArchive/sandbox_2/music_sandbox_v3_8",
+    "Arts/UI/ActArchive/sandbox_2/music_sandbox_v3_9"
   ]
 }

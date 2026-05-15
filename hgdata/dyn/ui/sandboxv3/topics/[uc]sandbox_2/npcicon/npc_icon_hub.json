@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "npc_icon_hub",
+  "_rootPackingTag": "UI_SANDBOX_V3_PIN_ICON_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 108,
+    "height": 108
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "img_default_npc_pic",
+    "img_in_battle_pin",
+    "img_npc_m3",
+    "img_npc_storm",
+    "img_npc_therex",
+    "img_npc_trademan"
+  ],
+  "_values": [
+    "UI/SandboxV3/Topics/[UC]sandbox_2/NpcIcon/img_default_npc_pic",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/NpcIcon/img_in_battle_pin",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/NpcIcon/img_npc_m3",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/NpcIcon/img_npc_storm",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/NpcIcon/img_npc_therex",
+    "UI/SandboxV3/Topics/[UC]sandbox_2/NpcIcon/img_npc_trademan"
+  ]
+}

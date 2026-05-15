@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "skill_icon_hub",
+  "_rootPackingTag": "UI_SANDBOX_V3_PROCESS_SKILL_ICON_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 180,
+    "height": 180
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "sandbox_2_binder",
+    "sandbox_2_brick",
+    "sandbox_2_egg",
+    "sandbox_2_energy",
+    "sandbox_2_equipment",
+    "sandbox_2_exoskeleton",
+    "sandbox_2_fabric",
+    "sandbox_2_fiber",
+    "sandbox_2_flax",
+    "sandbox_2_fur",
+    "sandbox_2_leather",
+    "sandbox_2_medkit",
+    "sandbox_2_plank",
+    "sandbox_2_protein",
+    "sandbox_2_raincoat",
+    "sandbox_2_rations",
+    "sandbox_2_rice",
+    "sandbox_2_shell",
+    "sandbox_2_steel",
+    "sandbox_2_tent",
+    "sandbox_2_tool",
+    "sandbox_2_weapon",
+    "sandbox_2_wine",
+    "sandbox_2_wool"
+  ],
+  "_values": [
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_binder",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_brick",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_egg",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_energy",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_equipment",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_exoskeleton",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_fabric",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_fiber",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_flax",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_fur",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_leather",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_medkit",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_plank",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_protein",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_raincoat",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_rations",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_rice",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_shell",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_steel",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_tent",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_tool",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_weapon",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_wine",
+    "UI/SandboxV3/[UC]Common/Arts/ProcessSkillIcon/sandbox_2_wool"
+  ]
+}

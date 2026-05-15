@@ -35,7 +35,8 @@
     "special_61_0_3",
     "special_65_0_5",
     "special_67_0_3",
-    "special_70_0_3"
+    "special_70_0_3",
+    "special_73_0_3"
   ],
   "_values": [
     "Arts/UI/[UC]SpecialGachaPool/RETURN_71_0_1",
@@ -44,6 +45,7 @@
     "Arts/UI/[UC]SpecialGachaPool/SPECIAL_61_0_3",
     "Arts/UI/[UC]SpecialGachaPool/SPECIAL_65_0_5",
     "Arts/UI/[UC]SpecialGachaPool/SPECIAL_67_0_3",
-    "Arts/UI/[UC]SpecialGachaPool/SPECIAL_70_0_3"
+    "Arts/UI/[UC]SpecialGachaPool/SPECIAL_70_0_3",
+    "Arts/UI/[UC]SpecialGachaPool/SPECIAL_73_0_3"
   ]
 }
