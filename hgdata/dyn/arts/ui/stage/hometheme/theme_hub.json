@@ -39,6 +39,7 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act3enemyduel",
+    "act42sre",
     "act4mainss_1",
     "act4mainss_2",
     "act4mainss_3",
@@ -74,6 +75,7 @@
   ],
   "_values": [
     "Arts/UI/Stage/HomeTheme/act3enemyduel",
+    "Arts/UI/Stage/HomeTheme/act42sre",
     "Arts/UI/Stage/HomeTheme/act4mainss_1",
     "Arts/UI/Stage/HomeTheme/act4mainss_2",
     "Arts/UI/Stage/HomeTheme/act4mainss_3",

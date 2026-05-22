@@ -30,6 +30,7 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act3enemyduel",
+    "act42sre",
     "act4mainss",
     "main_0",
     "main_1",
@@ -52,6 +53,7 @@
   ],
   "_values": [
     "Arts/UI/Stage/[UC]HomeEntry/act3enemyduel",
+    "Arts/UI/Stage/[UC]HomeEntry/act42sre",
     "Arts/UI/Stage/[UC]HomeEntry/act4mainss",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
