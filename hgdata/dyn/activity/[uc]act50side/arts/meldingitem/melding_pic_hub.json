@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "melding_pic_hub",
+  "_rootPackingTag": "UI_ACT50SIDE_MELDING_ITEM_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 90,
+    "height": 90
+  },
+  "_extraPicSize": [
+    {
+      "width": 60,
+      "height": 60
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "act50side_melding_1",
+    "act50side_melding_1_small",
+    "act50side_melding_2",
+    "act50side_melding_2_small",
+    "act50side_melding_3",
+    "act50side_melding_3_small",
+    "act50side_melding_4",
+    "act50side_melding_4_small",
+    "act50side_melding_5",
+    "act50side_melding_5_small",
+    "act50side_melding_6",
+    "act50side_melding_6_small",
+    "act50side_melding_bg_bg"
+  ],
+  "_values": [
+    "Activity/[UC]act50side/Arts/MeldingItem/act50side_melding_1",
+    "Activity/[UC]act50side/Arts/MeldingItem/act50side_melding_1_small",
+    "Activity/[UC]act50side/Arts/MeldingItem/act50side_melding_2",
+    "Activity/[UC]act50side/Arts/MeldingItem/act50side_melding_2_small",
+    "Activity/[UC]act50side/Arts/MeldingItem/act50side_melding_3",
+    "Activity/[UC]act50side/Arts/MeldingItem/act50side_melding_3_small",
+    "Activity/[UC]act50side/Arts/MeldingItem/act50side_melding_4",
+    "Activity/[UC]act50side/Arts/MeldingItem/act50side_melding_4_small",
+    "Activity/[UC]act50side/Arts/MeldingItem/act50side_melding_5",
+    "Activity/[UC]act50side/Arts/MeldingItem/act50side_melding_5_small",
+    "Activity/[UC]act50side/Arts/MeldingItem/act50side_melding_6",
+    "Activity/[UC]act50side/Arts/MeldingItem/act50side_melding_6_small",
+    "Activity/[UC]act50side/Arts/MeldingItem/act50side_melding_bg_bg"
+  ]
+}

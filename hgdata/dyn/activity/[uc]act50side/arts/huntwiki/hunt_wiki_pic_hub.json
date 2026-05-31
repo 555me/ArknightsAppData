@@ -1,0 +1,116 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "hunt_wiki_pic_hub",
+  "_rootPackingTag": "UI_ACT50SIDE_HUNT_WIKI_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 280,
+    "height": 280
+  },
+  "_extraPicSize": [
+    {
+      "width": 228,
+      "height": 40
+    },
+    {
+      "width": 60,
+      "height": 60
+    },
+    {
+      "width": 100,
+      "height": 90
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "enemy_10129_pycdog_large",
+    "enemy_10129_pycdog_name",
+    "enemy_10129_pycdog_small",
+    "enemy_10130_pycpok_large",
+    "enemy_10130_pycpok_name",
+    "enemy_10130_pycpok_small",
+    "enemy_10131_pycshd_large",
+    "enemy_10131_pycshd_name",
+    "enemy_10131_pycshd_small",
+    "enemy_10132_pyceat_large",
+    "enemy_10132_pyceat_name",
+    "enemy_10132_pyceat_small",
+    "enemy_10133_pycrol_large",
+    "enemy_10133_pycrol_name",
+    "enemy_10133_pycrol_small",
+    "enemy_10134_pycspy_large",
+    "enemy_10134_pycspy_name",
+    "enemy_10134_pycspy_small",
+    "enemy_10135_pycjmp_large",
+    "enemy_10135_pycjmp_name",
+    "enemy_10135_pycjmp_small",
+    "enemy_10136_pycblk_large",
+    "enemy_10136_pycblk_name",
+    "enemy_10136_pycblk_small",
+    "enemy_10137_pycvol_large",
+    "enemy_10137_pycvol_name",
+    "enemy_10137_pycvol_small",
+    "enemy_1573_pyczog_large",
+    "enemy_1573_pyczog_name",
+    "enemy_1573_pyczog_small",
+    "trap_281_ctlrol",
+    "trap_282_ctlspy",
+    "trap_283_ctlblk",
+    "trap_283_ctlzog"
+  ],
+  "_values": [
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10129_pycdog_large",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10129_pycdog_name",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10129_pycdog_small",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10130_pycpok_large",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10130_pycpok_name",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10130_pycpok_small",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10131_pycshd_large",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10131_pycshd_name",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10131_pycshd_small",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10132_pyceat_large",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10132_pyceat_name",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10132_pyceat_small",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10133_pycrol_large",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10133_pycrol_name",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10133_pycrol_small",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10134_pycspy_large",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10134_pycspy_name",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10134_pycspy_small",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10135_pycjmp_large",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10135_pycjmp_name",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10135_pycjmp_small",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10136_pycblk_large",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10136_pycblk_name",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10136_pycblk_small",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10137_pycvol_large",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10137_pycvol_name",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_10137_pycvol_small",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_1573_pyczog_large",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_1573_pyczog_name",
+    "Activity/[UC]act50side/Arts/HuntWiki/enemy_1573_pyczog_small",
+    "Activity/[UC]act50side/Arts/HuntWiki/trap_281_ctlrol",
+    "Activity/[UC]act50side/Arts/HuntWiki/trap_282_ctlspy",
+    "Activity/[UC]act50side/Arts/HuntWiki/trap_283_ctlblk",
+    "Activity/[UC]act50side/Arts/HuntWiki/trap_283_ctlzog"
+  ]
+}
