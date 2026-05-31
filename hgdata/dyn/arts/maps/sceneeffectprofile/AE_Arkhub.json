@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5982601753670995652
+  },
+  "m_Name": "AE_Arkhub",
+  "shadowTint": 1,
+  "shadowTintColor": {
+    "r": 0.7471028,
+    "g": 0.67165875,
+    "b": 0.9044118,
+    "a": 0.685
+  },
+  "fogColor": {
+    "r": 1.0,
+    "g": 0.97099394,
+    "b": 0.9191176,
+    "a": 1.0
+  },
+  "fogNoise": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fogNoiseScale": {
+    "x": 2.8,
+    "y": 1.0
+  },
+  "fogSpeed": 4.75,
+  "heightFog": 0,
+  "fogBaseline": 2.8,
+  "fogTop": -1.2,
+  "dirFog": 0,
+  "noCenterMask": 0,
+  "colorGrading": 0,
+  "colorGradingLut": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "graphicsGrading": 0
+}

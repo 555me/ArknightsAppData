@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4522586802406560678
+  },
+  "m_Name": "DepthOfField",
+  "active": 1,
+  "enabled": {
+    "overrideState": 1,
+    "value": 1
+  },
+  "focusDistance": {
+    "overrideState": 1,
+    "value": 18.0
+  },
+  "aperture": {
+    "overrideState": 1,
+    "value": 0.1
+  },
+  "focalLength": {
+    "overrideState": 1,
+    "value": 37.0
+  },
+  "kernelSize": {
+    "overrideState": 0,
+    "value": 1
+  }
+}

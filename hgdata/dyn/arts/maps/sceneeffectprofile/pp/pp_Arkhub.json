@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2595231705010064034
+  },
+  "m_Name": "pp_Arkhub",
+  "settings": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -176728856895433180
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3322130707434645980
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 43208872042092068
+    }
+  ]
+}
