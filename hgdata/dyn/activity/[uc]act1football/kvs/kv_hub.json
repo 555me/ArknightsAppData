@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "kv_hub",
+  "_rootPackingTag": "UI_ACT1FOOTBALL_KV",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 940,
+    "height": 822
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "act1football_img_01_0",
+    "act1football_img_02_0"
+  ],
+  "_values": [
+    "Activity/[UC]act1football/KVs/act1football_img_01_0",
+    "Activity/[UC]act1football/KVs/act1football_img_02_0"
+  ]
+}
