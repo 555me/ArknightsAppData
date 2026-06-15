@@ -30,18 +30,26 @@
   "_configName": "",
   "_keys": [
     "act1football_teamicon_1",
+    "act1football_teamicon_10",
     "act1football_teamicon_2",
     "act1football_teamicon_3",
     "act1football_teamicon_4",
     "act1football_teamicon_5",
-    "act1football_teamicon_6"
+    "act1football_teamicon_6",
+    "act1football_teamicon_7",
+    "act1football_teamicon_8",
+    "act1football_teamicon_9"
   ],
   "_values": [
     "Activity/[UC]act1football/Arts/TeamIcon/act1football_teamicon_1",
+    "Activity/[UC]act1football/Arts/TeamIcon/act1football_teamicon_10",
     "Activity/[UC]act1football/Arts/TeamIcon/act1football_teamicon_2",
     "Activity/[UC]act1football/Arts/TeamIcon/act1football_teamicon_3",
     "Activity/[UC]act1football/Arts/TeamIcon/act1football_teamicon_4",
     "Activity/[UC]act1football/Arts/TeamIcon/act1football_teamicon_5",
-    "Activity/[UC]act1football/Arts/TeamIcon/act1football_teamicon_6"
+    "Activity/[UC]act1football/Arts/TeamIcon/act1football_teamicon_6",
+    "Activity/[UC]act1football/Arts/TeamIcon/act1football_teamicon_7",
+    "Activity/[UC]act1football/Arts/TeamIcon/act1football_teamicon_8",
+    "Activity/[UC]act1football/Arts/TeamIcon/act1football_teamicon_9"
   ]
 }

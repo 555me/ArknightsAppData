@@ -30,6 +30,7 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act1football",
+    "act24sre",
     "act42sre",
     "act50side",
     "main_0",
@@ -53,6 +54,7 @@
   ],
   "_values": [
     "Arts/UI/Stage/[UC]HomeEntry/act1football",
+    "Arts/UI/Stage/[UC]HomeEntry/act24sre",
     "Arts/UI/Stage/[UC]HomeEntry/act42sre",
     "Arts/UI/Stage/[UC]HomeEntry/act50side",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
