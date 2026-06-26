@@ -32,6 +32,7 @@
     "map_bolivar_beach",
     "map_bolivar_sea",
     "map_columbia_center",
+    "map_columbia_mobileplotstreet",
     "map_col_testing",
     "map_fc_reed",
     "map_ib_dawn",
@@ -42,15 +43,18 @@
     "map_le_alleys",
     "map_spine_vc",
     "map_ursus_13ruins",
+    "map_ursus_miningarea",
     "map_ursus_ruins",
     "map_vc_reeds",
     "map_victoria_parch",
-    "map_wb_wall"
+    "map_wb_wall",
+    "map_yan_shuge"
   ],
   "_values": [
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_bolivar_beach",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_bolivar_sea",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_columbia_center",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_columbia_mobileplotstreet",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_col_testing",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_fc_reed",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_ib_dawn",
@@ -61,9 +65,11 @@
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_le_alleys",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_spine_vc",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_ursus_13ruins",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_ursus_miningarea",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_ursus_ruins",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_vc_reeds",
     "Arts/UI/[UC]CrisisV2/MapAreaBg/map_victoria_parch",
-    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_wb_wall"
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_wb_wall",
+    "Arts/UI/[UC]CrisisV2/MapAreaBg/map_yan_shuge"
   ]
 }
