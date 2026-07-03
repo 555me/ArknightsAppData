@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
+  },
+  "m_Name": "act9switch_reward_hub",
+  "_sprites": [
+    {
+      "name": "act9switch_reward_50w",
+      "guid": "0b6bad60a3492d1409be6cefb9219b9c",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 172
+      },
+      "rotate": 0
+    },
+    {
+      "name": "act9switch_reward_200w",
+      "guid": "0f7dfdd186c388947a0c1845895f3dc9",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 174,
+        "w": 168,
+        "h": 172
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -8208423799076301837
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -6559283857996892666
+      },
+      "size": 512
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "act9switch_reward_50w",
+        "guid": "0b6bad60a3492d1409be6cefb9219b9c",
+        "md5": "23df24050409cae9622446c40270798e"
+      },
+      {
+        "name": "act9switch_reward_200w",
+        "guid": "0f7dfdd186c388947a0c1845895f3dc9",
+        "md5": "bf3b8f6e996365469c163a66a1df8e91"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "act9switch_reward_hub#0",
+        "guid": "cbfed2d2d8225e442bd8ec027deeaf93",
+        "md5": "36b73eff74e2581ef2403cf0111a0b43"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "act9switch_reward_hub#0a",
+        "guid": "fc8c2a2711b71fd4c8de48887f6f90fd",
+        "md5": "d3e9a54bf1cbdb0676a8768ba516dbf9"
+      }
+    ]
+  }
+}
