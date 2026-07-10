@@ -38,10 +38,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
-    "act1football",
-    "act24sre",
-    "act42sre",
-    "act50side",
+    "act21mini",
     "crisis_v2_season_5_1",
     "main_10",
     "main_11",
@@ -73,10 +70,7 @@
     "sandbox_2_entry_display_1"
   ],
   "_values": [
-    "Arts/UI/Stage/HomeTheme/act1football",
-    "Arts/UI/Stage/HomeTheme/act24sre",
-    "Arts/UI/Stage/HomeTheme/act42sre",
-    "Arts/UI/Stage/HomeTheme/act50side",
+    "Arts/UI/Stage/HomeTheme/act21mini",
     "Arts/UI/Stage/HomeTheme/crisis_v2_season_5_1",
     "Arts/UI/Stage/HomeTheme/main_10",
     "Arts/UI/Stage/HomeTheme/main_11",

@@ -29,9 +29,11 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
-    "rogue_5"
+    "rogue_5",
+    "rogue_6"
   ],
   "_values": [
-    "Arts/UI/SpecialOperator/TargetInfoIcon/rogue_5"
+    "Arts/UI/SpecialOperator/TargetInfoIcon/rogue_5",
+    "Arts/UI/SpecialOperator/TargetInfoIcon/rogue_6"
   ]
 }

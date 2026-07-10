@@ -29,10 +29,7 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
-    "act1football",
-    "act24sre",
-    "act42sre",
-    "act50side",
+    "act21mini",
     "main_0",
     "main_1",
     "main_10",
@@ -53,10 +50,7 @@
     "permanent_main_3_zone1"
   ],
   "_values": [
-    "Arts/UI/Stage/[UC]HomeEntry/act1football",
-    "Arts/UI/Stage/[UC]HomeEntry/act24sre",
-    "Arts/UI/Stage/[UC]HomeEntry/act42sre",
-    "Arts/UI/Stage/[UC]HomeEntry/act50side",
+    "Arts/UI/Stage/[UC]HomeEntry/act21mini",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_10",

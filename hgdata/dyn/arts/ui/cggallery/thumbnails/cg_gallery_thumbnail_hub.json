@@ -31,6 +31,9 @@
   "_keys": [
     "071_mini01",
     "071_mini02",
+    "075_mini01",
+    "075_mini02",
+    "075_mini03",
     "20_i00",
     "20_i01",
     "20_i02_1",
@@ -1184,6 +1187,9 @@
   "_values": [
     "Arts/UI/CGGallery/Thumbnails/071_mini01",
     "Arts/UI/CGGallery/Thumbnails/071_mini02",
+    "Arts/UI/CGGallery/Thumbnails/075_mini01",
+    "Arts/UI/CGGallery/Thumbnails/075_mini02",
+    "Arts/UI/CGGallery/Thumbnails/075_mini03",
     "Arts/UI/CGGallery/Thumbnails/20_I00",
     "Arts/UI/CGGallery/Thumbnails/20_I01",
     "Arts/UI/CGGallery/Thumbnails/20_I02_1",

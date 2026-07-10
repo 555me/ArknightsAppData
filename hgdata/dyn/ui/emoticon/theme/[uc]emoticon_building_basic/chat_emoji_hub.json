@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "chat_emoji_hub",
+  "_rootPackingTag": "ENEMYDUEL_EMOTICON_BASIC",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 120,
+    "height": 120
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "pic_bye",
+    "pic_distrust",
+    "pic_nice_work",
+    "pic_poke",
+    "pic_very_soon"
+  ],
+  "_values": [
+    "UI/Emoticon/Theme/[UC]emoticon_building_basic/icon/pic_bye",
+    "UI/Emoticon/Theme/[UC]emoticon_building_basic/icon/pic_distrust",
+    "UI/Emoticon/Theme/[UC]emoticon_building_basic/icon/pic_nice_work",
+    "UI/Emoticon/Theme/[UC]emoticon_building_basic/icon/pic_poke",
+    "UI/Emoticon/Theme/[UC]emoticon_building_basic/icon/pic_very_soon"
+  ]
+}
