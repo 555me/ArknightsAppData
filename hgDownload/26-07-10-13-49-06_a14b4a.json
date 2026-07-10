@@ -1,0 +1,75 @@
+{
+  "downloadType": 0,
+  "downloadData": {
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/99358f9ebc84c85a66212241396fbad8.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/99358f9ebc84c85a66212241396fbad8.dat",
+      "size": 3386479,
+      "fileId": 1,
+      "fileName": "3d3073fb-b28f-490a-b4cd-38c60c89f3a1",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/anon_7d91430e114d86fef7d3b3511151e12d.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/anon_7d91430e114d86fef7d3b3511151e12d.dat",
+      "size": 1118441,
+      "fileId": 2248,
+      "fileName": "3d2fcf3c-9f1b-42f6-ba9e-9a8bfb0d0553",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/anon_b8abe572bf6e7ee2fb6a280be6159570.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/anon_b8abe572bf6e7ee2fb6a280be6159570.dat",
+      "size": 3110133,
+      "fileId": 9100,
+      "fileName": "9068f240-69a5-423e-b866-2710a345ff41",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/pkgrps_btl_pfb_tokens_5.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/pkgrps_btl_pfb_tokens_5.dat",
+      "size": 1487662,
+      "fileId": 5084,
+      "fileName": "729151d9-6076-460c-97aa-e680f2358514",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/scenes_activities_act21mini_level_act21mini_04_level_act21mini_04_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/scenes_activities_act21mini_level_act21mini_04_level_act21mini_04_lightingdata.dat",
+      "size": 983709,
+      "fileId": 11562,
+      "fileName": "ff526542-ab75-4802-99d2-2cf4cc205d6e",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/scenes_activities_act21mini_level_act21mini_04_level_act21mini_04.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/scenes_activities_act21mini_level_act21mini_04_level_act21mini_04.dat",
+      "size": 957112,
+      "fileId": 9436,
+      "fileName": "9eff59df-b815-4372-bceb-86aa97542d0b",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/anon_7ef9fda2f82ae42aa40e815153978031.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/anon_7ef9fda2f82ae42aa40e815153978031.dat",
+      "size": 754287,
+      "fileId": 2196,
+      "fileName": "72a0e0c6-6c5a-4e93-b8c1-5d608c42be10",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/arts_ui_stage_mappreview_h2_act21mini_1_0.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/arts_ui_stage_mappreview_h2_act21mini_1_0.dat",
+      "size": 506171,
+      "fileId": 6007,
+      "fileName": "185c9dbd-4702-462f-b853-df94ecb6d2df",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/battle_enm_pfb_29.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/battle_enm_pfb_29.dat",
+      "size": 322417,
+      "fileId": 5049,
+      "fileName": "46ce3937-a32e-4d93-92fa-ccee85db7f18",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/anon_4b4904a15e42fcf99fb2665774ff80b5.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-07-10-13-49-06_a14b4a/anon_4b4904a15e42fcf99fb2665774ff80b5.dat",
+      "size": 1416,
+      "fileId": 2207,
+      "fileName": "ed22dc33-d40a-4242-844b-afae4e0296c8",
+      "path": ""
+    }
+  }
+}
