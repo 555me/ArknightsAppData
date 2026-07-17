@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "rogue_6_dungeon",
+  "_pageIds": [
+    "[uc]roguelike/dungeon_rogue_6_1",
+    "[uc]roguelike/dungeon_rogue_6_2",
+    "[uc]roguelike/dungeon_rogue_6_3",
+    "[uc]roguelike/dungeon_rogue_6_4",
+    "[uc]roguelike/dungeon_rogue_6_5",
+    "[uc]roguelike/dungeon_rogue_6_6",
+    "[uc]roguelike/dungeon_rogue_6_7",
+    "[uc]roguelike/dungeon_rogue_6_8",
+    "[uc]roguelike/dungeon_rogue_6_9"
+  ],
+  "_autoShowTarget": 31,
+  "_subsignal": "rogue_6"
+}

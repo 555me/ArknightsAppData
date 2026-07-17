@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "area_tile_hub",
+  "_rootPackingTag": "RL06_WEATHER_AREA_TILE",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 128,
+    "height": 128
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "area_tile_0",
+    "area_tile_1",
+    "area_tile_10",
+    "area_tile_11",
+    "area_tile_12",
+    "area_tile_13",
+    "area_tile_14",
+    "area_tile_15",
+    "area_tile_2",
+    "area_tile_3",
+    "area_tile_4",
+    "area_tile_5",
+    "area_tile_6",
+    "area_tile_7",
+    "area_tile_8",
+    "area_tile_9"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_0",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_1",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_10",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_11",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_12",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_13",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_14",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_15",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_2",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_3",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_4",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_5",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_6",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_7",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_8",
+    "UI/RoguelikeTopic/Topics/rogue_6/WeatherArea/AreaTile/area_tile_9"
+  ]
+}

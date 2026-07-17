@@ -30,6 +30,7 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act21mini",
+    "act43sre",
     "main_0",
     "main_1",
     "main_10",
@@ -47,10 +48,12 @@
     "main_9",
     "permanent_main_1_zone1",
     "permanent_main_2_zone1",
-    "permanent_main_3_zone1"
+    "permanent_main_3_zone1",
+    "rogue_6"
   ],
   "_values": [
     "Arts/UI/Stage/[UC]HomeEntry/act21mini",
+    "Arts/UI/Stage/[UC]HomeEntry/act43sre",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_10",
@@ -68,6 +71,7 @@
     "Arts/UI/Stage/[UC]HomeEntry/main_9",
     "Arts/UI/Stage/[UC]HomeEntry/permanent_main_1_zone1",
     "Arts/UI/Stage/[UC]HomeEntry/permanent_main_2_zone1",
-    "Arts/UI/Stage/[UC]HomeEntry/permanent_main_3_zone1"
+    "Arts/UI/Stage/[UC]HomeEntry/permanent_main_3_zone1",
+    "Arts/UI/Stage/[UC]HomeEntry/rogue_6"
   ]
 }

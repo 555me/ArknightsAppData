@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "ending_hub",
+  "_rootPackingTag": "AUTO",
+  "_cntPerAtlas": 100,
+  "_standardPicSize": {
+    "width": 100,
+    "height": 100
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 1,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTagFlexSize",
+  "_keys": [
+    "ro6_ending_1",
+    "ro6_ending_2",
+    "ro6_ending_3",
+    "ro6_ending_fail",
+    "ro6_ending_fail_icon",
+    "rogue_6_complete_icon_1a",
+    "rogue_6_complete_icon_1b",
+    "rogue_6_complete_icon_1c",
+    "rogue_6_complete_icon_1d",
+    "rogue_6_complete_icon_2a",
+    "rogue_6_complete_icon_2b",
+    "rogue_6_complete_icon_2c",
+    "rogue_6_complete_icon_2d",
+    "rogue_6_complete_icon_3a",
+    "rogue_6_complete_icon_3b",
+    "rogue_6_complete_icon_3c",
+    "rogue_6_complete_icon_3d"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/ro6_ending_1",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/ro6_ending_2",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/ro6_ending_3",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/ro6_ending_fail",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/ro6_ending_fail_icon",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_1a",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_1b",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_1c",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_1d",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_2a",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_2b",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_2c",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_2d",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_3a",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_3b",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_3c",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_3d"
+  ]
+}

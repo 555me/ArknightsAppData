@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "zone_banner_hub",
+  "_rootPackingTag": "RL06_ZONE_BANNER_PIC",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 180,
+    "height": 180
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "zone_banner_goal_back",
+    "zone_banner_goal_boss_3",
+    "zone_banner_goal_boss_5",
+    "zone_banner_goal_final",
+    "zone_banner_weather_clear"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_6/ZoneBannerPic/zone_banner_goal_back",
+    "UI/RoguelikeTopic/Topics/rogue_6/ZoneBannerPic/zone_banner_goal_boss_3",
+    "UI/RoguelikeTopic/Topics/rogue_6/ZoneBannerPic/zone_banner_goal_boss_5",
+    "UI/RoguelikeTopic/Topics/rogue_6/ZoneBannerPic/zone_banner_goal_final",
+    "UI/RoguelikeTopic/Topics/rogue_6/ZoneBannerPic/zone_banner_weather_clear"
+  ]
+}

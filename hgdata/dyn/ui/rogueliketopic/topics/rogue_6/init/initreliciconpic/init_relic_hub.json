@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "init_relic_hub",
+  "_rootPackingTag": "UI_ROGUELIKE_INIT_RELIC_ICON_RL06",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 200,
+    "height": 200
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rogue_6_band_1",
+    "rogue_6_band_10",
+    "rogue_6_band_11",
+    "rogue_6_band_12",
+    "rogue_6_band_13",
+    "rogue_6_band_14",
+    "rogue_6_band_15",
+    "rogue_6_band_16",
+    "rogue_6_band_17",
+    "rogue_6_band_18",
+    "rogue_6_band_19",
+    "rogue_6_band_2",
+    "rogue_6_band_20",
+    "rogue_6_band_21",
+    "rogue_6_band_22",
+    "rogue_6_band_3",
+    "rogue_6_band_4",
+    "rogue_6_band_5",
+    "rogue_6_band_6",
+    "rogue_6_band_7",
+    "rogue_6_band_8",
+    "rogue_6_band_9"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_1",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_10",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_11",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_12",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_13",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_14",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_15",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_16",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_17",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_18",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_19",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_2",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_20",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_21",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_22",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_3",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_4",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_5",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_6",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_7",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_8",
+    "UI/RoguelikeTopic/Topics/rogue_6/Init/InitRelicIconPic/rogue_6_band_9"
+  ]
+}

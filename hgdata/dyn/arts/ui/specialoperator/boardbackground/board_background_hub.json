@@ -29,9 +29,11 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
-    "pic_rogue_5"
+    "pic_rogue_5",
+    "pic_rogue_6"
   ],
   "_values": [
-    "Arts/UI/SpecialOperator/BoardBackground/pic_rogue_5"
+    "Arts/UI/SpecialOperator/BoardBackground/pic_rogue_5",
+    "Arts/UI/SpecialOperator/BoardBackground/pic_rogue_6"
   ]
 }

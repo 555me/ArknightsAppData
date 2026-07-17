@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "rogue_6_scrap_warehouse",
+  "_pageIds": [
+    "[uc]roguelike/dungeon_rogue_6_3"
+  ],
+  "_autoShowTarget": 31,
+  "_subsignal": "rogue_6_scrap_warehouse"
+}

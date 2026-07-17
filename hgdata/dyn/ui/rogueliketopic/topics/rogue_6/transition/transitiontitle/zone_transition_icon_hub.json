@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "zone_transition_icon_hub",
+  "_rootPackingTag": "RL06_ZONE_TRANSITION_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 200,
+    "height": 60
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "zone_1",
+    "zone_2",
+    "zone_3",
+    "zone_4",
+    "zone_5",
+    "zone_6",
+    "zone_portal"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_6/Transition/TransitionTitle/zone_1",
+    "UI/RoguelikeTopic/Topics/rogue_6/Transition/TransitionTitle/zone_2",
+    "UI/RoguelikeTopic/Topics/rogue_6/Transition/TransitionTitle/zone_3",
+    "UI/RoguelikeTopic/Topics/rogue_6/Transition/TransitionTitle/zone_4",
+    "UI/RoguelikeTopic/Topics/rogue_6/Transition/TransitionTitle/zone_5",
+    "UI/RoguelikeTopic/Topics/rogue_6/Transition/TransitionTitle/zone_6",
+    "UI/RoguelikeTopic/Topics/rogue_6/Transition/TransitionTitle/zone_portal"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "misc_hub",
+  "_rootPackingTag": "UI_ROGUELIKE_MISC_IMAGE_PACK_RL06",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 163,
+    "height": 60
+  },
+  "_extraPicSize": [
+    {
+      "width": 73,
+      "height": 68
+    },
+    {
+      "width": 43,
+      "height": 56
+    },
+    {
+      "width": 128,
+      "height": 128
+    },
+    {
+      "width": 88,
+      "height": 88
+    },
+    {
+      "width": 160,
+      "height": 66
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rogue_6_bubble_01",
+    "rogue_6_bubble_02",
+    "rogue_6_bubble_03",
+    "rogue_6_bubble_04",
+    "rogue_6_bubble_05",
+    "rogue_6_bubble_06",
+    "rogue_6_bubble_07",
+    "rogue_6_subweather_1",
+    "rogue_6_subweather_2",
+    "rogue_6_subweather_3",
+    "rogue_6_subweather_4",
+    "rogue_6_weather_1",
+    "rogue_6_weather_10",
+    "rogue_6_weather_2",
+    "rogue_6_weather_3",
+    "rogue_6_weather_4",
+    "rogue_6_weather_5",
+    "rogue_6_weather_6",
+    "rogue_6_weather_7",
+    "rogue_6_weather_8",
+    "rogue_6_weather_9",
+    "variation_1",
+    "variation_2",
+    "variation_3",
+    "variation_4",
+    "variation_5",
+    "variation_6",
+    "variation_7",
+    "variation_8",
+    "variation_9",
+    "zone_1",
+    "zone_2",
+    "zone_3",
+    "zone_4",
+    "zone_5",
+    "zone_6",
+    "zone_portal"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_bubble_01",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_bubble_02",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_bubble_03",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_bubble_04",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_bubble_05",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_bubble_06",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_bubble_07",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_subweather_1",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_subweather_2",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_subweather_3",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_subweather_4",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_weather_1",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_weather_10",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_weather_2",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_weather_3",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_weather_4",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_weather_5",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_weather_6",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_weather_7",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_weather_8",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/rogue_6_weather_9",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/variation_1",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/variation_2",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/variation_3",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/variation_4",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/variation_5",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/variation_6",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/variation_7",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/variation_8",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/variation_9",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/zone_1",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/zone_2",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/zone_3",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/zone_4",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/zone_5",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/zone_6",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/zone_portal"
+  ]
+}

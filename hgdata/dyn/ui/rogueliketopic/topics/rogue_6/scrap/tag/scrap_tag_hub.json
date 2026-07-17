@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "scrap_tag_hub",
+  "_rootPackingTag": "RL06_Scrap_Tag",
+  "_cntPerAtlas": 4,
+  "_standardPicSize": {
+    "width": 72,
+    "height": 72
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "rogue6_goods_icon",
+    "rogue6_move_icon",
+    "rogue6_passive_icon"
+  ],
+  "_values": [
+    "UI/RoguelikeTopic/Topics/rogue_6/Scrap/Tag/rogue6_goods_icon",
+    "UI/RoguelikeTopic/Topics/rogue_6/Scrap/Tag/rogue6_move_icon",
+    "UI/RoguelikeTopic/Topics/rogue_6/Scrap/Tag/rogue6_passive_icon"
+  ]
+}

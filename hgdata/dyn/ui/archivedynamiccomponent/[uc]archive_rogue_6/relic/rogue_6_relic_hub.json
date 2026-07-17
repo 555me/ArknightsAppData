@@ -1,0 +1,683 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
+  },
+  "m_Name": "rogue_6_relic_hub",
+  "_sprites": [
+    {
+      "name": "img_cell",
+      "guid": "a47539000cb579740be52ddd98c02bef",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 554,
+        "h": 605
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_leaf_left",
+      "guid": "7176323f03d9bb5408c69eb22f48141f",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 607,
+        "w": 633,
+        "h": 318
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_left_deco",
+      "guid": "b4f28da2d44ef90408a2defde8cde45d",
+      "atlas": 0,
+      "rect": {
+        "x": 556,
+        "y": 0,
+        "w": 206,
+        "h": 548
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_light2",
+      "guid": "a7466e805c34622408d146794da86688",
+      "atlas": 0,
+      "rect": {
+        "x": 635,
+        "y": 607,
+        "w": 335,
+        "h": 325
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_name_bg",
+      "guid": "0de555356b9f01c4e9629b4cd4d16cad",
+      "atlas": 0,
+      "rect": {
+        "x": 764,
+        "y": 0,
+        "w": 119,
+        "h": 454
+      },
+      "rotate": 1
+    },
+    {
+      "name": "img_line",
+      "guid": "1a958f1daf55cdf42864cd0f6335e24f",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 927,
+        "w": 436,
+        "h": 12
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_title",
+      "guid": "7b754d613b9f4704db596d1e28062044",
+      "atlas": 0,
+      "rect": {
+        "x": 556,
+        "y": 550,
+        "w": 283,
+        "h": 52
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_group_9",
+      "guid": "343e8c4e82fef1e4f9624010308688d1",
+      "atlas": 0,
+      "rect": {
+        "x": 885,
+        "y": 0,
+        "w": 129,
+        "h": 180
+      },
+      "rotate": 1
+    },
+    {
+      "name": "img_group_8",
+      "guid": "1e908416132f2fe4ea6584f9837722f0",
+      "atlas": 0,
+      "rect": {
+        "x": 885,
+        "y": 182,
+        "w": 129,
+        "h": 180
+      },
+      "rotate": 1
+    },
+    {
+      "name": "img_group_7",
+      "guid": "7eed3ce5b60a48145bd55e89179e86ee",
+      "atlas": 0,
+      "rect": {
+        "x": 885,
+        "y": 364,
+        "w": 129,
+        "h": 180
+      },
+      "rotate": 1
+    },
+    {
+      "name": "img_line2",
+      "guid": "ec8ed48517ead124d95b68392846a4ac",
+      "atlas": 0,
+      "rect": {
+        "x": 635,
+        "y": 934,
+        "w": 267,
+        "h": 12
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_tab_selected",
+      "guid": "260f0bbf9e957444da685b5ed99c5c77",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 941,
+        "w": 168,
+        "h": 68
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_new_selected",
+      "guid": "25c67acc56f1fa149a5ce029daf7d4cc",
+      "atlas": 0,
+      "rect": {
+        "x": 635,
+        "y": 948,
+        "w": 140,
+        "h": 41
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_new_bg",
+      "guid": "393ae08f685123044a95e25ebe992806",
+      "atlas": 0,
+      "rect": {
+        "x": 438,
+        "y": 927,
+        "w": 140,
+        "h": 41
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_new",
+      "guid": "5588fff9094bb1040be785a480c42082",
+      "atlas": 0,
+      "rect": {
+        "x": 764,
+        "y": 456,
+        "w": 107,
+        "h": 49
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_locked",
+      "guid": "7239584a13c697846b1abe70b3bd9d9d",
+      "atlas": 0,
+      "rect": {
+        "x": 904,
+        "y": 934,
+        "w": 51,
+        "h": 64
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_arrow",
+      "guid": "8a045113163c3364d938af4758653f1f",
+      "atlas": 0,
+      "rect": {
+        "x": 885,
+        "y": 546,
+        "w": 38,
+        "h": 55
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_deco1",
+      "guid": "ed3364490ebc60f4485c85c5667a9ac8",
+      "atlas": 0,
+      "rect": {
+        "x": 635,
+        "y": 991,
+        "w": 62,
+        "h": 9
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_deco2",
+      "guid": "2e4c40a5c788fae4b966ee2bf2ce60fd",
+      "atlas": 0,
+      "rect": {
+        "x": 438,
+        "y": 970,
+        "w": 53,
+        "h": 9
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_circle",
+      "guid": "190b33cfa60f5d445a72d7eb7e619598",
+      "atlas": 0,
+      "rect": {
+        "x": 764,
+        "y": 507,
+        "w": 19,
+        "h": 19
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_slider",
+      "guid": "022a66fc5aafced408ba9d7e9489af13",
+      "atlas": 0,
+      "rect": {
+        "x": 438,
+        "y": 981,
+        "w": 6,
+        "h": 19
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_dot",
+      "guid": "830e29744e322dc4ca67d4914c588dfe",
+      "atlas": 0,
+      "rect": {
+        "x": 904,
+        "y": 1000,
+        "w": 11,
+        "h": 11
+      },
+      "rotate": 0
+    },
+    {
+      "name": "sprite_white",
+      "guid": "10055ee3a36481d488127cacf96cee09",
+      "atlas": 0,
+      "rect": {
+        "x": 635,
+        "y": 1002,
+        "w": 8,
+        "h": 8
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_leaf_right",
+      "guid": "9f58126bd955a06448536c0112af316c",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 330,
+        "h": 324
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_light1",
+      "guid": "565cb2c4b6ad4064a877a42a69f515dd",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 326,
+        "w": 345,
+        "h": 298
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_top",
+      "guid": "80c5ff9c95c863b44b4f9468ef4a6189",
+      "atlas": 1,
+      "rect": {
+        "x": 0,
+        "y": 626,
+        "w": 381,
+        "h": 142
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_all_get",
+      "guid": "b00802b09f373334ba0fc370c8e25f15",
+      "atlas": 1,
+      "rect": {
+        "x": 332,
+        "y": 0,
+        "w": 169,
+        "h": 158
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_group_6",
+      "guid": "33019f1a237352d418dfb9f08fffc32a",
+      "atlas": 1,
+      "rect": {
+        "x": 332,
+        "y": 160,
+        "w": 180,
+        "h": 129
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_group_5",
+      "guid": "f2a9476fea3b7eb44a630569ff77666c",
+      "atlas": 1,
+      "rect": {
+        "x": 347,
+        "y": 326,
+        "w": 180,
+        "h": 129
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_group_4",
+      "guid": "65ffe0ae31847d44986ce886aff9cf57",
+      "atlas": 1,
+      "rect": {
+        "x": 347,
+        "y": 457,
+        "w": 180,
+        "h": 129
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_group_3",
+      "guid": "160a845cd13406d4891331db23a5ac43",
+      "atlas": 1,
+      "rect": {
+        "x": 383,
+        "y": 626,
+        "w": 180,
+        "h": 129
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_group_2",
+      "guid": "e07805f2bd92bb54abd5371bba54ce08",
+      "atlas": 1,
+      "rect": {
+        "x": 503,
+        "y": 0,
+        "w": 180,
+        "h": 129
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_group_1",
+      "guid": "94e4ea1ee36ff9548a87b1f130d8996d",
+      "atlas": 1,
+      "rect": {
+        "x": 514,
+        "y": 160,
+        "w": 180,
+        "h": 129
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_item_selected",
+      "guid": "fa5f9d1ded2da474aa68ea91bf531b2f",
+      "atlas": 1,
+      "rect": {
+        "x": 529,
+        "y": 326,
+        "w": 146,
+        "h": 144
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_item_bg",
+      "guid": "f944775407890eb4c84f90c418504b33",
+      "atlas": 1,
+      "rect": {
+        "x": 529,
+        "y": 472,
+        "w": 138,
+        "h": 138
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_item_icon_bg",
+      "guid": "1b6b6aa7845a27245b7623b68e8c2768",
+      "atlas": 1,
+      "rect": {
+        "x": 565,
+        "y": 626,
+        "w": 128,
+        "h": 128
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -8005863165678164915
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": -4551804380560521058
+      },
+      "size": 1024
+    },
+    {
+      "index": 1,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": 6650334783907557095
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 5756905540417766600
+      },
+      "size": 1024
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "img_cell",
+        "guid": "a47539000cb579740be52ddd98c02bef",
+        "md5": "3f54d5195c0ddeb65378366a6ed7d359"
+      },
+      {
+        "name": "img_leaf_left",
+        "guid": "7176323f03d9bb5408c69eb22f48141f",
+        "md5": "7cdbb106244d5dcf0b06fb5d0ff6ca73"
+      },
+      {
+        "name": "img_left_deco",
+        "guid": "b4f28da2d44ef90408a2defde8cde45d",
+        "md5": "b68a8495b8ced49ffde48bd1fdfe2665"
+      },
+      {
+        "name": "img_light2",
+        "guid": "a7466e805c34622408d146794da86688",
+        "md5": "6ab8028dc1d15824cc549721d6fd82c5"
+      },
+      {
+        "name": "img_name_bg",
+        "guid": "0de555356b9f01c4e9629b4cd4d16cad",
+        "md5": "c02caedd85c6ca699783c7c3edcefa7b"
+      },
+      {
+        "name": "img_line",
+        "guid": "1a958f1daf55cdf42864cd0f6335e24f",
+        "md5": "297e4be6daca41c465598f9c36a7774a"
+      },
+      {
+        "name": "img_title",
+        "guid": "7b754d613b9f4704db596d1e28062044",
+        "md5": "bbdee0b53f6fdf449e52d96e370205cc"
+      },
+      {
+        "name": "img_group_9",
+        "guid": "343e8c4e82fef1e4f9624010308688d1",
+        "md5": "54a38fa3a11d1719d0e6810db6550ac3"
+      },
+      {
+        "name": "img_group_8",
+        "guid": "1e908416132f2fe4ea6584f9837722f0",
+        "md5": "e79f1f0fc5937309f6656cbca8ce52bd"
+      },
+      {
+        "name": "img_group_7",
+        "guid": "7eed3ce5b60a48145bd55e89179e86ee",
+        "md5": "3d58c7f664d2855d2150ba6fbc0d5026"
+      },
+      {
+        "name": "img_line2",
+        "guid": "ec8ed48517ead124d95b68392846a4ac",
+        "md5": "bdb90ca9320dbf3c832b763c51ccc200"
+      },
+      {
+        "name": "img_tab_selected",
+        "guid": "260f0bbf9e957444da685b5ed99c5c77",
+        "md5": "29c90eabc490eed471b9a78f58035644"
+      },
+      {
+        "name": "img_new_selected",
+        "guid": "25c67acc56f1fa149a5ce029daf7d4cc",
+        "md5": "e259355363a05598de37efb07f8c2c47"
+      },
+      {
+        "name": "img_new_bg",
+        "guid": "393ae08f685123044a95e25ebe992806",
+        "md5": "2ced5498dce0283b52a46208cec619f4"
+      },
+      {
+        "name": "img_new",
+        "guid": "5588fff9094bb1040be785a480c42082",
+        "md5": "49efe11e119a62673400ca6a1bfd5c74"
+      },
+      {
+        "name": "img_locked",
+        "guid": "7239584a13c697846b1abe70b3bd9d9d",
+        "md5": "79d82205b25e4809933dc2585b9a5c43"
+      },
+      {
+        "name": "img_arrow",
+        "guid": "8a045113163c3364d938af4758653f1f",
+        "md5": "71bb7cd0fb5e34c5952887508be9e107"
+      },
+      {
+        "name": "img_deco1",
+        "guid": "ed3364490ebc60f4485c85c5667a9ac8",
+        "md5": "b4a5d4d92baa7e0268e865c2cc46a6f7"
+      },
+      {
+        "name": "img_deco2",
+        "guid": "2e4c40a5c788fae4b966ee2bf2ce60fd",
+        "md5": "a180139ab9b86f6e0a92c1f37d9caa28"
+      },
+      {
+        "name": "img_circle",
+        "guid": "190b33cfa60f5d445a72d7eb7e619598",
+        "md5": "79d711121719415756b9b1d7b77d283f"
+      },
+      {
+        "name": "img_slider",
+        "guid": "022a66fc5aafced408ba9d7e9489af13",
+        "md5": "c27b2c1b5ce422b6e86b4d202f053607"
+      },
+      {
+        "name": "img_dot",
+        "guid": "830e29744e322dc4ca67d4914c588dfe",
+        "md5": "bb24a645a52e6b7625fdb397e30c1481"
+      },
+      {
+        "name": "sprite_white",
+        "guid": "10055ee3a36481d488127cacf96cee09",
+        "md5": "7aab7a22137dbbae053bbe5ced6eaa6b"
+      },
+      {
+        "name": "img_leaf_right",
+        "guid": "9f58126bd955a06448536c0112af316c",
+        "md5": "d7545c5c918ef4357a14a7c29fcb041a"
+      },
+      {
+        "name": "img_light1",
+        "guid": "565cb2c4b6ad4064a877a42a69f515dd",
+        "md5": "47866c210fe4551376431d63420ae139"
+      },
+      {
+        "name": "img_top",
+        "guid": "80c5ff9c95c863b44b4f9468ef4a6189",
+        "md5": "d1d99e9f371a9853b101515b756241ca"
+      },
+      {
+        "name": "img_all_get",
+        "guid": "b00802b09f373334ba0fc370c8e25f15",
+        "md5": "ca5a9cb59df75a78084d155847bf5656"
+      },
+      {
+        "name": "img_group_6",
+        "guid": "33019f1a237352d418dfb9f08fffc32a",
+        "md5": "fdd47f4f205668cc464bb675423c845b"
+      },
+      {
+        "name": "img_group_5",
+        "guid": "f2a9476fea3b7eb44a630569ff77666c",
+        "md5": "a92838c1d376d1e7cb1fd6a8989462b7"
+      },
+      {
+        "name": "img_group_4",
+        "guid": "65ffe0ae31847d44986ce886aff9cf57",
+        "md5": "fbdec18017b9e5865cc86f83522c2f25"
+      },
+      {
+        "name": "img_group_3",
+        "guid": "160a845cd13406d4891331db23a5ac43",
+        "md5": "875719efed8ca7d4b3f813bb4593d487"
+      },
+      {
+        "name": "img_group_2",
+        "guid": "e07805f2bd92bb54abd5371bba54ce08",
+        "md5": "1d141b3ee1cdf267a824348cd5997659"
+      },
+      {
+        "name": "img_group_1",
+        "guid": "94e4ea1ee36ff9548a87b1f130d8996d",
+        "md5": "c58ecdaa72d4d6461fbae01757f94fd2"
+      },
+      {
+        "name": "img_item_selected",
+        "guid": "fa5f9d1ded2da474aa68ea91bf531b2f",
+        "md5": "99ad975549a99a0dfbc82c7d5e667f98"
+      },
+      {
+        "name": "img_item_bg",
+        "guid": "f944775407890eb4c84f90c418504b33",
+        "md5": "5559d15abef2e37971a488f7f4894d1c"
+      },
+      {
+        "name": "img_item_icon_bg",
+        "guid": "1b6b6aa7845a27245b7623b68e8c2768",
+        "md5": "124bfb5181060333e91a4b572d014a24"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "rogue_6_relic_hub#0",
+        "guid": "c2203f2b6246f374799a58b1b4ea8c43",
+        "md5": "15ea81cb18dc809d4c4589f7611adecf"
+      },
+      {
+        "name": "rogue_6_relic_hub#1",
+        "guid": "280bd69e91c0b294a9b4e88de7fd4a4f",
+        "md5": "cfff775e9be9dbeb4a1de8ae619cc718"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "rogue_6_relic_hub#0a",
+        "guid": "50fc2515261b26e4391ae9b7b7c10c33",
+        "md5": "d1b1cbb672bb1da512fec9890ea56239"
+      },
+      {
+        "name": "rogue_6_relic_hub#1a",
+        "guid": "cc12a86527cca7c42a0feb969f9553d2",
+        "md5": "57ec4a258e3ee183c9459a1567634342"
+      }
+    ]
+  }
+}
