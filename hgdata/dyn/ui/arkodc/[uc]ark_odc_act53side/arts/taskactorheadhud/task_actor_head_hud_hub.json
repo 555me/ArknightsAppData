@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "task_actor_head_hud_hub",
+  "_rootPackingTag": "ARKODC_TASK_ACTOR_HEAD_HUD",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 44,
+    "height": 44
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "icon_head_ui_item",
+    "icon_head_ui_mission",
+    "icon_head_ui_question_mark",
+    "icon_head_ui_talk"
+  ],
+  "_values": [
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/TaskActorHeadHud/icon_head_ui_item",
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/TaskActorHeadHud/icon_head_ui_mission",
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/TaskActorHeadHud/icon_head_ui_question_mark",
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/TaskActorHeadHud/icon_head_ui_talk"
+  ]
+}

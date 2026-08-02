@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "hub",
+  "_rootPackingTag": "UI_ARK_ODC_ACT53SIDE_INTERACT_BTN_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 138,
+    "height": 138
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "interact_icon_check",
+    "interact_icon_go",
+    "interact_icon_leave",
+    "interact_icon_talk"
+  ],
+  "_values": [
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/InteractBtnIcon/interact_icon_check",
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/InteractBtnIcon/interact_icon_go",
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/InteractBtnIcon/interact_icon_leave",
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/InteractBtnIcon/interact_icon_talk"
+  ]
+}

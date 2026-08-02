@@ -8,12 +8,12 @@
     "m_FileID": 1,
     "m_PathID": 8920765731433171967
   },
-  "m_Name": "squad_name_hub",
-  "_rootPackingTag": "RL06_MONTH_SQUAD_NAME",
+  "m_Name": "story_machine_presentation_image_hub",
+  "_rootPackingTag": "UI_ACT1ARKODC_STORY_MACHINE_PRESENTATION_IMAGE_SPRITES",
   "_cntPerAtlas": -1,
   "_standardPicSize": {
-    "width": 118,
-    "height": 42
+    "width": 320,
+    "height": 320
   },
   "_extraPicSize": [],
   "_compressType": 10,
@@ -29,13 +29,9 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
-    "month_team_1",
-    "month_team_2",
-    "month_team_3"
+    "ark_odc_act53side_spitem"
   ],
   "_values": [
-    "UI/RoguelikeTopic/Topics/rogue_6_update/MonthSquadName/month_team_1",
-    "UI/RoguelikeTopic/Topics/rogue_6_update/MonthSquadName/month_team_2",
-    "UI/RoguelikeTopic/Topics/rogue_6_update/MonthSquadName/month_team_3"
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/StoryMachinePresentationImages/ark_odc_act53side_spitem"
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "story_machine_emoji_hub",
+  "_rootPackingTag": "UI_ACT1ARKODC_STORY_MACHINE_EMOJI_SPRITES",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 120,
+    "height": 120
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "pic_ark_odc_happy",
+    "pic_ark_odc_mad",
+    "pic_ark_odc_question",
+    "pic_ark_odc_sad",
+    "pic_ark_odc_surprise",
+    "pic_ark_odc_think"
+  ],
+  "_values": [
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/StoryMachineEmojis/pic_ark_odc_happy",
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/StoryMachineEmojis/pic_ark_odc_mad",
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/StoryMachineEmojis/pic_ark_odc_question",
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/StoryMachineEmojis/pic_ark_odc_sad",
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/StoryMachineEmojis/pic_ark_odc_surprise",
+    "UI/ArkOdc/[UC]ark_odc_act53side/Arts/StoryMachineEmojis/pic_ark_odc_think"
+  ]
+}

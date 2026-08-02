@@ -1,0 +1,168 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7812342071550953260
+  },
+  "m_Name": "common_focus_hub",
+  "_sprites": [
+    {
+      "name": "img_map_preview_dark_frame",
+      "guid": "c4ca16e91c263a1428146914dc1af6b5",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 483,
+        "h": 344
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_map_preview_text_1",
+      "guid": "75a03fe0994a494478c98abbc4f01eb0",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 346,
+        "w": 551,
+        "h": 20
+      },
+      "rotate": 0
+    },
+    {
+      "name": "left_line",
+      "guid": "2b0060088d2e6ab4c852beb3af23d973",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 368,
+        "w": 452,
+        "h": 1
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_btn_map",
+      "guid": "3aa39744f2a97664cb40724ad0caa706",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 371,
+        "w": 153,
+        "h": 104
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_btn_enemy",
+      "guid": "f72faf0cfc4ea1e498d88754ce912c28",
+      "atlas": 0,
+      "rect": {
+        "x": 155,
+        "y": 371,
+        "w": 153,
+        "h": 101
+      },
+      "rotate": 0
+    },
+    {
+      "name": "img_map_preview_text_2",
+      "guid": "5582b5af3317d324a82ed68b74382407",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 477,
+        "w": 205,
+        "h": 13
+      },
+      "rotate": 0
+    },
+    {
+      "name": "sprite_white",
+      "guid": "385ebe11012cbfe4bbd5b9d90233d6a0",
+      "atlas": 0,
+      "rect": {
+        "x": 0,
+        "y": 492,
+        "w": 16,
+        "h": 16
+      },
+      "rotate": 0
+    }
+  ],
+  "_atlases": [
+    {
+      "index": 0,
+      "texture": {
+        "m_FileID": 0,
+        "m_PathID": -2001103460968825951
+      },
+      "alpha": {
+        "m_FileID": 0,
+        "m_PathID": 5025099342532016119
+      },
+      "size": 1024
+    }
+  ],
+  "_workDir": "",
+  "_alphaSplit": 1,
+  "_maxSize": 2,
+  "_sign": {
+    "m_sprites": [
+      {
+        "name": "img_map_preview_dark_frame",
+        "guid": "c4ca16e91c263a1428146914dc1af6b5",
+        "md5": "d58ec68032df0947d301c81c45650a19"
+      },
+      {
+        "name": "img_map_preview_text_1",
+        "guid": "75a03fe0994a494478c98abbc4f01eb0",
+        "md5": "ab3c48206361aca4c2d19bff71551860"
+      },
+      {
+        "name": "left_line",
+        "guid": "2b0060088d2e6ab4c852beb3af23d973",
+        "md5": "1f3db7dbfa9715cb4bbec0a2afdddecf"
+      },
+      {
+        "name": "img_btn_map",
+        "guid": "3aa39744f2a97664cb40724ad0caa706",
+        "md5": "631165db7dcc0cd4c30ce544c9718d55"
+      },
+      {
+        "name": "img_btn_enemy",
+        "guid": "f72faf0cfc4ea1e498d88754ce912c28",
+        "md5": "5b4cadcf3934de6331e8950a9c044a31"
+      },
+      {
+        "name": "img_map_preview_text_2",
+        "guid": "5582b5af3317d324a82ed68b74382407",
+        "md5": "10fb9df93fcb9ad6286971751d8c1c05"
+      },
+      {
+        "name": "sprite_white",
+        "guid": "385ebe11012cbfe4bbd5b9d90233d6a0",
+        "md5": "7c05855ac0774cdb2608e8c0991b2580"
+      }
+    ],
+    "m_atlases": [
+      {
+        "name": "common_focus_hub#0",
+        "guid": "4db3ceab38e0eec42a83a2207ce72227",
+        "md5": "6feeae1057db73fbf29f33bd70296301"
+      }
+    ],
+    "m_alphas": [
+      {
+        "name": "common_focus_hub#0a",
+        "guid": "39daeb0e5eb4e784196d4d8c8acb4b6b",
+        "md5": "adb40e87ff890df62d20e6420870147b"
+      }
+    ]
+  }
+}
