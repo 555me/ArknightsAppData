@@ -9,6 +9,7 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "rogue_2_dungeon",
+  "_guidebookType": 0,
   "_pageIds": [
     "[uc]roguelike/dungeon_rogue_2_1",
     "[uc]roguelike/dungeon_rogue_2_2",
@@ -21,6 +22,8 @@
     "[uc]roguelike/dungeon_rogue_2_9",
     "[uc]roguelike/dungeon_rogue_2_10"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 0,
   "_subsignal": ""
 }

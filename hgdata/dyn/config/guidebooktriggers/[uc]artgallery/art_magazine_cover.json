@@ -9,6 +9,7 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "art_magazine_cover",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]ArtGallery/art_magazine_cover_1",
     "[PACK]ArtGallery/art_magazine_cover_2",
@@ -18,6 +19,8 @@
     "[PACK]ArtGallery/art_magazine_cover_6",
     "[PACK]ArtGallery/art_magazine_cover_7"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 52,
   "_subsignal": ""
 }

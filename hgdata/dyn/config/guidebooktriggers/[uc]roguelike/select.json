@@ -9,6 +9,7 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "select",
+  "_guidebookType": 0,
   "_pageIds": [
     "[uc]roguelike/select_1",
     "[uc]roguelike/select_2",
@@ -17,6 +18,8 @@
     "[uc]roguelike/select_5",
     "[uc]roguelike/select_6"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 25,
   "_subsignal": "select"
 }

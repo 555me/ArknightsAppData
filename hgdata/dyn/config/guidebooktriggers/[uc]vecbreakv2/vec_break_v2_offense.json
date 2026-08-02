@@ -9,11 +9,14 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "vec_break_v2_offense",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]VecBreakV2/offense_1",
     "[PACK]VecBreakV2/offense_2",
     "[PACK]VecBreakV2/offense_3"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 44,
   "_subsignal": "offense"
 }

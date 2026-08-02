@@ -9,12 +9,15 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "autochess_handbook",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]AutoChess/autochess_handbook_1",
     "[PACK]AutoChess/autochess_handbook_2",
     "[PACK]AutoChess/autochess_handbook_3",
     "[PACK]AutoChess/autochess_handbook_4"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 50,
   "_subsignal": "handbook"
 }

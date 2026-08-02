@@ -9,9 +9,12 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "rogue_4_node_upgrade",
+  "_guidebookType": 0,
   "_pageIds": [
     "[uc]roguelike/node_upgrade_rogue_4_1"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 31,
   "_subsignal": "rl04_node_upgrade"
 }

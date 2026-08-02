@@ -9,9 +9,12 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "climb_tower_training",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]ClimbTower/climb_tower_training_1"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 0,
   "_subsignal": ""
 }

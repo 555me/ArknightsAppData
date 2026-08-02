@@ -9,10 +9,13 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "entry",
+  "_guidebookType": 0,
   "_pageIds": [
     "[pack]crisisv2/crisis_v2_entry_1",
     "[pack]crisisv2/crisis_v2_entry_2"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 35,
   "_subsignal": "entry"
 }

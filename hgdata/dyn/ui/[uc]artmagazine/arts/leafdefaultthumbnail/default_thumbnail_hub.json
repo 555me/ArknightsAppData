@@ -29,6 +29,7 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "leaf_act5unique",
     "leaf_default",
     "leaf_default2",
     "leaf_rogue1",
@@ -40,6 +41,7 @@
     "leaf_sandbox2"
   ],
   "_values": [
+    "UI/[UC]ArtMagazine/Arts/LeafDefaultThumbnail/leaf_act5unique",
     "UI/[UC]ArtMagazine/Arts/LeafDefaultThumbnail/leaf_default",
     "UI/[UC]ArtMagazine/Arts/LeafDefaultThumbnail/leaf_default2",
     "UI/[UC]ArtMagazine/Arts/LeafDefaultThumbnail/leaf_rogue1",

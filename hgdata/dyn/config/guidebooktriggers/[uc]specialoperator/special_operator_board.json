@@ -9,11 +9,14 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "special_operator_board",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]SpecialOperator/board_1",
     "[PACK]SpecialOperator/board_2",
     "[PACK]SpecialOperator/board_3"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 46,
   "_subsignal": "board"
 }

@@ -9,12 +9,15 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "tuning_product",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]Tuning/tuning_product_1",
     "[PACK]Tuning/tuning_product_2",
     "[PACK]Tuning/tuning_product_3",
     "[PACK]Tuning/tuning_product_4"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 34,
   "_subsignal": "product"
 }

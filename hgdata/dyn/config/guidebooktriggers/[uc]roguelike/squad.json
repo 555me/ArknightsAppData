@@ -9,6 +9,7 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "squad",
+  "_guidebookType": 0,
   "_pageIds": [
     "[uc]roguelike/squad_1",
     "[uc]roguelike/select_1",
@@ -18,6 +19,8 @@
     "[uc]roguelike/select_5",
     "[uc]roguelike/select_6"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 0,
   "_subsignal": ""
 }

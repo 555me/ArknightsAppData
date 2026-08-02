@@ -9,10 +9,13 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "shop",
+  "_guidebookType": 0,
   "_pageIds": [
     "[uc]roguelike/shop_1",
     "[uc]roguelike/shop_2"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 0,
   "_subsignal": ""
 }

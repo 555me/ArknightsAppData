@@ -9,10 +9,13 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "multi_v3_team",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]MultiV3/team_1",
     "[PACK]MultiV3/team_2"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 42,
   "_subsignal": "team"
 }

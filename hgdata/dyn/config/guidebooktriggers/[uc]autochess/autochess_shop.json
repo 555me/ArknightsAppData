@@ -9,6 +9,7 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "autochess_shop",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]AutoChess/autochess_shop_1",
     "[PACK]AutoChess/autochess_shop_2",
@@ -17,6 +18,8 @@
     "[PACK]AutoChess/autochess_shop_5",
     "[PACK]AutoChess/autochess_shop_6"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 50,
   "_subsignal": "shop"
 }

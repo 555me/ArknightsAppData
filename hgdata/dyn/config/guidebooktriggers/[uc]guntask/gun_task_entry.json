@@ -9,9 +9,12 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "gun_task_entry",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]GunTask/guide_1"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 45,
   "_subsignal": "entry"
 }

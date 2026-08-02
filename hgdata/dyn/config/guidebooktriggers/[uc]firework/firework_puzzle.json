@@ -9,10 +9,13 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "firework_puzzle",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]Firework/puzzle_1",
     "[PACK]Firework/puzzle_2"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 40,
   "_subsignal": "puzzle"
 }

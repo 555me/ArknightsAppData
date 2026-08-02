@@ -9,9 +9,12 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "firework_craft",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]Firework/craft"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 40,
   "_subsignal": "craft"
 }

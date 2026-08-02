@@ -9,12 +9,15 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "multi_v3_entry",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]MultiV3/entry_1",
     "[PACK]MultiV3/entry_2",
     "[PACK]MultiV3/team_1",
     "[PACK]MultiV3/team_2"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 42,
   "_subsignal": "entry"
 }

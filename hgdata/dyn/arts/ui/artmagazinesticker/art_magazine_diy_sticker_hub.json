@@ -29,6 +29,10 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTagNoSizeLimit",
   "_keys": [
+    "sticker_act5unique_1",
+    "sticker_act5unique_2",
+    "sticker_act5unique_3",
+    "sticker_act5unique_4",
     "sticker_def2_1",
     "sticker_def_1",
     "sticker_def_2",
@@ -52,6 +56,10 @@
     "sticker_sand_2_2"
   ],
   "_values": [
+    "Arts/UI/ArtMagazineSticker/sticker_act5unique_1",
+    "Arts/UI/ArtMagazineSticker/sticker_act5unique_2",
+    "Arts/UI/ArtMagazineSticker/sticker_act5unique_3",
+    "Arts/UI/ArtMagazineSticker/sticker_act5unique_4",
     "Arts/UI/ArtMagazineSticker/sticker_def2_1",
     "Arts/UI/ArtMagazineSticker/sticker_def_1",
     "Arts/UI/ArtMagazineSticker/sticker_def_2",

@@ -9,6 +9,7 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "carving_home",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]Carving/carving_home_1",
     "[PACK]Carving/carving_home_2",
@@ -17,6 +18,8 @@
     "[PACK]Carving/carving_home_5",
     "[PACK]Carving/carving_home_6"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 38,
   "_subsignal": ""
 }

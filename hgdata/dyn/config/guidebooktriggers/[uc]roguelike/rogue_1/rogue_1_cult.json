@@ -9,12 +9,15 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "rogue_1_cult",
+  "_guidebookType": 0,
   "_pageIds": [
     "[uc]roguelike/cult_rogue_1_1",
     "[uc]roguelike/cult_rogue_1_2",
     "[uc]roguelike/cult_rogue_1_3",
     "[uc]roguelike/cult_rogue_1_4"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 0,
   "_subsignal": ""
 }

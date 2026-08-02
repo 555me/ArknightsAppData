@@ -9,6 +9,7 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "fifth_anniv_mainline",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]FifthAnnivMainline/fifth_anniv_1",
     "[PACK]FifthAnnivMainline/fifth_anniv_2",
@@ -17,6 +18,8 @@
     "[PACK]FifthAnnivMainline/fifth_anniv_5",
     "[PACK]FifthAnnivMainline/fifth_anniv_6"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 37,
   "_subsignal": "entry"
 }

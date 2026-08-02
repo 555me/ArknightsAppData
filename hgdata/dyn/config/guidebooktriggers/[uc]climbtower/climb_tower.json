@@ -9,12 +9,15 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "climb_tower",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]ClimbTower/climb_tower_1",
     "[PACK]ClimbTower/climb_tower_2",
     "[PACK]ClimbTower/climb_tower_3",
     "[PACK]ClimbTower/climb_tower_4"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 27,
   "_subsignal": "entry"
 }

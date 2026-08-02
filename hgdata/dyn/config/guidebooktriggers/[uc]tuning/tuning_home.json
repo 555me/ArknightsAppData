@@ -9,6 +9,7 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "tuning_home",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]Tuning/tuning_home_1",
     "[PACK]Tuning/tuning_home_2",
@@ -18,6 +19,8 @@
     "[PACK]Tuning/tuning_home_6",
     "[PACK]Tuning/tuning_home_7"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 34,
   "_subsignal": "home"
 }

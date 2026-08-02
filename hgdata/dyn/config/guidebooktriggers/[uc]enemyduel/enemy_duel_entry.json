@@ -9,6 +9,7 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "enemy_duel_entry",
+  "_guidebookType": 0,
   "_pageIds": [
     "[PACK]EnemyDuel/entry_1",
     "[PACK]EnemyDuel/entry_2",
@@ -16,6 +17,8 @@
     "[PACK]EnemyDuel/entry_4",
     "[PACK]EnemyDuel/entry_5"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 43,
   "_subsignal": "entry"
 }

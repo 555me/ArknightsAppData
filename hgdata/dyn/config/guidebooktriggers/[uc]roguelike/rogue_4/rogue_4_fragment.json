@@ -9,11 +9,14 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "rogue_4_fragment",
+  "_guidebookType": 0,
   "_pageIds": [
     "[uc]roguelike/fragment_rogue_4_1",
     "[uc]roguelike/fragment_rogue_4_2",
     "[uc]roguelike/fragment_rogue_4_3"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 31,
   "_subsignal": "rl04_fragment"
 }

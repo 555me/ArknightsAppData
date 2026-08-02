@@ -9,9 +9,12 @@
     "m_PathID": 3179385792513260868
   },
   "m_Name": "rogue_6_scrap_warehouse",
+  "_guidebookType": 0,
   "_pageIds": [
     "[uc]roguelike/dungeon_rogue_6_3"
   ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
   "_autoShowTarget": 31,
   "_subsignal": "rogue_6_scrap_warehouse"
 }
