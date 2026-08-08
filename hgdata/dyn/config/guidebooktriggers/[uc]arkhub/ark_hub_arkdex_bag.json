@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "ark_hub_arkdex_bag",
+  "_guidebookType": 0,
+  "_pageIds": [
+    "[PACK]Arkhub/arkhub_arkdex_creature_1",
+    "[PACK]Arkhub/arkhub_arkdex_creature_2",
+    "[PACK]Arkhub/arkhub_arkdex_capture_1",
+    "[PACK]Arkhub/arkhub_arkdex_capture_2",
+    "[PACK]Arkhub/arkhub_arkdex_capture_3"
+  ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
+  "_autoShowTarget": 55,
+  "_subsignal": "arkdex_bag"
+}

@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "arkhub_item_icon_hub",
+  "_rootPackingTag": "ARKHUB_ITEM_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 140,
+    "height": 140
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "arkdex_1_gold",
+    "arkdex_immspray_pool_1",
+    "arkdex_immspray_pool_2",
+    "arkdex_immspray_pool_3",
+    "arkdex_immspray_pool_4",
+    "arkdex_immspray_trait_12",
+    "arkdex_immspray_trait_34",
+    "arkdex_immspray_trait_56",
+    "arkdex_immspray_trait_78",
+    "arkdex_immspray_trait_910",
+    "arkdex_spray_pool_1",
+    "arkdex_spray_pool_2",
+    "arkdex_spray_pool_3",
+    "arkdex_spray_pool_4",
+    "arkdex_spray_trait_12",
+    "arkdex_spray_trait_34",
+    "arkdex_spray_trait_56",
+    "arkdex_spray_trait_78",
+    "arkdex_spray_trait_910"
+  ],
+  "_values": [
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_1_gold",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_immSpray_pool_1",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_immSpray_pool_2",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_immSpray_pool_3",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_immSpray_pool_4",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_immSpray_trait_12",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_immSpray_trait_34",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_immSpray_trait_56",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_immSpray_trait_78",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_immSpray_trait_910",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_spray_pool_1",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_spray_pool_2",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_spray_pool_3",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_spray_pool_4",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_spray_trait_12",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_spray_trait_34",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_spray_trait_56",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_spray_trait_78",
+    "UI/ActArkhub/[UC]ActArkhubCommon/Arts/ItemIcon/arkdex_spray_trait_910"
+  ]
+}

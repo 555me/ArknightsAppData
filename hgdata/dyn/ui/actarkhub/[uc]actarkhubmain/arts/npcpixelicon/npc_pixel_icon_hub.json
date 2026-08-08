@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "npc_pixel_icon_hub",
+  "_rootPackingTag": "UI_ACT_ARK_HUB_MAIN_NPC_PIXEL_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 24,
+    "height": 24
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "npcpixel_1",
+    "npcpixel_2",
+    "npcpixel_3",
+    "npcpixel_4"
+  ],
+  "_values": [
+    "UI/ActArkhub/[UC]ActArkhubMain/Arts/NpcPixelIcon/npcPixel_1",
+    "UI/ActArkhub/[UC]ActArkhubMain/Arts/NpcPixelIcon/npcPixel_2",
+    "UI/ActArkhub/[UC]ActArkhubMain/Arts/NpcPixelIcon/npcPixel_3",
+    "UI/ActArkhub/[UC]ActArkhubMain/Arts/NpcPixelIcon/npcPixel_4"
+  ]
+}

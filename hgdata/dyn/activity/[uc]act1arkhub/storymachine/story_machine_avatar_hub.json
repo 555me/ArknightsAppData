@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "story_machine_avatar_hub",
+  "_rootPackingTag": "UI_ACT1ARKHUB_STORY_MACHINE_AVATAR_SPRITES",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 180,
+    "height": 180
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "arkvent_001_terminal",
+    "arkvent_002_portal",
+    "arkvent_003_arkdexterminal",
+    "arkvent_011_signpost",
+    "arkvent_char_4106_bryota",
+    "arkvent_char_700_shiane",
+    "arkvent_enemy_10049_pcaptn_2",
+    "arkvent_enemy_10071_ftprg",
+    "arkvent_enemy_10104_mjcbln",
+    "arkvent_enemy_1332_cbterm",
+    "arkvent_enemy_1415_mmkabi_2",
+    "arkvent_enemy_2001_duckmi"
+  ],
+  "_values": [
+    "Activity/[UC]act1arkhub/Arts/StoryMachineAvatars/arkvent_001_terminal",
+    "Activity/[UC]act1arkhub/Arts/StoryMachineAvatars/arkvent_002_portal",
+    "Activity/[UC]act1arkhub/Arts/StoryMachineAvatars/arkvent_003_arkdexTerminal",
+    "Activity/[UC]act1arkhub/Arts/StoryMachineAvatars/arkvent_011_signPost",
+    "Activity/[UC]act1arkhub/Arts/StoryMachineAvatars/arkvent_char_4106_bryota",
+    "Activity/[UC]act1arkhub/Arts/StoryMachineAvatars/arkvent_char_700_shiane",
+    "Activity/[UC]act1arkhub/Arts/StoryMachineAvatars/arkvent_enemy_10049_pcaptn_2",
+    "Activity/[UC]act1arkhub/Arts/StoryMachineAvatars/arkvent_enemy_10071_ftprg",
+    "Activity/[UC]act1arkhub/Arts/StoryMachineAvatars/arkvent_enemy_10104_mjcbln",
+    "Activity/[UC]act1arkhub/Arts/StoryMachineAvatars/arkvent_enemy_1332_cbterm",
+    "Activity/[UC]act1arkhub/Arts/StoryMachineAvatars/arkvent_enemy_1415_mmkabi_2",
+    "Activity/[UC]act1arkhub/Arts/StoryMachineAvatars/arkvent_enemy_2001_duckmi"
+  ]
+}

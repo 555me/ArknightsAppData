@@ -8,16 +8,14 @@
     "m_FileID": 1,
     "m_PathID": 3179385792513260868
   },
-  "m_Name": "pixel_map_draw",
+  "m_Name": "ark_hub_arkdex_creature",
   "_guidebookType": 0,
   "_pageIds": [
-    "[PACK]PixelMap/pixel_map_draw_1",
-    "[PACK]PixelMap/pixel_map_draw_2",
-    "[PACK]PixelMap/pixel_map_draw_3",
-    "[PACK]PixelMap/pixel_map_draw_4"
+    "[PACK]Arkhub/arkhub_arkdex_creature_1",
+    "[PACK]Arkhub/arkhub_arkdex_creature_2"
   ],
   "_textKeys": [],
   "_prefabFolderName": "",
-  "_autoShowTarget": 54,
-  "_subsignal": "pixel_map_draw"
+  "_autoShowTarget": 55,
+  "_subsignal": "arkdex_creature"
 }

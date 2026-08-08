@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "ark_hub_pixel_map",
+  "_guidebookType": 1,
+  "_pageIds": [],
+  "_textKeys": [
+    "ARKHUB_PIXEL_LEGAL_GUIDE_TEXT"
+  ],
+  "_prefabFolderName": "ArkhubPixelMap",
+  "_autoShowTarget": 55,
+  "_subsignal": "ark_hub_pixel_map"
+}
