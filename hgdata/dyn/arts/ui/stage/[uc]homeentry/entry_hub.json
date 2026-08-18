@@ -31,6 +31,7 @@
   "_keys": [
     "act1arkhub",
     "act43sre",
+    "act44sre",
     "act53side",
     "main_0",
     "main_1",
@@ -55,6 +56,7 @@
   "_values": [
     "Arts/UI/Stage/[UC]HomeEntry/act1arkhub",
     "Arts/UI/Stage/[UC]HomeEntry/act43sre",
+    "Arts/UI/Stage/[UC]HomeEntry/act44sre",
     "Arts/UI/Stage/[UC]HomeEntry/act53side",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
