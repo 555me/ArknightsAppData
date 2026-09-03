@@ -31,19 +31,31 @@
   "_keys": [
     "avatar_special_amiya",
     "avatar_special_amiya_2025",
+    "avatar_special_amiya_school",
     "icon_rhodes_island",
     "mail_avatar_penguin_logistics",
+    "mail_char_4036_forcer",
+    "mail_char_498_inside",
     "mail_choearth_amiya",
     "mail_closure",
+    "mail_npc_2378",
+    "mail_npc_2379",
+    "mail_npc_356",
     "mail_siren_record"
   ],
   "_values": [
     "Arts/UI/[UC]MailSender/avatar_special_amiya",
     "Arts/UI/[UC]MailSender/avatar_special_amiya_2025",
+    "Arts/UI/[UC]MailSender/avatar_special_amiya_school",
     "Arts/UI/[UC]MailSender/icon_rhodes_island",
     "Arts/UI/[UC]MailSender/mail_avatar_penguin_logistics",
+    "Arts/UI/[UC]MailSender/mail_char_4036_forcer",
+    "Arts/UI/[UC]MailSender/mail_char_498_inside",
     "Arts/UI/[UC]MailSender/mail_choearth_amiya",
     "Arts/UI/[UC]MailSender/mail_closure",
+    "Arts/UI/[UC]MailSender/mail_npc_2378",
+    "Arts/UI/[UC]MailSender/mail_npc_2379",
+    "Arts/UI/[UC]MailSender/mail_npc_356",
     "Arts/UI/[UC]MailSender/mail_siren_record"
   ]
 }

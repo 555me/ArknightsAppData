@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 741099624361746541
+  },
+  "m_Name": "act1dp",
+  "_commands": [
+    {
+      "key": "vase_select_character",
+      "operaNodes": {
+        "SerializedState": "[{\"_envKey\":\"env_042_act1vase\",\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.TriggerEnvSystemOpera\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 3.0
+    },
+    {
+      "key": "vase_select_character_no_pause",
+      "operaNodes": {
+        "SerializedState": "[{\"_envKey\":\"env_042_act1vase\",\"_preDelay\":0.0,\"$type\":\"Torappu.Battle.Opera.TriggerEnvSystemOpera\"}]",
+        "SerializedObjectReferences": []
+      },
+      "duration": 3.0
+    }
+  ]
+}

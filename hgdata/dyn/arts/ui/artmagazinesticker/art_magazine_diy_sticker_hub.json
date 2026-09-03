@@ -53,7 +53,8 @@
     "sticker_sand_1_4",
     "sticker_sand_1_5",
     "sticker_sand_2_1",
-    "sticker_sand_2_2"
+    "sticker_sand_2_2",
+    "sticker_school_1"
   ],
   "_values": [
     "Arts/UI/ArtMagazineSticker/sticker_act5unique_1",
@@ -80,6 +81,7 @@
     "Arts/UI/ArtMagazineSticker/sticker_sand_1_4",
     "Arts/UI/ArtMagazineSticker/sticker_sand_1_5",
     "Arts/UI/ArtMagazineSticker/sticker_sand_2_1",
-    "Arts/UI/ArtMagazineSticker/sticker_sand_2_2"
+    "Arts/UI/ArtMagazineSticker/sticker_sand_2_2",
+    "Arts/UI/ArtMagazineSticker/sticker_school_1"
   ]
 }

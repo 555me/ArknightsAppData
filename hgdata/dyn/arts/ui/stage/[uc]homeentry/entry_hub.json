@@ -30,9 +30,8 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act1arkhub",
-    "act43sre",
     "act44sre",
-    "act53side",
+    "act54side",
     "main_0",
     "main_1",
     "main_10",
@@ -55,9 +54,8 @@
   ],
   "_values": [
     "Arts/UI/Stage/[UC]HomeEntry/act1arkhub",
-    "Arts/UI/Stage/[UC]HomeEntry/act43sre",
     "Arts/UI/Stage/[UC]HomeEntry/act44sre",
-    "Arts/UI/Stage/[UC]HomeEntry/act53side",
+    "Arts/UI/Stage/[UC]HomeEntry/act54side",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_10",

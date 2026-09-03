@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "chat_emoji_hub",
+  "_rootPackingTag": "ACTMULTV3_EMOTICON_ORIGIN",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 140,
+    "height": 140
+  },
+  "_extraPicSize": [
+    {
+      "width": 120,
+      "height": 120
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "pic_battle",
+    "pic_glamour",
+    "pic_left",
+    "pic_peek",
+    "pic_pet_cat",
+    "pic_right"
+  ],
+  "_values": [
+    "UI/Emoticon/Theme/[UC]emoticon_arkhub_basic/icon/pic_battle",
+    "UI/Emoticon/Theme/[UC]emoticon_arkhub_basic/icon/pic_glamour",
+    "UI/Emoticon/Theme/[UC]emoticon_arkhub_basic/icon/pic_left",
+    "UI/Emoticon/Theme/[UC]emoticon_arkhub_basic/icon/pic_peek",
+    "UI/Emoticon/Theme/[UC]emoticon_arkhub_basic/icon/pic_pet_cat",
+    "UI/Emoticon/Theme/[UC]emoticon_arkhub_basic/icon/pic_right"
+  ]
+}
