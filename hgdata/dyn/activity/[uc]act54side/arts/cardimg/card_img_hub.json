@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "card_img_hub",
+  "_rootPackingTag": "UI_ACT54SIDE_CARD_IMG_HUB",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 340,
+    "height": 516
+  },
+  "_extraPicSize": [
+    {
+      "width": 291,
+      "height": 181
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "tarot_1",
+    "tarot_1_num",
+    "tarot_2",
+    "tarot_2_num",
+    "tarot_3",
+    "tarot_3_num",
+    "tarot_4",
+    "tarot_4_num",
+    "tarot_5",
+    "tarot_5_num",
+    "tarot_6",
+    "tarot_6_num",
+    "tarot_7",
+    "tarot_7_num",
+    "tarot_8",
+    "tarot_8_num"
+  ],
+  "_values": [
+    "Activity/[UC]act54side/Arts/CardImg/tarot_1",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_1_num",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_2",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_2_num",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_3",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_3_num",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_4",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_4_num",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_5",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_5_num",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_6",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_6_num",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_7",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_7_num",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_8",
+    "Activity/[UC]act54side/Arts/CardImg/tarot_8_num"
+  ]
+}
