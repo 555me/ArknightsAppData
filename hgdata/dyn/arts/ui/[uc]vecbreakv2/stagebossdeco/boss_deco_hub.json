@@ -36,6 +36,8 @@
   "_keys": [
     "deco_eltrsm",
     "deco_eltrsm_tiny",
+    "deco_etouch",
+    "deco_etouch_tiny",
     "deco_mcnist",
     "deco_mcnist_tiny",
     "deco_misery",
@@ -44,6 +46,8 @@
   "_values": [
     "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_eltrsm",
     "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_eltrsm_tiny",
+    "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_etouch",
+    "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_etouch_tiny",
     "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_mcnist",
     "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_mcnist_tiny",
     "Arts/UI/[UC]VecBreakV2/StageBossDeco/deco_misery",
