@@ -1,0 +1,114 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "badge_book_icon_hub",
+  "_rootPackingTag": "UI_ACTARCADEV2_BADGEBOOK_ICON_SPRITES",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 310,
+    "height": 310
+  },
+  "_extraPicSize": [
+    {
+      "width": 80,
+      "height": 73
+    },
+    {
+      "width": 20,
+      "height": 20
+    },
+    {
+      "width": 152,
+      "height": 84
+    },
+    {
+      "width": 167,
+      "height": 84
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "badge_comn_1_0",
+    "badge_comn_1_1",
+    "badge_comn_2_0",
+    "badge_comn_2_1",
+    "badge_comn_3_0",
+    "badge_comn_3_1",
+    "badge_draw_0",
+    "badge_draw_1",
+    "badge_line_0",
+    "badge_line_1",
+    "badge_miner_0",
+    "badge_miner_1",
+    "share_comn_1_1",
+    "share_comn_2_1",
+    "share_comn_3_1",
+    "share_draw_1",
+    "share_line_1",
+    "share_miner_1",
+    "tier_0",
+    "tier_1",
+    "tier_2",
+    "tier_3",
+    "tier_title_0",
+    "tier_title_1",
+    "tier_title_2",
+    "tier_title_3",
+    "tier_title_preserved",
+    "tier_unlock_0",
+    "tier_unlock_1",
+    "tier_unlock_2",
+    "tier_unlock_3"
+  ],
+  "_values": [
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/badge_comn_1_0",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/badge_comn_1_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/badge_comn_2_0",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/badge_comn_2_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/badge_comn_3_0",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/badge_comn_3_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/badge_draw_0",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/badge_draw_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/badge_line_0",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/badge_line_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/badge_miner_0",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/badge_miner_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/share_comn_1_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/share_comn_2_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/share_comn_3_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/share_draw_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/share_line_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/share_miner_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/tier_0",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/tier_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/tier_2",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/tier_3",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/tier_title_0",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/tier_title_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/tier_title_2",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/tier_title_3",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/tier_title_preserved",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/tier_unlock_0",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/tier_unlock_1",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/tier_unlock_2",
+    "Activity/[UC]ActArcadeV2/Arts/BadgeBookIcons/tier_unlock_3"
+  ]
+}

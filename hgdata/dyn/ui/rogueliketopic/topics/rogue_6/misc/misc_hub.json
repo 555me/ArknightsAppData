@@ -86,6 +86,7 @@
     "zone_4",
     "zone_5",
     "zone_6",
+    "zone_7",
     "zone_portal"
   ],
   "_values": [
@@ -125,6 +126,7 @@
     "UI/RoguelikeTopic/Topics/rogue_6/Misc/zone_4",
     "UI/RoguelikeTopic/Topics/rogue_6/Misc/zone_5",
     "UI/RoguelikeTopic/Topics/rogue_6/Misc/zone_6",
+    "UI/RoguelikeTopic/Topics/rogue_6/Misc/zone_7",
     "UI/RoguelikeTopic/Topics/rogue_6/Misc/zone_portal"
   ]
 }

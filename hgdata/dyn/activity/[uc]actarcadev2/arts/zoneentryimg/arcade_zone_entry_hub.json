@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "arcade_zone_entry_hub",
+  "_rootPackingTag": "UI_ACTARCADEV2_ZONE_ENTRY",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 205,
+    "height": 128
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "draw",
+    "draw_locked",
+    "line",
+    "line_locked",
+    "miner",
+    "miner_locked"
+  ],
+  "_values": [
+    "Activity/[UC]ActArcadeV2/Arts/ZoneEntryImg/draw",
+    "Activity/[UC]ActArcadeV2/Arts/ZoneEntryImg/draw_locked",
+    "Activity/[UC]ActArcadeV2/Arts/ZoneEntryImg/line",
+    "Activity/[UC]ActArcadeV2/Arts/ZoneEntryImg/line_locked",
+    "Activity/[UC]ActArcadeV2/Arts/ZoneEntryImg/miner",
+    "Activity/[UC]ActArcadeV2/Arts/ZoneEntryImg/miner_locked"
+  ]
+}

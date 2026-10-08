@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "home_zone_entry_hub",
+  "_rootPackingTag": "ARCADE_V2_HOME_ZONE_ENTRY",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 308,
+    "height": 145
+  },
+  "_extraPicSize": [
+    {
+      "width": 356,
+      "height": 78
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "draw",
+    "draw_locked",
+    "draw_score_bg",
+    "line",
+    "line_locked",
+    "line_score_bg",
+    "miner",
+    "miner_locked",
+    "miner_score_bg"
+  ],
+  "_values": [
+    "Activity/[UC]ActArcadeV2/Arts/HomeZoneEntryImg/draw",
+    "Activity/[UC]ActArcadeV2/Arts/HomeZoneEntryImg/draw_locked",
+    "Activity/[UC]ActArcadeV2/Arts/HomeZoneEntryImg/draw_score_bg",
+    "Activity/[UC]ActArcadeV2/Arts/HomeZoneEntryImg/line",
+    "Activity/[UC]ActArcadeV2/Arts/HomeZoneEntryImg/line_locked",
+    "Activity/[UC]ActArcadeV2/Arts/HomeZoneEntryImg/line_score_bg",
+    "Activity/[UC]ActArcadeV2/Arts/HomeZoneEntryImg/miner",
+    "Activity/[UC]ActArcadeV2/Arts/HomeZoneEntryImg/miner_locked",
+    "Activity/[UC]ActArcadeV2/Arts/HomeZoneEntryImg/miner_score_bg"
+  ]
+}

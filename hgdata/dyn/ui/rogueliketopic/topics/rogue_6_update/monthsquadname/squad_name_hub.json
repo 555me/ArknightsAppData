@@ -32,12 +32,14 @@
     "month_team_1",
     "month_team_2",
     "month_team_3",
-    "month_team_4"
+    "month_team_4",
+    "month_team_5"
   ],
   "_values": [
     "UI/RoguelikeTopic/Topics/rogue_6_update/MonthSquadName/month_team_1",
     "UI/RoguelikeTopic/Topics/rogue_6_update/MonthSquadName/month_team_2",
     "UI/RoguelikeTopic/Topics/rogue_6_update/MonthSquadName/month_team_3",
-    "UI/RoguelikeTopic/Topics/rogue_6_update/MonthSquadName/month_team_4"
+    "UI/RoguelikeTopic/Topics/rogue_6_update/MonthSquadName/month_team_4",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/MonthSquadName/month_team_5"
   ]
 }
