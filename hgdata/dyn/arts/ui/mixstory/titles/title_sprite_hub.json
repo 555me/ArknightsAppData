@@ -113,6 +113,7 @@
     "title_when_elegies_are_ashes",
     "title_where_vernal_winds_will_never_blow",
     "title_who_is_real",
+    "title_yet_another_wave",
     "title_zwillingsturme_im_herbst"
   ],
   "_values": [
@@ -200,6 +201,7 @@
     "Arts/UI/MixStory/Titles/title_when_elegies_are_ashes",
     "Arts/UI/MixStory/Titles/title_where_vernal_winds_will_never_blow",
     "Arts/UI/MixStory/Titles/title_who_is_real",
+    "Arts/UI/MixStory/Titles/title_yet_another_wave",
     "Arts/UI/MixStory/Titles/title_zwillingsturme_im_herbst"
   ]
 }

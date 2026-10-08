@@ -29,11 +29,8 @@
   "_atlasOutputPath": "",
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
-    "act1arkhub",
-    "act1dp",
     "act3break",
-    "act44sre",
-    "act54side",
+    "act52side",
     "main_0",
     "main_1",
     "main_10",
@@ -55,11 +52,8 @@
     "rogue_6"
   ],
   "_values": [
-    "Arts/UI/Stage/[UC]HomeEntry/act1arkhub",
-    "Arts/UI/Stage/[UC]HomeEntry/act1dp",
     "Arts/UI/Stage/[UC]HomeEntry/act3break",
-    "Arts/UI/Stage/[UC]HomeEntry/act44sre",
-    "Arts/UI/Stage/[UC]HomeEntry/act54side",
+    "Arts/UI/Stage/[UC]HomeEntry/act52side",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_10",
