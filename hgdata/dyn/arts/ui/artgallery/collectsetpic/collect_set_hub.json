@@ -34,6 +34,7 @@
     "collect_rogue3",
     "collect_rogue4",
     "collect_rogue5",
+    "collect_rogue6",
     "collect_sandbox1",
     "collect_sandbox2"
   ],
@@ -43,6 +44,7 @@
     "Arts/UI/ArtGallery/CollectSetPic/collect_rogue3",
     "Arts/UI/ArtGallery/CollectSetPic/collect_rogue4",
     "Arts/UI/ArtGallery/CollectSetPic/collect_rogue5",
+    "Arts/UI/ArtGallery/CollectSetPic/collect_rogue6",
     "Arts/UI/ArtGallery/CollectSetPic/collect_sandbox1",
     "Arts/UI/ArtGallery/CollectSetPic/collect_sandbox2"
   ]

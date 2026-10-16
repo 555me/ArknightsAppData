@@ -30,6 +30,7 @@
   "_configName": "",
   "_keys": [
     "shop2",
+    "shop_blaze2_nlc#1",
     "shop_clmsroom_2026",
     "shop_condition_1",
     "shop_condition_2",
@@ -49,6 +50,7 @@
     "shop_once_207",
     "shop_once_247_r1",
     "shop_once_248_r1",
+    "shop_once_250_r1",
     "shop_once_252",
     "shop_once_438",
     "shop_once_491",
@@ -63,13 +65,17 @@
     "shop_once_500",
     "shop_once_501",
     "shop_once_502",
+    "shop_once_503",
     "shop_phatm2_sightseer#4",
     "shop_r6_2024",
     "shop_reckpr_yun#12",
+    "shop_shu_nlc#1",
+    "shop_swire2_nlc#1",
     "shop_teahouse_2023"
   ],
   "_values": [
     "Arts/UI/HomeBanners/Shop/shop2",
+    "Arts/UI/HomeBanners/Shop/shop_blaze2_nlc#1",
     "Arts/UI/HomeBanners/Shop/shop_clmsRoom_2026",
     "Arts/UI/HomeBanners/Shop/shop_Condition_1",
     "Arts/UI/HomeBanners/Shop/shop_Condition_2",
@@ -89,6 +95,7 @@
     "Arts/UI/HomeBanners/Shop/shop_Once_207",
     "Arts/UI/HomeBanners/Shop/shop_Once_247_r1",
     "Arts/UI/HomeBanners/Shop/shop_Once_248_r1",
+    "Arts/UI/HomeBanners/Shop/shop_Once_250_r1",
     "Arts/UI/HomeBanners/Shop/shop_Once_252",
     "Arts/UI/HomeBanners/Shop/shop_Once_438",
     "Arts/UI/HomeBanners/Shop/shop_Once_491",
@@ -103,9 +110,12 @@
     "Arts/UI/HomeBanners/Shop/shop_Once_500",
     "Arts/UI/HomeBanners/Shop/shop_Once_501",
     "Arts/UI/HomeBanners/Shop/shop_Once_502",
+    "Arts/UI/HomeBanners/Shop/shop_Once_503",
     "Arts/UI/HomeBanners/Shop/shop_phatm2_sightseer#4",
     "Arts/UI/HomeBanners/Shop/shop_R6_2024",
     "Arts/UI/HomeBanners/Shop/shop_reckpr_yun#12",
+    "Arts/UI/HomeBanners/Shop/shop_shu_nlc#1",
+    "Arts/UI/HomeBanners/Shop/shop_swire2_nlc#1",
     "Arts/UI/HomeBanners/Shop/shop_teaHouse_2023"
   ]
 }

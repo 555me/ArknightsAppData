@@ -32,6 +32,7 @@
     "ro6_ending_1",
     "ro6_ending_2",
     "ro6_ending_3",
+    "ro6_ending_4",
     "ro6_ending_fail",
     "ro6_ending_fail_icon",
     "rogue_6_complete_icon_1a",
@@ -45,12 +46,17 @@
     "rogue_6_complete_icon_3a",
     "rogue_6_complete_icon_3b",
     "rogue_6_complete_icon_3c",
-    "rogue_6_complete_icon_3d"
+    "rogue_6_complete_icon_3d",
+    "rogue_6_complete_icon_4a",
+    "rogue_6_complete_icon_4b",
+    "rogue_6_complete_icon_4c",
+    "rogue_6_complete_icon_4d"
   ],
   "_values": [
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/ro6_ending_1",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/ro6_ending_2",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/ro6_ending_3",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/ro6_ending_4",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/ro6_ending_fail",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/ro6_ending_fail_icon",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_1a",
@@ -64,6 +70,10 @@
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_3a",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_3b",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_3c",
-    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_3d"
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_3d",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_4a",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_4b",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_4c",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingStats/rogue_6_complete_icon_4d"
   ]
 }

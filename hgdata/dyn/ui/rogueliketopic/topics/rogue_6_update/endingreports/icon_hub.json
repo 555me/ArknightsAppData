@@ -49,6 +49,7 @@
     "ro6_ending_1",
     "ro6_ending_2",
     "ro6_ending_3",
+    "ro6_ending_4",
     "sacrifice",
     "scrap_shop",
     "story",
@@ -60,6 +61,7 @@
     "zone_4",
     "zone_5",
     "zone_6",
+    "zone_7",
     "zone_portal"
   ],
   "_values": [
@@ -83,6 +85,7 @@
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingReports/ro6_ending_1",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingReports/ro6_ending_2",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingReports/ro6_ending_3",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingReports/ro6_ending_4",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingReports/SACRIFICE",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingReports/SCRAP_SHOP",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingReports/STORY",
@@ -94,6 +97,7 @@
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingReports/zone_4",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingReports/zone_5",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingReports/zone_6",
+    "UI/RoguelikeTopic/Topics/rogue_6_update/EndingReports/zone_7",
     "UI/RoguelikeTopic/Topics/rogue_6_update/EndingReports/zone_portal"
   ]
 }

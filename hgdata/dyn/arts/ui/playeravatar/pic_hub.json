@@ -226,6 +226,9 @@
     "avatar_special_92",
     "avatar_special_93",
     "avatar_special_94",
+    "avatar_special_95",
+    "avatar_special_96",
+    "avatar_special_97",
     "avatar_special_missc"
   ],
   "_values": [
@@ -426,6 +429,9 @@
     "Arts/UI/PlayerAvatar/avatar_special_92",
     "Arts/UI/PlayerAvatar/avatar_special_93",
     "Arts/UI/PlayerAvatar/avatar_special_94",
+    "Arts/UI/PlayerAvatar/avatar_special_95",
+    "Arts/UI/PlayerAvatar/avatar_special_96",
+    "Arts/UI/PlayerAvatar/avatar_special_97",
     "Arts/UI/PlayerAvatar/avatar_special_MissC"
   ]
 }
