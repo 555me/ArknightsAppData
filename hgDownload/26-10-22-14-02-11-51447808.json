@@ -1,0 +1,922 @@
+{
+  "downloadType": 0,
+  "downloadData": {
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/8a782b75e777e72970434663bbc18095.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/8a782b75e777e72970434663bbc18095.dat",
+      "size": 3661060,
+      "fileId": 1,
+      "fileName": "b1bfe20c-2ccd-4015-9b82-30ce88641ca8",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_17c3563832b22db76141a6c8208e06db.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_17c3563832b22db76141a6c8208e06db.dat",
+      "size": 3592750,
+      "fileId": 2535,
+      "fileName": "fc0ff386-e7be-490e-8b7a-eac87d73d291",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_d487f303ab9bbba2c8464e11ec1ddc13.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_d487f303ab9bbba2c8464e11ec1ddc13.dat",
+      "size": 519479,
+      "fileId": 2471,
+      "fileName": "69627ccb-8fb7-4598-b11d-e001c13e7cbe",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_1572abc50dec363252047687d071d698.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_1572abc50dec363252047687d071d698.dat",
+      "size": 392216,
+      "fileId": 15411,
+      "fileName": "659a2e85-47b0-41e1-aeae-8313cf055670",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_530238664d678f872a5a185d72948e63.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_530238664d678f872a5a185d72948e63.dat",
+      "size": 93260,
+      "fileId": 2488,
+      "fileName": "ffdb5e73-ee6d-4f50-bb3f-033a75341120",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_93b8ef08469a58e4f4b7e6d89117ed5b.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_93b8ef08469a58e4f4b7e6d89117ed5b.dat",
+      "size": 3752,
+      "fileId": 2496,
+      "fileName": "795d2652-ce82-4355-9067-17564fae8e7a",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_dynchars_effect.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_dynchars_effect.dat",
+      "size": 16349645,
+      "fileId": 5976,
+      "fileName": "9449bdb0-3ea9-4d8f-a021-b39e8b560f1c",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_d6db06cca2884a9f76b01eb5fe7d6c45.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_d6db06cca2884a9f76b01eb5fe7d6c45.dat",
+      "size": 12730244,
+      "fileId": 5839,
+      "fileName": "0e9052fa-c09f-4f07-a9a0-f4da8a0e1621",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_[uc]campaign.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_[uc]campaign.dat",
+      "size": 12359238,
+      "fileId": 6787,
+      "fileName": "ae6b584c-b2a0-43b6-a2c7-727f86f6d151",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_ambience.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_ambience.dat",
+      "size": 11842375,
+      "fileId": 6797,
+      "fileName": "8dc173ca-511c-406c-8c7e-e6d2b8a6a6bc",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_a3e19e8ed0f7e066159519d6220c37f5.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_a3e19e8ed0f7e066159519d6220c37f5.dat",
+      "size": 9063387,
+      "fileId": 5840,
+      "fileName": "74c8355b-ed49-4c8b-85d0-bcc8943ba31e",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/activity_[uc]actarcadev2.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/activity_[uc]actarcadev2.dat",
+      "size": 8318652,
+      "fileId": 54,
+      "fileName": "3e568815-f273-45b5-b669-76280c51bb4f",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/refs_fx_texture_object.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/refs_fx_texture_object.dat",
+      "size": 7276537,
+      "fileId": 15340,
+      "fileName": "81b694d7-5b89-44e6-95bc-3e758eb92b6c",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_namecard_art_magazine_diy_item_h1_0.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_namecard_art_magazine_diy_item_h1_0.dat",
+      "size": 7140632,
+      "fileId": 6352,
+      "fileName": "723ca65c-aa48-43db-852f-82ff4bb256b3",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_dynchars_char_2025_shu_nlc__1.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_dynchars_char_2025_shu_nlc__1.dat",
+      "size": 7095451,
+      "fileId": 3713,
+      "fileName": "44fe1e6a-f44e-4aaf-a4ca-2e15fe78496a",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/ui_rglktopic_rogue_6_update.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/ui_rglktopic_rogue_6_update.dat",
+      "size": 6971179,
+      "fileId": 14449,
+      "fileName": "f46fee00-55a1-44ac-bdd6-f62ba4b7110a",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/skinpack_char_2025_shu.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/skinpack_char_2025_shu.dat",
+      "size": 5981648,
+      "fileId": 3025,
+      "fileName": "c3159d8a-a1d5-4612-8c9e-925663fccf6a",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_loadingillusts_5.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_loadingillusts_5.dat",
+      "size": 5047670,
+      "fileId": 99,
+      "fileName": "f44a0245-f66f-42ab-b05f-9f264bd8e0cd",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/refs_fx_texture_star.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/refs_fx_texture_star.dat",
+      "size": 4923193,
+      "fileId": 15354,
+      "fileName": "3c1b0e85-31d1-447b-b224-34493c32d184",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/battle_prefabs_effects_map.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/battle_prefabs_effects_map.dat",
+      "size": 3869605,
+      "fileId": 5176,
+      "fileName": "080032af-f6e2-47b0-913b-55d5a78c3f0d",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_dynchars_char_1028_texas2_epoque__36.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_dynchars_char_1028_texas2_epoque__36.dat",
+      "size": 3865465,
+      "fileId": 3676,
+      "fileName": "a5c46f3d-0eea-4e5b-8ebc-07e0de8e1c91",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_f9242e45c327cd4d842764ca2c2ca79d.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_f9242e45c327cd4d842764ca2c2ca79d.dat",
+      "size": 3835724,
+      "fileId": 11940,
+      "fileName": "dd037402-711a-4773-8825-1b6bf870cd32",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_2d9c8aa8cdc3528cd9d7c4dc61e959f3.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_2d9c8aa8cdc3528cd9d7c4dc61e959f3.dat",
+      "size": 3777718,
+      "fileId": 2526,
+      "fileName": "197b87e2-9f80-4fa2-a51e-e0e7a28ce10f",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/refs_arts_enm_art_29.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/refs_arts_enm_art_29.dat",
+      "size": 3621236,
+      "fileId": 15409,
+      "fileName": "820fef6e-2b88-4bd1-9a65-263d52940e40",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_08c806cc5bd9be116bd6edc50ef4f8cb.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_08c806cc5bd9be116bd6edc50ef4f8cb.dat",
+      "size": 3459603,
+      "fileId": 9720,
+      "fileName": "a257b2da-a808-4c30-b274-0127e2671420",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_item_icons_7.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_item_icons_7.dat",
+      "size": 3444599,
+      "fileId": 3810,
+      "fileName": "5cfdb621-e17a-4ff5-a8ec-088b1cc4413f",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/pkgrps_btl_pfb_fx_enemy_19.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/pkgrps_btl_pfb_fx_enemy_19.dat",
+      "size": 3422365,
+      "fileId": 4989,
+      "fileName": "de5fe11a-1f35-42af-ac74-1d690d1af0d0",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_home_background_art_magazine_diy_item_h1_0.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_home_background_art_magazine_diy_item_h1_0.dat",
+      "size": 2948525,
+      "fileId": 6264,
+      "fileName": "c6f4557a-5cb3-49e0-bffd-3c554101f877",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/refs_fx_sharedbattle.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/refs_fx_sharedbattle.dat",
+      "size": 2797066,
+      "fileId": 15359,
+      "fileName": "7a2efdb9-d0ed-4e0d-8984-c46100bc851c",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_obt_campaign_level_camp_r_34_level_camp_r_34.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_obt_campaign_level_camp_r_34_level_camp_r_34.dat",
+      "size": 2655036,
+      "fileId": 10658,
+      "fileName": "a9dd9d3b-d0b9-492b-99c3-a998db696142",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m3_01_level_act1museum_m3_01.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m3_01_level_act1museum_m3_01.dat",
+      "size": 2636918,
+      "fileId": 10033,
+      "fileName": "b96771cc-6e7b-4f15-be41-fb71287e4568",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_music_museum_m_bat_museum.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_music_museum_m_bat_museum.dat",
+      "size": 2631258,
+      "fileId": 7336,
+      "fileName": "57638d90-abf1-46a1-b798-add703cdb626",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m3_03_level_act1museum_m3_03.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m3_03_level_act1museum_m3_03.dat",
+      "size": 2567747,
+      "fileId": 10035,
+      "fileName": "f3f5ad35-9fab-4abb-aee1-b3be7e8b4c07",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_fur_icon_10.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_fur_icon_10.dat",
+      "size": 2515188,
+      "fileId": 6255,
+      "fileName": "e77a7859-4770-4c17-8ec1-a009173ff67a",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_enmy_snd_atk_17.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_enmy_snd_atk_17.dat",
+      "size": 2263556,
+      "fileId": 6835,
+      "fileName": "b6a411a8-4b37-405f-bc56-f33de0137330",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_guidebookpages_[pack]actarcadev2.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_guidebookpages_[pack]actarcadev2.dat",
+      "size": 2209661,
+      "fileId": 3751,
+      "fileName": "88238fec-ff13-4d2e-b5dc-0bb7c31ff7f8",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m3_02_level_act1museum_m3_02.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m3_02_level_act1museum_m3_02.dat",
+      "size": 2190561,
+      "fileId": 10034,
+      "fileName": "53d04a8e-2404-424e-8529-5afca4efdd5b",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/battle_prefabs_effects_shu.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/battle_prefabs_effects_shu.dat",
+      "size": 1990020,
+      "fileId": 5300,
+      "fileName": "6f8868cb-36a4-487a-b2d4-be1bbd2c44c7",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_65c457353187bed9f8ba97ae5a89555f.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_65c457353187bed9f8ba97ae5a89555f.dat",
+      "size": 1871453,
+      "fileId": 2461,
+      "fileName": "61300480-c3de-4dc7-aff8-c37b7fe80802",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_homebackground_wrapper_bg_arcade_1.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_homebackground_wrapper_bg_arcade_1.dat",
+      "size": 1806034,
+      "fileId": 6273,
+      "fileName": "76a505bd-28a1-4d94-95f1-a97818251931",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_69a138b840349b4d2d2ff3bcd5f4d2ca.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_69a138b840349b4d2d2ff3bcd5f4d2ca.dat",
+      "size": 1710244,
+      "fileId": 2509,
+      "fileName": "f0694a91-a794-4598-b2d0-407573780299",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_music_museum_m_bat1_museum.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_music_museum_m_bat1_museum.dat",
+      "size": 1709027,
+      "fileId": 7334,
+      "fileName": "fdc949a9-5cf8-4ebe-aa69-fe2c0ccbfd2d",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_music_museum_m_sys_museum.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_music_museum_m_sys_museum.dat",
+      "size": 1695572,
+      "fileId": 7337,
+      "fileName": "4351028e-ef49-431e-b465-c4ba3cb856b7",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_enmy_snd_imp_8.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_enmy_snd_imp_8.dat",
+      "size": 1613458,
+      "fileId": 6853,
+      "fileName": "419153a4-71cb-4a16-b6dd-747eebac66d2",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m1_03_level_act1museum_m1_03.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m1_03_level_act1museum_m1_03.dat",
+      "size": 1609762,
+      "fileId": 10029,
+      "fileName": "3ee4289c-4f97-4e9e-b327-dfe57bfeafb3",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/config_buff_template_holder.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/config_buff_template_holder.dat",
+      "size": 1591847,
+      "fileId": 37,
+      "fileName": "bd2b7857-c15a-4e8d-a344-3893935606f8",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/ui_[uc]campaign.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/ui_[uc]campaign.dat",
+      "size": 1574930,
+      "fileId": 5956,
+      "fileName": "33ee8350-59ed-477f-aa68-a6356b42467e",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_homebackground_preview_h1_0.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_homebackground_preview_h1_0.dat",
+      "size": 1516553,
+      "fileId": 6268,
+      "fileName": "5c2cc923-db99-44b6-8419-6c9f0e142780",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m1_02_level_act1museum_m1_02.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m1_02_level_act1museum_m1_02.dat",
+      "size": 1516543,
+      "fileId": 10028,
+      "fileName": "9d155ff7-091d-4bec-8473-69705711ed61",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_obt_campaign_level_camp_r_34_level_camp_r_34_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_obt_campaign_level_camp_r_34_level_camp_r_34_lightingdata.dat",
+      "size": 1510894,
+      "fileId": 12867,
+      "fileName": "eef9e2ee-6bba-4277-a2f0-2b1b6923a57d",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_music_act48side_m_bat_act48side.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_music_act48side_m_bat_act48side.dat",
+      "size": 1507058,
+      "fileId": 7152,
+      "fileName": "08feec40-fff3-4e96-965e-f76ae96a47a1",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_custom_se_act1museum.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_custom_se_act1museum.dat",
+      "size": 1484547,
+      "fileId": 6808,
+      "fileName": "6dae6d62-7ebd-4c70-b212-dfcdb7d9753f",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/building_diy_prefabs_furnitures_furni_annihilation.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/building_diy_prefabs_furnitures_furni_annihilation.dat",
+      "size": 1448747,
+      "fileId": 9524,
+      "fileName": "58f37531-7937-4dca-8381-42174c9903e3",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_medal_icons_16.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_medal_icons_16.dat",
+      "size": 1410926,
+      "fileId": 4029,
+      "fileName": "5e6ac84a-d41f-41e0-8f3e-989e11b6f4e8",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/ui_gacha_double_78_0_2.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/ui_gacha_double_78_0_2.dat",
+      "size": 1375494,
+      "fileId": 2608,
+      "fileName": "416bee7e-2209-4fb0-aa4d-eee66eb01ef6",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_2f6db86702b0b1189e91a0c50ed15dfb.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_2f6db86702b0b1189e91a0c50ed15dfb.dat",
+      "size": 1372740,
+      "fileId": 2468,
+      "fileName": "0c2c062d-0bab-44fa-a92c-53d9a3a8a723",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m1_01_level_act1museum_m1_01.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m1_01_level_act1museum_m1_01.dat",
+      "size": 1335955,
+      "fileId": 10027,
+      "fileName": "32383f71-eb33-4c43-b5b3-1b4e73ad2aa9",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_music_museum_m_bat2_museum.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/audio_sound_beta_2_music_museum_m_bat2_museum.dat",
+      "size": 1240270,
+      "fileId": 7335,
+      "fileName": "49d471f7-2674-41b9-8407-ce9d23ad2730",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/pkgrps_btl_pfb_fx_enemy_20.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/pkgrps_btl_pfb_fx_enemy_20.dat",
+      "size": 1128168,
+      "fileId": 5001,
+      "fileName": "bf841f98-e570-4a62-a4cc-ddf12bd446eb",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_c5ceea3bee0e85448557cb044d8d2f51.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_c5ceea3bee0e85448557cb044d8d2f51.dat",
+      "size": 1099085,
+      "fileId": 2516,
+      "fileName": "a38d2240-1397-4919-9abc-9761e2883b89",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m3_03_level_act1museum_m3_03_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m3_03_level_act1museum_m3_03_lightingdata.dat",
+      "size": 1095933,
+      "fileId": 12254,
+      "fileName": "ee41583a-7ba4-4ca0-b65b-d6a86ba53767",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m3_02_level_act1museum_m3_02_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m3_02_level_act1museum_m3_02_lightingdata.dat",
+      "size": 1084500,
+      "fileId": 12253,
+      "fileName": "94d78d5d-00c0-4bc6-bb6a-4066e5c5e9c3",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_icon_enemies_6.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_icon_enemies_6.dat",
+      "size": 1009771,
+      "fileId": 86,
+      "fileName": "292cfe8e-5993-44e3-83ec-e512df7006fe",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/pkgrps_btl_pfb_fx_mapeff_10.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/pkgrps_btl_pfb_fx_mapeff_10.dat",
+      "size": 956044,
+      "fileId": 5169,
+      "fileName": "6220ff1e-e42c-4d08-bf29-b0bdf62be68e",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m4_03_level_act1museum_m4_03_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m4_03_level_act1museum_m4_03_lightingdata.dat",
+      "size": 954726,
+      "fileId": 12257,
+      "fileName": "2f5b59c3-576a-4a83-97d5-ecdbc7b92559",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m3_01_level_act1museum_m3_01_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m3_01_level_act1museum_m3_01_lightingdata.dat",
+      "size": 928177,
+      "fileId": 12252,
+      "fileName": "842d1ba1-1873-42bc-a008-935bd89cd626",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m2_03_level_act1museum_m2_03.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m2_03_level_act1museum_m2_03.dat",
+      "size": 892640,
+      "fileId": 10032,
+      "fileName": "6e0dba5b-0a97-451a-9899-0f1797747904",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m4_02_level_act1museum_m4_02_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m4_02_level_act1museum_m4_02_lightingdata.dat",
+      "size": 876221,
+      "fileId": 12256,
+      "fileName": "a3afa6dc-bead-4f19-9fb6-b24f7cbaf79c",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m4_01_level_act1museum_m4_01_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m4_01_level_act1museum_m4_01_lightingdata.dat",
+      "size": 820899,
+      "fileId": 12255,
+      "fileName": "a7c6725f-3987-4ba2-a949-17fb19928e40",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m2_02_level_act1museum_m2_02.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m2_02_level_act1museum_m2_02.dat",
+      "size": 785133,
+      "fileId": 10031,
+      "fileName": "ef93388a-9ff9-4fb6-a27d-f3225d85291a",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_eb2dfa3927e531cfd35363d8568350b2.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_eb2dfa3927e531cfd35363d8568350b2.dat",
+      "size": 781288,
+      "fileId": 2476,
+      "fileName": "e52f6b15-8bef-4e21-a0bd-3ca9d868bcd3",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/activity_[uc]act1museum.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/activity_[uc]act1museum.dat",
+      "size": 779937,
+      "fileId": 2774,
+      "fileName": "75473459-fe99-483c-b116-57b958bacd99",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_stage_mappreview_h2_act1museum_a_0.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_stage_mappreview_h2_act1museum_a_0.dat",
+      "size": 773564,
+      "fileId": 6492,
+      "fileName": "e436a676-49b7-43fa-927d-9b129213568d",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_40bb715b3e4cc7f684e803c186627e21.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_40bb715b3e4cc7f684e803c186627e21.dat",
+      "size": 771033,
+      "fileId": 5838,
+      "fileName": "36a08bd2-c9d2-40e4-a057-4d6de1ac06a6",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_7ea86eb26747ccc76611cfab7baeae76.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_7ea86eb26747ccc76611cfab7baeae76.dat",
+      "size": 761995,
+      "fileId": 2473,
+      "fileName": "373aeb23-dc91-49b9-b4c0-f0ab61af914c",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m1_01_level_act1museum_m1_01_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m1_01_level_act1museum_m1_01_lightingdata.dat",
+      "size": 739535,
+      "fileId": 12246,
+      "fileName": "e75abdcb-7ade-40b3-a4d2-13abfa823be6",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m1_02_level_act1museum_m1_02_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m1_02_level_act1museum_m1_02_lightingdata.dat",
+      "size": 718529,
+      "fileId": 12247,
+      "fileName": "fbf99019-6b10-40c9-85a3-16bfdbc8c11f",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m4_03_level_act1museum_m4_03.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m4_03_level_act1museum_m4_03.dat",
+      "size": 689240,
+      "fileId": 10038,
+      "fileName": "e1383194-d63d-4233-9d42-53cb861aad91",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m2_01_level_act1museum_m2_01.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m2_01_level_act1museum_m2_01.dat",
+      "size": 686878,
+      "fileId": 10030,
+      "fileName": "f1532446-090d-4358-b2dd-41ecf5b99e44",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m2_01_level_act1museum_m2_01_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m2_01_level_act1museum_m2_01_lightingdata.dat",
+      "size": 648858,
+      "fileId": 12249,
+      "fileName": "835ff52f-b569-4224-bb54-d06ad826a678",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m4_02_level_act1museum_m4_02.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m4_02_level_act1museum_m4_02.dat",
+      "size": 624646,
+      "fileId": 10037,
+      "fileName": "82c77ee8-895f-4b9f-bd3d-db28a0843a58",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m1_03_level_act1museum_m1_03_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m1_03_level_act1museum_m1_03_lightingdata.dat",
+      "size": 616473,
+      "fileId": 12248,
+      "fileName": "2836135d-9f1e-4b0f-b054-d4c70c1d1a0e",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m2_02_level_act1museum_m2_02_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m2_02_level_act1museum_m2_02_lightingdata.dat",
+      "size": 614925,
+      "fileId": 12250,
+      "fileName": "0d4fe5e8-4f20-4ba4-9775-48c95ab08145",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_7186c64a150ea64b3c5f73afcd209974.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_7186c64a150ea64b3c5f73afcd209974.dat",
+      "size": 611657,
+      "fileId": 2513,
+      "fileName": "906099f6-24ca-4071-8a41-2fb26addf308",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/pkgrps_btl_pfb_tokens_6.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/pkgrps_btl_pfb_tokens_6.dat",
+      "size": 605870,
+      "fileId": 5478,
+      "fileName": "b0b6777a-3596-4933-a207-51f8fa46681a",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_background_item_icon_0.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_background_item_icon_0.dat",
+      "size": 592187,
+      "fileId": 6266,
+      "fileName": "9049260b-2ef4-4f4d-96ed-294d49ab5130",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m4_01_level_act1museum_m4_01.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m4_01_level_act1museum_m4_01.dat",
+      "size": 577613,
+      "fileId": 10036,
+      "fileName": "91e93700-5073-473b-8056-c4fc4045f4a0",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/activity_[uc]act64sign.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/activity_[uc]act64sign.dat",
+      "size": 576684,
+      "fileId": 53,
+      "fileName": "62f51742-7d5d-4530-9bde-a43bc1d4aeac",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_stage_[uc]homeentry.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_stage_[uc]homeentry.dat",
+      "size": 562892,
+      "fileId": 6774,
+      "fileName": "1588a117-a3b9-4938-ba58-c697114db5f6",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_char_avatar_18.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_char_avatar_18.dat",
+      "size": 557089,
+      "fileId": 61,
+      "fileName": "9f98f110-4f91-4d86-a7d1-6cd2b82633cb",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/activity_[uc]act1reward.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/activity_[uc]act1reward.dat",
+      "size": 536241,
+      "fileId": 51,
+      "fileName": "ced13af0-5987-46d4-a799-e6f0f9701638",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_item_voucher_back_img_h2_0.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_item_voucher_back_img_h2_0.dat",
+      "size": 525639,
+      "fileId": 3817,
+      "fileName": "e6bcfb6e-6c62-445b-b60c-670304839bb7",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m2_03_level_act1museum_m2_03_lightingdata.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_activities_act1museum_level_act1museum_m2_03_level_act1museum_m2_03_lightingdata.dat",
+      "size": 511042,
+      "fileId": 12251,
+      "fileName": "5aba68fb-c47b-481b-994c-ce2a1643ce59",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_skill_icons_4.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_skill_icons_4.dat",
+      "size": 480580,
+      "fileId": 122,
+      "fileName": "d28a6da0-d523-4ff8-8eae-e3ff70e2e3ac",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_shop_recommendshopgroup_tag_1180.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_shop_recommendshopgroup_tag_1180.dat",
+      "size": 432378,
+      "fileId": 3971,
+      "fileName": "19cf4527-675f-4b2e-85a6-20b5ee616d4a",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_namecardskin_[uc]nc_7d5_1.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_namecardskin_[uc]nc_7d5_1.dat",
+      "size": 429806,
+      "fileId": 6357,
+      "fileName": "ee7eef4f-9f70-47c8-9cbf-ffc3cf50ac35",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_zone_home_theme_act1museum.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/spritepack_ui_zone_home_theme_act1museum.dat",
+      "size": 387353,
+      "fileId": 6422,
+      "fileName": "f674ba33-6174-4af9-a014-e85c400fd043",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_e48da7f5f3a9d57b2852346d36f519a2.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_e48da7f5f3a9d57b2852346d36f519a2.dat",
+      "size": 372483,
+      "fileId": 2489,
+      "fileName": "f3e8c5bd-cdde-4ad1-9df6-172fcf1c9ab6",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_5caa32c9a557e67aec280035b3a61942.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_5caa32c9a557e67aec280035b3a61942.dat",
+      "size": 367615,
+      "fileId": 2499,
+      "fileName": "1f0c97fc-3396-4ff6-bfb8-9d65de6878fc",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_1b99a3f590467b5578376ec448f25d13.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_1b99a3f590467b5578376ec448f25d13.dat",
+      "size": 363502,
+      "fileId": 2514,
+      "fileName": "8bf23d6e-bfcd-40d1-ad47-1cfc0ee08c96",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_a132751663a13b1f39add29dad49684c.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_a132751663a13b1f39add29dad49684c.dat",
+      "size": 299409,
+      "fileId": 2500,
+      "fileName": "32a26381-e0d9-4380-b31e-59ce697ba264",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_7b1d1e71308bfc94411975cbbaad7298.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_7b1d1e71308bfc94411975cbbaad7298.dat",
+      "size": 280378,
+      "fileId": 2498,
+      "fileName": "0f2ae5b1-52d0-4fb4-84d0-b37167861a70",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/battle_enm_pfb_36.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/battle_enm_pfb_36.dat",
+      "size": 215941,
+      "fileId": 5444,
+      "fileName": "eec21d4e-bd78-4dae-826c-d702b88754c7",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/ui_activity_commonrewardonly.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/ui_activity_commonrewardonly.dat",
+      "size": 181389,
+      "fileId": 5856,
+      "fileName": "6990888c-c9f8-4601-a468-2951cb704ca6",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_item_icons_8.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_item_icons_8.dat",
+      "size": 133568,
+      "fileId": 3813,
+      "fileName": "73d9bf0c-c4eb-480f-9614-b7c1e8151d7b",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/battle_prefabs_effects_sora.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/battle_prefabs_effects_sora.dat",
+      "size": 128449,
+      "fileId": 5327,
+      "fileName": "0bf944fe-acd1-4026-b493-d4cb315685c6",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/battle_prefabs_[uc]envsystems.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/battle_prefabs_[uc]envsystems.dat",
+      "size": 116899,
+      "fileId": 5469,
+      "fileName": "33b7c744-8357-4efd-b0b7-03a71fc65a78",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_5fc32109edb1e9c14950cddf5a363d24.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_5fc32109edb1e9c14950cddf5a363d24.dat",
+      "size": 78419,
+      "fileId": 2519,
+      "fileName": "9781437b-a302-4b10-95f2-0cc124e9cb7f",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_stage_mappreview_h2_camp_r_34_0.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_stage_mappreview_h2_camp_r_34_0.dat",
+      "size": 69122,
+      "fileId": 6581,
+      "fileName": "faf9bd2b-27ad-43ad-872e-4f32e1872c34",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_furnitureicons_furni_icon_hub.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_furnitureicons_furni_icon_hub.dat",
+      "size": 57609,
+      "fileId": 4020,
+      "fileName": "93c01257-a411-4373-ad93-652f64f732ac",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_194ee80a80a2ee8559f133563ce25a9b.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_194ee80a80a2ee8559f133563ce25a9b.dat",
+      "size": 51719,
+      "fileId": 2491,
+      "fileName": "c2d0416c-344e-4631-b6e2-6867436c9f0f",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_charavatars_avatar_hub.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_charavatars_avatar_hub.dat",
+      "size": 37471,
+      "fileId": 59,
+      "fileName": "dd215cf2-2a50-4924-974c-6436e2d8fd75",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_81028181ced534ecd1237d29afedafd0.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_81028181ced534ecd1237d29afedafd0.dat",
+      "size": 37356,
+      "fileId": 5834,
+      "fileName": "301c42b3-e07c-4483-b6be-f85c6444c2fd",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/config_common.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/config_common.dat",
+      "size": 34205,
+      "fileId": 36,
+      "fileName": "120a2983-c098-47a4-ae53-6d249d5aff42",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_80db92814afd3be1b4336e5db6e59f25.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_80db92814afd3be1b4336e5db6e59f25.dat",
+      "size": 32168,
+      "fileId": 2525,
+      "fileName": "4841f9fa-67af-4c0e-912b-09ac61dda50c",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_7317ad552cb38d03c38b2a5557c32c21.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_7317ad552cb38d03c38b2a5557c32c21.dat",
+      "size": 22454,
+      "fileId": 2492,
+      "fileName": "c128047f-9bdf-4ec7-8498-138f27cc44e9",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_7a6a96562e5e751a6c6c7626e7316b69.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_7a6a96562e5e751a6c6c7626e7316b69.dat",
+      "size": 22330,
+      "fileId": 2474,
+      "fileName": "b2a83281-463f-46ad-ba02-ba2ba7fe05f5",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_enemies_ahub_enemy_icons.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_enemies_ahub_enemy_icons.dat",
+      "size": 22062,
+      "fileId": 82,
+      "fileName": "79867010-7f96-4877-b573-e571261243c2",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_45cfafe3735def25bb89f85cb6ecc3a7.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_45cfafe3735def25bb89f85cb6ecc3a7.dat",
+      "size": 21541,
+      "fileId": 2515,
+      "fileName": "7f5b853e-c184-49cc-a772-637b958a6473",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_skills_hub_skillicon.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_skills_hub_skillicon.dat",
+      "size": 18846,
+      "fileId": 119,
+      "fileName": "1e7a64d7-1df2-417a-9e1c-ce96193adfca",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_items_icons_icon_hub.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_items_icons_icon_hub.dat",
+      "size": 18713,
+      "fileId": 3811,
+      "fileName": "08328cd5-bc5b-4060-a8fd-f01cdfdac52d",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_medalicon_pic_hub.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_medalicon_pic_hub.dat",
+      "size": 14524,
+      "fileId": 4035,
+      "fileName": "73ea7442-8f7a-4d23-8a2a-ef98e6c665b1",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_lightingsettings_lighting_settings.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/scenes_lightingsettings_lighting_settings.dat",
+      "size": 14179,
+      "fileId": 5843,
+      "fileName": "fedd10f3-4df4-45cb-9c3f-bbf769ed2c70",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_1295244c863b91299932cccceb158fd8.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_1295244c863b91299932cccceb158fd8.dat",
+      "size": 11168,
+      "fileId": 5808,
+      "fileName": "2b9b2f3a-e27f-4b76-bfbb-75b418b74d3d",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_namecardskin_artmagazinediyitem_namecard_art_magazine_diy_item_hub.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_namecardskin_artmagazinediyitem_namecard_art_magazine_diy_item_hub.dat",
+      "size": 3554,
+      "fileId": 6351,
+      "fileName": "84bef512-89d8-499c-9d74-e7a942967c06",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_homebackground_artmagazinediyitem_home_background_art_magazine_diy_item_hub.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_homebackground_artmagazinediyitem_home_background_art_magazine_diy_item_hub.dat",
+      "size": 2966,
+      "fileId": 6265,
+      "fileName": "6fe78f29-916e-4c8e-8533-0c9ac7e4d8c6",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_homebackground_previewitem_home_background_preview_hub.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_homebackground_previewitem_home_background_preview_hub.dat",
+      "size": 2911,
+      "fileId": 6269,
+      "fileName": "e303764a-d93f-42fe-9439-c53a96b73dc3",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_homebackground_itemicon_home_background_icon_hub.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_homebackground_itemicon_home_background_icon_hub.dat",
+      "size": 2593,
+      "fileId": 6267,
+      "fileName": "be0c5c46-5e66-4fc5-b653-2fa83e2e1c53",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_stage_hometheme_theme_hub.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_ui_stage_hometheme_theme_hub.dat",
+      "size": 2530,
+      "fileId": 6455,
+      "fileName": "1b16e072-8a68-4d2e-9f48-8e9dae03d6f2",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_items_voucheritemicons_pic_hub.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/arts_items_voucheritemicons_pic_hub.dat",
+      "size": 2256,
+      "fileId": 3816,
+      "fileName": "01559c2c-6428-4e02-aade-c633b699f053",
+      "path": ""
+    },
+    "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_f4e24a89b546d03d3ca35348cb93736e.dat": {
+      "url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-22-14-02-11-51447808/anon_f4e24a89b546d03d3ca35348cb93736e.dat",
+      "size": 1418,
+      "fileId": 2487,
+      "fileName": "b453dbfe-c60d-4607-bc28-9443278728f4",
+      "path": ""
+    }
+  }
+}

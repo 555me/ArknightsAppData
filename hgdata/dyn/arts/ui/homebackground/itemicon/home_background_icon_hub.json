@@ -29,6 +29,7 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "bg_arcade_1",
     "bg_avemujica_1",
     "bg_dungeon_1",
     "bg_elitelounge_1",
@@ -55,6 +56,7 @@
     "bg_volcano_1"
   ],
   "_values": [
+    "Arts/UI/HomeBackground/ItemIcon/bg_arcade_1",
     "Arts/UI/HomeBackground/ItemIcon/bg_avemujica_1",
     "Arts/UI/HomeBackground/ItemIcon/bg_dungeon_1",
     "Arts/UI/HomeBackground/ItemIcon/bg_elitelounge_1",

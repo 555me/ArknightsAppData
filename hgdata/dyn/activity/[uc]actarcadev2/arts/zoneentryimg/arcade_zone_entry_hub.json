@@ -31,6 +31,8 @@
   "_keys": [
     "draw",
     "draw_locked",
+    "fish",
+    "fish_locked",
     "line",
     "line_locked",
     "miner",
@@ -39,6 +41,8 @@
   "_values": [
     "Activity/[UC]ActArcadeV2/Arts/ZoneEntryImg/draw",
     "Activity/[UC]ActArcadeV2/Arts/ZoneEntryImg/draw_locked",
+    "Activity/[UC]ActArcadeV2/Arts/ZoneEntryImg/fish",
+    "Activity/[UC]ActArcadeV2/Arts/ZoneEntryImg/fish_locked",
     "Activity/[UC]ActArcadeV2/Arts/ZoneEntryImg/line",
     "Activity/[UC]ActArcadeV2/Arts/ZoneEntryImg/line_locked",
     "Activity/[UC]ActArcadeV2/Arts/ZoneEntryImg/miner",

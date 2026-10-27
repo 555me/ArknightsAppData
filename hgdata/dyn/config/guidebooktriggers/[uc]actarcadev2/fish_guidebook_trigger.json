@@ -11,6 +11,8 @@
   "m_Name": "fish_guidebook_trigger",
   "_guidebookType": 0,
   "_pageIds": [
+    "[PACK]ActArcadeV2/fish_1",
+    "[PACK]ActArcadeV2/fish_2",
     "[PACK]ActArcadeV2/common_1",
     "[PACK]ActArcadeV2/common_2",
     "[PACK]ActArcadeV2/common_3"
