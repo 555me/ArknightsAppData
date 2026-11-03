@@ -29,12 +29,6 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
-    "map_13_1",
-    "map_13_2",
-    "map_13_3",
-    "map_13_4",
-    "map_13_5",
-    "map_13_6",
     "map_14_1",
     "map_14_2",
     "map_14_3",
@@ -43,12 +37,6 @@
     "map_14_6"
   ],
   "_values": [
-    "Arts/UI/[UC]Campaign/WorldMapPiece/map_13_1",
-    "Arts/UI/[UC]Campaign/WorldMapPiece/map_13_2",
-    "Arts/UI/[UC]Campaign/WorldMapPiece/map_13_3",
-    "Arts/UI/[UC]Campaign/WorldMapPiece/map_13_4",
-    "Arts/UI/[UC]Campaign/WorldMapPiece/map_13_5",
-    "Arts/UI/[UC]Campaign/WorldMapPiece/map_13_6",
     "Arts/UI/[UC]Campaign/WorldMapPiece/map_14_1",
     "Arts/UI/[UC]Campaign/WorldMapPiece/map_14_2",
     "Arts/UI/[UC]Campaign/WorldMapPiece/map_14_3",

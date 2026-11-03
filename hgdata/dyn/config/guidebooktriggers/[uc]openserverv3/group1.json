@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "group1",
+  "_guidebookType": 0,
+  "_pageIds": [
+    "[PACK]OpenServerV3/open_server_v3_group1_1",
+    "[PACK]OpenServerV3/open_server_v3_group1_2",
+    "[PACK]OpenServerV3/open_server_v3_group1_3"
+  ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
+  "_autoShowTarget": 61,
+  "_subsignal": "group1"
+}

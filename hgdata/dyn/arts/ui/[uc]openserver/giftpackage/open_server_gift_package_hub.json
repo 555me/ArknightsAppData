@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "open_server_gift_package_hub",
+  "_rootPackingTag": "UI_OPEN_SERVER_GIFT_PACKAGE",
+  "_cntPerAtlas": 1,
+  "_standardPicSize": {
+    "width": 990,
+    "height": 517
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 1,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTagAutoAlign",
+  "_keys": [
+    "new_pic_condition_6",
+    "new_pic_npone_nc_7",
+    "new_pic_once_106",
+    "new_pic_once_2",
+    "new_pic_once_206",
+    "new_pic_once_438"
+  ],
+  "_values": [
+    "Arts/UI/[UC]OpenServer/GiftPackage/new_pic_Condition_6",
+    "Arts/UI/[UC]OpenServer/GiftPackage/new_pic_NpOne_nc_7",
+    "Arts/UI/[UC]OpenServer/GiftPackage/new_pic_Once_106",
+    "Arts/UI/[UC]OpenServer/GiftPackage/new_pic_Once_2",
+    "Arts/UI/[UC]OpenServer/GiftPackage/new_pic_Once_206",
+    "Arts/UI/[UC]OpenServer/GiftPackage/new_pic_Once_438"
+  ]
+}

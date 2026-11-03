@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "hub",
+  "_rootPackingTag": "ACT55SIDE_ARK_NEWS_HAND_CARD",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 411,
+    "height": 190
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "report_hand_1",
+    "report_hand_10",
+    "report_hand_2",
+    "report_hand_3",
+    "report_hand_4",
+    "report_hand_5",
+    "report_hand_6",
+    "report_hand_7",
+    "report_hand_8",
+    "report_hand_9"
+  ],
+  "_values": [
+    "UI/[UC]ArkNews/Arts/HandCardBg/report_hand_1",
+    "UI/[UC]ArkNews/Arts/HandCardBg/report_hand_10",
+    "UI/[UC]ArkNews/Arts/HandCardBg/report_hand_2",
+    "UI/[UC]ArkNews/Arts/HandCardBg/report_hand_3",
+    "UI/[UC]ArkNews/Arts/HandCardBg/report_hand_4",
+    "UI/[UC]ArkNews/Arts/HandCardBg/report_hand_5",
+    "UI/[UC]ArkNews/Arts/HandCardBg/report_hand_6",
+    "UI/[UC]ArkNews/Arts/HandCardBg/report_hand_7",
+    "UI/[UC]ArkNews/Arts/HandCardBg/report_hand_8",
+    "UI/[UC]ArkNews/Arts/HandCardBg/report_hand_9"
+  ]
+}

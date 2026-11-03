@@ -30,8 +30,7 @@
   "_configName": "Torappu.UI.Editor.AutoPackConfig.NoTag",
   "_keys": [
     "act1museum",
-    "act3break",
-    "act52side",
+    "act55side",
     "main_0",
     "main_1",
     "main_10",
@@ -54,8 +53,7 @@
   ],
   "_values": [
     "Arts/UI/Stage/[UC]HomeEntry/act1museum",
-    "Arts/UI/Stage/[UC]HomeEntry/act3break",
-    "Arts/UI/Stage/[UC]HomeEntry/act52side",
+    "Arts/UI/Stage/[UC]HomeEntry/act55side",
     "Arts/UI/Stage/[UC]HomeEntry/main_0",
     "Arts/UI/Stage/[UC]HomeEntry/main_1",
     "Arts/UI/Stage/[UC]HomeEntry/main_10",

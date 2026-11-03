@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3179385792513260868
+  },
+  "m_Name": "entry",
+  "_guidebookType": 0,
+  "_pageIds": [
+    "[PACK]ArkNews/arknews_system_1",
+    "[PACK]ArkNews/arknews_system_2",
+    "[PACK]ArkNews/arknews_system_3",
+    "[PACK]ArkNews/arknews_system_4"
+  ],
+  "_textKeys": [],
+  "_prefabFolderName": "",
+  "_autoShowTarget": 62,
+  "_subsignal": "entry"
+}

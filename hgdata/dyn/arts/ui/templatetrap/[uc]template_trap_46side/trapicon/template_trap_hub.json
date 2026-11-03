@@ -42,11 +42,11 @@
     "trap_269_xdmac3_small"
   ],
   "_values": [
-    "Arts/UI/TemplateTrap/[UC]template_trap_46side/trap_267_xdmac1",
-    "Arts/UI/TemplateTrap/[UC]template_trap_46side/trap_267_xdmac1_small",
-    "Arts/UI/TemplateTrap/[UC]template_trap_46side/trap_268_xdmac2",
-    "Arts/UI/TemplateTrap/[UC]template_trap_46side/trap_268_xdmac2_small",
-    "Arts/UI/TemplateTrap/[UC]template_trap_46side/trap_269_xdmac3",
-    "Arts/UI/TemplateTrap/[UC]template_trap_46side/trap_269_xdmac3_small"
+    "Arts/UI/TemplateTrap/[UC]template_trap_46side/TrapIcon/trap_267_xdmac1",
+    "Arts/UI/TemplateTrap/[UC]template_trap_46side/TrapIcon/trap_267_xdmac1_small",
+    "Arts/UI/TemplateTrap/[UC]template_trap_46side/TrapIcon/trap_268_xdmac2",
+    "Arts/UI/TemplateTrap/[UC]template_trap_46side/TrapIcon/trap_268_xdmac2_small",
+    "Arts/UI/TemplateTrap/[UC]template_trap_46side/TrapIcon/trap_269_xdmac3",
+    "Arts/UI/TemplateTrap/[UC]template_trap_46side/TrapIcon/trap_269_xdmac3_small"
   ]
 }
