@@ -29,6 +29,7 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "autochess_icon_boss",
     "dot_icon",
     "element_icon",
     "fly_icon",
@@ -38,6 +39,7 @@
     "times_icon"
   ],
   "_values": [
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/autochess_icon_boss",
     "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/dot_icon",
     "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/element_icon",
     "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/fly_icon",

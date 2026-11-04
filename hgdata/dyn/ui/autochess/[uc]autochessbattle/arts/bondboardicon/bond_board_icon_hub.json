@@ -12,8 +12,8 @@
   "_rootPackingTag": "UI_AUTO_CHESS_BOND_BOARD_ICON",
   "_cntPerAtlas": -1,
   "_standardPicSize": {
-    "width": 77,
-    "height": 77
+    "width": 75,
+    "height": 75
   },
   "_extraPicSize": [],
   "_compressType": 10,
@@ -29,7 +29,6 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
-    "1_0",
     "1_1",
     "2_1",
     "2_2",
@@ -42,7 +41,6 @@
     "4_4"
   ],
   "_values": [
-    "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/1_0",
     "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/1_1",
     "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/2_1",
     "UI/AutoChess/[UC]AutoChessBattle/Arts/BondBoardIcon/2_2",

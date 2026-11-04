@@ -33,13 +33,19 @@
     "trophy_level2_icon",
     "trophy_level3_icon",
     "trophy_level4_icon",
-    "trophy_level5_icon"
+    "trophy_level5_icon",
+    "trophy_level6_icon",
+    "trophy_level7_icon",
+    "trophy_level8_icon"
   ],
   "_values": [
     "UI/AutoChess/[UC]AutoChessOuter/Arts/MedalIcon/trophy_level1_icon",
     "UI/AutoChess/[UC]AutoChessOuter/Arts/MedalIcon/trophy_level2_icon",
     "UI/AutoChess/[UC]AutoChessOuter/Arts/MedalIcon/trophy_level3_icon",
     "UI/AutoChess/[UC]AutoChessOuter/Arts/MedalIcon/trophy_level4_icon",
-    "UI/AutoChess/[UC]AutoChessOuter/Arts/MedalIcon/trophy_level5_icon"
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/MedalIcon/trophy_level5_icon",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/MedalIcon/trophy_level6_icon",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/MedalIcon/trophy_level7_icon",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/MedalIcon/trophy_level8_icon"
   ]
 }

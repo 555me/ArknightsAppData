@@ -29,16 +29,20 @@
   "_atlasOutputPath": "",
   "_configName": "",
   "_keys": [
+    "icon_band_skill",
     "icon_boss_debuff",
     "icon_enemy_debuff",
     "icon_player_buff",
+    "icon_specific_char",
     "icon_stage_buff",
     "icon_team_buff"
   ],
   "_values": [
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BuffIcon/icon_band_skill",
     "UI/AutoChess/[UC]AutoChessBattle/Arts/BuffIcon/icon_boss_debuff",
     "UI/AutoChess/[UC]AutoChessBattle/Arts/BuffIcon/icon_enemy_debuff",
     "UI/AutoChess/[UC]AutoChessBattle/Arts/BuffIcon/icon_player_buff",
+    "UI/AutoChess/[UC]AutoChessBattle/Arts/BuffIcon/icon_specific_char",
     "UI/AutoChess/[UC]AutoChessBattle/Arts/BuffIcon/icon_stage_buff",
     "UI/AutoChess/[UC]AutoChessBattle/Arts/BuffIcon/icon_team_buff"
   ]
