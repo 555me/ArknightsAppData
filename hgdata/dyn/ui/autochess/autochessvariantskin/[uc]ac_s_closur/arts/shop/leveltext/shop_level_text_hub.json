@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "shop_level_text_hub",
+  "_rootPackingTag": "AUTO_CHESS_SHOP_LEVEL_TEXT_CLOSUR",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 43,
+    "height": 41
+  },
+  "_extraPicSize": [
+    {
+      "width": 53,
+      "height": 56
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 0,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "lv_1",
+    "lv_2",
+    "lv_3",
+    "lv_4",
+    "lv_5",
+    "lv_6",
+    "upgrade_lv_1",
+    "upgrade_lv_2",
+    "upgrade_lv_3",
+    "upgrade_lv_4",
+    "upgrade_lv_5",
+    "upgrade_lv_6"
+  ],
+  "_values": [
+    "UI/AutoChess/AutoChessVariantSkin/[UC]ac_s_closur/Arts/Shop/LevelText/lv_1",
+    "UI/AutoChess/AutoChessVariantSkin/[UC]ac_s_closur/Arts/Shop/LevelText/lv_2",
+    "UI/AutoChess/AutoChessVariantSkin/[UC]ac_s_closur/Arts/Shop/LevelText/lv_3",
+    "UI/AutoChess/AutoChessVariantSkin/[UC]ac_s_closur/Arts/Shop/LevelText/lv_4",
+    "UI/AutoChess/AutoChessVariantSkin/[UC]ac_s_closur/Arts/Shop/LevelText/lv_5",
+    "UI/AutoChess/AutoChessVariantSkin/[UC]ac_s_closur/Arts/Shop/LevelText/lv_6",
+    "UI/AutoChess/AutoChessVariantSkin/[UC]ac_s_closur/Arts/Shop/LevelText/upgrade_lv_1",
+    "UI/AutoChess/AutoChessVariantSkin/[UC]ac_s_closur/Arts/Shop/LevelText/upgrade_lv_2",
+    "UI/AutoChess/AutoChessVariantSkin/[UC]ac_s_closur/Arts/Shop/LevelText/upgrade_lv_3",
+    "UI/AutoChess/AutoChessVariantSkin/[UC]ac_s_closur/Arts/Shop/LevelText/upgrade_lv_4",
+    "UI/AutoChess/AutoChessVariantSkin/[UC]ac_s_closur/Arts/Shop/LevelText/upgrade_lv_5",
+    "UI/AutoChess/AutoChessVariantSkin/[UC]ac_s_closur/Arts/Shop/LevelText/upgrade_lv_6"
+  ]
+}

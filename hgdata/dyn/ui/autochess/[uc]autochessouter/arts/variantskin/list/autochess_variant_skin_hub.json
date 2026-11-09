@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "autochess_variant_skin_hub",
+  "_rootPackingTag": "UI_AUTO_CHESS_VARIANT_SKIN",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 26,
+    "height": 25
+  },
+  "_extraPicSize": [
+    {
+      "width": 928,
+      "height": 564
+    },
+    {
+      "width": 284,
+      "height": 115
+    }
+  ],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "skin_pre_closur",
+    "skin_pre_initial",
+    "skin_pre_iron",
+    "thumbnail_ac_n_initial",
+    "thumbnail_ac_n_iron",
+    "thumbnail_ac_s_closur"
+  ],
+  "_values": [
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/List/skin_pre_closur",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/List/skin_pre_initial",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/List/skin_pre_iron",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/List/thumbnail_ac_n_initial",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/List/thumbnail_ac_n_iron",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/List/thumbnail_ac_s_closur"
+  ]
+}

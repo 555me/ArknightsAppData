@@ -30,20 +30,24 @@
   "_configName": "",
   "_keys": [
     "autochess_icon_boss",
+    "critic_icon",
     "dot_icon",
     "element_icon",
     "fly_icon",
     "invisible_icon",
+    "reborn_icon",
     "reflection_icon",
     "special_icon",
     "times_icon"
   ],
   "_values": [
     "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/autochess_icon_boss",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/critic_icon",
     "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/dot_icon",
     "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/element_icon",
     "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/fly_icon",
     "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/invisible_icon",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/reborn_icon",
     "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/reflection_icon",
     "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/special_icon",
     "UI/AutoChess/[UC]AutoChessOuter/Arts/EnemyTypeIcon/times_icon"

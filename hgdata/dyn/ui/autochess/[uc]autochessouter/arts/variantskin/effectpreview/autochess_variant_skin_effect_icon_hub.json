@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8920765731433171967
+  },
+  "m_Name": "autochess_variant_skin_effect_icon_hub",
+  "_rootPackingTag": "UI_AUTO_CHESS_VARIANT_SKIN_EFFECT_ICON",
+  "_cntPerAtlas": -1,
+  "_standardPicSize": {
+    "width": 52,
+    "height": 52
+  },
+  "_extraPicSize": [],
+  "_compressType": 10,
+  "_atlasSize": 1,
+  "_meshType": 0,
+  "_useCntPerAtlas": 0,
+  "_maxFileSize": 1048576,
+  "_maxTextureSize": 0,
+  "_extraTagRegex": "",
+  "_extractTagConfig": {
+    "rules": []
+  },
+  "_atlasOutputPath": "",
+  "_configName": "",
+  "_keys": [
+    "closur_1",
+    "closur_2",
+    "closur_3",
+    "closur_4",
+    "closur_5",
+    "closur_6",
+    "closur_7",
+    "closur_8",
+    "closur_9",
+    "common_1",
+    "common_2",
+    "common_3",
+    "common_4",
+    "common_5",
+    "common_6",
+    "common_7",
+    "common_8",
+    "common_9"
+  ],
+  "_values": [
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/closur_1",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/closur_2",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/closur_3",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/closur_4",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/closur_5",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/closur_6",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/closur_7",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/closur_8",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/closur_9",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/common_1",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/common_2",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/common_3",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/common_4",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/common_5",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/common_6",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/common_7",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/common_8",
+    "UI/AutoChess/[UC]AutoChessOuter/Arts/VariantSkin/EffectPreview/common_9"
+  ]
+}
